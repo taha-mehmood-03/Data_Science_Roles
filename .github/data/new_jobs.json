@@ -1,72 +1,44 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 Change Management Technician (Idaho Fab 1)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 8 days ago",
-    "job_description": "Data Science job for the role ID1 Change Management Technician (Idaho Fab 1) at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30607489",
-    "id": "micron-id1-change-management-technician-idaho-fab-1-boise"
+    "job_title": "Applied Scientist, Translation Services",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Translation Services at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2920497/applied-scientist-translation-services",
+    "job_posted_at": "2025-08-12T22:15:33.043Z",
+    "job_posted_at_datetime_utc": "2025-08-12T22:15:33.043Z",
+    "id": "amazon-applied-scientist-translation-services-seattle"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "HR Intern",
-    "job_city": "San Jose",
-    "job_state": "US",
+    "job_title": "Applied Scientist, Alexa Shopping NLU Science",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Alexa Shopping NLU Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2932265/applied-scientist-alexa-shopping-nlu-science",
+    "job_posted_at": "2025-08-12T22:15:33.043Z",
+    "job_posted_at_datetime_utc": "2025-08-12T22:15:33.043Z",
+    "id": "amazon-applied-scientist-alexa-shopping-nlu-science-seattle"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Data Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role HR Intern at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-hr-intern-san-jose"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860526/%C2%A0Senior-Data-Engineer",
+    "id": "microsoft-senior-data-engineer-redmond"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Information Technology Engineer",
-    "job_city": "Lexington",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Data Engineer II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Information Technology Engineer at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-information-technology-engineer-lexington"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineering Technical Leader",
-    "job_city": "Offsite",
-    "job_state": "San Jose",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Technical Leader at Offsite, San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Technical-Leader/1446864",
-    "id": "cisco-software-engineering-technical-leader-offsite"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Project Management Internship- Rail Traction Components (Summer 2026)",
-    "job_city": "Alpharetta",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Management Internship- Rail Traction Components (Summer 2026) at Alpharetta, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-project-management-internship-rail-traction-components-summer-2026-alpharetta"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer - ML Ops",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role AI Engineer - ML Ops at Charlotte, NC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153601952-ai-engineer-ml-ops",
-    "id": "aijobs-ai-engineer-ml-ops-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer / Sr. AI Engineer",
-    "job_city": "US",
-    "job_state": "San Francisco Bay Area",
-    "job_posted_at": "3h ago",
-    "job_description": "data science job for the role AI Engineer / Sr. AI Engineer at San Francisco Bay Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153601951-ai-engineer-sr-ai-engineer",
-    "id": "aijobs-ai-engineer-sr-ai-engineer-us"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860412/Data-Engineer-II",
+    "id": "microsoft-data-engineer-ii-redmond"
   }
 ]
