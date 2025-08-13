@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "job_title": "Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +5 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1225262605751030",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-bellevue"
+  },
+  {
+    "job_title": "Data Science Manager, Analytics",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +8 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1230546830998535",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-analytics-sunnyvale"
+  },
+  {
+    "job_title": "Data Science Director, Care",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1771488720246891",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-director-care-menlo-park"
+  },
+  {
+    "job_title": "Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/474695495645655",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-multiple"
+  },
+  {
+    "job_title": "Data Science Manager, Monetization",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +6 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1229417152165739",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-monetization-sunnyvale"
+  },
+  {
+    "job_title": "Data Science Manager, Demand Planning and Forecasting",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1099947622003204",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-manager-demand-planning-and-forecasting-bellevue"
+  },
+  {
+    "job_title": "Data Science Director",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/3489873754638185",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-science-director-bellevue"
+  },
+  {
+    "job_title": "Financial Integrity Data Science Manager",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Science",
+    "job_apply_link": "https://www.metacareers.com/jobs/1035682588090621",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-financial-integrity-data-science-manager-multiple"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Marketing Events Finance Leader",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Marketing Events Finance Leader",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1761337/Marketing-Events-Finance-Leader",
+    "id": "microsoft-marketing-events-finance-leader-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Engineer II at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52304&source=WEB_Search_NA",
+    "id": "ibm-sr-engineer-san-francisco"
+  }
+]
