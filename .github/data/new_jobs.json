@@ -1,82 +1,63 @@
 [
   {
+    "job_title": "Delivery Consultant – Data & Analytics, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant – Data & Analytics, AWS Professional Services at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3059297/delivery-consultant-data-analytics-aws-professional-services",
+    "job_posted_at": "2025-08-13T21:16:12.314Z",
+    "job_posted_at_datetime_utc": "2025-08-13T21:16:12.314Z",
+    "id": "amazon-delivery-consultant-data-analytics-aws-professional-services-arlington"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Software Engineer",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Software Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859573/Senior-Software-Engineer",
-    "id": "microsoft-senior-software-engineer-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Technical Program Manager II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834452/Technical-Program-Manager-II",
+    "id": "microsoft-technical-program-manager-ii-redmond"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Data Analyst Apprentice",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Junior Data Analyst Apprentice at Entry LevelRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51717&source=WEB_Search_NA",
-    "id": "ibm-data-analyst-apprentice-research-triangle-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Lead – Mainframe Applications (Natural/ADABAS)",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Lead – Mainframe Applications (Natural/ADABAS) at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52586&source=WEB_Search_NA",
-    "id": "ibm-technical-lead-mainframe-applications-natural-adabas-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Consulting Eminence",
+    "job_title": "Software Engineer II - Backend",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Consulting Eminence at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52286&source=WEB_Search_NA",
-    "id": "ibm-ibm-consulting-eminence-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Service Representative - Ashburn, Virginia",
-    "job_city": "ASHBURN",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Service Representative - Ashburn, Virginia at Entry LevelASHBURN, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51704&source=WEB_Search_NA",
-    "id": "ibm-system-service-representative-ashburn-virginia-ashburn"
+    "job_description": "Data Science job for the role Software Engineer II - Backend at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51976&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-backend-multiple-cities"
   },
   {
     "employer_name": "CISCO",
-    "job_title": "Software Engineer I (Intern) United States",
+    "job_title": "Manager, Data Science - Meraki",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer I (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
-    "id": "cisco-software-engineer-i-intern-united-states-san-jose"
+    "job_description": "Data Science job for the role Senior Manager, Data Science - Meraki - REMOTE at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Manager-Data-Science-Meraki-REMOTE/1448942",
+    "id": "cisco-manager-data-science-meraki-san-jose"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Embedded Engineer-(Linux)",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Embedded Engineer-(Linux) at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Embedded-Engineer-Linux/1444964",
-    "id": "cisco-embedded-engineer-linux-san-jose"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist or AI Engineer",
+    "job_city": "US",
+    "job_state": "CT",
+    "job_posted_at": "11h ago",
+    "job_description": "data science job for the role Data Scientist or AI Engineer at Bristol, CT, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153902289-data-scientist-or-ai-engineer",
+    "id": "aijobs-data-scientist-or-ai-engineer-us"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Solutions Engineer - Artificial Intelligence (AI)",
-    "job_city": "Offsite",
-    "job_state": "New York",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solutions Engineer - Artificial Intelligence (AI) at Offsite, New York, New York, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Artificial-Intelligence-AI/1448300",
-    "id": "cisco-solutions-engineer-artificial-intelligence-ai-offsite"
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineer",
+    "job_city": "US",
+    "job_state": "San Francisco Bay Area",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Applied AI Engineer at San Francisco Bay Area, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153902287-applied-ai-engineer",
+    "id": "aijobs-applied-ai-engineer-us"
   }
 ]
