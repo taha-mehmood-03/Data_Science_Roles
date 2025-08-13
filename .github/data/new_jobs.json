@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Surface Commercial Finance Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Surface Commercial Finance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860747/Surface-Commercial-Finance-Manager",
+    "id": "microsoft-surface-commercial-finance-manager-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer/33099/84984916608",
+    "id": "arm-software-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Applications Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-applications-engineer/33099/77917182368",
+    "id": "arm-applications-engineer-cambridge"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Product Manager - AI",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Product Manager - AI at San Francisco, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Product-Manager-AI/1441626",
+    "id": "cisco-product-manager-ai-san-francisco"
+  }
+]
