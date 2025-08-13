@@ -1,32 +1,43 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Cloud & AI Cost Management",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Cloud & AI Cost Management",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858280/Senior-Finance-Manager---Cloud-%26-AI-Cost-Management",
-    "id": "microsoft-cloud-ai-cost-management-redmond"
+    "job_title": "BIE, External Fulfillment",
+    "employer_name": "Amazon",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Data Science job for the role BIE, External Fulfillment at Nashville, TN, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2865824/bie-external-fulfillment",
+    "job_posted_at": "2025-08-13T18:13:23.465Z",
+    "job_posted_at_datetime_utc": "2025-08-13T18:13:23.465Z",
+    "id": "amazon-bie-external-fulfillment-nashville"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Product Quality Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Product Quality Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28401403",
-    "id": "micron-product-quality-engineer-longmont"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineering Technical Leader - Cisco Silicon One",
-    "job_city": "San Jose",
+    "employer_name": "Arm",
+    "job_title": "Frontend CAD & Methodology Engineer",
+    "job_city": "San Diego",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Technical Leader - Cisco Silicon One at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Technical-Leader-Cisco-Silicon-One/1441662",
-    "id": "cisco-software-engineering-technical-leader-cisco-silicon-one-san-jose"
+    "job_description": "Data Science job for the role Principal Frontend CAD & Methodology Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-frontend-cad-and-methodology-engineer/33099/77558411648",
+    "id": "arm-frontend-cad-methodology-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Methodology Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Design Methodology Engineer at Austin, Texas, San Diego, California, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-design-methodology-engineer/33099/78209319760",
+    "id": "arm-design-methodology-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal System Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-system-architect/33099/81851446448",
+    "id": "arm-system-architect-cambridge"
   }
 ]
