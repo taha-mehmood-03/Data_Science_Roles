@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer, RTL Design",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Microsoft",
+    "job_title": "Windows and Devices Senior Finance Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer, RTL Design at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-rtl-design/33099/61839772208",
-    "id": "arm-engineer-rtl-design-bengaluru"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Windows and Devices Senior Finance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858021/Windows-and-Devices-Senior-Finance-Manager",
+    "id": "microsoft-windows-and-devices-senior-finance-manager-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Experienced Hardware Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Experienced Hardware Engineer at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hardware-engineer/33099/77284796544",
-    "id": "arm-experienced-hardware-engineer-trondheim"
+    "employer_name": "Micron",
+    "job_title": "Manager Realtime Defect Analysis",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Senior Manager Realtime Defect Analysis at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/23931305",
+    "id": "micron-manager-realtime-defect-analysis-boise"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer, RTL & SoC Interconnect Design Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "SIEMENS",
+    "job_title": "Jr. Project Manager in the factory with AI-powered machines",
+    "job_city": "Fort Worth",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer, RTL & SoC Interconnect Design Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-rtl-and-soc-interconnect-design-engineer/33099/83606737296",
-    "id": "arm-engineer-rtl-soc-interconnect-design-engineer-bengaluru"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "React Frontend Engineer- Kubecost",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior React Frontend Engineer- Kubecost at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA",
-    "id": "ibm-react-frontend-engineer-kubecost-multiple-cities"
+    "job_description": "Data Science job for the role Jr. Project Manager in the factory with AI-powered machines at Fort Worth, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-jr-project-manager-in-the-factory-with-ai-powered-machines-fort-worth"
   }
 ]
