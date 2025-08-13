@@ -1,53 +1,82 @@
 [
   {
-    "job_title": "Data Engineer, P2 Science, Data, and Insights",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, P2 Science, Data, and Insights at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3014953/data-engineer-p2-science-data-and-insights",
-    "job_posted_at": "2025-08-13T19:17:21.833Z",
-    "job_posted_at_datetime_utc": "2025-08-13T19:17:21.833Z",
-    "id": "amazon-data-engineer-p2-science-data-and-insights-seattle"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Finance Manager – Engineering R&D",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Senior Software Engineer",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Finance Manager – Engineering R&D",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857975/Senior-Finance-Manager-%E2%80%93-Engineering-R%26D",
-    "id": "microsoft-senior-finance-manager-engineering-r-d-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Software Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859573/Senior-Software-Engineer",
+    "id": "microsoft-senior-software-engineer-multiple-locations"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Customer Experience Program Manager II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Data Analyst Apprentice",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Customer Experience Program Manager II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848282/Customer-Experience-Program-Manager-II",
-    "id": "microsoft-customer-experience-program-manager-ii-redmond"
+    "job_description": "Data Science job for the role Junior Data Analyst Apprentice at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51717&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-apprentice-research-triangle-park"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "ATE Process Engineer – DIFF/IMP",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role ATE Process Engineer – DIFF/IMP at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30703975",
-    "id": "micron-ate-process-engineer-diff-imp-manassas"
+    "employer_name": "IBM",
+    "job_title": "Technical Lead – Mainframe Applications (Natural/ADABAS)",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Lead – Mainframe Applications (Natural/ADABAS) at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52586&source=WEB_Search_NA",
+    "id": "ibm-technical-lead-mainframe-applications-natural-adabas-no-city"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Digital IC Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Principal Digital IC Design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Digital-IC-Design-Engineer_2501309?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-digital-ic-design-engineer-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "IBM Consulting Eminence",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IBM Consulting Eminence at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52286&source=WEB_Search_NA",
+    "id": "ibm-ibm-consulting-eminence-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Representative - Ashburn, Virginia",
+    "job_city": "ASHBURN",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Service Representative - Ashburn, Virginia at Entry LevelASHBURN, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51704&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-ashburn-virginia-ashburn"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer I (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer I (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
+    "id": "cisco-software-engineer-i-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Embedded Engineer-(Linux)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Embedded Engineer-(Linux) at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Embedded-Engineer-Linux/1444964",
+    "id": "cisco-embedded-engineer-linux-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer - Artificial Intelligence (AI)",
+    "job_city": "Offsite",
+    "job_state": "New York",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Engineer - Artificial Intelligence (AI) at Offsite, New York, New York, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Artificial-Intelligence-AI/1448300",
+    "id": "cisco-solutions-engineer-artificial-intelligence-ai-offsite"
   }
 ]
