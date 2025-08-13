@@ -1,44 +1,113 @@
 [
   {
-    "job_title": "Applied Scientist, Translation Services",
+    "job_title": "Applied Scientist II, Workforce Intelligence powered by Scientific Engineering",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Translation Services at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2920497/applied-scientist-translation-services",
-    "job_posted_at": "2025-08-12T22:15:33.043Z",
-    "job_posted_at_datetime_utc": "2025-08-12T22:15:33.043Z",
-    "id": "amazon-applied-scientist-translation-services-seattle"
-  },
-  {
-    "job_title": "Applied Scientist, Alexa Shopping NLU Science",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Alexa Shopping NLU Science at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2932265/applied-scientist-alexa-shopping-nlu-science",
-    "job_posted_at": "2025-08-12T22:15:33.043Z",
-    "job_posted_at_datetime_utc": "2025-08-12T22:15:33.043Z",
-    "id": "amazon-applied-scientist-alexa-shopping-nlu-science-seattle"
+    "job_description": "Data Science job for the role Applied Scientist II, Workforce Intelligence powered by Scientific Engineering at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2997071/applied-scientist-ii-workforce-intelligence-powered-by-scientific-engineering",
+    "job_posted_at": "2025-08-12T22:13:15.393Z",
+    "job_posted_at_datetime_utc": "2025-08-12T22:13:15.393Z",
+    "id": "amazon-applied-scientist-ii-workforce-intelligence-powered-by-scientific-engineering-seattle"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Data Engineer",
+    "job_title": "Principal Data Science Manager",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860526/%C2%A0Senior-Data-Engineer",
-    "id": "microsoft-senior-data-engineer-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Science Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1805089/Principal-Data-Science-Manager",
+    "id": "microsoft-principal-data-science-manager-redmond"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Data Engineer II",
+    "job_title": "Data Analytics",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Analytics",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1809062/Data-Analytics",
+    "id": "microsoft-data-analytics-charlotte"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Data Scientist",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860412/Data-Engineer-II",
-    "id": "microsoft-data-engineer-ii-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1824555/Senior-Data-Scientist",
+    "id": "microsoft-senior-data-scientist-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Data and Applied Scientist",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data and Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1803545/Data-and-Applied-Scientist",
+    "id": "microsoft-data-and-applied-scientist-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Security Analyst",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Security Analyst",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857387/Senior-Security-Analyst",
+    "id": "microsoft-senior-security-analyst-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Performance Analysis Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Performance Analysis Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-performance-analysis-engineer/33099/74720022336",
+    "id": "arm-software-performance-analysis-engineer-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Midstream",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Key Account Manager - Midstream at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/92224285/Key-Account-Manager-Midstream",
+    "id": "abb-key-account-manager-midstream-houston"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Data Analyst",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Staff Product Data Analyst at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153614916-staff-product-data-analyst",
+    "id": "aijobs-product-data-analyst-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Power Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior ASIC Power Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/147269373-senior-asic-power-engineer",
+    "id": "aijobs-asic-power-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Recruiter and Program Manager, Emerging Talent",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Technical Recruiter and Program Manager, Emerging Talent at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628264-technical-recruiter-and-program-manager-emerging-talent",
+    "id": "aijobs-technical-recruiter-and-program-manager-emerging-talent-united-states"
   }
 ]
