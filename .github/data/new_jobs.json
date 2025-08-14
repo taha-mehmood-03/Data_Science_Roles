@@ -1,102 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Specialist - Data and AI",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Specialist - Data and AI at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52599&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-specialist-data-and-ai-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Specialist (SME) - Database",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Specialist (SME) - Database at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51195&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-specialist-sme-database-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant - Automotive",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Consultant - Automotive at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52622&source=WEB_Search_NA",
-    "id": "ibm-consultant-automotive-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Automation Digital Sales Specialist",
+    "employer_name": "Micron",
+    "job_title": "Sr. Manager, Solutions Architecture",
     "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Automation Digital Sales Specialist at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52588&source=WEB_Search_NA",
-    "id": "ibm-automation-digital-sales-specialist-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Account Technical Leader- Federal Systems Integrators",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Account Technical Leader- Federal Systems Integrators at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52858&source=WEB_Search_NA",
-    "id": "ibm-account-technical-leader-federal-systems-integrators-multiple-cities"
+    "job_state": "Texas",
+    "job_posted_at": "Posted 14 days ago",
+    "job_description": "Data Science job for the role Sr. Manager, Solutions Architecture at Austin, Texas, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30541054",
+    "id": "micron-sr-manager-solutions-architecture-austin"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning and Artificial Intelligence Engineer",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Machine Learning and Artificial Intelligence Engineer at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153975767-machine-learning-and-artificial-intelligence-engineer",
-    "id": "aijobs-machine-learning-and-artificial-intelligence-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Researcher - AI & ML Training | Healthcare Data & Statistical Analysis",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Applied Researcher - AI & ML Training | Healthcare Data & Statistical Analysis at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/153974923-applied-researcher-ai-ml-training-%7C-healthcare-data-statistical-analysis",
-    "id": "aijobs-applied-researcher-ai-ml-training-healthcare-data-statistical-analysis-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153975768-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health",
-    "id": "aijobs-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Software Engineer",
+    "job_title": "Machine Learning Architect",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Machine Learning Software Engineer at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/149398051-machine-learning-software-engineer",
-    "id": "aijobs-machine-learning-software-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Co-op, UX Research and Design - Crew Resources (Fall, 2025)",
-    "job_city": "US",
-    "job_state": "GA",
-    "job_posted_at": "36min ago",
-    "job_description": "data science job for the role Co-op, UX Research and Design - Crew Resources (Fall, 2025) at Atlanta, GA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153974922-co-op-ux-research-and-design-crew-resources-fall-2025",
-    "id": "aijobs-co-op-ux-research-and-design-crew-resources-fall-2025-us"
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Machine Learning Architect at Menlo Park, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153975769-machine-learning-architect",
+    "id": "aijobs-machine-learning-architect-us"
   }
 ]
