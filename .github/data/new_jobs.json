@@ -1,72 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal TPM Manager",
+    "job_title": "Cloud Infrastructure",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal TPM Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859874/Principal-TPM-Manager",
-    "id": "microsoft-principal-tpm-manager-redmond"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - Industrial Engineer (SIC)",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role Intern - Industrial Engineer (SIC) at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30781344",
-    "id": "micron-intern-industrial-engineer-sic-manassas"
+    "job_description": "Category: Group Finance Manager. Level: All Levels. Posted: Recently. Full Title: Group Finance Manager - Cloud Infrastructure",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859719/Group-Finance-Manager---Cloud-Infrastructure",
+    "id": "microsoft-cloud-infrastructure-redmond"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Technology Sales Specialist - Data & AI",
-    "job_city": "Multiple Cities",
+    "job_title": "Systems Support Apprentice",
+    "job_city": "ROCHESTER",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Specialist - Data & AI at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52655&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-specialist-data-ai-multiple-cities"
+    "job_description": "Data Science job for the role Systems Support Apprentice at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22032&source=WEB_Search_NA",
+    "id": "ibm-systems-support-apprentice-rochester"
   },
   {
     "employer_name": "IBM",
-    "job_title": "AI Software Engineer",
-    "job_city": "Multiple Cities",
+    "job_title": "Sr. Web Engineer",
+    "job_city": "Chicago",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Software Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52338&source=WEB_Search_NA",
-    "id": "ibm-ai-software-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Sr. Web Engineer I at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=38809&source=WEB_Search_NA",
+    "id": "ibm-sr-web-engineer-chicago"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Delivery Consultant - Scale / Fusion / SDS",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Product Marketing Manager- Multicloud Infrastructure",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Delivery Consultant - Scale / Fusion / SDS at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52321&source=WEB_Search_NA",
-    "id": "ibm-delivery-consultant-scale-fusion-sds-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP S/4HANA Order to Cash Managing Consultant",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP S/4HANA Order to Cash Managing Consultant at ProfessionalBATON ROUGE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52325&source=WEB_Search_NA",
-    "id": "ibm-sap-s-4hana-order-to-cash-managing-consultant-baton-rouge"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service Senior Sales Executive",
-    "job_city": "Houston",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building Automation Service Senior Sales Executive at Houston, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-senior-sales-executive-houston"
+    "job_description": "Data Science job for the role Senior Product Marketing Manager- Multicloud Infrastructure at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Product-Marketing-Manager-Multicloud-Infrastructure/1447115",
+    "id": "cisco-product-marketing-manager-multicloud-infrastructure-offsite"
   }
 ]
