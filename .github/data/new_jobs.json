@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DDR Subsystem Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "Small Medium Enterprises and Channel Azure",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal DDR Subsystem Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-ddr-subsystem-architect/33099/76290019520",
-    "id": "arm-ddr-subsystem-architect-cambridge"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Small Medium Enterprises and Channel Azure",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842087/Senior-Finance-Manager---Small-Medium-Enterprises-and-Channel-Azure",
+    "id": "microsoft-small-medium-enterprises-and-channel-azure-multiple-locations"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "FPGA Technician",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior FPGA Technician at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-fpga-technician/33099/83552483056",
-    "id": "arm-fpga-technician-austin"
+    "job_description": "Data Science job for the role Software Engineer at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer/1446847",
+    "id": "cisco-software-engineer-rtp"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Applications Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "CISCO",
+    "job_title": "Integrations Technical Leader",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Applications Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-applications-engineer/33099/83487428960",
-    "id": "arm-software-applications-engineer-cambridge"
+    "job_description": "Data Science job for the role Integrations Technical Leader at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Integrations-Technical-Leader/1442471",
+    "id": "cisco-integrations-technical-leader-offsite"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Technical Marketing Engineer - Optics",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Marketing Engineer - Optics at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Technical-Marketing-Engineer-Optics/1440682",
+    "id": "cisco-technical-marketing-engineer-optics-san-jose"
   }
 ]
