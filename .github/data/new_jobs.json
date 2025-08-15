@@ -1,33 +1,53 @@
 [
   {
-    "job_title": "Data Scientist, Ops Comp Engineering, Analytics 'N Science",
+    "job_title": "Data Engineer I, AWS Sustainability Technology",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Ops Comp Engineering, Analytics 'N Science at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060371/data-scientist-ops-comp-engineering-analytics-n-science",
+    "job_description": "Data Science job for the role Data Engineer I, AWS Sustainability Technology at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060428/data-engineer-i-aws-sustainability-technology",
     "job_posted_at": "2025-08-15T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2025-08-15T00:00:00.000Z",
-    "id": "amazon-data-scientist-ops-comp-engineering-analytics-n-science-seattle"
+    "id": "amazon-data-engineer-i-aws-sustainability-technology-seattle"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "ML / Agents",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "CISCO",
+    "job_title": "1441497 - Data Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Category: Member of Technical Staff. Level: All Levels. Posted: Recently. Full Title: Member of Technical Staff - ML / Agents",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/MIC030398/Member-of-Technical-Staff---ML-%2F-Agents",
-    "id": "microsoft-ml-agents-mountain-view"
+    "job_description": "Data Science job for the role 1441497 - Data Engineer at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1441497-Data-Engineer/1441497",
+    "id": "cisco-1441497-data-engineer-rtp"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service Specialist",
-    "job_city": "Garfield Heights",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Bellevue",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building Automation Service Specialist at Garfield Heights, Ohio, United States of America",
+    "job_description": "Data Science job for the role Senior Electrical Services Specialist at Bellevue, Washington, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-specialist-garfield-heights"
+    "id": "siemens-senior-electrical-services-specialist-bellevue"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Morristown",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Electrical Services Specialist at Morristown, New Jersey, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-electrical-services-specialist-morristown"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Beltsville",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Electrical Services Specialist at Beltsville, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-electrical-services-specialist-beltsville"
   }
 ]
