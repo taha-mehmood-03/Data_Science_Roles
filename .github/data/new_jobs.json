@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Physical Design",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Physical Design at Burlington, VT",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Senior-Engineer--Physical-Design_2502004?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-physical-design-burlington"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Digital IC Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Engineer, Digital IC Design at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Engineer--Digital-IC-Design_2502000?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-digital-ic-design-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Software / Firmware Engineering",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Engineer, Software / Firmware Engineering at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Principal-Engineer--Software---Firmware-Engineering_2502003?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-software-firmware-engineering-westlake-village"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Hardware & Silicon Validation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Hardware & Silicon Validation at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Hardware---Silicon-Validation_2502001?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-hardware-silicon-validation-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "ASIC Design Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role ASIC Design Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/ASIC-Design-Engineer_2501999?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-asic-design-engineer-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Design Verification",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Design Verification at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Design-Verification_2501997?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-design-verification-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer, Analog IC Design",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Engineer, Analog IC Design at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer--Analog-IC-Design_2501998?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-analog-ic-design-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Product Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Product Engineering at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineer--Product-Engineering_2501996?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-product-engineering-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Software / Firmware Engineering Staff Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Software / Firmware Engineering Staff Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Software---Firmware-Engineering-Staff-Engineer_2501995?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-software-firmware-engineering-staff-engineer-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Program Manager at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Program-Manager_2501992?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer, Digital IC Design",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Engineer, Digital IC Design at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Digital-IC-Design_2501994?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-digital-ic-design-westborough"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer, Digital IC Design",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff Engineer, Digital IC Design at Boise, ID",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Staff-Engineer--Digital-IC-Design_2501991?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-digital-ic-design-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Safeguards Research",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Software Engineer, Safeguards Research at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/154375785-software-engineer-safeguards-research",
+    "id": "aijobs-software-engineer-safeguards-research-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth Marketing",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Growth Marketing at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/154380417-growth-marketing",
+    "id": "aijobs-growth-marketing-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth Marketing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Growth Marketing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154380416-growth-marketing",
+    "id": "aijobs-growth-marketing-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Economic Research",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist - Economic Research at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154380419-data-scientist-economic-research",
+    "id": "aijobs-data-scientist-economic-research-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Platform Software Engineer - OpenBMC Platform Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Principal Platform Software Engineer - OpenBMC Platform Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154377409-principal-platform-software-engineer-openbmc-platform-architect",
+    "id": "aijobs-platform-software-engineer-openbmc-platform-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Sourcer, Scaling",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "21min ago",
+    "job_description": "data science job for the role Senior Technical Sourcer, Scaling at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154380405-senior-technical-sourcer-scaling",
+    "id": "aijobs-technical-sourcer-scaling-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer / Scientist, Interpretability",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "21min ago",
+    "job_description": "data science job for the role Research Engineer / Scientist, Interpretability at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154380411-research-engineer-scientist-interpretability",
+    "id": "aijobs-research-engineer-scientist-interpretability-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Networking Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Networking Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154377401-senior-networking-architect",
+    "id": "aijobs-networking-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager – Software Configuration Management",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Engineering Manager – Software Configuration Management at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154377408-senior-engineering-manager-software-configuration-management",
+    "id": "aijobs-engineering-manager-software-configuration-management-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Product Manager, GenAI - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior Technical Product Manager, GenAI - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154377406-senior-technical-product-manager-genai-autonomous-vehicles",
+    "id": "aijobs-technical-product-manager-genai-autonomous-vehicles-santa-clara"
+  }
+]
