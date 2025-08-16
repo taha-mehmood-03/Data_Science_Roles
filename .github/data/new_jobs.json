@@ -1,22 +1,832 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Sr. Data Analytics Engineer",
+    "job_title": "Consulting Account Executive - TOLA",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Data Analytics Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53116&source=WEB_Search_NA",
-    "id": "ibm-sr-data-analytics-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Consulting Account Executive - TOLA at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53217&source=WEB_Search_NA",
+    "id": "ibm-consulting-account-executive-tola-multiple-cities"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Senior Service Sales Executive",
-    "job_city": "Memphis",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building Automation Senior Service Sales Executive at Memphis, Tennessee, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-senior-service-sales-executive-memphis"
+    "employer_name": "ABB",
+    "job_title": "Ferienhelfer/Aushilfe Logistik (m/w/d)",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Ferienhelfer/Aushilfe Logistik (m/w/d) at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/95899429/Ferienhelfer-Aushilfe-Logistik-m-w-d",
+    "id": "abb-ferienhelfer-aushilfe-logistik-m-w-d-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Design Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Design Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96797098/Design-Engineer",
+    "id": "abb-design-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96445555/Sales-Specialist",
+    "id": "abb-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Общ работник",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Общ работник at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94897353/Общ-работник",
+    "id": "abb--not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Hardware Design Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Hardware Design Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94560456/Hardware-Design-Engineer",
+    "id": "abb-hardware-design-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ABB Discovery Emirati Talent Program",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role ABB Discovery Emirati Talent Program at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006711/ABB-Discovery-Emirati-Talent-Program",
+    "id": "abb-abb-discovery-emirati-talent-program-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Control Software Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior Control Software Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002910/Senior-Control-Software-Engineer",
+    "id": "abb-senior-control-software-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93285089/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Consultant",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Technical Consultant at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96499745/Senior-Technical-Consultant",
+    "id": "abb-senior-technical-consultant-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Mechanical Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role R&D Mechanical Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96584884/R-D-Mechanical-Engineer",
+    "id": "abb-r-d-mechanical-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP SAC Planning Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SAP SAC Planning Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97044605/SAP-SAC-Planning-Solution-Architect",
+    "id": "abb-sap-sac-planning-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SCM intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SCM intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97020067/SCM-intern",
+    "id": "abb-scm-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Service Manager Data & Analytics Platforms",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Service Manager Data & Analytics Platforms at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96185319/Senior-Service-Manager-Data-Analytics-Platforms",
+    "id": "abb-senior-service-manager-data-analytics-platforms-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Production Engineering Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96642552/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SnowFlake Model Builder",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SnowFlake Model Builder at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96182141/SnowFlake-Model-Builder",
+    "id": "abb-snowflake-model-builder-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Operation Finance Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Operation Finance Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007413/Operation-Finance-Analyst",
+    "id": "abb-operation-finance-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Functional Architect -FP&A & R2R",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Functional Architect -FP&A & R2R at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95206662/Functional-Architect-FP-A-R2R",
+    "id": "abb-functional-architect-fp-a-r2r-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Software Internship",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Application Software Internship at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96635858/Application-Software-Internship",
+    "id": "abb-application-software-internship-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Functional Architect – Tax & Treasury",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Functional Architect – Tax & Treasury at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95206858/Functional-Architect-Tax-Treasury",
+    "id": "abb-functional-architect-tax-treasury-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist(EU)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist(EU) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002124/Sales-Specialist-EU",
+    "id": "abb-sales-specialist-eu-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist(OEM)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist(OEM) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96680482/Sales-Specialist-OEM",
+    "id": "abb-sales-specialist-oem-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Analytics & Power BI Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Data Analytics & Power BI Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001309/Data-Analytics-Power-BI-Specialist",
+    "id": "abb-data-analytics-power-bi-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Solution Architect (AI / Gen AI)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Solution Architect (AI / Gen AI) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96895687/Solution-Architect-AI-Gen-AI",
+    "id": "abb-solution-architect-ai-gen-ai-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution & Proposal Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution & Proposal Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96880030/Digital-Solution-Proposal-Engineer",
+    "id": "abb-digital-solution-proposal-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Solution Architect SAP BI",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Solution Architect SAP BI at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96229530/Solution-Architect-SAP-BI",
+    "id": "abb-solution-architect-sap-bi-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI/ML Software Engineer - Computer Vision",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role AI/ML Software Engineer - Computer Vision at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002774/AI-ML-Software-Engineer-Computer-Vision",
+    "id": "abb-ai-ml-software-engineer-computer-vision-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN Data Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN Data Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283339/CFIN-Data-Architect",
+    "id": "abb-cfin-data-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IT Operations Support Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IT Operations Support Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004589/IT-Operations-Support-Analyst",
+    "id": "abb-it-operations-support-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in AMR Navigation",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Internship in AMR Navigation at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005407/Internship-in-AMR-Navigation",
+    "id": "abb-internship-in-amr-navigation-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Bachelor / Master Thesis in Computer Science Engineering (80-100%)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Bachelor / Master Thesis in Computer Science Engineering (80-100%) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96284771/Bachelor-Master-Thesis-in-Computer-Science-Engineering-80-100",
+    "id": "abb-bachelor-master-thesis-in-computer-science-engineering-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP SAC Planning Solution Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SAP SAC Planning Solution Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97044668/SAP-SAC-Planning-Solution-Specialist",
+    "id": "abb-sap-sac-planning-solution-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Risk and Compliance Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role IS Risk and Compliance Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95729752/IS-Risk-and-Compliance-Specialist",
+    "id": "abb-is-risk-and-compliance-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Engineer - Sr. Lead Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Principal Engineer - Sr. Lead Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006324/Principal-Engineer-Sr-Lead-Developer",
+    "id": "abb-principal-engineer-sr-lead-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Quality Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94967693/Quality-Specialist",
+    "id": "abb-quality-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in Computer Vision and AI",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Internship in Computer Vision and AI at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005413/Internship-in-Computer-Vision-and-AI",
+    "id": "abb-internship-in-computer-vision-and-ai-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Network SIAM Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role IS Network SIAM Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001870/IS-Network-SIAM-Manager",
+    "id": "abb-is-network-siam-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97005080/Digital-Sales-Specialist",
+    "id": "abb-digital-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2D & Data Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2D & Data Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95282028/CFIN-P2D-Data-Solution-Lead",
+    "id": "abb-cfin-p2d-data-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Configurator Solution Lead/Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Configurator Solution Lead/Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004018/Configurator-Solution-Lead-Architect",
+    "id": "abb-configurator-solution-lead-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96990568/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D FW Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role R&D FW Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96993326/R-D-FW-Engineer",
+    "id": "abb-r-d-fw-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2D Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2D Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283391/CFIN-P2D-Functional-Architect",
+    "id": "abb-cfin-p2d-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Business Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role IS Business Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002567/IS-Business-Analyst",
+    "id": "abb-is-business-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96175379/Intern",
+    "id": "abb-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "firmware intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role firmware intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95301725/firmware-intern",
+    "id": "abb-firmware-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior IS Solution Architect for IS Security",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior IS Solution Architect for IS Security at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93175801/Senior-IS-Solution-Architect-for-IS-Security",
+    "id": "abb-senior-is-solution-architect-for-is-security-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2P & Treasury Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2P & Treasury Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269547/CFIN-P2P-Treasury-Solution-Architect",
+    "id": "abb-cfin-p2p-treasury-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269397/CFIN-O2C-Solution-Architect",
+    "id": "abb-cfin-o2c-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Intern at Raleigh Research Center - Fall",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Robotics Intern at Raleigh Research Center - Fall 2025 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96729857/Robotics-Intern-at-Raleigh-Research-Center-Fall-2025",
+    "id": "abb-robotics-intern-at-raleigh-research-center-fall-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Engineer- Data Interfaces",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Principal Engineer- Data Interfaces at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002200/Principal-Engineer-Data-Interfaces",
+    "id": "abb-principal-engineer-data-interfaces-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS Network Automation SME",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Global IS Network Automation SME at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002093/Global-IS-Network-Automation-SME",
+    "id": "abb-global-is-network-automation-sme-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS Network Automation Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Global IS Network Automation Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002098/Global-IS-Network-Automation-Engineer",
+    "id": "abb-global-is-network-automation-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Technical Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00000285/Technical-Specialist",
+    "id": "abb-technical-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Full Stack Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95938360/Full-Stack-Developer",
+    "id": "abb-full-stack-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior FW Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role R&D Senior FW Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96993554/R-D-Senior-FW-Engineer",
+    "id": "abb-r-d-senior-fw-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Risk and Compliance Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Risk and Compliance Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95898364/Risk-and-Compliance-Manager",
+    "id": "abb-risk-and-compliance-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269708/CFIN-R2R-Solution-Architect",
+    "id": "abb-cfin-r2r-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95843175/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(Senior) Research Scientist (m/f/d) for Software Engineering for Industrial Systems (80 – 100%)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role (Senior) Research Scientist (m/f/d) for Software Engineering for Industrial Systems (80 – 100%) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96123360/-Senior-Research-Scientist-m-f-d-for-Software-Engineering-for-Industrial-Systems-80-100",
+    "id": "abb-senior-research-scientist-m-f-d-for-software-engineering-for-industrial-systems-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Operations Manager Vulnerability Management (Infra VM)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role IS Operations Manager Vulnerability Management (Infra VM) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005222/IS-Operations-Manager-Vulnerability-Management-Infra-VM",
+    "id": "abb-is-operations-manager-vulnerability-management-infra-vm-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality＆Operational Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Quality＆Operational Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00000861/Quality＆Operational-Specialist",
+    "id": "abb-quality-operational-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist-P&P MES",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist-P&P MES at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94372702/Digital-Solution-Engineering-Specialist-P-P-MES",
+    "id": "abb-digital-solution-engineering-specialist-p-p-mes-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Digital Product Manager for Motors and Rotating Equipment, Motion Services division (location: Europe or India)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Global Digital Product Manager for Motors and Rotating Equipment, Motion Services division (location: Europe or India) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001365/Global-Digital-Product-Manager-for-Motors-and-Rotating-Equipment-Motion-Services-division-location-Europe-or-India",
+    "id": "abb-global-digital-product-manager-for-motors-and-rotating-equipment-motion-services-division-location-europe-or-india-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Software Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Software Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003768/Senior-Software-Engineer",
+    "id": "abb-senior-software-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95282970/CFIN-O2C-Functional-Architect",
+    "id": "abb-cfin-o2c-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern-R&D coding & data analytics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Intern-R&D coding & data analytics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006440/Intern-R-D-coding-data-analytics",
+    "id": "abb-intern-r-d-coding-data-analytics-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Duales Studium Wirtschaftsinformatik (m/w/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Duales Studium Wirtschaftsinformatik (m/w/d) 2026 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95904066/Duales-Studium-Wirtschaftsinformatik-m-w-d-2026",
+    "id": "abb-duales-studium-wirtschaftsinformatik-m-w-d-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Solution Architect -SAP Finance, Tax & Audit",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role IS Solution Architect -SAP Finance, Tax & Audit at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/92953410/IS-Solution-Architect-SAP-Finance-Tax-Audit",
+    "id": "abb-is-solution-architect-sap-finance-tax-audit-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS M&A Program Manager - HRIS",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Global IS M&A Program Manager - HRIS at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001698/Global-IS-M-A-Program-Manager-HRIS",
+    "id": "abb-global-is-m-a-program-manager-hris-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "QCS Systems Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role QCS Systems Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer",
+    "id": "abb-qcs-systems-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Service Owner - Network Governance",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role IS Service Owner - Network Governance at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005195/IS-Service-Owner-Network-Governance",
+    "id": "abb-is-service-owner-network-governance-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN Tax Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN Tax Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266516/CFIN-Tax-Solution-Lead",
+    "id": "abb-cfin-tax-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2P & TREASURY Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2P & TREASURY Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283288/CFIN-P2P-TREASURY-Functional-Architect",
+    "id": "abb-cfin-p2p-treasury-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283204/CFIN-R2R-Functional-Architect",
+    "id": "abb-cfin-r2r-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Area Sales Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97008092/Area-Sales-Manager",
+    "id": "abb-area-sales-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Front End/Full Stack Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Front End/Full Stack Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93773061/Front-End-Full-Stack-Developer",
+    "id": "abb-front-end-full-stack-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Salesforce Business Analyst Service",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Salesforce Business Analyst Service at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96629454/Salesforce-Business-Analyst-Service",
+    "id": "abb-salesforce-business-analyst-service-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Solution lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Solution lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266346/CFIN-O2C-Solution-lead",
+    "id": "abb-cfin-o2c-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Department Manager, PMO, North America Countries",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IS Department Manager, PMO, North America Countries at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005432/IS-Department-Manager-PMO-North-America-Countries",
+    "id": "abb-is-department-manager-pmo-north-america-countries-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266491/CFIN-R2R-Solution-Lead",
+    "id": "abb-cfin-r2r-solution-lead-not-specific"
   }
 ]
