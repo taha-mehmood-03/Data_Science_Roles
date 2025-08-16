@@ -1,33 +1,122 @@
 [
   {
-    "job_title": "Amazon Robotics - Business Intelligence Engineer, Amazon Robotics",
-    "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Amazon Robotics - Business Intelligence Engineer, Amazon Robotics at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060585/amazon-robotics-business-intelligence-engineer-amazon-robotics",
-    "job_posted_at": "2025-08-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-15T00:00:00.000Z",
-    "id": "amazon-amazon-robotics-business-intelligence-engineer-amazon-robotics-north-reading"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Principal Data Scientist",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Solution Area (Microsoft AI Business Solutions)",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842064/Principal-Data-Scientist",
-    "id": "microsoft-principal-data-scientist-redmond"
+    "job_description": "Category: Director Customer Experience. Level: All Levels. Posted: Recently. Full Title: Director Customer Experience - Solution Area (Microsoft AI Business Solutions)",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851179/Director-Customer-Experience---Solution-Area-(Microsoft-AI-Business-Solutions)",
+    "id": "microsoft-solution-area-microsoft-ai-business-solutions-multiple-locations"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Director of Product Operations",
-    "job_city": "Mountain View",
+    "employer_name": "AiJobs",
+    "job_title": "Customer Success Operations Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "52min ago",
+    "job_description": "data science job for the role Senior Customer Success Operations Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892022-senior-customer-success-operations-manager",
+    "id": "aijobs-customer-success-operations-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "RE / RS - Foundation Retrieval Lead",
+    "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Director of Product Operations",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1829805/Director-of-Product-Operations",
-    "id": "microsoft-director-of-product-operations-mountain-view"
+    "job_posted_at": "12min ago",
+    "job_description": "data science job for the role RE / RS - Foundation Retrieval Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154911457-re-rs-foundation-retrieval-lead",
+    "id": "aijobs-re-rs-foundation-retrieval-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892028-senior-software-engineer",
+    "id": "aijobs-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantitative UX Researcher",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "13min ago",
+    "job_description": "data science job for the role Quantitative UX Researcher at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/154911460-quantitative-ux-researcher",
+    "id": "aijobs-quantitative-ux-researcher-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Algorithm Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Deep Learning Algorithm Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892020-senior-deep-learning-algorithm-engineer",
+    "id": "aijobs-deep-learning-algorithm-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Security Test Engineer - Datacenter",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Security Test Engineer - Datacenter at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892030-senior-system-security-test-engineer-datacenter",
+    "id": "aijobs-system-security-test-engineer-datacenter-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - AI Dataset Automation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer - AI Dataset Automation at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892019-senior-software-engineer-ai-dataset-automation",
+    "id": "aijobs-software-engineer-ai-dataset-automation-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Engineer – DGX Cloud Lepton",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Engineer – DGX Cloud Lepton at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892031-senior-system-engineer-dgx-cloud-lepton",
+    "id": "aijobs-system-engineer-dgx-cloud-lepton-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Security Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Security Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892024-software-security-engineer",
+    "id": "aijobs-software-security-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Production Application Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Production Application Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892023-production-application-engineer",
+    "id": "aijobs-production-application-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Secure Development Platform Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Secure Development Platform Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/154892025-secure-development-platform-engineer",
+    "id": "aijobs-secure-development-platform-engineer-santa-clara"
   }
 ]
