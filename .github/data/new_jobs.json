@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Scientist",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Senior Machine Learning Scientist at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/155399576-senior-machine-learning-scientist",
-    "id": "aijobs-machine-learning-scientist-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Energy & Materials Research Intern, Agentic Modeling",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "27min ago",
-    "job_description": "data science job for the role Energy & Materials Research Intern, Agentic Modeling at Los Altos, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155399545-energy-materials-research-intern-agentic-modeling",
-    "id": "aijobs-energy-materials-research-intern-agentic-modeling-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer (Remote)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Machine Learning Engineer (Remote) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/155399579-machine-learning-engineer-remote",
-    "id": "aijobs-machine-learning-engineer-remote-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "UX Research Scientist, Reality Labs",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role UX Research Scientist, Reality Labs at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/155399542-ux-research-scientist-reality-labs",
-    "id": "aijobs-ux-research-scientist-reality-labs-us"
+    "employer_name": "Micron",
+    "job_title": "Server Ecosystem Enablement Manager",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 20 days ago",
+    "job_description": "Data Science job for the role Server Ecosystem Enablement Manager at San Jose, California, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30482257",
+    "id": "micron-server-ecosystem-enablement-manager-san-jose"
   }
 ]
