@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Safety Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "Google",
+    "job_title": "Research Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Safety Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-safety-engineer/33099/80099076608",
-    "id": "arm-safety-engineer-sophia-antipolis"
+    "job_description": "35 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Analyst, Future of Work",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74174938109354694-research-analyst-future-of-work?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-research-analyst-mountain-view"
   },
   {
     "employer_name": "Arm",
-    "job_title": "CPU Technology Engineer – Dependability",
+    "job_title": "Kubernetes Platform Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior CPU Technology Engineer – Dependability at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-technology-engineer-dependability/33099/81788236224",
-    "id": "arm-cpu-technology-engineer-dependability-cambridge"
+    "job_description": "Data Science job for the role Staff Kubernetes Platform Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-kubernetes-platform-engineer/33099/83324527776",
+    "id": "arm-kubernetes-platform-engineer-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Design Constraints Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "SIEMENS",
+    "job_title": "Commercial Project Manager - Factory- Rolling Stock- Sacramento, CA",
+    "job_city": "Sacramento",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Design Constraints Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-design-constraints-engineer/33099/85158417536",
-    "id": "arm-design-constraints-engineer-bengaluru"
+    "job_description": "Data Science job for the role Commercial Project Manager - Factory- Rolling Stock- Sacramento, CA at Sacramento, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-commercial-project-manager-factory-rolling-stock-sacramento-ca-sacramento"
   }
 ]
