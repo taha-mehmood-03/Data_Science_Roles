@@ -1,12 +1,33 @@
 [
   {
+    "job_title": "Risk Manager II, RISC",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Risk Manager II, RISC at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2876678/risk-manager-ii-risc",
+    "job_posted_at": "2025-08-12T16:20:26.015Z",
+    "job_posted_at_datetime_utc": "2025-08-12T16:20:26.015Z",
+    "id": "amazon-risk-manager-ii-risc-arlington"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Senior Engineering Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Integrated Demand Strategist",
+    "job_city": "Chicago",
+    "job_state": "IL",
     "job_posted_at": "Recently",
-    "job_description": "12 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Engineering Analyst, Search, Anti-scraper",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138853986638668486-senior-engineering-analyst-search-antiscraper?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-engineering-analyst-mountain-view"
+    "job_description": "34 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Integrated Demand Strategist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81452158897005254-integrated-demand-strategist?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-integrated-demand-strategist-chicago"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer Neo-Clouds & Strategic AI Accounts",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Solutions Engineer Neo-Clouds & Strategic AI Accounts at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Solutions-Engineer-Neo-Clouds-Strategic-AI-Accounts/1448738",
+    "id": "cisco-solutions-engineer-neo-clouds-strategic-ai-accounts-offsite"
   }
 ]
