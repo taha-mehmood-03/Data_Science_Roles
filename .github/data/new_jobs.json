@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Architect",
+    "employer_name": "Microsoft",
+    "job_title": "Ecommerce Interaction & Experience Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Ecommerce Interaction & Experience Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1836160/Ecommerce-Interaction-%26-Experience-Manager",
+    "id": "microsoft-ecommerce-interaction-experience-manager-redmond"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer, Silicon One Engineering",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC Architect at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/soc-architect/33099/79414120512",
-    "id": "arm-soc-architect-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Product Security Systems Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Security Systems Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/product-security-systems-architect/33099/85172733696",
-    "id": "arm-product-security-systems-architect-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer, Standard Cell",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer, Standard Cell at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-standard-cell/33099/85172733312",
-    "id": "arm-engineer-standard-cell-bengaluru"
+    "job_description": "Data Science job for the role Software Engineer, Silicon One Engineering at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Silicon-One-Engineering/1441276",
+    "id": "cisco-software-engineer-silicon-one-engineering-san-jose"
   }
 ]
