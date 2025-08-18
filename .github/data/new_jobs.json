@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "IT User Experience Professional",
-    "job_city": "Buffalo Grove",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IT User Experience Professional at Buffalo Grove, Illinois, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-it-user-experience-professional-buffalo-grove"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Hardware Test Engineer - Software Focus",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "10min ago",
-    "job_description": "data science job for the role Hardware Test Engineer - Software Focus at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/155807362-hardware-test-engineer-software-focus",
-    "id": "aijobs-hardware-test-engineer-software-focus-ca"
+    "job_title": "Machine Learning (ML) Applications Engineer- Chemical/Process Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning (ML) Applications Engineer- Chemical/Process Engineering at Somerville, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154995276-machine-learning-ml-applications-engineer-chemical-process-engineering",
+    "id": "aijobs-machine-learning-ml-applications-engineer-chemical-process-engineering-us"
   }
 ]
