@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SoC Architect at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/soc-architect/33099/79414120512",
+    "id": "arm-soc-architect-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Security Systems Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Security Systems Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/product-security-systems-architect/33099/85172733696",
+    "id": "arm-product-security-systems-architect-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, Standard Cell",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Engineer, Standard Cell at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-standard-cell/33099/85172733312",
+    "id": "arm-engineer-standard-cell-bengaluru"
+  }
+]
