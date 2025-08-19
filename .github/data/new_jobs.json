@@ -1,62 +1,112 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Security Systems Senior Sales Executive",
-    "job_city": "Cypress",
-    "job_state": "United States of America",
+    "employer_name": "Microsoft",
+    "job_title": "Principle Applied Scientist",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Systems Senior Sales Executive at Cypress, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-security-systems-senior-sales-executive-cypress"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principle Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860507/Principle-Applied-Scientist",
+    "id": "microsoft-principle-applied-scientist-multiple-locations"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Silicon Senior Principal Engineering Program Manager (Cloud Data Center)",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Silicon Senior Principal Engineering Program Manager (Cloud Data Center) at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Silicon-Senior-Principal-Engineering-Program-Manager--Cloud-Data-Center-_2501927-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-silicon-senior-principal-engineering-program-manager-cloud-data-center-3-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Technical Program Manager",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Technical Program Manager at 5 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Technical-Program-Manager_2501924?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-technical-program-manager-5-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Verification Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Principal Verification Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Verification-Engineer_2501500?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-verification-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director of Design Verification",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Director of Design Verification at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Director-of-Design-Verification_2501963?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-of-design-verification-westborough"
+    "employer_name": "INFINEON",
+    "job_title": "Graduate - Senior Engineer Digital IC Design",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate - Senior Engineer Digital IC Design at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-graduate-senior-engineer-digital-ic-design-san-jose"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Engineer – SiPhox AI Platform",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "6h ago",
-    "job_description": "data science job for the role AI Engineer – SiPhox AI Platform at Boston, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156147607-ai-engineer-siphox-ai-platform",
-    "id": "aijobs-ai-engineer-siphox-ai-platform-us"
+    "job_title": "Math Libraries Engineer - Sparsity in AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Math Libraries Engineer - Sparsity in AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230403-senior-math-libraries-engineer-sparsity-in-ai",
+    "id": "aijobs-math-libraries-engineer-sparsity-in-ai-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Applications Engineer, Datacenter Products",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Applications Engineer, Datacenter Products at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230396-software-applications-engineer-datacenter-products",
+    "id": "aijobs-software-applications-engineer-datacenter-products-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SRE Engineer - Air Platform Team",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role SRE Engineer - Air Platform Team at US, NC, Durham",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230405-sre-engineer-air-platform-team",
+    "id": "aijobs-sre-engineer-air-platform-team-durham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Software Engineer - Full Stack",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Staff Software Engineer - Full Stack at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230401-senior-staff-software-engineer-full-stack",
+    "id": "aijobs-staff-software-engineer-full-stack-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Business System Analyst",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Staff Business System Analyst at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230400-senior-staff-business-system-analyst",
+    "id": "aijobs-staff-business-system-analyst-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Prediction and Planning Engineer, VLM - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Prediction and Planning Engineer, VLM - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230402-senior-prediction-and-planning-engineer-vlm-autonomous-vehicles",
+    "id": "aijobs-prediction-and-planning-engineer-vlm-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Security Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230399-security-development-engineer",
+    "id": "aijobs-security-development-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - Manufacturing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Technical Program Manager - Manufacturing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230397-senior-technical-program-manager-manufacturing",
+    "id": "aijobs-technical-program-manager-manufacturing-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Deployment Engineer, Software Automation - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Network Deployment Engineer, Software Automation - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156230392-senior-network-deployment-engineer-software-automation-dgx-cloud",
+    "id": "aijobs-network-deployment-engineer-software-automation-dgx-cloud-santa-clara"
   }
 ]
