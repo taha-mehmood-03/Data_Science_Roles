@@ -1,112 +1,113 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principle Applied Scientist",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Data Engineer, WW Ops Finance S&A",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, WW Ops Finance S&A at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061545/data-engineer-ww-ops-finance-s-a",
+    "job_posted_at": "2025-08-19T01:07:57.865Z",
+    "job_posted_at_datetime_utc": "2025-08-19T01:07:57.865Z",
+    "id": "amazon-data-engineer-ww-ops-finance-s-a-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Lead sales - Agentforce Datacloud - Salesforce",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principle Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860507/Principle-Applied-Scientist",
-    "id": "microsoft-principle-applied-scientist-multiple-locations"
+    "job_description": "Data Science job for the role AI Lead sales - Agentforce Datacloud - Salesforce at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53602&source=WEB_Search_NA",
+    "id": "ibm-ai-lead-sales-agentforce-datacloud-salesforce-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr Security Operations Center Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Security Operations Center Analyst III at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50498&source=WEB_Search_NA",
+    "id": "ibm-sr-security-operations-center-analyst-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative Chicago, Illinois",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative Chicago, Illinois at Entry LevelChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-chicago-illinois-chicago"
   },
   {
     "employer_name": "INFINEON",
-    "job_title": "Graduate - Senior Engineer Digital IC Design",
-    "job_city": "San Jose",
+    "job_title": "Internship - Applications Engineer",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate - Senior Engineer Digital IC Design at San Jose",
+    "job_description": "Data Science job for the role Internship - Applications Engineer at Austin",
     "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-graduate-senior-engineer-digital-ic-design-san-jose"
+    "id": "infineon-internship-applications-engineer-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "1444353 - Software Engineer",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 1444353 - Software Engineer at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444353-Software-Engineer/1444353",
+    "id": "cisco-1444353-software-engineer-rtp"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "1444346 - Software Engineer (Golang)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 1444346 - Software Engineer (Golang) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444346-Software-Engineer-Golang/1444346",
+    "id": "cisco-1444346-software-engineer-golang-rtp"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "1444345 - Software Engineer (Python)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 1444345 - Software Engineer (Python) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444345-Software-Engineer-Python/1444345",
+    "id": "cisco-1444345-software-engineer-python-rtp"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Math Libraries Engineer - Sparsity in AI",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Math Libraries Engineer - Sparsity in AI at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230403-senior-math-libraries-engineer-sparsity-in-ai",
-    "id": "aijobs-math-libraries-engineer-sparsity-in-ai-santa-clara"
+    "job_title": "Machine Learning Quantitative Researcher",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "9h ago",
+    "job_description": "data science job for the role Machine Learning Quantitative Researcher at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156333504-machine-learning-quantitative-researcher",
+    "id": "aijobs-machine-learning-quantitative-researcher-us"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Applications Engineer, Datacenter Products",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Applications Engineer, Datacenter Products at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230396-software-applications-engineer-datacenter-products",
-    "id": "aijobs-software-applications-engineer-datacenter-products-santa-clara"
+    "job_title": "Research Engineer / Scientist - Multimodal, Future of Computing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior Research Engineer / Scientist - Multimodal, Future of Computing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156265732-senior-research-engineer-scientist-multimodal-future-of-computing",
+    "id": "aijobs-research-engineer-scientist-multimodal-future-of-computing-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "SRE Engineer - Air Platform Team",
-    "job_city": "Durham",
-    "job_state": "NC",
+    "job_title": "Technical Sourcer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role SRE Engineer - Air Platform Team at US, NC, Durham",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230405-sre-engineer-air-platform-team",
-    "id": "aijobs-sre-engineer-air-platform-team-durham"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Staff Software Engineer - Full Stack",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Staff Software Engineer - Full Stack at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230401-senior-staff-software-engineer-full-stack",
-    "id": "aijobs-staff-software-engineer-full-stack-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Staff Business System Analyst",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Staff Business System Analyst at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230400-senior-staff-business-system-analyst",
-    "id": "aijobs-staff-business-system-analyst-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Prediction and Planning Engineer, VLM - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Prediction and Planning Engineer, VLM - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230402-senior-prediction-and-planning-engineer-vlm-autonomous-vehicles",
-    "id": "aijobs-prediction-and-planning-engineer-vlm-autonomous-vehicles-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Security Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Security Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230399-security-development-engineer",
-    "id": "aijobs-security-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - Manufacturing",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Technical Program Manager - Manufacturing at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230397-senior-technical-program-manager-manufacturing",
-    "id": "aijobs-technical-program-manager-manufacturing-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Network Deployment Engineer, Software Automation - DGX Cloud",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Network Deployment Engineer, Software Automation - DGX Cloud at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156230392-senior-network-deployment-engineer-software-automation-dgx-cloud",
-    "id": "aijobs-network-deployment-engineer-software-automation-dgx-cloud-santa-clara"
+    "job_description": "data science job for the role Technical Sourcer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156265735-technical-sourcer",
+    "id": "aijobs-technical-sourcer-united-states"
   }
 ]
