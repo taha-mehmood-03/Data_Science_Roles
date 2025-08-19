@@ -1,113 +1,22 @@
 [
   {
-    "job_title": "Data Engineer, WW Ops Finance S&A",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, WW Ops Finance S&A at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061545/data-engineer-ww-ops-finance-s-a",
-    "job_posted_at": "2025-08-19T01:07:57.865Z",
-    "job_posted_at_datetime_utc": "2025-08-19T01:07:57.865Z",
-    "id": "amazon-data-engineer-ww-ops-finance-s-a-bellevue"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "AI Lead sales - Agentforce Datacloud - Salesforce",
+    "job_title": "Software Development Engineer",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Lead sales - Agentforce Datacloud - Salesforce at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53602&source=WEB_Search_NA",
-    "id": "ibm-ai-lead-sales-agentforce-datacloud-salesforce-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr Security Operations Center Analyst",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr Security Operations Center Analyst III at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50498&source=WEB_Search_NA",
-    "id": "ibm-sr-security-operations-center-analyst-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative Chicago, Illinois",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Services Representative Chicago, Illinois at Entry LevelChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-chicago-illinois-chicago"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Applications Engineer at Austin",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-applications-engineer-austin"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "1444353 - Software Engineer",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 1444353 - Software Engineer at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444353-Software-Engineer/1444353",
-    "id": "cisco-1444353-software-engineer-rtp"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "1444346 - Software Engineer (Golang)",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 1444346 - Software Engineer (Golang) at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444346-Software-Engineer-Golang/1444346",
-    "id": "cisco-1444346-software-engineer-golang-rtp"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "1444345 - Software Engineer (Python)",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 1444345 - Software Engineer (Python) at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444345-Software-Engineer-Python/1444345",
-    "id": "cisco-1444345-software-engineer-python-rtp"
+    "job_description": "Data Science job for the role Staff Software Development Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44019&source=WEB_Search_NA",
+    "id": "ibm-software-development-engineer-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning Quantitative Researcher",
+    "job_title": "Software Engineer (Artificial Intelligence / Machine Learning)",
     "job_city": "US",
-    "job_state": "United States",
-    "job_posted_at": "9h ago",
-    "job_description": "data science job for the role Machine Learning Quantitative Researcher at New York, United States, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156333504-machine-learning-quantitative-researcher",
-    "id": "aijobs-machine-learning-quantitative-researcher-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer / Scientist - Multimodal, Future of Computing",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior Research Engineer / Scientist - Multimodal, Future of Computing at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156265732-senior-research-engineer-scientist-multimodal-future-of-computing",
-    "id": "aijobs-research-engineer-scientist-multimodal-future-of-computing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Sourcer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Sourcer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156265735-technical-sourcer",
-    "id": "aijobs-technical-sourcer-united-states"
+    "job_state": "TX",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role Software Engineer (Artificial Intelligence / Machine Learning) at Plano, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156345599-software-engineer-artificial-intelligence-machine-learning",
+    "id": "aijobs-software-engineer-artificial-intelligence-machine-learning-us"
   }
 ]
