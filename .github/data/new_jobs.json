@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer, Streaming",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer, Streaming at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53253&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-streaming-san-jose"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, GivingTuesday",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role Data Scientist, GivingTuesday at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460945-data-scientist-givingtuesday",
-    "id": "aijobs-data-scientist-givingtuesday-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Platform Engineer",
-    "job_city": "US",
-    "job_state": "DC",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role AI/ML Platform Engineer at Washington, DC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460948-ai-ml-platform-engineer",
-    "id": "aijobs-ai-ml-platform-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Commodity)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "16h ago",
-    "job_description": "data science job for the role Data Scientist (Commodity) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460954-data-scientist-commodity",
-    "id": "aijobs-data-scientist-commodity-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist III, Research, Play",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Business and Marketing Data Scientist",
+    "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Data Scientist III, Research, Play at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play",
-    "id": "aijobs-data-scientist-iii-research-play-us"
+    "job_posted_at": "Recently",
+    "job_description": "20 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business and Marketing Data Scientist, YouTube, Creative Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124900129667719878-business-and-marketing-data-scientist-youtube-creative-research?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-business-and-marketing-data-scientist-new-york"
   }
 ]
