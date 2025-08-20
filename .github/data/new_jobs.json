@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Analytics Manager",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "1 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytics Manager, Consumer Support",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103823127418413766-analytics-manager-consumer-support?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-analytics-manager-boulder"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer in Test",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Engineer in Test at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-software-engineer-in-test/33099/85228355744",
-    "id": "arm-software-engineer-in-test-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Data & AI Team",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Scientist, Data & AI Team at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156646070-data-scientist-data-ai-team",
+    "id": "aijobs-data-scientist-data-ai-team-us"
   }
 ]
