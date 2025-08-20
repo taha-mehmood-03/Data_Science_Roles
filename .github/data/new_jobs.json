@@ -1,42 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Global Customer Experience Insights Lead",
+    "job_title": "Principal Enterprise Architect",
     "job_city": "Multiple Locations",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Global Customer Experience Insights Lead",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855293/Global-Customer-Experience-Insights-Lead",
-    "id": "microsoft-global-customer-experience-insights-lead-multiple-locations"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "HBM IO Architecture, Principal Engineer",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role HBM IO Architecture, Principal Engineer at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28358562",
-    "id": "micron-hbm-io-architecture-principal-engineer-richardson"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Sr. Systems Engineering Leader- Cloud & AI Specialist Team - Central Area/Region",
-    "job_city": "Offsite",
-    "job_state": "Chicago",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Systems Engineering Leader- Cloud & AI Specialist Team - Central Area/Region 1448879 at Offsite, Chicago, Illinois, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sr-Systems-Engineering-Leader-Cloud-AI-Specialist-Team-Central-Area-Region-1448879/1448879",
-    "id": "cisco-sr-systems-engineering-leader-cloud-ai-specialist-team-central-area-region-offsite"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Enterprise Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860463/Principal-Enterprise-Architect%2C-CTO-Office%2C-US-Commercial-Industries",
+    "id": "microsoft-principal-enterprise-architect-multiple-locations"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Artificial Intelligence (AI) Engineer",
+    "job_title": "GenAI Framework Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior GenAI Framework Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571491-senior-genai-framework-engineer",
+    "id": "aijobs-genai-framework-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Agentic AI",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Artificial Intelligence (AI) Engineer at Milpitas, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer",
-    "id": "aijobs-artificial-intelligence-ai-engineer-us"
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Senior AI Engineer, Agentic AI at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156562340-senior-ai-engineer-agentic-ai",
+    "id": "aijobs-ai-engineer-agentic-ai-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - DGX Cloud",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Software Engineer - DGX Cloud at US, WA, Seattle",
+    "job_apply_link": "https://www.aijobs.com/jobs/156571500-software-engineer-dgx-cloud",
+    "id": "aijobs-software-engineer-dgx-cloud-seattle"
   }
 ]
