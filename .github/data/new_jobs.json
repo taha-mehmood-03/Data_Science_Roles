@@ -1,34 +1,52 @@
 [
   {
-    "job_title": "Data Scientist, NAS Mosaic",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, NAS Mosaic at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3016970/data-scientist-nas-mosaic",
-    "job_posted_at": "2025-08-20T19:17:27.708Z",
-    "job_posted_at_datetime_utc": "2025-08-20T19:17:27.708Z",
-    "id": "amazon-data-scientist-nas-mosaic-seattle"
-  },
-  {
-    "job_title": "AI Privacy Specialist, Workplace Trust: Privacy, AI, and Risk, Workplace Trust",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role AI Privacy Specialist, Workplace Trust: Privacy, AI, and Risk, Workplace Trust at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063068/ai-privacy-specialist-workplace-trust-privacy-ai-and-risk-workplace-trust",
-    "job_posted_at": "2025-08-20T19:17:27.708Z",
-    "job_posted_at_datetime_utc": "2025-08-20T19:17:27.708Z",
-    "id": "amazon-ai-privacy-specialist-workplace-trust-privacy-ai-and-risk-workplace-trust-boston"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "ETD Software Engineer",
+    "job_title": "IT SOFTWARE ENGINEER",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role ETD Software Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30866005",
-    "id": "micron-etd-software-engineer-boise"
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role IT SOFTWARE ENGINEER at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30866757",
+    "id": "micron-it-software-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53292&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant - SAP OTC S4 HANA",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Managing Consultant - SAP OTC S4 HANA at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53843&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-otc-s4-hana-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Content Manager OnDemand Technical Support Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Content Manager OnDemand Technical Support Professional at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53295&source=WEB_Search_NA",
+    "id": "ibm-content-manager-ondemand-technical-support-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Content Manager OnDemand Software Developer Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Content Manager OnDemand Software Developer Support Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53271&source=WEB_Search_NA",
+    "id": "ibm-content-manager-ondemand-software-developer-support-engineer-multiple-cities"
   }
 ]
