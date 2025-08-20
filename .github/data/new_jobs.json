@@ -1,42 +1,82 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Enterprise Architect",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist - Data Platform",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Enterprise Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860463/Principal-Enterprise-Architect%2C-CTO-Office%2C-US-Commercial-Industries",
-    "id": "microsoft-principal-enterprise-architect-multiple-locations"
+    "job_description": "Data Science job for the role Digital Sales Specialist - Data Platform at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45813&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-data-platform-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Engineer: Client Engineering - US Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Engineer: Client Engineering - US Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53872&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-client-engineering-us-industry-market-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Firmware Developer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Firmware Developer at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA",
+    "id": "ibm-firmware-developer-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Backend Software Developer - IBM Security",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Backend Software Developer - IBM Security at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50154&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-ibm-security-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Marketing Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Product Marketing Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53854&source=WEB_Search_NA",
+    "id": "ibm-product-marketing-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud ERP Financials Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Oracle Cloud ERP Financials Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53890&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-erp-financials-architect-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Developer- Integrations",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Developer- Integrations at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Software-Developer-Integrations/1441598",
+    "id": "cisco-software-developer-integrations-rtp"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "GenAI Framework Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior GenAI Framework Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571491-senior-genai-framework-engineer",
-    "id": "aijobs-genai-framework-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, Agentic AI",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Senior AI Engineer, Agentic AI at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156562340-senior-ai-engineer-agentic-ai",
-    "id": "aijobs-ai-engineer-agentic-ai-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - DGX Cloud",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "31min ago",
-    "job_description": "data science job for the role Software Engineer - DGX Cloud at US, WA, Seattle",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571500-software-engineer-dgx-cloud",
-    "id": "aijobs-software-engineer-dgx-cloud-seattle"
+    "job_title": "Research Engineer/Scientist - Sensing, Future of Computing",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior Research Engineer/Scientist - Sensing, Future of Computing at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576634-senior-research-engineer-scientist-sensing-future-of-computing",
+    "id": "aijobs-research-engineer-scientist-sensing-future-of-computing-united-states"
   }
 ]
