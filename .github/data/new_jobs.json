@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Research Scientist, Design and Simulation, AWS Center for Quantum Computing",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Research Scientist, Design and Simulation, AWS Center for Quantum Computing at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3064003/research-scientist-design-and-simulation-aws-center-for-quantum-computing",
-    "job_posted_at": "2025-08-21T21:15:11.553Z",
-    "job_posted_at_datetime_utc": "2025-08-21T21:15:11.553Z",
-    "id": "amazon-research-scientist-design-and-simulation-aws-center-for-quantum-computing-san-francisco"
+    "employer_name": "Microsoft",
+    "job_title": "Data Analyst II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Analyst II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861743/Data-Analyst-II",
+    "id": "microsoft-data-analyst-ii-redmond"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Power Protection & Automation Engineering Development Program (PA EDP)",
-    "job_city": "Wendell",
-    "job_state": "United States of America",
+    "employer_name": "Microsoft",
+    "job_title": "Senior AI Applied Scientist",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Power Protection & Automation Engineering Development Program (PA EDP) at Wendell, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-power-protection-automation-engineering-development-program-pa-edp-wendell"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior AI Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861638/Senior-AI-Applied-Scientist",
+    "id": "microsoft-senior-ai-applied-scientist-redmond"
   }
 ]
