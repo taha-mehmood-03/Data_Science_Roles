@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Facilites Fire Life Safety Coordinator",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 10 days ago",
-    "job_description": "Data Science job for the role Facilites Fire Life Safety Coordinator at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482681",
-    "id": "micron-facilites-fire-life-safety-coordinator-boise"
+    "employer_name": "Arm",
+    "job_title": "Information Developer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Information Developer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-information-developer/33099/81247045088",
+    "id": "arm-information-developer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer- Low Power sign off",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Engineer- Low Power sign off at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineer-low-power-sign-off/33099/84440547792",
+    "id": "arm-engineer-low-power-sign-off-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SAP Technical Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP Technical Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-technical-analyst/33099/85261039504",
+    "id": "arm-sap-technical-analyst-bengaluru"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Dataplane Software Engineering Technical Leader",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Dataplane Software Engineering Technical Leader at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Dataplane-Software-Engineering-Technical-Leader/1449073",
+    "id": "cisco-dataplane-software-engineering-technical-leader-offsite"
   }
 ]
