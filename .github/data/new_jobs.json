@@ -1,43 +1,62 @@
 [
   {
-    "job_title": "Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS)",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS) at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063923/fashion-fitness-data-science-engineering-analytics-research-and-science-ears",
-    "job_posted_at": "2025-08-21T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-21T00:00:00.000Z",
-    "id": "amazon-fashion-fitness-data-science-engineering-analytics-research-and-science-ears-new-york"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Manager - CoreAI",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Product Manager - CoreAI",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823475/Senior-Product-Manager%E2%80%AF--CoreAI",
-    "id": "microsoft-senior-product-manager-coreai-redmond"
+    "job_description": "Data Science job for the role Lead Data Scientist at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53577&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-armonk"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer - Process automation & reporting",
-    "job_city": "Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Software Engineer - Process automation & reporting at Senatobia, Mississippi, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting",
-    "id": "abb-software-engineer-process-automation-reporting-senatobia"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Project Manager - Building Automation - Critical Environments",
-    "job_city": "Raleigh",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Manager - Building Automation - Critical Environments at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-project-manager-building-automation-critical-environments-raleigh"
+    "job_description": "Data Science job for the role Site Reliability Engineer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53551&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Analytics Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Analytics Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53115&source=WEB_Search_NA",
+    "id": "ibm-data-analytics-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Managing Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52897&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Networking Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Networking Software Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53240&source=WEB_Search_NA",
+    "id": "ibm-networking-software-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - Database",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer - Database at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45020&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-database-san-jose"
   }
 ]
