@@ -1,42 +1,42 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Partner Technical Specialist - Data",
-    "job_city": "New York",
+    "job_title": "Sr. Technical Escalation Manager",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Partner Technical Specialist - Data at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46386&source=WEB_Search_NA",
-    "id": "ibm-partner-technical-specialist-data-new-york"
+    "job_description": "Data Science job for the role Sr. Technical Escalation Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA",
+    "id": "ibm-sr-technical-escalation-manager-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Finite Element Analysis (FEA) Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Finite Element Analysis (FEA) Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868847-finite-element-analysis-fea-engineer",
-    "id": "aijobs-finite-element-analysis-fea-engineer-united-states"
+    "job_title": "Machine Learning (ML) Engineer",
+    "job_city": "US",
+    "job_state": "VA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning (ML) Engineer at Chantilly, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873395-machine-learning-ml-engineer",
+    "id": "aijobs-machine-learning-ml-engineer-us"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Technical Recruiter",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior Technical Recruiter at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868834-senior-technical-recruiter",
-    "id": "aijobs-technical-recruiter-united-states"
+    "job_title": "Machine Learning Engineer - Disney+",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role Senior Machine Learning Engineer - Disney+ at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873394-senior-machine-learning-engineer-disney+",
+    "id": "aijobs-machine-learning-engineer-disney-us"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Product Manager, Safety Systems",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Product Manager, Safety Systems at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868830-product-manager-safety-systems",
-    "id": "aijobs-product-manager-safety-systems-united-states"
+    "job_title": "Machine Learning Researcher – Systematic Trading",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Machine Learning Researcher – Systematic Trading at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873293-machine-learning-researcher-systematic-trading",
+    "id": "aijobs-machine-learning-researcher-systematic-trading-us"
   }
 ]
