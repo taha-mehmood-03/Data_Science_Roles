@@ -1,32 +1,33 @@
 [
   {
+    "job_title": "Business Intel Engineer II, ORBIT",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Business Intel Engineer II, ORBIT at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063780/business-intel-engineer-ii-orbit",
+    "job_posted_at": "2025-08-21T17:22:21.125Z",
+    "job_posted_at_datetime_utc": "2025-08-21T17:22:21.125Z",
+    "id": "amazon-business-intel-engineer-ii-orbit-austin"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Azure CSA",
+    "job_title": "Expense Lead 1st Party Studios",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Azure CSA",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860819/Senior-Finance-Manager---Azure-CSA%2C-Americas",
-    "id": "microsoft-azure-csa-redmond"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Expense Lead 1st Party Studios",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861483/Senior-Finance-Manager---Expense-Lead-1st-Party-Studios",
+    "id": "microsoft-expense-lead-1st-party-studios-redmond"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Architect - Technical Lead - Security & Compliance / Cloud Software",
-    "job_city": "Offsite",
-    "job_state": "San Jose",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Architect - Technical Lead - Security & Compliance / Cloud Software at Offsite, San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Architect-Technical-Lead-Security-Compliance-Cloud-Software/1448877",
-    "id": "cisco-architect-technical-lead-security-compliance-cloud-software-offsite"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Quality Engineering Internship- Rail Infrastructure (Summer 2026)",
-    "job_city": "Homestead",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quality Engineering Internship- Rail Infrastructure (Summer 2026) at Homestead, Pennsylvania, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-quality-engineering-internship-rail-infrastructure-summer-2026-homestead"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI\\ML lead - Edge Compute",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal AI\\ML lead - Edge Compute at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Algorithm-Engineer---Edge---Emerging-Hardware_R252784?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-ml-lead-edge-compute-us"
   }
 ]
