@@ -1,92 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Science Manager",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Science Manager, Cloud Learning Services",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141087646657979078-data-science-manager-cloud-learning-services?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-data-science-manager-seattle"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Sr. Salesforce Test Automation Engineer",
+    "job_title": "Engineer",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Salesforce Test Automation Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53897&source=WEB_Search_NA",
-    "id": "ibm-sr-salesforce-test-automation-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA",
+    "id": "ibm-engineer-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant",
-    "job_city": "Rocket Center",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consultant at Entry LevelRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54821&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-rocket-center"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Leader - Northeast - Estee Lauder",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Leader - Northeast - Estee Lauder at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53625&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-leader-northeast-estee-lauder-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Growth Marketing Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Growth Marketing Manager II at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53099&source=WEB_Search_NA",
-    "id": "ibm-growth-marketing-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Social Media Specialist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Social Media Specialist at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54150&source=WEB_Search_NA",
-    "id": "ibm-social-media-specialist-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Staff Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Staff Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
-    "id": "ibm-staff-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineering Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA",
-    "id": "ibm-software-engineering-manager-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Simulation",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2min ago",
-    "job_description": "data science job for the role Software Engineer, Simulation at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157275794-software-engineer-simulation",
-    "id": "aijobs-software-engineer-simulation-us"
+    "employer_name": "ABB",
+    "job_title": "Industry Solutions Architect – Life Sciences Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Industry Solutions Architect – Life Sciences Automation at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007665/Industry-Solutions-Architect-Life-Sciences-Automation",
+    "id": "abb-industry-solutions-architect-life-sciences-automation-multiple"
   }
 ]
