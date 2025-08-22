@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "AI Market Analyst",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "Data Science job for the role AI Market Analyst at San Jose, California, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30880080",
-    "id": "micron-ai-market-analyst-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Federal Product Owner -",
-    "job_city": "Annapolis Junction",
-    "job_state": "Maryland",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Federal Product Owner - 1442994 at Annapolis Junction, Maryland, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Federal-Product-Owner-1442994/1442994",
-    "id": "cisco-federal-product-owner-annapolis-junction"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Software Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Software-Engineer_2501689?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-software-engineer-santa-clara"
+    "job_title": "CAD Engineer, Memory",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role CAD Engineer, Memory at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/28862569",
+    "id": "micron-cad-engineer-memory-richardson"
   }
 ]
