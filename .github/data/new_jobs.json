@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Cisco Meraki - Product Manager - Cloud",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cisco Meraki - Product Manager - Cloud at San Francisco, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Cisco-Meraki-Product-Manager-Cloud/1447295",
-    "id": "cisco-cisco-meraki-product-manager-cloud-san-francisco"
+    "job_title": "Data Engineer II, AIR DABI",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, AIR DABI at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3064647/data-engineer-ii-air-dabi",
+    "job_posted_at": "2025-08-22T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-22T00:00:00.000Z",
+    "id": "amazon-data-engineer-ii-air-dabi-bellevue"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Business Analysis Manager - Central Revenue Planning (Supply Chain)",
-    "job_city": "Offsite",
-    "job_state": "Hillsboro",
+    "employer_name": "Arm",
+    "job_title": "Software Release & Test Engineer (Automotive)",
+    "job_city": "Munich",
+    "job_state": "Germany",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Analysis Manager - Central Revenue Planning (Supply Chain) at Offsite, Hillsboro, Oregon, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Business-Analysis-Manager-Central-Revenue-Planning-Supply-Chain/1448875",
-    "id": "cisco-business-analysis-manager-central-revenue-planning-supply-chain-offsite"
+    "job_description": "Data Science job for the role Principal Software Release & Test Engineer (Automotive) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/principal-software-release-and-test-engineer-automotive/33099/78612045648",
+    "id": "arm-software-release-test-engineer-automotive-munich"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Atlas Graduate Program: Associate Product Engineer (2025)",
+    "job_city": "Fremont",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Atlas Graduate Program: Associate Product Engineer (2025) at Fremont, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-atlas-graduate-program-associate-product-engineer-2025-fremont"
   }
 ]
