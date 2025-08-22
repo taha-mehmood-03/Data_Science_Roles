@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Engineer II at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA",
-    "id": "ibm-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Solutions Architect – Life Sciences Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Industry Solutions Architect – Life Sciences Automation at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007665/Industry-Solutions-Architect-Life-Sciences-Automation",
-    "id": "abb-industry-solutions-architect-life-sciences-automation-multiple"
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence Applications Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Artificial Intelligence Applications Engineer at Plano, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157278920-artificial-intelligence-applications-engineer",
+    "id": "aijobs-artificial-intelligence-applications-engineer-us"
   }
 ]
