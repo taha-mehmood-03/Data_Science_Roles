@@ -1,53 +1,72 @@
 [
   {
-    "job_title": "Data Scientist II - AMZ9674189",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Data Scientist II - AMZ9674189 at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051416/data-scientist-ii-amz9674189",
-    "job_posted_at": "2025-08-22T07:13:58.683Z",
-    "job_posted_at_datetime_utc": "2025-08-22T07:13:58.683Z",
-    "id": "amazon-data-scientist-ii-amz9674189-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Machinist -2nd Shift",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Machinist -2nd Shift at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004567/Machinist-2nd-Shift",
+    "id": "abb-machinist-2nd-shift-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "APM, Asset Performance Management Business Development",
+    "job_title": "Production Planner",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Production Planner at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004382/Production-Planner",
+    "id": "abb-production-planner-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Senior Field Service Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005481/Senior-Field-Service-Engineer",
+    "id": "abb-senior-field-service-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Manager",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role APM, Asset Performance Management Business Development at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96232198/APM-Asset-Performance-Management-Business-Development",
-    "id": "abb-apm-asset-performance-management-business-development-not-specific"
+    "job_description": "Data Science job for the role Site Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95895604/Site-Manager",
+    "id": "abb-site-manager-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Hoisting Applications Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Hoisting Applications Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96894540/Hoisting-Applications-Engineer",
-    "id": "abb-hoisting-applications-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cyber security engineer DE",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Cyber security engineer DE 2025 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007045/Cyber-security-engineer-DE-2025",
-    "id": "abb-cyber-security-engineer-de-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Application Specialist Sustainable Energy",
+    "job_title": "Strategic Program Specialist",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Global Application Specialist Sustainable Energy at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00000970/Global-Application-Specialist-Sustainable-Energy",
-    "id": "abb-global-application-specialist-sustainable-energy-not-specific"
+    "job_description": "Data Science job for the role Strategic Program Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005605/Strategic-Program-Specialist",
+    "id": "abb-strategic-program-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Anbudsingenjör Lågspänning",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Anbudsingenjör Lågspänning at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007949/Anbudsingenjör-Lågspänning",
+    "id": "abb-anbudsingenj-r-l-gsp-nning-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Support Manager – Motion High Power",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Sales Support Manager – Motion High Power at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002873/Sales-Support-Manager-Motion-High-Power",
+    "id": "abb-sales-support-manager-motion-high-power-not-specific"
   }
 ]
