@@ -1,32 +1,62 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Manager - Data Center Performance",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "19min ago",
-    "job_description": "data science job for the role Senior Software Manager - Data Center Performance at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157490350-senior-software-manager-data-center-performance",
-    "id": "aijobs-software-manager-data-center-performance-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Head of GSC Robotic-centric Logistics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Head of GSC Robotic-centric Logistics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95467512/Head-of-GSC-Robotic-centric-Logistics",
+    "id": "abb-head-of-gsc-robotic-centric-logistics-not-specific"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Distinguished Software Engineer - NVLink Fusion Software",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "19min ago",
-    "job_description": "data science job for the role Distinguished Software Engineer - NVLink Fusion Software at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157490351-distinguished-software-engineer-nvlink-fusion-software",
-    "id": "aijobs-distinguished-software-engineer-nvlink-fusion-software-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Account Manager - Energy Markets",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Account Manager - Energy Markets at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95893810/Account-Manager-Energy-Markets",
+    "id": "abb-account-manager-energy-markets-not-specific"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Distinguished Engineer - Rack System Software",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "19min ago",
-    "job_description": "data science job for the role Distinguished Engineer - Rack System Software at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157490345-distinguished-engineer-rack-system-software",
-    "id": "aijobs-distinguished-engineer-rack-system-software-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Project engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Project engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96050202/Project-engineer",
+    "id": "abb-project-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Werkstudent (m/w/d) für Informationssysteme im Prüffeld",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Werkstudent (m/w/d) für Informationssysteme im Prüffeld at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95551910/Werkstudent-m-w-d-für-Informationssysteme-im-Prüffeld",
+    "id": "abb-werkstudent-m-w-d-f-r-informationssysteme-im-pr-ffeld-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist Electrical Installation (80 – 100%)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Sales Specialist Electrical Installation (80 – 100%) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96065277/Sales-Specialist-Electrical-Installation-80-100",
+    "id": "abb-sales-specialist-electrical-installation-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior System Drives Field Service Technician",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior System Drives Field Service Technician at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008002/Senior-System-Drives-Field-Service-Technician",
+    "id": "abb-senior-system-drives-field-service-technician-not-specific"
   }
 ]
