@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Revenue Close Analytics Lead",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Revenue Close Analytics Lead",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1805661/Revenue-Close-Analytics-Lead",
+    "id": "microsoft-revenue-close-analytics-lead-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - PCIE -PHY",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Verification Engineer - PCIE -PHY at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-verification-engineer-pcie-phy/33099/85404490336",
+    "id": "arm-verification-engineer-pcie-phy-bengaluru"
+  }
+]
