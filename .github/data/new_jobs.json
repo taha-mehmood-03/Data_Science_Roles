@@ -1,32 +1,24 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Executive Assistant to CEO",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Executive Assistant to CEO at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-executive-assistant-to-ceo/33099/85420116592",
-    "id": "arm-executive-assistant-to-ceo-san-jose"
+    "job_title": "Risk Manager, RISC",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Risk Manager, RISC at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2883571/risk-manager-risc",
+    "job_posted_at": "2025-08-25T19:16:50.310Z",
+    "job_posted_at_datetime_utc": "2025-08-25T19:16:50.310Z",
+    "id": "amazon-risk-manager-risc-arlington"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Node Development Product Engineer - DEG Technology",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Node Development Product Engineer - DEG Technology at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30894293",
-    "id": "micron-node-development-product-engineer-deg-technology-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - Systems Software",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Intern - Systems Software at Austin, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30894294",
-    "id": "micron-intern-systems-software-austin"
+    "job_title": "Detection Program Risk Manager, Product Quality",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Detection Program Risk Manager, Product Quality at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2948197/detection-program-risk-manager-product-quality",
+    "job_posted_at": "2025-08-25T19:16:50.310Z",
+    "job_posted_at_datetime_utc": "2025-08-25T19:16:50.310Z",
+    "id": "amazon-detection-program-risk-manager-product-quality-arlington"
   }
 ]
