@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "AI Skilling Data Analyst",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - AI Skilling Data Analyst",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838294/AI-Skilling-Data-Analyst",
-    "id": "microsoft-ai-skilling-data-analyst-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Group Finance Manager – GitHub Copilot Business",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Group Finance Manager – GitHub Copilot Business",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861890/Group-Finance-Manager-%E2%80%93-GitHub-Copilot-Business",
-    "id": "microsoft-group-finance-manager-github-copilot-business-redmond"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Architect, Financial Intelligence Platforms",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Architect, Financial Intelligence Platforms at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54171&source=WEB_Search_NA",
-    "id": "ibm-architect-financial-intelligence-platforms-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Delivery Consultant - Scale / Data Protection",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Delivery Consultant - Scale / Data Protection at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53809&source=WEB_Search_NA",
-    "id": "ibm-delivery-consultant-scale-data-protection-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manager, Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Manager, Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53130&source=WEB_Search_NA",
-    "id": "ibm-manager-security-multiple-cities"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Marketing Analyst & Operations Specialist - US",
-    "job_city": "Wilsonville",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Marketing Analyst & Operations Specialist - US at Wilsonville, Oregon, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-marketing-analyst-operations-specialist-us-wilsonville"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Marketing Analyst & Operations Specialist",
-    "job_city": "Wilsonville",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Marketing Analyst & Operations Specialist at Wilsonville, Oregon, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-marketing-analyst-operations-specialist-wilsonville"
+    "employer_name": "AiJobs",
+    "job_title": "AI Lead",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI Lead at Houston, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157844203-ai-lead",
+    "id": "aijobs-ai-lead-us"
   }
 ]
