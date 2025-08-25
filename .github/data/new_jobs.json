@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning Compiler Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Machine Learning Compiler Engineer at US, TX, Austin",
-    "job_apply_link": "https://www.aijobs.com/jobs/157678209-senior-machine-learning-compiler-engineer",
-    "id": "aijobs-machine-learning-compiler-engineer-austin"
+    "job_title": "Battery Design Validation Test Engineer",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Battery Design Validation Test Engineer at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/157685620-battery-design-validation-test-engineer",
+    "id": "aijobs-battery-design-validation-test-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Scaled Abuse",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Product Manager, Scaled Abuse at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157685612-product-manager-scaled-abuse",
+    "id": "aijobs-product-manager-scaled-abuse-united-states"
   }
 ]
