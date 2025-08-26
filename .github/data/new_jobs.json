@@ -1,32 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Data Scientist",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Senior Digital Solution Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849320/Senior-Data-Scientist",
-    "id": "microsoft-senior-data-scientist-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Digital Solution Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862435/Senior%E2%80%AFDigital-Solution-Engineer",
+    "id": "microsoft-senior-digital-solution-engineer-mountain-view"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Communications",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "CISCO",
+    "job_title": "Optical - Hardware Test Development Engineer",
+    "job_city": "Maynard",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Category: Sales Compensation Manager. Level: All Levels. Posted: Recently. Full Title: Sales Compensation Manager - Communications",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863889/Sales-Compensation-Manager---Communications",
-    "id": "microsoft-communications-multiple-locations"
+    "job_description": "Data Science job for the role Optical - Hardware Test Development Engineer at Maynard, Massachusetts, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Optical-Hardware-Test-Development-Engineer/1442164",
+    "id": "cisco-optical-hardware-test-development-engineer-maynard"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer (Automotive)",
-    "job_city": "Munich",
-    "job_state": "Germany",
+    "employer_name": "SIEMENS",
+    "job_title": "Order Management Internship- Rolling Stock (Summer 2026)",
+    "job_city": "Sacramento",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Engineer (Automotive) at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/staff-software-engineer-automotive/33099/79648772064",
-    "id": "arm-software-engineer-automotive-munich"
+    "job_description": "Data Science job for the role Order Management Internship- Rolling Stock (Summer 2026) at Sacramento, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-order-management-internship-rolling-stock-summer-2026-sacramento"
   }
 ]
