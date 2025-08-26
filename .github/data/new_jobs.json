@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "IBV - Editorial Lead",
-    "job_city": "Chicago",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Quality Assurance, Inspector",
+    "job_city": "Sacramento",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBV - Editorial Lead at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54122&source=WEB_Search_NA",
-    "id": "ibm-ibv-editorial-lead-chicago"
+    "job_description": "Data Science job for the role Quality Assurance, Inspector I at Sacramento, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-quality-assurance-inspector-sacramento"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Designer Intern",
-    "job_city": "Multiple Cities",
+    "employer_name": "AiJobs",
+    "job_title": "ML/AI Engineer",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Designer Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54784&source=WEB_Search_NA",
-    "id": "ibm-designer-intern-multiple-cities"
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role ML/AI Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/156147606-ml-ai-engineer",
+    "id": "aijobs-ml-ai-engineer-unknown"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Private Equity Industry Program Manager",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Private Equity Industry Program Manager at ProfessionalNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55138&source=WEB_Search_NA",
-    "id": "ibm-private-equity-industry-program-manager-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Brand Technical Specialist Storage Hybrid Cloud & AI",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Brand Technical Specialist Storage Hybrid Cloud & AI at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55172&source=WEB_Search_NA",
-    "id": "ibm-brand-technical-specialist-storage-hybrid-cloud-ai-multiple-cities"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "EDA R&D Engineer with Emphasis on Simulation, Modeling, and Software Development",
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineer (UK)",
     "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role EDA R&D Engineer with Emphasis on Simulation, Modeling, and Software Development at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-eda-r-d-engineer-with-emphasis-on-simulation-modeling-and-software-development-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Edge AI/ML Scientist",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Edge AI/ML Scientist at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Edge-AI-ML-Scientist_R254972?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-edge-ai-ml-scientist-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Analog AI Compute System Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Analog AI Compute System Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Analog-AI-Compute-System-Engineer_R254971?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analog-ai-compute-system-engineer-us"
+    "job_state": "MT",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Applied AI Engineer (UK) at Bozeman, MT, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/149851043-applied-ai-engineer-uk",
+    "id": "aijobs-applied-ai-engineer-uk-us"
   }
 ]
