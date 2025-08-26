@@ -1,12 +1,92 @@
 [
   {
+    "employer_name": "CISCO",
+    "job_title": "1444353 - Software Engineer (QA/Test)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 1444353 - Software Engineer (QA/Test) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1444353-Software-Engineer-QA-Test/1444353",
+    "id": "cisco-1444353-software-engineer-qa-test-rtp"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Smart Building Sales Internship",
+    "job_city": "Plano",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Smart Building Sales Internship at Plano, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-smart-building-sales-internship-plano"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Maintenance Supervisor - 2nd Shift",
+    "job_city": "Grand Prairie",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maintenance Supervisor - 2nd Shift at Grand Prairie, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-maintenance-supervisor-2nd-shift-grand-prairie"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Technical Program Manager",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Principal Technical Program Manager at 5 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Technical-Program-Manager_2501920?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-technical-program-manager-5-locations"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "AI Lead",
-    "job_city": "US",
-    "job_state": "TX",
+    "job_title": "Compiler Engineer - Backend",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Lead at Houston, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157844203-ai-lead",
-    "id": "aijobs-ai-lead-us"
+    "job_description": "data science job for the role Senior Compiler Engineer - Backend at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845698-senior-compiler-engineer-backend",
+    "id": "aijobs-compiler-engineer-backend-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, AI Safety - LLM MLOps",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "3min ago",
+    "job_description": "data science job for the role Machine Learning Engineer, AI Safety - LLM MLOps at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845689-machine-learning-engineer-ai-safety-llm-mlops",
+    "id": "aijobs-machine-learning-engineer-ai-safety-llm-mlops-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SWQA Tools Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role SWQA Tools Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845694-swqa-tools-development-engineer",
+    "id": "aijobs-swqa-tools-development-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845696-senior-software-program-manager",
+    "id": "aijobs-software-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Datacenter Partner Enablement Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Datacenter Partner Enablement Engineer at US, OR, Hillsboro",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845692-datacenter-partner-enablement-engineer",
+    "id": "aijobs-datacenter-partner-enablement-engineer-hillsboro"
   }
 ]
