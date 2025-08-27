@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Engineer - Linux Tech Lead",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Engineer - Linux Tech Lead at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-engineer-linux-tech-lead/33099/74482262944",
-    "id": "arm-principal-engineer-linux-tech-lead-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Media IP Modelling",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer - Media IP Modelling at Manchester, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-software-engineer-media-ip-modelling/33099/84654857584",
-    "id": "arm-software-engineer-media-ip-modelling-manchester"
+    "job_title": "Delivery Data Science Technical Product Manager , Robotics Operations Data Solutions",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Delivery Data Science Technical Product Manager , Robotics Operations Data Solutions at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3067115/delivery-data-science-technical-product-manager-robotics-operations-data-solutions",
+    "job_posted_at": "2025-08-27T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-27T00:00:00.000Z",
+    "id": "amazon-delivery-data-science-technical-product-manager-robotics-operations-data-solutions-seattle"
   }
 ]
