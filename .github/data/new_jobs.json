@@ -1,173 +1,32 @@
 [
   {
-    "job_title": "Business Intelligence Engineer, AMX ACE Analytics",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, AMX ACE Analytics at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066489/business-intelligence-engineer-amx-ace-analytics",
-    "job_posted_at": "2025-08-26T19:13:44.712Z",
-    "job_posted_at_datetime_utc": "2025-08-26T19:13:44.712Z",
-    "id": "amazon-business-intelligence-engineer-amx-ace-analytics-seattle"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Principal AI Data Engineer",
+    "job_title": "Principal Design Manager",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal AI Data Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862762/Principal-AI-Data-Engineer",
-    "id": "microsoft-principal-ai-data-engineer-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Program Manager II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Program Manager II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863477/Program-Manager-II",
-    "id": "microsoft-program-manager-ii-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Surface Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Surface Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863198/Surface-Program-Manager",
-    "id": "microsoft-surface-program-manager-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862294/Principal-Program-Manager",
-    "id": "microsoft-principal-program-manager-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Design Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863548/Principal-Design-Manager",
+    "id": "microsoft-principal-design-manager-redmond"
   },
   {
     "employer_name": "Micron",
-    "job_title": "ENG, TPG IE DATA INTEGRATION",
+    "job_title": "Intern - DRAM Design Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role ENG, TPG IE DATA INTEGRATION at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30299613",
-    "id": "micron-eng-tpg-ie-data-integration-boise"
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Intern - DRAM Design Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30932282",
+    "id": "micron-intern-dram-design-engineer-boise"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, EGI",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Senior Data Scientist, EGI at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332825-senior-data-scientist-egi",
-    "id": "aijobs-data-scientist-egi-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Senior/Staff Applied Scientist",
-    "job_city": "Palo Alto",
-    "job_state": "US",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Senior/Staff Applied Scientist at Palo Alto",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332827-senior-staff-applied-scientist",
-    "id": "aijobs-senior-staff-applied-scientist-palo-alto"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Senior/Staff Data Scientist, Core Product",
-    "job_city": "Palo Alto",
-    "job_state": "US",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Senior/Staff Data Scientist, Core Product at Palo Alto",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332814-senior-staff-data-scientist-core-product",
-    "id": "aijobs-senior-staff-data-scientist-core-product-palo-alto"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Operations Lead",
-    "job_city": "Palo Alto",
-    "job_state": "US",
-    "job_posted_at": "26min ago",
-    "job_description": "data science job for the role Product Operations Lead at Palo Alto",
-    "job_apply_link": "https://www.aijobs.com/jobs/158337459-product-operations-lead",
-    "id": "aijobs-product-operations-lead-palo-alto"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Marketing Manager (Growth)",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "6d ago",
-    "job_description": "data science job for the role Product Marketing Manager (Growth) at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332810-product-marketing-manager-growth",
-    "id": "aijobs-product-marketing-manager-growth-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Backend",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Software Engineer, Backend at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332812-software-engineer-backend",
-    "id": "aijobs-software-engineer-backend-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Product Backend",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Software Engineer, Product Backend at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332795-software-engineer-product-backend",
-    "id": "aijobs-software-engineer-product-backend-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Machine Learning",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Software Engineer, Machine Learning at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332792-software-engineer-machine-learning",
-    "id": "aijobs-software-engineer-machine-learning-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Fullstack",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Software Engineer, Fullstack at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332790-software-engineer-fullstack",
-    "id": "aijobs-software-engineer-fullstack-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Tech Lead Manager - Generative AI Product",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Tech Lead Manager - Generative AI Product at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332797-tech-lead-manager-generative-ai-product",
-    "id": "aijobs-tech-lead-manager-generative-ai-product-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Security",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "34min ago",
-    "job_description": "data science job for the role Software Engineer, Security at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158332796-software-engineer-security",
-    "id": "aijobs-software-engineer-security-ca"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Equipment Engineer Intern",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Equipment Engineer Intern at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineer-Intern_R255011?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-equipment-engineer-intern-2-locations"
   }
 ]
