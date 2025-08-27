@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC CAD Flow and EDA Automation Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Software Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC CAD Flow and EDA Automation Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-cad-flow-and-eda-automation-engineer/33099/85467074560",
-    "id": "arm-soc-cad-flow-and-eda-automation-engineer-san-diego"
+    "job_description": "Data Science job for the role Software Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55383&source=WEB_Search_NA",
+    "id": "ibm-software-developer-lowell"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Time Series Forecasting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Data Scientist, Time Series Forecasting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158186447-data-scientist-time-series-forecasting",
-    "id": "aijobs-data-scientist-time-series-forecasting-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Economist",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior Economist at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158186451-senior-economist",
-    "id": "aijobs-economist-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "GPU Verification Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior GPU Verification Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158183169-senior-gpu-verification-architect",
-    "id": "aijobs-gpu-verification-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "NVLINK Fusion Partner and Ecosystem Development Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role NVLINK Fusion Partner and Ecosystem Development Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158183181-nvlink-fusion-partner-and-ecosystem-development-manager",
-    "id": "aijobs-nvlink-fusion-partner-and-ecosystem-development-manager-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Traffic and Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer - Traffic and Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158183173-senior-software-engineer-traffic-and-networking",
-    "id": "aijobs-software-engineer-traffic-and-networking-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Security Researcher, Security Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Security Researcher, Security Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158186446-security-researcher-security-products",
-    "id": "aijobs-security-researcher-security-products-united-states"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Device Integration Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Device Integration Engineer at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Device-Integration-Engineer_R254627?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-device-integration-engineer-3-locations"
   }
 ]
