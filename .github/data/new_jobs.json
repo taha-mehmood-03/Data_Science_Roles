@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Physical Implementation Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "employer_name": "CISCO",
+    "job_title": "Architect - Technical Lead - Security & Compliance / Cloud Software",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Physical Implementation Engineer at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/senior-physical-implementation-engineer/33099/77284796544",
-    "id": "arm-physical-implementation-engineer-trondheim"
+    "job_description": "Data Science job for the role Architect - Technical Lead - Security & Compliance / Cloud Software at Boston, Massachusetts, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Architect-Technical-Lead-Security-Compliance-Cloud-Software/1448877",
+    "id": "cisco-architect-technical-lead-security-compliance-cloud-software-boston"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer in System Test",
-    "job_city": "Munich",
-    "job_state": "Germany",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer in System Test at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/software-engineer-in-system-test/33099/85484261296",
-    "id": "arm-software-engineer-in-system-test-munich"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer - DFT",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Engineer - DFT at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-engineer-dft/33099/71419040416",
-    "id": "arm-engineer-dft-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer - Media IP",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Verification Engineer - Media IP at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-verification-engineer-media-ip/33099/73900140464",
-    "id": "arm-verification-engineer-media-ip-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Principal System Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal System Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-system-architect/33099/75995709664",
-    "id": "arm-principal-system-architect-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Engineer",
-    "job_city": "Phoenix",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Engineer at ProfessionalPhoenix, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54847&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-phoenix"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Technology Sales Representative - US Federal - Department of Energy",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Technology Sales Representative - US Federal - Department of Energy at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55362&source=WEB_Search_NA",
-    "id": "ibm-ibm-technology-sales-representative-us-federal-department-of-energy-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Enterprise Account Executive",
+    "job_city": "United States",
+    "job_state": "New York",
+    "job_posted_at": "53min ago",
+    "job_description": "data science job for the role Enterprise Account Executive at New York, New York, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158308261-enterprise-account-executive",
+    "id": "aijobs-enterprise-account-executive-united-states"
   }
 ]
