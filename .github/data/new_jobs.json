@@ -1,32 +1,72 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Consulting Engineer I (Intern) United States",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
+    "employer_name": "Arm",
+    "job_title": "SoC CAD Flow and EDA Automation Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044",
-    "id": "cisco-consulting-engineer-i-intern-united-states-rtp"
+    "job_description": "Data Science job for the role SoC CAD Flow and EDA Automation Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-cad-flow-and-eda-automation-engineer/33099/85467074560",
+    "id": "arm-soc-cad-flow-and-eda-automation-engineer-san-diego"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Consulting Engineer I (Intern) United States",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-I-Intern-United-States/1448054",
-    "id": "cisco-software-consulting-engineer-i-intern-united-states-rtp"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Time Series Forecasting",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Data Scientist, Time Series Forecasting at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158186447-data-scientist-time-series-forecasting",
+    "id": "aijobs-data-scientist-time-series-forecasting-united-states"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Security Consulting Engineer I (Intern) United States",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053",
-    "id": "cisco-security-consulting-engineer-i-intern-united-states-rtp"
+    "employer_name": "AiJobs",
+    "job_title": "Economist",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior Economist at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158186451-senior-economist",
+    "id": "aijobs-economist-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GPU Verification Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior GPU Verification Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183169-senior-gpu-verification-architect",
+    "id": "aijobs-gpu-verification-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "NVLINK Fusion Partner and Ecosystem Development Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role NVLINK Fusion Partner and Ecosystem Development Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183181-nvlink-fusion-partner-and-ecosystem-development-manager",
+    "id": "aijobs-nvlink-fusion-partner-and-ecosystem-development-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Traffic and Networking",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer - Traffic and Networking at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158183173-senior-software-engineer-traffic-and-networking",
+    "id": "aijobs-software-engineer-traffic-and-networking-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Security Researcher, Security Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Security Researcher, Security Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/158186446-security-researcher-security-products",
+    "id": "aijobs-security-researcher-security-products-united-states"
   }
 ]
