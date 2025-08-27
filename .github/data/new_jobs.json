@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Quality Assurance, Inspector",
-    "job_city": "Sacramento",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "Consulting Engineer I (Intern) United States",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quality Assurance, Inspector I at Sacramento, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-quality-assurance-inspector-sacramento"
+    "job_description": "Data Science job for the role Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044",
+    "id": "cisco-consulting-engineer-i-intern-united-states-rtp"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "ML/AI Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role ML/AI Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/156147606-ml-ai-engineer",
-    "id": "aijobs-ml-ai-engineer-unknown"
+    "employer_name": "CISCO",
+    "job_title": "Software Consulting Engineer I (Intern) United States",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-I-Intern-United-States/1448054",
+    "id": "cisco-software-consulting-engineer-i-intern-united-states-rtp"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Applied AI Engineer (UK)",
-    "job_city": "US",
-    "job_state": "MT",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Applied AI Engineer (UK) at Bozeman, MT, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/149851043-applied-ai-engineer-uk",
-    "id": "aijobs-applied-ai-engineer-uk-us"
+    "employer_name": "CISCO",
+    "job_title": "Security Consulting Engineer I (Intern) United States",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Security Consulting Engineer I (Intern) United States at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/1448053",
+    "id": "cisco-security-consulting-engineer-i-intern-united-states-rtp"
   }
 ]
