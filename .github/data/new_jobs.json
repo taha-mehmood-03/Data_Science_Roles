@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Business Systems Analyst, SAP - IBP and APO",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Business Systems Analyst, SAP - IBP and APO at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390308-senior-business-systems-analyst-sap-ibp-and-apo",
-    "id": "aijobs-business-systems-analyst-sap-ibp-and-apo-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Recipe Pathfinding",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer, Recipe Pathfinding at US, WA, Redmond",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390310-senior-software-engineer-recipe-pathfinding",
-    "id": "aijobs-software-engineer-recipe-pathfinding-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Site Reliability Engineer, AI Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Site Reliability Engineer, AI Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390312-senior-site-reliability-engineer-ai-infrastructure",
-    "id": "aijobs-site-reliability-engineer-ai-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software QA Test Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior Software QA Test Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390301-senior-software-qa-test-development-engineer",
-    "id": "aijobs-software-qa-test-development-engineer-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Z-Stack",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Z-Stack at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55491&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-z-stack-multiple-cities"
   }
 ]
