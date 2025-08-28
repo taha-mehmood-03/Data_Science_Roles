@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Minecraft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Software Engineer",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: Data Scientist, Personalization. Level: All Levels. Posted: Recently. Full Title: Data Scientist, Personalization - Minecraft",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864668/Data-Scientist%2C-Personalization---Minecraft",
-    "id": "microsoft-minecraft-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862245/Software-Engineer",
+    "id": "microsoft-software-engineer-multiple-locations"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Yield Technology Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Intern - Yield Technology Equipment at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30894304",
+    "id": "micron-intern-yield-technology-equipment-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27454445",
+    "id": "micron-equipment-maintenance-technician-manassas"
   }
 ]
