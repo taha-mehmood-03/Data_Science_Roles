@@ -1,32 +1,75 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Industry Specialist - Risk, Special Projects and Investigations",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Industry Specialist - Risk, Special Projects and Investigations at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2957586/industry-specialist-risk-special-projects-and-investigations",
+    "job_posted_at": "2025-08-28T18:12:47.239Z",
+    "job_posted_at_datetime_utc": "2025-08-28T18:12:47.239Z",
+    "id": "amazon-industry-specialist-risk-special-projects-and-investigations-seattle"
+  },
+  {
+    "job_title": "Business Analyst II, Customer Partner Trust",
+    "employer_name": "Amazon",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_description": "Data Science job for the role Business Analyst II, Customer Partner Trust at Tempe, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999527/business-analyst-ii-customer-partner-trust",
+    "job_posted_at": "2025-08-28T18:12:47.239Z",
+    "job_posted_at_datetime_utc": "2025-08-28T18:12:47.239Z",
+    "id": "amazon-business-analyst-ii-customer-partner-trust-tempe"
+  },
+  {
+    "job_title": "Tech Infra Program Manager II - AMZ9085030",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Tech Infra Program Manager II - AMZ9085030 at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3067162/tech-infra-program-manager-ii-amz9085030",
+    "job_posted_at": "2025-08-27T21:12:47.239Z",
+    "job_posted_at_datetime_utc": "2025-08-27T21:12:47.239Z",
+    "id": "amazon-tech-infra-program-manager-ii-amz9085030-herndon"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Product Data Scientist",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862245/Software-Engineer",
-    "id": "microsoft-software-engineer-multiple-locations"
+    "job_description": "4 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Data Scientist, Geo Developer and Sustainability",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/130391175562437318-senior-product-data-scientist-geo-developer-and-sustainability?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-product-data-scientist-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Server Firmware Development Director",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Server Firmware Development Director at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/server-firmware-development-director/33099/85527445088",
+    "id": "arm-server-firmware-development-director-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Benchmarking and Performance Verification Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CPU Benchmarking and Performance Verification Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-benchmarking-and-performance-verification-engineer/33099/83868288592",
+    "id": "arm-cpu-benchmarking-and-performance-verification-engineer-sophia-antipolis"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Intern - Yield Technology Equipment",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Intern - Yield Technology Equipment at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30894304",
-    "id": "micron-intern-yield-technology-equipment-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Equipment Maintenance Technician",
+    "job_title": "Failure Analysis Product and Process Technician",
     "job_city": "Manassas",
     "job_state": "Virginia",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Equipment Maintenance Technician at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27454445",
-    "id": "micron-equipment-maintenance-technician-manassas"
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Failure Analysis Product and Process Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30866747",
+    "id": "micron-failure-analysis-product-and-process-technician-manassas"
   }
 ]
