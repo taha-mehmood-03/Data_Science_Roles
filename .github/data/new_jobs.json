@@ -1,13 +1,73 @@
 [
   {
-    "job_title": "Business Analyst, WW Fulfillment by Amazon - Product & Tech Finance",
+    "job_title": "Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science",
     "employer_name": "Amazon",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Business Analyst, WW Fulfillment by Amazon - Product & Tech Finance at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3052886/business-analyst-ww-fulfillment-by-amazon-product-tech-finance",
-    "job_posted_at": "2025-08-28T19:16:54.657Z",
-    "job_posted_at_datetime_utc": "2025-08-28T19:16:54.657Z",
-    "id": "amazon-business-analyst-ww-fulfillment-by-amazon-product-tech-finance-bellevue"
+    "job_description": "Data Science job for the role Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3068728/applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science",
+    "job_posted_at": "2025-08-28T20:14:17.452Z",
+    "job_posted_at_datetime_utc": "2025-08-28T20:14:17.452Z",
+    "id": "amazon-applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science-bellevue"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Software Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Software Development Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/31029158",
+    "id": "micron-software-development-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant - Architecture",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Consultant - Architecture at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55536&source=WEB_Search_NA",
+    "id": "ibm-consultant-architecture-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM z/OS Software Developer for System SSL",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IBM z/OS Software Developer for System SSL at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA",
+    "id": "ibm-ibm-z-os-software-developer-for-system-ssl-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant - SAP MM",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant - SAP MM at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55548&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-mm-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Product Manager I at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55466&source=WEB_Search_NA",
+    "id": "ibm-sr-product-manager-multiple-cities"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Research Scientist, Biomedical Algorithms (PhD)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Sr. Research Scientist, Biomedical Algorithms (PhD) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Research-Scientist_R245210?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-research-scientist-biomedical-algorithms-phd-us"
   }
 ]
