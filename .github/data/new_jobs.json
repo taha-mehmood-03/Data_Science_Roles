@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Product Yield Analysis and Analytics (Research)",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern - Product Yield Analysis and Analytics (Research) at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30954496",
+    "id": "micron-intern-product-yield-analysis-and-analytics-research-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "HR Summer Internship",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role HR Summer Internship 2026 at InternshipArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55800&source=WEB_Search_NA",
+    "id": "ibm-hr-summer-internship-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Datacenter Manager - Dallas 10 Datacenter",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Datacenter Manager - Dallas 10 Datacenter at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54495&source=WEB_Search_NA",
+    "id": "ibm-datacenter-manager-dallas-10-datacenter-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant SAP Treasury",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant SAP Treasury at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55522&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-treasury-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist and Analyst",
+    "job_city": "US",
+    "job_state": "Dallas-Fort Worth Metroplex",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist and Analyst at Dallas-Fort Worth Metroplex, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158701496-data-scientist-and-analyst",
+    "id": "aijobs-data-scientist-and-analyst-us"
+  }
+]
