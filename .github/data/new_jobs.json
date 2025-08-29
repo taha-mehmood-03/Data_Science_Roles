@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Director, Technical Marketing Engineering - Enterprise Networking & Security",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, Technical Marketing Engineering - Enterprise Networking & Security at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Director-Technical-Marketing-Engineering-Enterprise-Networking-Security/1447985",
-    "id": "cisco-director-technical-marketing-engineering-enterprise-networking-security-san-jose"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Financial Analyst",
-    "job_city": "Peachtree Corners",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Financial Analyst at Peachtree Corners, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-financial-analyst-peachtree-corners"
+    "job_title": "Business Intelligence Engineer, Amazon Logistics, WW AMZL Business Intelligence and Analytics - ORBIT",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Amazon Logistics, WW AMZL Business Intelligence and Analytics - ORBIT at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2954413/business-intelligence-engineer-amazon-logistics-ww-amzl-business-intelligence-and-analytics-orbit",
+    "job_posted_at": "2025-08-29T22:14:17.743Z",
+    "job_posted_at_datetime_utc": "2025-08-29T22:14:17.743Z",
+    "id": "amazon-business-intelligence-engineer-amazon-logistics-ww-amzl-business-intelligence-and-analytics-orbit-bellevue"
   }
 ]
