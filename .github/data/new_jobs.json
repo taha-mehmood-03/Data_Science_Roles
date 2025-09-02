@@ -1,74 +1,32 @@
 [
   {
-    "job_title": "Data Scientist, SAMBA",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Data Scientist, SAMBA at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2967069/data-scientist-samba",
-    "job_posted_at": "2025-09-02T20:13:38.872Z",
-    "job_posted_at_datetime_utc": "2025-09-02T20:13:38.872Z",
-    "id": "amazon-data-scientist-samba-newark"
-  },
-  {
-    "job_title": "AMER Business Program Manager, Controls Deployment and Service, and Global Program Team",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role AMER Business Program Manager, Controls Deployment and Service, and Global Program Team at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2990286/amer-business-program-manager-controls-deployment-and-service-and-global-program-team",
-    "job_posted_at": "2025-09-02T20:13:38.872Z",
-    "job_posted_at_datetime_utc": "2025-09-02T20:13:38.872Z",
-    "id": "amazon-amer-business-program-manager-controls-deployment-and-service-and-global-program-team-herndon"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Package Design and Development Quality Assurance (DDQA) Data Analytics Engineer",
+    "job_title": "Intern - Technician, Process",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Package Design and Development Quality Assurance (DDQA) Data Analytics Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37795906",
-    "id": "micron-package-design-and-development-quality-assurance-ddqa-data-analytics-engineer-boise"
+    "job_description": "Data Science job for the role Intern - Technician, Process at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/37798378",
+    "id": "micron-intern-technician-process-boise"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Global Quality Process Control System (PCS) Senior Engineer",
+    "job_title": "Workforce Development Specialist LMS Administrator",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Global Quality Process Control System (PCS) Senior Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30185992",
-    "id": "micron-global-quality-process-control-system-pcs-senior-engineer-boise"
+    "job_description": "Data Science job for the role Workforce Development Specialist LMS Administrator at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30764785",
+    "id": "micron-workforce-development-specialist-lms-administrator-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data and AI Technology Sales Engineer - Data Intelligence",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Product Management Specialist II (Full Time) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data and AI Technology Sales Engineer - Data Intelligence at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55168&source=WEB_Search_NA",
-    "id": "ibm-data-and-ai-technology-sales-engineer-data-intelligence-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "EPM Practice Director",
-    "job_city": "HUNTSVILLE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role EPM Practice Director at ProfessionalHUNTSVILLE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55302&source=WEB_Search_NA",
-    "id": "ibm-epm-practice-director-huntsville"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Digital Sales Specialist - Storage",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Sales Specialist - Storage at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55132&source=WEB_Search_NA",
-    "id": "ibm-digital-sales-specialist-storage-austin"
+    "job_description": "Data Science job for the role Product Management Specialist II (Full Time) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-II-Full-Time-United-States/1448051",
+    "id": "cisco-product-management-specialist-ii-full-time-united-states-san-jose"
   }
 ]
