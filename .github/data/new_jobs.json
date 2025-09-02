@@ -1,52 +1,74 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive Majors - Retail/CPG",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive Majors - Retail/CPG at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55984&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-majors-retail-cpg-multiple-cities"
+    "job_title": "Data Scientist, SAMBA",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Data Science job for the role Data Scientist, SAMBA at Newark, NJ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2967069/data-scientist-samba",
+    "job_posted_at": "2025-09-02T20:13:38.872Z",
+    "job_posted_at_datetime_utc": "2025-09-02T20:13:38.872Z",
+    "id": "amazon-data-scientist-samba-newark"
+  },
+  {
+    "job_title": "AMER Business Program Manager, Controls Deployment and Service, and Global Program Team",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role AMER Business Program Manager, Controls Deployment and Service, and Global Program Team at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2990286/amer-business-program-manager-controls-deployment-and-service-and-global-program-team",
+    "job_posted_at": "2025-09-02T20:13:38.872Z",
+    "job_posted_at_datetime_utc": "2025-09-02T20:13:38.872Z",
+    "id": "amazon-amer-business-program-manager-controls-deployment-and-service-and-global-program-team-herndon"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Package Design and Development Quality Assurance (DDQA) Data Analytics Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Package Design and Development Quality Assurance (DDQA) Data Analytics Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37795906",
+    "id": "micron-package-design-and-development-quality-assurance-ddqa-data-analytics-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Global Quality Process Control System (PCS) Senior Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Global Quality Process Control System (PCS) Senior Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30185992",
+    "id": "micron-global-quality-process-control-system-pcs-senior-engineer-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Apptio -  Solutions Consultant - Digital Sales",
+    "job_title": "Data and AI Technology Sales Engineer - Data Intelligence",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data and AI Technology Sales Engineer - Data Intelligence at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55168&source=WEB_Search_NA",
+    "id": "ibm-data-and-ai-technology-sales-engineer-data-intelligence-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "EPM Practice Director",
+    "job_city": "HUNTSVILLE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role EPM Practice Director at ProfessionalHUNTSVILLE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55302&source=WEB_Search_NA",
+    "id": "ibm-epm-practice-director-huntsville"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist - Storage",
     "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Apptio -  Solutions Consultant - Digital Sales at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
-    "id": "ibm-apptio-solutions-consultant-digital-sales-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Client Engineering Innovation Designer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Client Engineering Innovation Designer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54096&source=WEB_Search_NA",
-    "id": "ibm-client-engineering-innovation-designer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Software Sales Specialist - zStack",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Software Sales Specialist - zStack at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55129&source=WEB_Search_NA",
-    "id": "ibm-technology-software-sales-specialist-zstack-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Go-To-Market (GTM) Lead - Salesforce",
-    "job_city": "Brookhaven",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Go-To-Market (GTM) Lead - Salesforce at ProfessionalBrookhaven, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56015&source=WEB_Search_NA",
-    "id": "ibm-go-to-market-gtm-lead-salesforce-brookhaven"
+    "job_description": "Data Science job for the role Digital Sales Specialist - Storage at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55132&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-storage-austin"
   }
 ]
