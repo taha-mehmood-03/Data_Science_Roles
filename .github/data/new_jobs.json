@@ -1,44 +1,33 @@
 [
   {
-    "job_title": "Applied Scientist, Artificial General Intelligence",
+    "job_title": "Applied Scientist, AWS Agentic AI Science",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Artificial General Intelligence at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071222/applied-scientist-artificial-general-intelligence",
-    "job_posted_at": "2025-09-02T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-02T00:00:00.000Z",
-    "id": "amazon-applied-scientist-artificial-general-intelligence-bellevue"
+    "job_description": "Data Science job for the role Applied Scientist, AWS Agentic AI Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3033189/applied-scientist-aws-agentic-ai-science",
+    "job_posted_at": "2025-09-02T18:15:53.391Z",
+    "job_posted_at_datetime_utc": "2025-09-02T18:15:53.391Z",
+    "id": "amazon-applied-scientist-aws-agentic-ai-science-seattle"
   },
   {
-    "job_title": "Deep Learning Architect, Generative AI Innovation Center",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Deep Learning Architect, Generative AI Innovation Center at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071234/deep-learning-architect-generative-ai-innovation-center",
-    "job_posted_at": "2025-09-02T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-02T00:00:00.000Z",
-    "id": "amazon-deep-learning-architect-generative-ai-innovation-center-new-york"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Linux Kernel",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Specialist",
+    "job_city": "Tallahassee",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Software Engineer - Linux Kernel at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-software-engineer-linux-kernel/33099/84081698816",
-    "id": "arm-software-engineer-linux-kernel-cambridge"
+    "job_description": "Data Science job for the role Building Automation Service Specialist at Tallahassee, Florida, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-specialist-tallahassee"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "System Level Product Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Account Executive",
+    "job_city": "Pittsburgh",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff System Level Product Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-system-level-product-engineer/33099/85702733840",
-    "id": "arm-system-level-product-engineer-austin"
+    "job_description": "Data Science job for the role Building Automation Service Account Executive at Pittsburgh, Pennsylvania, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-account-executive-pittsburgh"
   }
 ]
