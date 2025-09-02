@@ -1,42 +1,33 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "AI Business Solutions",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business Strategy Analyst. Level: All Levels. Posted: Recently. Full Title: Business Strategy Analyst - AI Business Solutions",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862712/Business-Strategy-Analyst---AI-Business-Solutions",
-    "id": "microsoft-ai-business-solutions-multiple-locations"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Software Engineer, SECS/GEM",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "Data Science job for the role Software Engineer, SECS/GEM at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30764716",
-    "id": "micron-software-engineer-secs-gem-boise"
+    "job_title": "Program Manager, Elevated Shopping",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Program Manager, Elevated Shopping at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2997963/program-manager-elevated-shopping",
+    "job_posted_at": "2025-08-29T17:13:06.268Z",
+    "job_posted_at_datetime_utc": "2025-08-29T17:13:06.268Z",
+    "id": "amazon-program-manager-elevated-shopping-new-york"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services",
-    "job_city": "Bellevue",
+    "job_title": "Genesis Program: Services Associate Consultant - Apply Now!",
+    "job_city": "Milford",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services at Bellevue, Washington, United States of America",
+    "job_description": "Data Science job for the role Genesis Program: Services Associate Consultant - Apply Now! at Milford, Ohio, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-field-service-engineer-or-electrical-service-specialist-hyper-scale-data-centers-electrical-services-bellevue"
+    "id": "siemens-genesis-program-services-associate-consultant-apply-now-milford"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Supply Chain / Inventory Control Internship- Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
+    "job_title": "Genesis Program: Presales Solution Associate Consultant - Apply Now!",
+    "job_city": "Milford",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Supply Chain / Inventory Control Internship- Rolling Stock (Summer 2026) at Sacramento, California, United States of America",
+    "job_description": "Data Science job for the role Genesis Program: Presales Solution Associate Consultant - Apply Now! at Milford, Ohio, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-supply-chain-inventory-control-internship-rolling-stock-summer-2026-sacramento"
+    "id": "siemens-genesis-program-presales-solution-associate-consultant-apply-now-milford"
   }
 ]
