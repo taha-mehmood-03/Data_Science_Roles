@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Product Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Product Manager 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56278&source=WEB_Search_NA",
-    "id": "ibm-entry-level-product-manager-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Software Engineer Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 15 days ago",
+    "job_description": "Data Science job for the role Senior Software Engineer Architect at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30766193",
+    "id": "micron-software-engineer-architect-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Product Manager Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Manager Intern  2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56279&source=WEB_Search_NA",
-    "id": "ibm-product-manager-intern-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Research Scientist (Computer Vision)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Machine Learning Research Scientist (Computer Vision) at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/159931504-machine-learning-research-scientist-computer-vision",
+    "id": "aijobs-machine-learning-research-scientist-computer-vision-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision Engineer - 033QE",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "50min ago",
+    "job_description": "data science job for the role Computer Vision Engineer - 033QE at San Diego, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/159931503-computer-vision-engineer-033qe",
+    "id": "aijobs-computer-vision-engineer-033qe-us"
   }
 ]
