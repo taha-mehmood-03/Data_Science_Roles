@@ -1,33 +1,45 @@
 [
   {
-    "job_title": "Program Manager, Elevated Shopping",
+    "job_title": "Business Intelligence Engineer, DC Security Ops Excellence",
     "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Program Manager, Elevated Shopping at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2997963/program-manager-elevated-shopping",
-    "job_posted_at": "2025-08-29T17:13:06.268Z",
-    "job_posted_at_datetime_utc": "2025-08-29T17:13:06.268Z",
-    "id": "amazon-program-manager-elevated-shopping-new-york"
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, DC Security Ops Excellence at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960632/business-intelligence-engineer-dc-security-ops-excellence",
+    "job_posted_at": "2025-09-02T17:19:15.273Z",
+    "job_posted_at_datetime_utc": "2025-09-02T17:19:15.273Z",
+    "id": "amazon-business-intelligence-engineer-dc-security-ops-excellence-herndon"
+  },
+  {
+    "job_title": "Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071057/data-engineer-amazon-ads-finance-sales-incentive-compensation",
+    "job_posted_at": "2025-09-02T17:19:15.273Z",
+    "job_posted_at_datetime_utc": "2025-09-02T17:19:15.273Z",
+    "id": "amazon-data-engineer-amazon-ads-finance-sales-incentive-compensation-culver-city"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, P2 Science, Data, and Insights",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, P2 Science, Data, and Insights at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3070853/business-intelligence-engineer-p2-science-data-and-insights",
+    "job_posted_at": "2025-09-02T16:19:15.273Z",
+    "job_posted_at_datetime_utc": "2025-09-02T16:19:15.273Z",
+    "id": "amazon-business-intelligence-engineer-p2-science-data-and-insights-seattle"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Genesis Program: Services Associate Consultant - Apply Now!",
-    "job_city": "Milford",
+    "job_title": "Production Manager - in the factory with AI-powered machines",
+    "job_city": "Broken Arrow",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Genesis Program: Services Associate Consultant - Apply Now! at Milford, Ohio, United States of America",
+    "job_description": "Data Science job for the role Production Manager - in the factory with AI-powered machines at Broken Arrow, Oklahoma, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-genesis-program-services-associate-consultant-apply-now-milford"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Genesis Program: Presales Solution Associate Consultant - Apply Now!",
-    "job_city": "Milford",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Genesis Program: Presales Solution Associate Consultant - Apply Now! at Milford, Ohio, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-genesis-program-presales-solution-associate-consultant-apply-now-milford"
+    "id": "siemens-production-manager-in-the-factory-with-ai-powered-machines-broken-arrow"
   }
 ]
