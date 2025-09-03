@@ -1,12 +1,35 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Business Intelligence Analyst",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Intelligence Analyst at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/business-intelligence-analyst/33099/85728968160",
-    "id": "arm-business-intelligence-analyst-bengaluru"
+    "job_title": "Data Engineer I, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer I, Intelligent Talent Acquisition at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071768/data-engineer-i-intelligent-talent-acquisition",
+    "job_posted_at": "2025-09-03T13:15:14.094Z",
+    "job_posted_at_datetime_utc": "2025-09-03T13:15:14.094Z",
+    "id": "amazon-data-engineer-i-intelligent-talent-acquisition-seattle"
+  },
+  {
+    "job_title": "AI Engineer, Workforce Intelligence",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role AI Engineer, Workforce Intelligence at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071774/ai-engineer-workforce-intelligence",
+    "job_posted_at": "2025-09-03T13:15:14.094Z",
+    "job_posted_at_datetime_utc": "2025-09-03T13:15:14.094Z",
+    "id": "amazon-ai-engineer-workforce-intelligence-arlington"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Irving",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Intelligent Talent Acquisition at Irving, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071772/business-intelligence-engineer-intelligent-talent-acquisition",
+    "job_posted_at": "2025-09-03T13:15:14.094Z",
+    "job_posted_at_datetime_utc": "2025-09-03T13:15:14.094Z",
+    "id": "amazon-business-intelligence-engineer-intelligent-talent-acquisition-irving"
   }
 ]
