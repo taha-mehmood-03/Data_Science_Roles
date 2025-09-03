@@ -1,42 +1,43 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer/33099/85732810304",
-    "id": "arm-software-engineer-bengaluru"
+    "job_title": "AI/ML Engineer, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role AI/ML Engineer, Intelligent Talent Acquisition at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071774/ai-ml-engineer-intelligent-talent-acquisition",
+    "job_posted_at": "2025-09-03T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-03T00:00:00.000Z",
+    "id": "amazon-ai-ml-engineer-intelligent-talent-acquisition-arlington"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Postdoctoral Researcher",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Postdoctoral Researcher at Entry LevelSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
-    "id": "ibm-postdoctoral-researcher-san-jose"
+    "employer_name": "Micron",
+    "job_title": "Engineer, Shift Process - Diffusion and Implant",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Engineer, Shift Process - Diffusion and Implant at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/31029832",
+    "id": "micron-engineer-shift-process-diffusion-and-implant-boise"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Technical Solutions Manager - Life Sciences Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Technical Solutions Manager - Life Sciences Automation at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007665/Technical-Solutions-Manager-Life-Sciences-Automation",
-    "id": "abb-technical-solutions-manager-life-sciences-automation-multiple"
+    "employer_name": "SIEMENS",
+    "job_title": "Data Analyst Internship- Rolling Stock- Lexington, NC",
+    "job_city": "Lexington",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Analyst Internship- Rolling Stock- Lexington, NC at Lexington, North Carolina, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-data-analyst-internship-rolling-stock-lexington-nc-lexington"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer PhD (Intern) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer PhD (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
-    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Manager - Site Reliability Engineering (SRE)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Sr. Manager - Site Reliability Engineering (SRE) at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sr-Manager---Site-Reliability-Engineering--SRE-_R251663?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-manager-site-reliability-engineering-sre-us"
   }
 ]
