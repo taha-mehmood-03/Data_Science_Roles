@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Demand Planning Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Demand Planning Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861737/Demand-Planning-Manager",
+    "id": "microsoft-demand-planning-manager-redmond"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Manager External Wafer Manufacturing Operations",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager External Wafer Manufacturing Operations at Austin",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-manager-external-wafer-manufacturing-operations-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "AI Operations Engineer II (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Operations Engineer II (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Operations-Engineer-II-Intern-United-States/1449533",
+    "id": "cisco-ai-operations-engineer-ii-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer - Cloud & AI",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Solutions Engineer - Cloud & AI at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Solutions-Engineer-Cloud-AI/1448738",
+    "id": "cisco-solutions-engineer-cloud-ai-offsite"
+  }
+]
