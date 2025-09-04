@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "intern-Technician, Equipment",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 2 days ago",
-    "job_description": "Data Science job for the role intern-Technician, Equipment at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/37808232",
-    "id": "micron-intern-technician-equipment-boise"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sr Manager Research Scientist – Healthcare Algorithms",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Sr Manager Research Scientist – Healthcare Algorithms at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Research-Scientist---Healthcare-Algorithms_R242724?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sr-manager-research-scientist-healthcare-algorithms-us"
+    "job_title": "Data Scientist, AWS Compliance & Security Assurance",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, AWS Compliance & Security Assurance at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039499/data-scientist-aws-compliance-security-assurance",
+    "job_posted_at": "2025-09-04T16:13:08.726Z",
+    "job_posted_at_datetime_utc": "2025-09-04T16:13:08.726Z",
+    "id": "amazon-data-scientist-aws-compliance-security-assurance-seattle"
   }
 ]
