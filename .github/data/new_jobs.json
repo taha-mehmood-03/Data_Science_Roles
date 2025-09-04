@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Professional Intern:",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Cloud Capacity Allocation and Enablement Finance Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Support Professional Intern: 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56286&source=WEB_Search_NA",
-    "id": "ibm-technical-support-professional-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Client Engineering AI Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Client Engineering AI Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54636&source=WEB_Search_NA",
-    "id": "ibm-client-engineering-ai-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Support Engineer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Support Engineer at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47946&source=WEB_Search_NA",
-    "id": "ibm-sr-support-engineer-san-francisco"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Corporate Strategy Consultant",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Corporate Strategy Consultant at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56804&source=WEB_Search_NA",
-    "id": "ibm-corporate-strategy-consultant-new-york"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Cloud Capacity Allocation and Enablement Finance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849389/Cloud-Capacity-Allocation-and-Enablement-Finance-Manager",
+    "id": "microsoft-cloud-capacity-allocation-and-enablement-finance-manager-redmond"
   }
 ]
