@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Metrology Process Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Intern - Metrology Process Development Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37814552",
-    "id": "micron-intern-metrology-process-development-engineer-boise"
+    "job_title": "AI Content Expert II (Career Fair), AGI Data Services",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role AI Content Expert II (Career Fair), AGI Data Services at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services",
+    "job_posted_at": "2025-09-04T18:12:16.254Z",
+    "job_posted_at_datetime_utc": "2025-09-04T18:12:16.254Z",
+    "id": "amazon-ai-content-expert-ii-career-fair-agi-data-services-boston"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, High Performance Computing Lab & Data Center",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, High Performance Computing Lab & Data Center at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-high-performance-computing-lab-and-data-center/33099/83658645696",
+    "id": "arm-manager-high-performance-computing-lab-data-center-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "DevOps Engineer - Embedded Linux",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff DevOps Engineer - Embedded Linux at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-devops-engineer-embedded-linux/33099/84984916608",
+    "id": "arm-devops-engineer-embedded-linux-cambridge"
   }
 ]
