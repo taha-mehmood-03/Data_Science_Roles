@@ -1,152 +1,62 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Blending Regional Manager China",
+    "job_title": "R&D Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Blending Regional Manager China at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001148/Blending-Regional-Manager-China",
-    "id": "abb-blending-regional-manager-china-not-specific"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role R&D Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005169/R-D-Engineer",
+    "id": "abb-r-d-engineer-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Warehouse/Material Operator",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Warehouse/Material Operator at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004363/Warehouse-Material-Operator",
-    "id": "abb-warehouse-material-operator-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Temp HSE Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Temp HSE Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00003754/Temp-HSE-Specialist",
-    "id": "abb-temp-hse-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Procurement Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Procurement Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00003392/Procurement-Specialist",
-    "id": "abb-procurement-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist (80-100%)",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist (80-100%) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004184/Sales-Specialist-80-100",
-    "id": "abb-sales-specialist-80-100-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Machine Operator-3 (3rd shift - Set-Up - Press)",
+    "job_title": "Project Lead Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Machine Operator-3 (3rd shift - Set-Up - Press) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96534222/Machine-Operator-3-3rd-shift-Set-Up-Press",
-    "id": "abb-machine-operator-3-3rd-shift-set-up-press-not-specific"
+    "job_description": "Data Science job for the role Project Lead Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96918853/Project-Lead-Engineer",
+    "id": "abb-project-lead-engineer-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Financial Planning & Analysis Analyst",
+    "job_title": "Product Manager Motion (m/f/d)",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Financial Planning & Analysis Analyst at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008894/Financial-Planning-Analysis-Analyst",
-    "id": "abb-financial-planning-analysis-analyst-not-specific"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Product Manager Motion (m/f/d) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007146/Product-Manager-Motion-m-f-d",
+    "id": "abb-product-manager-motion-m-f-d-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Productivity Solutions & Strategy Lead",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Productivity Solutions & Strategy Lead at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007830/Productivity-Solutions-Strategy-Lead",
-    "id": "abb-productivity-solutions-strategy-lead-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr R&D Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Sr R&D Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00000655/Sr-R-D-Engineer",
-    "id": "abb-sr-r-d-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Prompt Engineer - Generative AI",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Prompt Engineer - Generative AI at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/95720322/Prompt-Engineer-Generative-AI",
-    "id": "abb-prompt-engineer-generative-ai-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Engineer - Signal Processing",
+    "job_title": "Sales Controller",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Senior Engineer - Signal Processing at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96074892/Senior-Engineer-Signal-Processing",
-    "id": "abb-senior-engineer-signal-processing-not-specific"
+    "job_description": "Data Science job for the role Sales Controller at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96251888/Sales-Controller",
+    "id": "abb-sales-controller-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Principal R&D SW Engineer",
+    "job_title": "Senior Service Sales Specialist",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Principal R&D SW Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/95656521/Principal-R-D-SW-Engineer",
-    "id": "abb-principal-r-d-sw-engineer-not-specific"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Service Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006086/Senior-Service-Sales-Specialist",
+    "id": "abb-senior-service-sales-specialist-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Functional Analyst",
+    "job_title": "Front End Developer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Business Functional Analyst at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96937752/Business-Functional-Analyst",
-    "id": "abb-business-functional-analyst-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Demand - Senior Field Service Technician",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Demand - Senior Field Service Technician at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96693047/Demand-Senior-Field-Service-Technician",
-    "id": "abb-demand-senior-field-service-technician-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Risk and Internal Controls Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Risk and Internal Controls Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/95155979/Risk-and-Internal-Controls-Manager",
-    "id": "abb-risk-and-internal-controls-manager-not-specific"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Front End Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Front-End-Developer",
+    "id": "abb-front-end-developer-not-specific"
   }
 ]
