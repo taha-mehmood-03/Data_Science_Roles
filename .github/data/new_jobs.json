@@ -1,33 +1,32 @@
 [
   {
-    "job_title": "AI Content Expert II (Career Fair), AGI Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role AI Content Expert II (Career Fair), AGI Data Services at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services",
-    "job_posted_at": "2025-09-04T18:12:16.254Z",
-    "job_posted_at_datetime_utc": "2025-09-04T18:12:16.254Z",
-    "id": "amazon-ai-content-expert-ii-career-fair-agi-data-services-boston"
+    "employer_name": "Microsoft",
+    "job_title": "AI",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Strategy Lead. Level: All Levels. Posted: Recently. Full Title: Strategy Lead - AI",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872580/Strategy-Lead---AI%2C-Growth-%26-Devices-Ecosystem",
+    "id": "microsoft-ai-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Manager, High Performance Computing Lab & Data Center",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, High Performance Computing Lab & Data Center at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-high-performance-computing-lab-and-data-center/33099/83658645696",
-    "id": "arm-manager-high-performance-computing-lab-data-center-austin"
+    "employer_name": "ABB",
+    "job_title": "Stack Developer",
+    "job_city": "Richmond",
+    "job_state": "Virginia",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Stack Developer at Richmond, Virginia, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008875/Stack-Developer",
+    "id": "abb-stack-developer-richmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer - Embedded Linux",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "CISCO",
+    "job_title": "Architect - Technical Lead - Security & Compliance / Cloud Software",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff DevOps Engineer - Embedded Linux at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-devops-engineer-embedded-linux/33099/84984916608",
-    "id": "arm-devops-engineer-embedded-linux-cambridge"
+    "job_description": "Data Science job for the role Architect - Technical Lead - Security & Compliance / Cloud Software at Cary, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Architect-Technical-Lead-Security-Compliance-Cloud-Software/1448877",
+    "id": "cisco-architect-technical-lead-security-compliance-cloud-software-cary"
   }
 ]
