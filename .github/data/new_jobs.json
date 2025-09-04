@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior UX Researcher",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior UX Researcher",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857086/Senior-UX-Researcher",
-    "id": "microsoft-senior-ux-researcher-redmond"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Watson AIOPs Technical Support Engineer Intern:",
+    "job_title": "Technical Support Professional Intern:",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Watson AIOPs Technical Support Engineer Intern: 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56281&source=WEB_Search_NA",
-    "id": "ibm-watson-aiops-technical-support-engineer-intern-multiple-cities"
+    "job_description": "Data Science job for the role Technical Support Professional Intern: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56286&source=WEB_Search_NA",
+    "id": "ibm-technical-support-professional-intern-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Automation Technical Support Professional Intern:",
+    "job_title": "Client Engineering AI Engineer",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Automation Technical Support Professional Intern: 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56283&source=WEB_Search_NA",
-    "id": "ibm-automation-technical-support-professional-intern-multiple-cities"
+    "job_description": "Data Science job for the role Client Engineering AI Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54636&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-ai-engineer-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Digital Sales Seller - Apptio -  Solutions Consultant",
-    "job_city": "Austin",
+    "job_title": "Sr. Support Engineer",
+    "job_city": "San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Sales Seller - Apptio -  Solutions Consultant at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
-    "id": "ibm-digital-sales-seller-apptio-solutions-consultant-austin"
+    "job_description": "Data Science job for the role Sr. Support Engineer at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47946&source=WEB_Search_NA",
+    "id": "ibm-sr-support-engineer-san-francisco"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Field Product Engineer, Data Center Cooling",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Field Product Engineer, Data Center Cooling at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Field-Product-Engineer--Data-Center-Cooling_R255250?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-product-engineer-data-center-cooling-3-locations"
+    "employer_name": "IBM",
+    "job_title": "Corporate Strategy Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Corporate Strategy Consultant at Entry LevelNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56804&source=WEB_Search_NA",
+    "id": "ibm-corporate-strategy-consultant-new-york"
   }
 ]
