@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Product Line Data Analyst",
-    "job_city": "Remote",
-    "job_state": "California",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Intern - Product Line Data Analyst at Remote, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37808110",
-    "id": "micron-intern-product-line-data-analyst-remote"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Embedded Systems Engineer - Innovation & Customer Enablement",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Embedded Systems Engineer - Innovation & Customer Enablement at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Embedded-Systems-Engineer---Innovation---Customer-Enablement_2502141?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-embedded-systems-engineer-innovation-customer-enablement-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Business Solutions Architect, Enterprise Data Management",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Business Solutions Architect, Enterprise Data Management at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160641488-senior-business-solutions-architect-enterprise-data-management",
-    "id": "aijobs-business-solutions-architect-enterprise-data-management-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Claude Code",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Data Scientist, Claude Code at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/160641036-data-scientist-claude-code",
-    "id": "aijobs-data-scientist-claude-code-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Technical Program Manager - Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160641487-senior-technical-program-manager-infrastructure",
-    "id": "aijobs-technical-program-manager-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Enterprise AI Architect, Enterprise AI Platform - Agentic AI",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Lead Enterprise AI Architect, Enterprise AI Platform - Agentic AI at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160641480-lead-enterprise-ai-architect-enterprise-ai-platform-agentic-ai",
-    "id": "aijobs-enterprise-ai-architect-enterprise-ai-platform-agentic-ai-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer, Containers and Kubernetes",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Systems Software Engineer, Containers and Kubernetes at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160641486-senior-systems-software-engineer-containers-and-kubernetes",
-    "id": "aijobs-systems-software-engineer-containers-and-kubernetes-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Test Quality Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Test Quality Engineer at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55528&source=WEB_Search_NA",
+    "id": "ibm-test-quality-engineer-new-york"
   }
 ]
