@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "R&D Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role R&D Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00005169/R-D-Engineer",
-    "id": "abb-r-d-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Lead Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Project Lead Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96918853/Project-Lead-Engineer",
-    "id": "abb-project-lead-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager Motion (m/f/d)",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Manager Motion (m/f/d) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007146/Product-Manager-Motion-m-f-d",
-    "id": "abb-product-manager-motion-m-f-d-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Controller",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sales Controller at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96251888/Sales-Controller",
-    "id": "abb-sales-controller-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Service Sales Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Service Sales Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006086/Senior-Service-Sales-Specialist",
-    "id": "abb-senior-service-sales-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Front End Developer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Front End Developer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Front-End-Developer",
-    "id": "abb-front-end-developer-not-specific"
+    "employer_name": "Arm",
+    "job_title": "Software/Senior Software Firmware Validation Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software/Senior Software Firmware Validation Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-senior-software-firmware-validation-engineer/33099/75677878640",
+    "id": "arm-software-senior-software-firmware-validation-engineer-bengaluru"
   }
 ]
