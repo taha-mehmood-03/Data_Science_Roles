@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant",
-    "job_city": "Charlotte",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consultant at Entry LevelCharlotte, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57321&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-charlotte"
+    "job_title": "Business Intelligence Engineer, Data Services & Analytics Kumo",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Data Services & Analytics Kumo at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3076542/business-intelligence-engineer-data-services-analytics-kumo",
+    "job_posted_at": "2025-09-05T22:13:43.187Z",
+    "job_posted_at_datetime_utc": "2025-09-05T22:13:43.187Z",
+    "id": "amazon-business-intelligence-engineer-data-services-analytics-kumo-bellevue"
   }
 ]
