@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director Engineering Solution Architecture",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Simcenter Scrum Co-op (Spring 2026)",
+    "job_city": "Milford",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director Engineering Solution Architecture at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-engineering-solution-architecture/33099/85798160000",
-    "id": "arm-director-engineering-solution-architecture-cambridge"
+    "job_description": "Data Science job for the role Strategic Student Program: Simcenter Scrum Co-op (Spring 2026) at Milford, Ohio, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-simcenter-scrum-co-op-spring-2026-milford"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Register Your Interest - Graduate Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Technical Marketing Co-op (Spring 2026)",
+    "job_city": "Milford",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Register Your Interest - Graduate Engineer at Manchester, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/register-your-interest-graduate-engineer/33099/85798101056",
-    "id": "arm-register-your-interest-graduate-engineer-manchester"
+    "job_description": "Data Science job for the role Strategic Student Program: Technical Marketing Co-op (Spring 2026) at Milford, Ohio, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-technical-marketing-co-op-spring-2026-milford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science Graduate",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "11h ago",
+    "job_description": "data science job for the role Data Science Graduate at Spring, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160924139-data-science-graduate",
+    "id": "aijobs-data-science-graduate-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quality Data Scientist",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Quality Data Scientist at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/160924131-quality-data-scientist",
+    "id": "aijobs-quality-data-scientist-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Reliability",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "11h ago",
+    "job_description": "data science job for the role Senior Data Scientist, Reliability at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/160924141-senior-data-scientist-reliability",
+    "id": "aijobs-data-scientist-reliability-unknown"
   }
 ]
