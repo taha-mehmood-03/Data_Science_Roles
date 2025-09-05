@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Lithography Tool Owner - i-Line Scanner Owner",
-    "job_city": "Albany",
-    "job_state": "US",
+    "employer_name": "Micron",
+    "job_title": "Metrology Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 8 days ago",
+    "job_description": "Data Science job for the role Metrology Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30946076",
+    "id": "micron-metrology-process-engineer-boise"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Integration QA Co-op (Spring 2026; EBS)",
+    "job_city": "Huntsville",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lithography Tool Owner - i-Line Scanner Owner at Entry LevelAlbany, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA",
-    "id": "ibm-lithography-tool-owner-i-line-scanner-owner-albany"
+    "job_description": "Data Science job for the role Strategic Student Program: Integration QA Co-op (Spring 2026; EBS) at Huntsville, Alabama, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-integration-qa-co-op-spring-2026-ebs-huntsville"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Program Manager, Automation and Optimization",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Program Manager, Automation and Optimization at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857926-program-manager-automation-and-optimization",
+    "id": "aijobs-program-manager-automation-and-optimization-united-states"
   }
 ]
