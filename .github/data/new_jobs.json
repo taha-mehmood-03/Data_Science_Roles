@@ -1,103 +1,12 @@
 [
   {
-    "job_title": "Data Steward, Re:Cycle Reverse Logistics",
-    "employer_name": "Amazon",
-    "job_city": "Greencastle",
-    "job_state": "PA",
-    "job_description": "Data Science job for the role Data Steward, Re:Cycle Reverse Logistics at Greencastle, PA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999790/data-steward-re-cycle-reverse-logistics",
-    "job_posted_at": "2025-09-05T00:56:30.876Z",
-    "job_posted_at_datetime_utc": "2025-09-05T00:56:30.876Z",
-    "id": "amazon-data-steward-re-cycle-reverse-logistics-greencastle"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Platform (Reliability/Latency)",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Data Scientist, Platform (Reliability/Latency) at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855667-data-scientist-platform-reliability-latency",
-    "id": "aijobs-data-scientist-platform-reliability-latency-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Engineer Cloud Gaming",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Engineer Cloud Gaming at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855983-data-engineer-cloud-gaming",
-    "id": "aijobs-data-engineer-cloud-gaming-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Enterprise MODS Technical Program Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Enterprise MODS Technical Program Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855986-enterprise-mods-technical-program-manager",
-    "id": "aijobs-enterprise-mods-technical-program-manager-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Data Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Systems Data Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855981-systems-data-engineer",
-    "id": "aijobs-systems-data-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Firmware Engineer – CSP Engagements",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "59min ago",
-    "job_description": "data science job for the role Senior Firmware Engineer – CSP Engagements at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855988-senior-firmware-engineer-csp-engagements",
-    "id": "aijobs-firmware-engineer-csp-engagements-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Software Development",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Manager, Software Development at US, WA, Seattle",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855984-senior-manager-software-development",
-    "id": "aijobs-manager-software-development-seattle"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "HPC Performance Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior HPC Performance Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855987-senior-hpc-performance-engineer",
-    "id": "aijobs-hpc-performance-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Performance",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior System Software Engineer - Performance at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160855980-senior-system-software-engineer-performance",
-    "id": "aijobs-system-software-engineer-performance-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Hardware Sourcer, Consumer Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Hardware Sourcer, Consumer Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/160857933-technical-hardware-sourcer-consumer-products",
-    "id": "aijobs-technical-hardware-sourcer-consumer-products-united-states"
+    "employer_name": "IBM",
+    "job_title": "Lithography Tool Owner - i-Line Scanner Owner",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Lithography Tool Owner - i-Line Scanner Owner at Entry LevelAlbany, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA",
+    "id": "ibm-lithography-tool-owner-i-line-scanner-owner-albany"
   }
 ]
