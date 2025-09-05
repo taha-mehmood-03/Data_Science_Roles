@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Sr. Customer Growth Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr. Customer Growth Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870278/Sr.-Customer-Growth-Manager",
-    "id": "microsoft-sr-customer-growth-manager-redmond"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Regional Account Manager - Data Centers",
-    "job_city": "Fremont",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Regional Account Manager - Data Centers at Fremont, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-regional-account-manager-data-centers-fremont"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, AI and Security",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer, AI and Security at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/161058540-software-engineer-ai-and-security",
-    "id": "aijobs-software-engineer-ai-and-security-ca"
+    "employer_name": "Micron",
+    "job_title": "BU Analyst - Catalyst Rotation Program",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role BU Analyst - Catalyst Rotation Program at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37817814",
+    "id": "micron-bu-analyst-catalyst-rotation-program-boise"
   }
 ]
