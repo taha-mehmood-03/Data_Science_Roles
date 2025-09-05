@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Cloud Capacity Allocation and Enablement Finance Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Software Development Engineer - Amazon Fulfillment Technologies, Amazon Fulfillment Technologies",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Software Development Engineer - Amazon Fulfillment Technologies, Amazon Fulfillment Technologies at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2950677/software-development-engineer-amazon-fulfillment-technologies-amazon-fulfillment-technologies",
+    "job_posted_at": "2025-09-05T00:05:05.087Z",
+    "job_posted_at_datetime_utc": "2025-09-05T00:05:05.087Z",
+    "id": "amazon-software-development-engineer-amazon-fulfillment-technologies-amazon-fulfillment-technologies-arlington"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Power Analysis Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Cloud Capacity Allocation and Enablement Finance Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849389/Cloud-Capacity-Allocation-and-Enablement-Finance-Manager",
-    "id": "microsoft-cloud-capacity-allocation-and-enablement-finance-manager-redmond"
+    "job_description": "Data Science job for the role Staff Power Analysis Engineer at San Diego, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-engineer/33099/64317506576",
+    "id": "arm-power-analysis-engineer-san-diego"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineering Leader, Global Enterprise Networking - West",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Engineering Leader, Global Enterprise Networking - West at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineering-Leader-Global-Enterprise-Networking-West/1449182",
+    "id": "cisco-solutions-engineering-leader-global-enterprise-networking-west-offsite"
   }
 ]
