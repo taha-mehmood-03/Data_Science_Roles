@@ -1,13 +1,52 @@
 [
   {
-    "job_title": "Business Intelligence Engineer, Data Services & Analytics Kumo",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, Data Services & Analytics Kumo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3076542/business-intelligence-engineer-data-services-analytics-kumo",
-    "job_posted_at": "2025-09-05T22:13:43.187Z",
-    "job_posted_at_datetime_utc": "2025-09-05T22:13:43.187Z",
-    "id": "amazon-business-intelligence-engineer-data-services-analytics-kumo-bellevue"
+    "employer_name": "Microsoft",
+    "job_title": "CoreAI  Infrastructure",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Group Product Manager. Level: All Levels. Posted: Recently. Full Title: Group Product Manager - CoreAI  Infrastructure",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865066/Group-Product-Manager---CoreAI--Infrastructure",
+    "id": "microsoft-coreai-infrastructure-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Software Ecosystem",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Software Ecosystem at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-software-ecosystem/33099/85824524816",
+    "id": "arm-manager-software-ecosystem-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer, Metrology",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Engineer, Metrology at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37816471",
+    "id": "micron-engineer-metrology-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI ML Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role AI ML Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132803-ai-ml-engineer",
+    "id": "aijobs-ai-ml-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Graduate AI Engineer",
+    "job_city": "US",
+    "job_state": "MD",
+    "job_posted_at": "6h ago",
+    "job_description": "data science job for the role Graduate AI Engineer at Columbia, MD, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132804-graduate-ai-engineer",
+    "id": "aijobs-graduate-ai-engineer-us"
   }
 ]
