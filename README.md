@@ -46,7 +46,7 @@
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
 <details>
-<summary><h3>🟦 <strong>Microsoft</strong> (63 positions) ⭐ FAANG+</h3></summary>
+<summary><h3>🟦 <strong>Microsoft</strong> (61 positions) ⭐ FAANG+</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -85,19 +85,17 @@
 | AI | Redmond, Washington | Recently | Senior | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1872580/Strategy-Lead---AI%2C-Growth-%26-Devices-Ecosystem) |
 | AI Business Solutions | Multiple Locations, United States | Recently | Mid-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1862712/Business-Strategy-Analyst---AI-Business-Solutions) |
 | Cloud Capacity Allocation and Enablement Finance Manager | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1849389/Cloud-Capacity-Allocation-and-Enablement-Finance-Manager) |
-| Senior Product Manager | Multiple Locations, United States | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1839313/Senior-Product-Manager) |
-| Principal TPM Manager | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1859874/Principal-TPM-Manager) |
 | Supply Chain Planner Manager | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1872894/Supply-Chain-Planner-Manager) |
+| Principal TPM Manager | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1859874/Principal-TPM-Manager) |
 | Senior Finance Manager – Engineering R&D | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857975/Senior-Finance-Manager-%E2%80%93-Engineering-R%26D) |
-| Applied Scientist II | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860794/Applied-Scientist-II) |
+| Senior Product Manager | Multiple Locations, United States | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1839313/Senior-Product-Manager) |
 | Senior Software Engineer | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1841287/Senior-Software-Engineer) |
+| Applied Scientist II | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860794/Applied-Scientist-II) |
 | Senior Digital Solution Engineer | Mountain View, California | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1862435/Senior%E2%80%AFDigital-Solution-Engineer) |
 | Consumer Sales Finance | Redmond, Washington | Recently | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858055/Senior-Finance-Manager---Consumer-Sales-Finance) |
-| Service Engineer | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832346/Service-Engineer) |
 | Senior Product Manager - CoreAI | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1823475/Senior-Product-Manager%E2%80%AF--CoreAI) |
-| Principal Design Manager | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1863548/Principal-Design-Manager) |
+| Service Engineer | Redmond, Washington | Recently | Mid-Level | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832346/Service-Engineer) |
 | Principal Program Manager | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1862294/Principal-Program-Manager) |
-| Principal Enterprise Architect | Multiple Locations, United States | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860463/Principal-Enterprise-Architect%2C-CTO-Office%2C-US-Commercial-Industries) |
 | CxRE | Redmond, Washington | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.careers.microsoft.com/global/en/job/1850508/Cloud-Services-Engineer---CxRE) |
 | CTJ | Redmond, Washington | Recently | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853864/Customer-Experience-Engineer-II---CTJ---Poly) |
 | Senior Growth Product Manager | Redmond, Washington | Recently | Senior | Data Science  | [Apply](https://jobs.careers.microsoft.com/global/en/job/1822043/Senior-Growth-Product-Manager) |
@@ -168,39 +166,39 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Business Intelligence Engineer, Data Services & Analytics Kumo | Bellevue, WA | 8h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3076542/business-intelligence-engineer-data-services-analytics-kumo) |
+| Business Intelligence Engineer, Data Services & Analytics Kumo | Bellevue, WA | 9h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3076542/business-intelligence-engineer-data-services-analytics-kumo) |
 | AMER Business Program Manager, Controls Deployment and Service, and Global Program Team | Herndon, VA | 11h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2990286/amer-business-program-manager-controls-deployment-and-service-and-global-program-team) |
-| Applied Scientist II, AWS Q for Business | Santa Clara, CA | 12h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3001477/applied-scientist-ii-aws-q-for-business) |
-| Applied Scientist, Prime Air Navigation | Seattle, WA | 14h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2902763/applied-scientist-prime-air-navigation) |
-| Applied Scientist, Prime Air | Seattle, WA | 14h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3057453/applied-scientist-prime-air) |
-| Data Steward, Re:Cycle Reverse Logistics | Greencastle, PA | 14h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2999790/data-steward-re-cycle-reverse-logistics) |
-| Business Intelligence Engineer, WHS Data | Bellevue, WA | 15h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3069838/business-intelligence-engineer-whs-data) |
-| Data Scientist, AWS Compliance & Security Assurance | Seattle, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3039499/data-scientist-aws-compliance-security-assurance) |
+| Applied Scientist II, AWS Q for Business | Santa Clara, CA | 13h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3001477/applied-scientist-ii-aws-q-for-business) |
+| Applied Scientist, Prime Air | Seattle, WA | 15h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3057453/applied-scientist-prime-air) |
+| Applied Scientist, Prime Air Navigation | Seattle, WA | 15h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2902763/applied-scientist-prime-air-navigation) |
+| Data Steward, Re:Cycle Reverse Logistics | Greencastle, PA | 15h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2999790/data-steward-re-cycle-reverse-logistics) |
+| Business Intelligence Engineer, WHS Data | Bellevue, WA | 16h ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3069838/business-intelligence-engineer-whs-data) |
+| Business Intelligence Engineer, P2 Science, Data, and Insights | Seattle, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3010001/business-intelligence-engineer-p2-science-data-and-insights) |
+| Data Engineer II, AIR DABI | Bellevue, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3064647/data-engineer-ii-air-dabi) |
 | AI Content Expert II (Career Fair), AGI Data Services | Boston, MA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services) |
+| Data Scientist, AWS Compliance & Security Assurance | Seattle, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3039499/data-scientist-aws-compliance-security-assurance) |
 | AI Privacy Specialist, Workplace Trust: Privacy, AI, and Risk, Workplace Trust | Boston, MA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3063071/ai-privacy-specialist-workplace-trust-privacy-ai-and-risk-workplace-trust) |
 | Program Specialist , Customer Service | Seattle, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3061382/program-specialist-customer-service) |
 | AI/ML Engineer, Intelligent Talent Acquisition | Arlington, VA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071774/ai-ml-engineer-intelligent-talent-acquisition) |
 | Software Development Engineer - Amazon Fulfillment Technologies, Amazon Fulfillment Technologies | Arlington, VA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2950677/software-development-engineer-amazon-fulfillment-technologies-amazon-fulfillment-technologies) |
 | Database Admin, R2L, R2L Preconstruction & Construction | Bellevue, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3017627/database-admin-r2l-r2l-preconstruction-construction) |
-| Business Intelligence Engineer, P2 Science, Data, and Insights | Seattle, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3010001/business-intelligence-engineer-p2-science-data-and-insights) |
-| Data Engineer II, AIR DABI | Bellevue, WA | 1d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3064647/data-engineer-ii-air-dabi) |
 | Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research | Santa Clara, CA | 2d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3072738/applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research) |
-| Data Engineer II, Foundational People Data Services | Seattle, WA | 2d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3039726/data-engineer-ii-foundational-people-data-services) |
 | Applied Scientist (Contract), Artificial General Intelligence | Bellevue, WA | 2d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071222/applied-scientist-contract-artificial-general-intelligence) |
-| Quantum Research Scientist, Device Team | Pasadena, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2974890/quantum-research-scientist-device-team) |
-| Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation | Culver City, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071057/data-engineer-amazon-ads-finance-sales-incentive-compensation) |
-| Data Scientist, SAMBA | Newark, NJ | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2967069/data-scientist-samba) |
-| Deep Learning Architect, Generative AI Innovation Center | New York, NY | 3d ago | Senior | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071234/deep-learning-architect-generative-ai-innovation-center) |
-| Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Arlington, VA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054929/delivery-consultant-genai-ml-data-science-aws-industries) |
+| Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Austin, TX | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054962/delivery-consultant-genai-ml-data-science-aws-industries) |
 | Quantum Applied Scientist, Simulation Methods and Tools, AWS Center for Quantum Computing | Pasadena, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2999024/quantum-applied-scientist-simulation-methods-and-tools-aws-center-for-quantum-computing) |
 | Research Scientist, Design and Simulation, AWS Center for Quantum Computing | San Francisco, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3064003/research-scientist-design-and-simulation-aws-center-for-quantum-computing) |
 | Applied Scientist, Systems Modeling, AWS Center for Quantum Computing | Pasadena, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3009838/applied-scientist-systems-modeling-aws-center-for-quantum-computing) |
-| Applied Scientist, AWS Agentic AI Science | Seattle, WA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3033189/applied-scientist-aws-agentic-ai-science) |
 | Data Engineer, SPS Finance Insights & Analytics | Seattle, WA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3067661/data-engineer-sps-finance-insights-analytics) |
+| Quantum Research Scientist, Device Team | Pasadena, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2974890/quantum-research-scientist-device-team) |
+| Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation | Culver City, CA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071057/data-engineer-amazon-ads-finance-sales-incentive-compensation) |
+| Data Scientist, SAMBA | Newark, NJ | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2967069/data-scientist-samba) |
+| Data Engineer II, Foundational People Data Services | Seattle, WA | 3d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3039726/data-engineer-ii-foundational-people-data-services) |
+| Business Intelligence Engineer, DC Security Ops Excellence | Herndon, VA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2960632/business-intelligence-engineer-dc-security-ops-excellence) |
+| Applied Scientist, AWS Agentic AI Science | Seattle, WA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3033189/applied-scientist-aws-agentic-ai-science) |
 | Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science | Bellevue, WA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3068728/applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science) |
 | Data Scientist, Devices Economic Value | Arlington, VA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3070257/data-scientist-devices-economic-value) |
+| Deep Learning Architect, Generative AI Innovation Center | New York, NY | 4d ago | Senior | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3071234/deep-learning-architect-generative-ai-innovation-center) |
 | Risk Manager II, RISC | Arlington, VA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2876678/risk-manager-ii-risc) |
-| Business Intelligence Engineer, DC Security Ops Excellence | Herndon, VA | 4d ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2960632/business-intelligence-engineer-dc-security-ops-excellence) |
 
 <details>
 <summary><h3>🔵 <strong>IBM</strong> (221 positions) 🏢 Top Tech</h3></summary>
@@ -242,11 +240,11 @@
 | Back-End Developer | Cambridge, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54829&source=WEB_Search_NA) |
 | Customer Success Manager -Brand Specialist – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53149&source=WEB_Search_NA) |
 | InfoSphere Optim Technical Support Professional | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53293&source=WEB_Search_NA) |
-| Technical Support Engineer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA) |
 | InfoSphere Optim Software Developer Support Engineer | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53286&source=WEB_Search_NA) |
+| Technical Support Engineer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA) |
 | Consultant - AI Engineering | New York, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53320&source=WEB_Search_NA) |
-| Software Development Engineer | BELLEVUE, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53655&source=WEB_Search_NA) |
 | Plasma etch engineer | Albany, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=33446&source=WEB_Search_NA) |
+| Software Development Engineer | BELLEVUE, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53655&source=WEB_Search_NA) |
 | Postdoctoral Researcher | San Jose, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) |
 | Customer Success Technical Specialist (Mainframe-z/OS) | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55137&source=WEB_Search_NA) |
 | Network Support Engineer | Dallas, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55083&source=WEB_Search_NA) |
@@ -263,9 +261,9 @@
 | Consultant - Architecture | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55536&source=WEB_Search_NA) |
 | Sr User Experience Researcher - AI | BELLEVUE, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40926&source=WEB_Search_NA) |
 | AI Engineer – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53107&source=WEB_Search_NA) |
+| IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) |
 | System Services Representative-Jacksonville  Metro Area, Florida | CORAL GABLES, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55710&source=WEB_Search_NA) |
 | Test Quality Engineer | New York, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55528&source=WEB_Search_NA) |
-| IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) |
 | Entry Level Hardware Developer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA) |
 | Hardware Developer Intern | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA) |
 | Lithography Tool Owner - i-Line Scanner Owner | Albany, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA) |
@@ -280,8 +278,8 @@
 | Technology Sales Specialist (SME) - Database | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51195&source=WEB_Search_NA) |
 | Outbound Product Manager in Business Automation | Austin, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47765&source=WEB_Search_NA) |
 | IBM Technology Sales Representative - US Federal - Department of Energy | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55362&source=WEB_Search_NA) |
-| Software Developer Intern: | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) |
 | Technical Solution Specialist Intern | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56580&source=WEB_Search_NA) |
+| Software Developer Intern: | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) |
 | Outbound Tech Evangelist Product Manager in Business Automation | Austin, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA) |
 | Maximo Application Technical Architect | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37214&source=WEB_Search_NA) |
 | Product Marketing Manager, IBM Software | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49597&source=WEB_Search_NA) |
@@ -355,8 +353,8 @@
 | Mainframe System Verification Tester Apprentice | POUGHKEEPSIE, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22029&source=WEB_Search_NA) |
 | Computer Operator - Plano TX | Plano, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50231&source=WEB_Search_NA) |
 | Consulting Field Marketing Manager | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52932&source=WEB_Search_NA) |
-| Corporate Strategy Consultant | New York, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57308&source=WEB_Search_NA) |
 | Software Engineer, OpenSearch | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46147&source=WEB_Search_NA) |
+| Corporate Strategy Consultant | New York, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57308&source=WEB_Search_NA) |
 | Federal Associate Package Specialist (Rocket Center, WV) | Rocket Center, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54853&source=WEB_Search_NA) |
 | Associate Designer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54846&source=WEB_Search_NA) |
 | Software M&A Integration, Go-to-Market Lead | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44711&source=WEB_Search_NA) |
@@ -367,8 +365,8 @@
 | Americas TLS US Renewal Sales Specialist | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=34743&source=WEB_Search_NA) |
 | Federal Associate Security Consultant | WASHINGTON, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54851&source=WEB_Search_NA) |
 | Category Manager - Indirect Procurement | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53636&source=WEB_Search_NA) |
-| Delivery Consultant - z Solutions, GDPS | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48070&source=WEB_Search_NA) |
 | Brand and Content Strategist | RESEARCH TRIANGLE PARK, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45164&source=WEB_Search_NA) |
+| Delivery Consultant - z Solutions, GDPS | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48070&source=WEB_Search_NA) |
 | Digital Sales Specialist - Storage | Brookhaven, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55131&source=WEB_Search_NA) |
 | Application Developer-Java & Web Technologies | Tempe, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41326&source=WEB_Search_NA) |
 | Incident Response Consultant | Armonk, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54824&source=WEB_Search_NA) |
@@ -389,15 +387,15 @@
 | Growth Marketing Manager | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53099&source=WEB_Search_NA) |
 | Technology Sales Leader - Northeast - Estee Lauder | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53625&source=WEB_Search_NA) |
 | Associate Package Consultant | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54504&source=WEB_Search_NA) |
-| Technology Sales Leader | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56595&source=WEB_Search_NA) |
 | Digital Sales Specialist - Storage | Austin, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55132&source=WEB_Search_NA) |
+| Technology Sales Leader | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56595&source=WEB_Search_NA) |
 | Technology Software Sales Specialist - zStack | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55129&source=WEB_Search_NA) |
 | Sr. Technical Escalation Manager | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA) |
 | Sales Acceleration Leader | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55532&source=WEB_Search_NA) |
 | Sr. Engineer | San Francisco, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52304&source=WEB_Search_NA) |
-| Associate Developer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) |
 | Hardware Compliance Lab Technician Apprentice | ROCHESTER, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19595&source=WEB_Search_NA) |
 | Business Value Services Director | San Jose, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48119&source=WEB_Search_NA) |
+| Associate Developer | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA) |
 | Red Hat Account Executive | Austin, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53920&source=WEB_Search_NA) |
 | Hardware Design Technician Apprentice | POUGHKEEPSIE, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA) |
 | Digital Technical Specialist | Brookhaven, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51110&source=WEB_Search_NA) |
@@ -419,9 +417,9 @@
 | Business Technology Leader – Entry Level Sales Program | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53110&source=WEB_Search_NA) |
 | Associate Consultant | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54762&source=WEB_Search_NA) |
 | System Services Representative Chicago, Illinois | Chicago, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) |
-| Go-To-Market (GTM) Lead - Salesforce | Brookhaven, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56015&source=WEB_Search_NA) |
 | Billing Platform Engineering Manager | Multiple Cities, US | Recently | Mid-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA) |
 | Federal Associate Consultant - Project Manager | WASHINGTON, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54531&source=WEB_Search_NA) |
+| Go-To-Market (GTM) Lead - Salesforce | Brookhaven, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56015&source=WEB_Search_NA) |
 | Federal Associate Consultant (Rocket Center, WV) | Rocket Center, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54761&source=WEB_Search_NA) |
 | Business Technology Leader Intern – Entry Level Sales Program | Multiple Cities, US | Recently | Senior | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53106&source=WEB_Search_NA) |
 | 2026 Client Engineering and CSM Co-Op Conversion | Multiple Cities, US | Recently | Entry-Level | Data Science  | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50942&source=WEB_Search_NA) |
@@ -473,9 +471,9 @@
 | Software Engineer II - Cloud & Industrial AI | Bellevue, United States of America | Recently | Mid-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | XPS Leadership Program 2025/2026 | Munich, Germany | Recently | Senior | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Genesis Program: Presales Solution Associate Consultant - Apply Now! | Milford, United States of America | Recently | Entry-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
-| C / C++ / QT Senior Software Engineer - Simulation Debug / Visualizer Debug | Austin, United States of America | Recently | Senior | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Component Test Engineer - Rail Traction Components | Alpharetta, United States of America | Recently | Mid-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Procurement Leadership Development Program | Alpharetta, United States of America | Recently | Senior | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
+| C / C++ / QT Senior Software Engineer - Simulation Debug / Visualizer Debug | Austin, United States of America | Recently | Senior | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Application Engineer | Wilsonville, United States of America | Recently | Mid-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Industrial Engineering Internship - Rolling Stock (Summer 2026) | Sacramento, United States of America | Recently | Entry-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
 | Energy Engineer | Smart Buildings | Johnston, United States of America | Recently | Mid-Level | Data Science  | [Apply](https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us) |
@@ -545,7 +543,7 @@
 
 ---
 
-### 📁 **More Companies** (7 companies, 363 positions)
+### 📁 **More Companies** (7 companies, 361 positions)
 
 <details>
 <summary><strong>🏢 Micron</strong> (94 positions) </summary>
@@ -650,20 +648,20 @@
 </details>
 
 <details>
-<summary><strong>🏢 ABB</strong> (89 positions) </summary>
+<summary><strong>🏢 ABB</strong> (88 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Ferienhelfer/Aushilfe Logistik (m/w/d) | Heidelberg, Baden-Wurttemberg | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95899429/Ferienhelfer-Aushilfe-Logistik-m-w-d) |
-| Sales Support Manager – Motion High Power | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00002873/Sales-Support-Manager-Motion-High-Power) |
-| Fulfillment Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00006362/Fulfillment-Specialist) |
-| Shift Leader | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00008574/Shift-Leader) |
-| US Robotics Sales Support Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00008587/US-Robotics-Sales-Support-Specialist) |
-| HSE Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96186601/HSE-Specialist) |
-| Sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96445272/Sales-Specialist) |
-| Ingénieur commercial Grands Comptes robotiquesF/H | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00004506/Ingénieur-commercial-Grands-Comptes-robotiquesF-H) |
-| Service Project Manager | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/97010807/Service-Project-Manager) |
-| Contract and Risk Manager | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/93823427/Contract-and-Risk-Manager) |
+| Project Engineer（>3 years） | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00008442/Project-Engineer（>3-years）) |
+| Service Sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/94633794/Service-Sales-Specialist) |
+| Regional Due Diligence Lead EMEA - Third Party Due Diligence Team | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00006451/Regional-Due-Diligence-Lead-EMEA-Third-Party-Due-Diligence-Team) |
+| Head of GSC Robotic-centric Logistics | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95467512/Head-of-GSC-Robotic-centric-Logistics) |
+| Global Application Specialist Sustainable Energy | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00000970/Global-Application-Specialist-Sustainable-Energy) |
+| Production Scheduler & Planner | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00001582/Production-Scheduler-Planner) |
+| Electromechanical Design Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95378346/Electromechanical-Design-Engineer) |
+| Functional Architect -FP&A & R2R | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95206662/Functional-Architect-FP-A-R2R) |
+| R&D Mechanical Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96584884/R-D-Mechanical-Engineer) |
 | Internship (m/f/d) - Visualization and Management of Digital Twin Models | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95748731/Internship-m-f-d-Visualization-and-Management-of-Digital-Twin-Models) |
 | Junior Project Trainee | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00007725/Junior-Project-Trainee) |
 | Intern Treasury Technology | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00004511/Intern-Treasury-Technology) |
@@ -678,7 +676,6 @@
 | Operation Finance Analyst | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00007413/Operation-Finance-Analyst) |
 | Financial Planning & Analysis Analyst | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00008894/Financial-Planning-Analysis-Analyst) |
 | Application Software Internship | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96635858/Application-Software-Internship) |
-| Functional Architect -FP&A & R2R | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95206662/Functional-Architect-FP-A-R2R) |
 | Functional Architect – Tax & Treasury | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95206858/Functional-Architect-Tax-Treasury) |
 | Sales Specialist(EU) | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00002124/Sales-Specialist-EU) |
 | IS Crisis Response Lead | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00007022/IS-Crisis-Response-Lead) |
@@ -697,23 +694,23 @@
 | Bachelor / Master Thesis in Computer Science Engineering (80-100%) | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96284771/Bachelor-Master-Thesis-in-Computer-Science-Engineering-80-100) |
 | Internship - R&D Embedded Software Engineer | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00006470/Internship-R-D-Embedded-Software-Engineer) |
 | SAP SAC Planning Solution Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/97044668/SAP-SAC-Planning-Solution-Specialist) |
-| Internship in Computer Vision and AI | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00005413/Internship-in-Computer-Vision-and-AI) |
+| sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95988532/sales-Specialist) |
 | Quality Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/94967693/Quality-Specialist) |
-| Digital Sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/97005080/Digital-Sales-Specialist) |
+| Internship in Computer Vision and AI | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00005413/Internship-in-Computer-Vision-and-AI) |
 | 销售工程师（盘厂渠道） | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/94819545/销售工程师（盘厂渠道）) |
+| Digital Sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/97005080/Digital-Sales-Specialist) |
 | R&D Electrical Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) |
 | Software Engineer - Process automation & reporting | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting) |
 | CFIN P2D & Data Solution Lead | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95282028/CFIN-P2D-Data-Solution-Lead) |
-| Service Sales Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96990568/Service-Sales-Specialist) |
 | R&D FW Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96993326/R-D-FW-Engineer) |
-| Configurator Solution Lead/Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00004018/Configurator-Solution-Lead-Architect) |
 | Graduate R&D Software/Firmware Engineer | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00007233/Graduate-R-D-Software-Firmware-Engineer) |
+| Configurator Solution Lead/Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00004018/Configurator-Solution-Lead-Architect) |
 | CFIN P2D Functional Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95283391/CFIN-P2D-Functional-Architect) |
 | IS Business Analyst | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00002567/IS-Business-Analyst) |
 | Intern | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96175379/Intern) |
-| Senior IS Solution Architect for IS Security | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/93175801/Senior-IS-Solution-Architect-for-IS-Security) |
 | firmware intern | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95301725/firmware-intern) |
-| CFIN P2P & Treasury Solution Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95269487/CFIN-P2P-Treasury-Solution-Architect) |
+| Senior IS Solution Architect for IS Security | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/93175801/Senior-IS-Solution-Architect-for-IS-Security) |
+| CFIN P2P & Treasury Solution Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95269547/CFIN-P2P-Treasury-Solution-Architect) |
 | CFIN O2C Solution Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95269397/CFIN-O2C-Solution-Architect) |
 | Robotics Intern at Raleigh Research Center - Fall | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96729857/Robotics-Intern-at-Raleigh-Research-Center-Fall-2025) |
 | Principal Engineer- Data Interfaces | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00002200/Principal-Engineer-Data-Interfaces) |
@@ -725,8 +722,8 @@
 | IS Operations Manager Vulnerability Management (Infra VM) | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00005222/IS-Operations-Manager-Vulnerability-Management-Infra-VM) |
 | Quality＆Operational Specialist | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00000861/Quality＆Operational-Specialist) |
 | CFIN O2C Functional Architect | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95282970/CFIN-O2C-Functional-Architect) |
-| Duales Studium Wirtschaftsinformatik (m/w/d) | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95904066/Duales-Studium-Wirtschaftsinformatik-m-w-d-2026) |
 | Sr R&D Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00000655/Sr-R-D-Engineer) |
+| Duales Studium Wirtschaftsinformatik (m/w/d) | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95904066/Duales-Studium-Wirtschaftsinformatik-m-w-d-2026) |
 | QCS Systems Engineer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) |
 | IS Service Owner - Network Governance | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00005195/IS-Service-Owner-Network-Governance) |
 | CFIN Tax Solution Lead | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95266516/CFIN-Tax-Solution-Lead) |
@@ -741,24 +738,24 @@
 | Principal R&D SW Engineer | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/95656521/Principal-R-D-SW-Engineer) |
 | Business Functional Analyst | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/96937752/Business-Functional-Analyst) |
 | Senior Software Engineer | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/JR00001295/Senior-Software-Engineer) |
+| Demand - Senior Field Service Technician | Not Specific, Not Specific | Recently | Senior | Data Science  | [Apply](https://careers.abb/global/en/job/96693047/Demand-Senior-Field-Service-Technician) |
 | Risk and Internal Controls Manager | Not Specific, Not Specific | Recently | Entry-Level | Data Science  | [Apply](https://careers.abb/global/en/job/95155979/Risk-and-Internal-Controls-Manager) |
-| Front End Developer | Not Specific, Not Specific | Recently | Mid-Level | Data Science  | [Apply](https://careers.abb/global/en/job/JR00001806/Front-End-Developer) |
 
 </details>
 
 <details>
-<summary><strong>🏢 AiJobs</strong> (77 positions) </summary>
+<summary><strong>🏢 AiJobs</strong> (76 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | ML Engineer | US, TX | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160215046-ml-engineer) |
-| Data Scientist | US, NY | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/148018833-data-scientist-i) |
 | Artificial Intelligence Engineer | Unknown, US | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160842914-artificial-intelligence-engineer) |
+| Data Scientist | US, Greater Boston | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/158701495-data-scientist) |
 | Associate Data Scientist | US, CA | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/158883742-associate-data-scientist) |
 | Data Scientist, Product, Geo Data Science | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160706437-data-scientist-product-geo-data-science) |
 | Data Science Graduate | US, TX | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160924139-data-science-graduate) |
-| Data Scientist, Platform (Reliability/Latency) | CA, San Francisco | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855667-data-scientist-platform-reliability-latency) |
 | Data Scientist | Unknown, US | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160924136-junior-data-scientist) |
+| Data Scientist, Platform (Reliability/Latency) | CA, San Francisco | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855667-data-scientist-platform-reliability-latency) |
 | AI Engineer | US, TX | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161132798-ai-engineer) |
 | Data Scientist (Remote) 🏠 | Unknown, US | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/148949068-data-scientist-remote) |
 | Artificial Intelligence Engineer | US, VA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160155154-artificial-intelligence-engineer) |
@@ -766,68 +763,67 @@
 | Software Engineer, AI Tooling | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316563-software-engineer-ai-tooling) |
 | Data Scientist - Materials | US, MA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160215045-data-scientist-materials) |
 | Data Scientist (Entry Level) | US, VA | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160924140-data-scientist-entry-level) |
+| Machine Learning Data Scientist, Forecasting | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159227456-machine-learning-data-scientist-forecasting) |
 | Data Scientist - Machine Learning Data Operations | US, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160215042-senior-data-scientist-machine-learning-data-operations) |
 | Business Solutions Architect, Enterprise Data Management | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160641488-senior-business-solutions-architect-enterprise-data-management) |
-| Machine Learning Data Scientist, Forecasting | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159227456-machine-learning-data-scientist-forecasting) |
-| AI Engineer (Part-time) | US, NY | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160543923-ai-engineer-part-time) |
 | Business Data Scientist, Impact Measurement | US, NY | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160706442-business-data-scientist-impact-measurement) |
+| AI Engineer (Part-time) | US, NY | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160543923-ai-engineer-part-time) |
 | Machine Learning Engineer | US, GA | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160706438-junior-machine-learning-engineer) |
 | Data Engineer | CA, San Jose | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159916617-senior-data-engineer) |
 | Data Scientist (Growth) | US, San Francisco Bay Area | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160215044-data-scientist-growth) |
 | Data Analyst, User Operations | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159014047-data-analyst-user-operations) |
-| Developer Technology Engineer, High-Performance Databases | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160170605-senior-developer-technology-engineer-high-performance-databases) |
 | Data Scientist Intern | US, NC | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160706441-data-scientist-intern) |
+| Developer Technology Engineer, High-Performance Databases | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160170605-senior-developer-technology-engineer-high-performance-databases) |
 | Data Scientist, Claude Code | CA, San Francisco | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160641036-data-scientist-claude-code) |
 | Governance and Infrastructure Data Engineer | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144510-governance-and-infrastructure-data-engineer) |
 | Quantitative Researcher - Early Career (USA) | US, CT | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160870800-quantitative-researcher-early-career-usa) |
 | AI Engineer | Unknown, US | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159007581-junior-ai-engineer) |
 | Data Engineer Cloud Gaming | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855983-data-engineer-cloud-gaming) |
-| Machine Learning Infrastructure Engineer - DGX Cloud | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159010619-senior-machine-learning-infrastructure-engineer-dgx-cloud) |
 | Data Scientist – Generosity | US, NY | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160215038-senior-data-scientist-generosity) |
-| Research Engineer, Autonomy | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316559-research-engineer-autonomy) |
+| Machine Learning Infrastructure Engineer - DGX Cloud | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159010619-senior-machine-learning-infrastructure-engineer-dgx-cloud) |
 | Python AI Engineer | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/158829180-python-ai-engineer) |
-| Capacity Operations and Analytics Manager | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144501-capacity-operations-and-analytics-manager) |
+| Research Engineer, Autonomy | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316559-research-engineer-autonomy) |
+| Software Engineer - Data Center System Bringup | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159010617-senior-software-engineer-data-center-system-bringup) |
 | Technical Program Manager - Infrastructure | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160641487-senior-technical-program-manager-infrastructure) |
 | Machine Learning Research Scientist (Computer Vision) | US, MA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159931504-machine-learning-research-scientist-computer-vision) |
-| Software Engineer - Data Center System Bringup | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159010617-senior-software-engineer-data-center-system-bringup) |
-| Data Scientist - Innovation | US, NJ | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/158883743-data-scientist-innovation) |
-| Embedded Software Engineer | CA, Sunnyvale | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159916619-embedded-software-engineer) |
+| Capacity Operations and Analytics Manager | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144501-capacity-operations-and-analytics-manager) |
 | Graduate AI Engineer | US, MD | Recently | Entry-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161132804-graduate-ai-engineer) |
+| Embedded Software Engineer | CA, Sunnyvale | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159916619-embedded-software-engineer) |
 | Quality Data Scientist | Unknown, US | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160924131-quality-data-scientist) |
 | DevOps Engineer | CA, Sunnyvale | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159916620-devops-engineer) |
 | Systems Data Engineer | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855981-systems-data-engineer) |
 | AI Residency | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316566-ai-residency) |
-| Enterprise MODS Technical Program Manager | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855986-enterprise-mods-technical-program-manager) |
 | Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote) 🏠 | US, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/158883741-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote) |
-| Software Engineer, Distributed Systems Engineer - DGX Cloud | Austin, TX | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/153353702-senior-software-engineer-distributed-systems-engineer-dgx-cloud) |
 | Computer Vision Engineer | Unknown, US | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160871049-computer-vision-engineer) |
-| Research Engineer, Reinforcement Learning | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316568-research-engineer-reinforcement-learning) |
+| Enterprise MODS Technical Program Manager | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160855986-enterprise-mods-technical-program-manager) |
 | Software Engineer, AI and Security | CA, Palo Alto | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161058540-software-engineer-ai-and-security) |
+| Research Engineer, Reinforcement Learning | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316568-research-engineer-reinforcement-learning) |
+| Software Engineer, Distributed Systems Engineer - DGX Cloud | Austin, TX | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/153353702-senior-software-engineer-distributed-systems-engineer-dgx-cloud) |
 | Data Scientist, Reliability | Unknown, US | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160924141-senior-data-scientist-reliability) |
 | Design Engineer, Coherent High Speed Interconnect | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160170608-senior-design-engineer-coherent-high-speed-interconnect) |
 | Firmware Engineer – CSP Engagements | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160855988-senior-firmware-engineer-csp-engagements) |
 | AI/ML Engineer - $200k + Bonus - Miami | US, FL | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160215043-ai-ml-engineer-$200k-+-bonus-miami) |
-| Manager, Software Development | Seattle, WA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160855984-senior-manager-software-development) |
 | Mixed Methods UX Researcher | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160173728-mixed-methods-ux-researcher) |
+| Manager, Software Development | Seattle, WA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160855984-senior-manager-software-development) |
 | Software Engineer, Humanoid Robotics | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159910774-senior-software-engineer-humanoid-robotics) |
 | HPC Performance Engineer | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160855987-senior-hpc-performance-engineer) |
 | Computer Vision Engineer | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159027727-computer-vision-engineer) |
 | Enterprise AI Architect, Enterprise AI Platform - Agentic AI | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160641480-lead-enterprise-ai-architect-enterprise-ai-platform-agentic-ai) |
 | Platform Technical Program Manager, AI Computing Infrastructure | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144503-platform-technical-program-manager-ai-computing-infrastructure) |
 | System Software Engineer - Performance | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160855980-senior-system-software-engineer-performance) |
-| Distinguished Software Integration Engineer - Autonomous Vehicles | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144508-distinguished-software-integration-engineer-autonomous-vehicles) |
-| Research Scientist | US, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160870801-senior-research-scientist) |
 | Computer Vision Engineer - 033QE | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159931503-computer-vision-engineer-033qe) |
+| Research Scientist | US, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160870801-senior-research-scientist) |
+| Distinguished Software Integration Engineer - Autonomous Vehicles | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/161144508-distinguished-software-integration-engineer-autonomous-vehicles) |
 | Software Integration Engineer, SAE Level 3 - Autonomous Vehicles | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/161144513-senior-software-integration-engineer-sae-level-3-autonomous-vehicles) |
 | Software Engineer, Reliability | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160173732-software-engineer-reliability) |
 | Program Manager, Automation and Optimization | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160857926-program-manager-automation-and-optimization) |
 | Systems Software Engineer, Containers and Kubernetes | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/160641485-senior-systems-software-engineer-containers-and-kubernetes) |
 | Technical Hardware Sourcer, Consumer Products | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160857933-technical-hardware-sourcer-consumer-products) |
+| Technical Program Manager, Capacity | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160170604-technical-program-manager-capacity) |
 | Research Scientist, Health AI | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159014043-research-scientist-health-ai) |
 | Program Manager, Interviewer Programs | United States, California | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160857925-program-manager-interviewer-programs) |
-| Technical Program Manager, Capacity | Santa Clara, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/160170604-technical-program-manager-capacity) |
-| Network Security Engineer - DGX Cloud | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159910772-senior-network-security-engineer-dgx-cloud) |
 | Embedded Firmware Engineer, Generalist | US, CA | Recently | Mid-Level | Data Science  | [Apply](https://www.aijobs.com/jobs/159316572-embedded-firmware-engineer-generalist) |
+| Network Security Engineer - DGX Cloud | Santa Clara, CA | Recently | Senior | Data Science  | [Apply](https://www.aijobs.com/jobs/159910772-senior-network-security-engineer-dgx-cloud) |
 
 </details>
 
@@ -973,43 +969,43 @@
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 64 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - 65 Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Stats**
-- **📁 Total Archived**: 64 positions
+- **📁 Total Archived**: 65 positions
 - **🏢 Companies**: 12 companies
-- **⭐ FAANG+ Archived**: 64 positions
+- **⭐ FAANG+ Archived**: 65 positions
 - **📅 Age**: 1+ weeks old
 
 <details>
-<summary><h3>📦 <strong>Amazon</strong> (64 positions) ⭐ FAANG+</h3></summary>
+<summary><h3>📦 <strong>Amazon</strong> (65 positions) ⭐ FAANG+</h3></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Program Specialist (D2C2), Customer Service | Seattle, WA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3061374/program-specialist-d2c2-customer-service) |
 | Threat Detection AI ML Data Scientist II, SIRT | Arlington, VA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3051737/threat-detection-ai-ml-data-scientist-ii-sirt) |
-| Machine Learning Research Engineer, WW Sustainability | New York, NY | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3059330/machine-learning-research-engineer-ww-sustainability) |
 | Risk Manager, RISC | Arlington, VA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2883571/risk-manager-risc) |
 | Business Analyst, WW Fulfillment by Amazon - Product & Tech Finance | Bellevue, WA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3052886/business-analyst-ww-fulfillment-by-amazon-product-tech-finance) |
 | Technical Infrastructure Program Manager, AFT - External Fulfillment | Austin, TX | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3013712/technical-infrastructure-program-manager-aft-external-fulfillment) |
 | Program Manager, Elevated Shopping | New York, NY | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2997963/program-manager-elevated-shopping) |
 | Data Scientist II, Transportation Execution | Bellevue, WA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3067697/data-scientist-ii-transportation-execution) |
+| Machine Learning Research Engineer, WW Sustainability | New York, NY | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3059330/machine-learning-research-engineer-ww-sustainability) |
 | Tech Infra Program Manager II - AMZ9085030 | Herndon, VA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3067162/tech-infra-program-manager-ii-amz9085030) |
+| Data Engineer Co-op Internship - 2026 (US) | Seattle, WA | 1w ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3066648/data-engineer-co-op-internship-2026-us) |
 | Data Engineer Internship - 2026 (US) | Seattle, WA | 1w ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3066625/data-engineer-internship-2026-us) |
 | Business Intelligence Engineer Co-Op – 2026 (US) | Seattle, WA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3066646/business-intelligence-engineer-co-op-2026-us) |
 | Front-End Engineer Internship – 2026 (US) | Seattle, WA | 1w ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3066439/front-end-engineer-internship-2026-us) |
-| Data Engineer Co-op Internship - 2026 (US) | Seattle, WA | 1w ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3066648/data-engineer-co-op-internship-2026-us) |
+| Data Engineer, Workplace Health and Safety | Bellevue, WA | 1w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3055212/data-engineer-workplace-health-and-safety) |
 | Applied Scientist, Amazon Connect | New York, NY | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3052442/applied-scientist-amazon-connect) |
 | Data Scientist II - AMZ26521.1 | Sunnyvale, CA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3060117/data-scientist-ii-amz26521-1) |
 | Data Scientist II - AMZ9674189 | Santa Clara, CA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3051416/data-scientist-ii-amz9674189) |
-| Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Austin, TX | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054936/delivery-consultant-genai-ml-data-science-aws-industries) |
-| Business Intel Engineer II, ORBIT | Austin, TX | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3063780/business-intel-engineer-ii-orbit) |
-| Data Scientist, NAS Mosaic | Seattle, WA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3016970/data-scientist-nas-mosaic) |
 | Data Scientist, Amazon Advertising | Arlington, VA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3035697/data-scientist-amazon-advertising) |
+| Business Intel Engineer II, ORBIT | Austin, TX | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3063780/business-intel-engineer-ii-orbit) |
 | Data Engineer, Amazon Last Mile, Amazon Last Mile - Routing and Planning - DE | Bellevue, WA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3061197/data-engineer-amazon-last-mile-amazon-last-mile-routing-and-planning-de) |
 | Applied Scientist | Newark, NJ | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3062852/applied-scientist) |
-| Data Engineer, Workplace Health and Safety | Bellevue, WA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054620/data-engineer-workplace-health-and-safety) |
+| Data Scientist, NAS Mosaic | Seattle, WA | 2w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3016970/data-scientist-nas-mosaic) |
 | Applied Scientist II, Amazon Connect | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2909912/applied-scientist-ii-amazon-connect) |
+| Data Engineer, Amazon Business Flywheel Inputs | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3051246/data-engineer-amazon-business-flywheel-inputs) |
 | Applied Scientist, BRP Payment Risk ML | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2929674/applied-scientist-brp-payment-risk-ml) |
 | Data Scientist, Data and Machine Learning, WWPS US Federal | Arlington, VA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054868/data-scientist-data-and-machine-learning-wwps-us-federal) |
 | Data Scientist II - AMZ24724.1 | New York, NY | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054396/data-scientist-ii-amz24724-1) |
@@ -1017,23 +1013,25 @@
 | Data Scientist II - AMZ9085098 | San Diego, CA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3041987/data-scientist-ii-amz9085098) |
 | Applied Scientist II, Special Projects | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3056666/applied-scientist-ii-special-projects) |
 | Language Engineer, Artificial General Intelligence - Data Services | Boston, MA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3020566/language-engineer-artificial-general-intelligence-data-services) |
-| Data Engineer, Amazon Business Flywheel Inputs | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3051246/data-engineer-amazon-business-flywheel-inputs) |
 | Applied Scientist, US Prime and Marketing Tech | Seattle, WA | 3w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3056433/applied-scientist-us-prime-and-marketing-tech) |
+| Delivery Consultant- GenAI/ML & Data Science, AWS, Industries | Arlington, VA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054935/delivery-consultant-genai-ml-data-science-aws-industries) |
+| Delivery Consultant- GenAI/ML & Data Science, Prosessional Services, AWS Industries | Arlington, VA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054297/delivery-consultant-genai-ml-data-science-prosessional-services-aws-industries) |
 | Data Engineer, WW Ops Finance S&A | Bellevue, WA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2986265/data-engineer-ww-ops-finance-s-a) |
 | Delivery Consultant- GenAI/ML, AWS, Industries | Atlanta, GA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3048005/delivery-consultant-genai-ml-aws-industries) |
 | Data Scientist II - AMZ9084921 | Seattle, WA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3041563/data-scientist-ii-amz9084921) |
 | Data Scientist II - AMZ8839670 | New York, NY | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3042654/data-scientist-ii-amz8839670) |
-| Delivery Consultant- GenAI/ML & Data Science, Prosessional Services, AWS Industries | Arlington, VA | 4w ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3054297/delivery-consultant-genai-ml-data-science-prosessional-services-aws-industries) |
 | Simulation Scientist, Amazon Logistics | Bellevue, WA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3053706/simulation-scientist-amazon-logistics) |
+| Data Engineer II, Managed Operations Engineering & Data Science (MOEDS) | Arlington, VA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2981217/data-engineer-ii-managed-operations-engineering-data-science-moeds) |
+| Jr. Data Scientist - Austin, Jr. Developer Program | Austin, TX | 1mo ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3048199/jr-data-scientist-austin-jr-developer-program) |
 | Applied Scientist, BRP (Buyer Risk Prevention) | Seattle, WA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3030902/applied-scientist-brp-buyer-risk-prevention) |
-| Applied Scientist, SPX AI Lab | Seattle, WA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3018386/applied-scientist-spx-ai-lab) |
+| Applied Scientist, SPX AI Lab | Seattle, WA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3014934/applied-scientist-spx-ai-lab) |
 | Marketing Data Scientist, Ring | Hawthorne, CA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3049711/marketing-data-scientist-ring) |
 | Data Engineer II, Intelligent Talent Acquisition | Bellevue, WA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3022155/data-engineer-ii-intelligent-talent-acquisition) |
 | 2026 Operations Research Science Internship - United States, PhD Student Science Recruiting | Seattle, WA | 1mo ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3050304/2026-operations-research-science-internship-united-states-phd-student-science-recruiting) |
 | TIPM, Data Center Network Build, BaND | Herndon, VA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3043641/tipm-data-center-network-build-band) |
 | Data Scientist II - AMZ9443556 | Santa Monica, CA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3037361/data-scientist-ii-amz9443556) |
 | Data Scientist II - AMZ9686759 | North Reading, MA | 1mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3047956/data-scientist-ii-amz9686759) |
-| Jr. Data Scientist - Austin, Jr. Developer Program | Austin, TX | 1mo ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3048199/jr-data-scientist-austin-jr-developer-program) |
+| Applied Scientist, BRP (Buyer Risk Prevention) | San Diego, CA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3030894/applied-scientist-brp-buyer-risk-prevention) |
 | Applied Scientist, BRP Payment Risk ML | San Diego, CA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2934836/applied-scientist-brp-payment-risk-ml) |
 | Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning team | Seattle, WA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3025540/applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning-team) |
 | Research Scientist, Amazon Customer Service | Seattle, WA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3021082/research-scientist-amazon-customer-service) |
@@ -1042,12 +1040,11 @@
 | Software Development Engineer II, Advertising Products and Tech | Bellevue, WA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3038377/software-development-engineer-ii-advertising-products-and-tech) |
 | Data Scientist II - AMZ9081268 | Tempe, AZ | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3023036/data-scientist-ii-amz9081268) |
 | Data Scientist II - AMZ9082460 | Seattle, WA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3003786/data-scientist-ii-amz9082460) |
-| Applied Scientist, BRP (Buyer Risk Prevention) | San Diego, CA | 2mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3030894/applied-scientist-brp-buyer-risk-prevention) |
 | Data Scientist, Elevated Shopping Luxury Science | New York, NY | 3mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/3006487/data-scientist-elevated-shopping-luxury-science) |
+| Business Intelligence Engineer II, AWS Solutions | Seattle, WA | 4mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2975258/business-intelligence-engineer-ii-aws-solutions) |
 | Software Development Engineer II, Advertising Products and Tech | New York, NY | 4mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2871331/software-development-engineer-ii-advertising-products-and-tech) |
 | Software Development Engineer II, Advertising Products and Tech | Seattle, WA | 4mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2871344/software-development-engineer-ii-advertising-products-and-tech) |
 | Applied Scientist, Advertising Measurement, Ad Measurements Science | Seattle, WA | 4mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2909842/applied-scientist-advertising-measurement-ad-measurements-science) |
-| Business Intelligence Engineer II, AWS Solutions | Seattle, WA | 4mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2975258/business-intelligence-engineer-ii-aws-solutions) |
 | Amazon Robotics - Data Scientist (New Grad), Amazon Robotics, Software Research and Science | North Reading, MA | 5mo ago | Entry-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2819280/amazon-robotics-data-scientist-new-grad-amazon-robotics-software-research-and-science) |
 | Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | 10mo ago | Mid-Level | Data Science  | [Apply](https://amazon.jobs/en-gb/jobs/2829142/research-scientist-artificial-general-intelligence-data-services) |
 
@@ -1076,13 +1073,13 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 146 | 228% | Perfect for new grads |
-| 🟡 **Mid-Level** | 391 | 611% | 2-5 years experience |
-| 🔴 **Senior** | 290 | 453% | 5+ years experience |
+| 🟢 **Entry-Level** | 146 | 225% | Perfect for new grads |
+| 🟡 **Mid-Level** | 388 | 597% | 2-5 years experience |
+| 🔴 **Senior** | 289 | 445% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
-#### 💻 **Data Science ** (811 archived positions)
+#### 💻 **Data Science ** (807 archived positions)
 📦 Amazon
 
 #### 🤖 **Machine Learning & AI** (7 archived positions)
@@ -1103,9 +1100,9 @@
 ### 🌍 **Top Archived Locations**
 
 - **Multiple Cities, US**: 119 archived positions
-- **Not Specific, Not Specific**: 88 archived positions
+- **Not Specific, Not Specific**: 87 archived positions
 - **Boise, Idaho**: 60 archived positions
-- **Redmond, Washington**: 45 archived positions
+- **Redmond, Washington**: 44 archived positions
 - **San Jose, California**: 28 archived positions
 - **Santa Clara, CA**: 24 archived positions
 - **Austin, Texas**: 16 archived positions
@@ -1118,12 +1115,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 827 
+- **🔥 Active Positions**: 823 
 - **🏢 Companies**: 12 elite tech companies
-- **⭐ FAANG+ Jobs**: 139 premium opportunities  
+- **⭐ FAANG+ Jobs**: 137 premium opportunities  
 - **📅 Last Updated**: September 6, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 64 (older than 1 week)
+- **📁 Archived Jobs**: 65 (older than 1 week)
 
 ---
 
@@ -1151,14 +1148,14 @@
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 **Entry-Level** | 146 | 18% | Perfect for new grads |
-| 🟡 **Mid-Level** | 391 | 47% | 2-5 years experience |
-| 🔴 **Senior** | 290 | 35% | 5+ years experience |
+| 🟡 **Mid-Level** | 388 | 47% | 2-5 years experience |
+| 🔴 **Senior** | 289 | 35% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Data Science ** (811 positions)
+### 💻 **Data Science ** (807 positions)
 📦 Amazon
 
 ### 🤖 **Machine Learning & AI** (7 positions)
@@ -1181,9 +1178,9 @@
 ## 🌍 **Top Locations**
 
 - **Multiple Cities, US**: 119 positions
-- **Not Specific, Not Specific**: 88 positions
+- **Not Specific, Not Specific**: 87 positions
 - **Boise, Idaho**: 60 positions
-- **Redmond, Washington**: 45 positions
+- **Redmond, Washington**: 44 positions
 - **San Jose, California**: 28 positions
 - **Santa Clara, CA**: 24 positions
 - **Austin, Texas**: 16 positions
@@ -1228,7 +1225,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 827 current opportunities from 12 elite companies**
+**🎯 823 current opportunities from 12 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

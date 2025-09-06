@@ -1,72 +1,32 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Fulfillment Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Fulfillment Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006362/Fulfillment-Specialist",
-    "id": "abb-fulfillment-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Shift Leader",
+    "job_title": "Project Engineer（>3 years）",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Shift Leader at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008574/Shift-Leader",
-    "id": "abb-shift-leader-not-specific"
+    "job_description": "Data Science job for the role Project Engineer（>3 years） at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008442/Project-Engineer（>3-years）",
+    "id": "abb-project-engineer-3-years-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "US Robotics Sales Support Specialist",
+    "job_title": "Production Scheduler & Planner",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role US Robotics Sales Support Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008587/US-Robotics-Sales-Support-Specialist",
-    "id": "abb-us-robotics-sales-support-specialist-not-specific"
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Production Scheduler & Planner at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001582/Production-Scheduler-Planner",
+    "id": "abb-production-scheduler-planner-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Ingénieur commercial Grands Comptes robotiquesF/H",
+    "job_title": "Electromechanical Design Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Ingénieur commercial Grands Comptes robotiquesF/H at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004506/Ingénieur-commercial-Grands-Comptes-robotiquesF-H",
-    "id": "abb-ing-nieur-commercial-grands-comptes-robotiquesf-h-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Project Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/97010807/Service-Project-Manager",
-    "id": "abb-service-project-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Contract and Risk Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Contract and Risk Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/93823427/Contract-and-Risk-Manager",
-    "id": "abb-contract-and-risk-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "BI Analyst / Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role BI Analyst / Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006314/BI-Analyst-Specialist",
-    "id": "abb-bi-analyst-specialist-not-specific"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Electromechanical Design Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95378346/Electromechanical-Design-Engineer",
+    "id": "abb-electromechanical-design-engineer-not-specific"
   }
 ]
