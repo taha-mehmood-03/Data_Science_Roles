@@ -1,12 +1,32 @@
 [
   {
     "employer_name": "SIEMENS",
-    "job_title": "Smart Infrastructure Electrical Products Operations Leadership Development Program - July",
+    "job_title": "Smart Infrastructure Electrical Products Operations Leadership Development Program - January",
     "job_city": "Fort Worth",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Smart Infrastructure Electrical Products Operations Leadership Development Program - July 2026 at Fort Worth, Texas, United States of America",
+    "job_description": "Data Science job for the role Smart Infrastructure Electrical Products Operations Leadership Development Program - January 2026 at Fort Worth, Texas, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-infrastructure-electrical-products-operations-leadership-development-program-july-fort-worth"
+    "id": "siemens-smart-infrastructure-electrical-products-operations-leadership-development-program-january-fort-worth"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship",
+    "job_city": "Peachtree Corners",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Smart Infrastructure Electrical Products Engineering Leadership Development Program Internship at Peachtree Corners, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-smart-infrastructure-electrical-products-engineering-leadership-development-program-internship-peachtree-corners"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Capacity Efficiency",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Data Scientist, Capacity Efficiency at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/161345582-data-scientist-capacity-efficiency",
+    "id": "aijobs-data-scientist-capacity-efficiency-ca"
   }
 ]
