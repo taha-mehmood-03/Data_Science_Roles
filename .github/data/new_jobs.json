@@ -1,54 +1,23 @@
 [
   {
-    "job_title": "Applied Scientist, Skill Builder AWS Training and Certification, Skill Builder, AWS Training and Certifications",
+    "job_title": "Risk Manager, Sales Abuse, Sales Abuse Prevention",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Applied Scientist, Skill Builder AWS Training and Certification, Skill Builder, AWS Training and Certifications at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077491/applied-scientist-skill-builder-aws-training-and-certification-skill-builder-aws-training-and-certifications",
-    "job_posted_at": "2025-09-08T17:21:53.918Z",
-    "job_posted_at_datetime_utc": "2025-09-08T17:21:53.918Z",
-    "id": "amazon-applied-scientist-skill-builder-aws-training-and-certification-skill-builder-aws-training-and-certifications-arlington"
-  },
-  {
-    "job_title": "Economist",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Economist at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077468/economist",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Risk Manager, Sales Abuse, Sales Abuse Prevention at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077580/risk-manager-sales-abuse-sales-abuse-prevention",
     "job_posted_at": "2025-09-08T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
-    "id": "amazon-economist-newark"
+    "id": "amazon-risk-manager-sales-abuse-sales-abuse-prevention-san-diego"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "HVAC Building Automation Service Specialist",
-    "job_city": "Syracuse",
-    "job_state": "United States of America",
+    "employer_name": "Microsoft",
+    "job_title": "Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role HVAC Building Automation Service Specialist at Syracuse, New York, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-hvac-building-automation-service-specialist-syracuse"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Research Scientist, Artificial Intelligence",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Research Scientist, Artificial Intelligence at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Research-Scientist--Artificial-Intelligence_R255393-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-research-scientist-artificial-intelligence-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Strategist - Quality and Regulatory",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Strategist - Quality and Regulatory at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Strategist---Quality-and-Regulatory_R255590?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-strategist-quality-and-regulatory-us"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873015/Program-Manager",
+    "id": "microsoft-program-manager-redmond"
   }
 ]
