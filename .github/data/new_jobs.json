@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "Risk Manager, Sales Abuse, Sales Abuse Prevention",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Risk Manager, Sales Abuse, Sales Abuse Prevention at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077580/risk-manager-sales-abuse-sales-abuse-prevention",
-    "job_posted_at": "2025-09-08T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
-    "id": "amazon-risk-manager-sales-abuse-sales-abuse-prevention-san-diego"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Software Development Engineer Development Program",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873015/Program-Manager",
-    "id": "microsoft-program-manager-redmond"
+    "job_description": "Data Science job for the role Software Development Engineer Development Program at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007052/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-software-development-engineer-development-program-dallas"
   }
 ]
