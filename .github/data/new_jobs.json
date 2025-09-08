@@ -1,42 +1,53 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Ecosystem Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Ecosystem Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-ecosystem-architect/33099/74768715920",
-    "id": "arm-ecosystem-architect-cambridge"
+    "job_title": "Data Scientist II, AWS Cross Domain Solutions",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Scientist II, AWS Cross Domain Solutions at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077144/data-scientist-ii-aws-cross-domain-solutions",
+    "job_posted_at": "2025-09-08T15:17:42.403Z",
+    "job_posted_at_datetime_utc": "2025-09-08T15:17:42.403Z",
+    "id": "amazon-data-scientist-ii-aws-cross-domain-solutions-arlington"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "IMS Software Technical Support Professional Intern:",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "AI Machine Learning Engineer II (Full Time) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IMS Software Technical Support Professional Intern: 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA",
-    "id": "ibm-ims-software-technical-support-professional-intern-multiple-cities"
+    "job_description": "Data Science job for the role AI Machine Learning Engineer II (Full Time) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Machine-Learning-Engineer-II-Full-Time-United-States/1448436",
+    "id": "cisco-ai-machine-learning-engineer-ii-full-time-united-states-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Procurement Entry Level Hire:",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Business Data Analyst Global Supply Chain",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Procurement Entry Level Hire: 2026 at Entry LevelRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57312&source=WEB_Search_NA",
-    "id": "ibm-procurement-entry-level-hire-research-triangle-park"
+    "job_description": "Data Science job for the role Business Data Analyst Global Supply Chain 1449169 at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Business-Data-Analyst-Global-Supply-Chain-1449169/1449169",
+    "id": "cisco-business-data-analyst-global-supply-chain-rtp"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Procurement Intern:",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Electrical Infrastructure Sales Manager - Low/Medium Voltage Products",
+    "job_city": "New York City",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Procurement Intern: 2026 at InternshipRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57310&source=WEB_Search_NA",
-    "id": "ibm-procurement-intern-research-triangle-park"
+    "job_description": "Data Science job for the role Electrical Infrastructure Sales Manager - Low/Medium Voltage Products at New York City, New York, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-electrical-infrastructure-sales-manager-low-medium-voltage-products-new-york-city"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Sales Executive or Senior Sales Executive - Building Automation Service",
+    "job_city": "Mechanicsburg",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Executive or Senior Sales Executive - Building Automation Service at Mechanicsburg, Pennsylvania, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-sales-executive-or-senior-sales-executive-building-automation-service-mechanicsburg"
   }
 ]
