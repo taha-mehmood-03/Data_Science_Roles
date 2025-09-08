@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Ecosystem Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Ecosystem Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-ecosystem-architect/33099/74768715920",
+    "id": "arm-ecosystem-architect-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IMS Software Technical Support Professional Intern:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IMS Software Technical Support Professional Intern: 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA",
+    "id": "ibm-ims-software-technical-support-professional-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Procurement Entry Level Hire:",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Procurement Entry Level Hire: 2026 at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57312&source=WEB_Search_NA",
+    "id": "ibm-procurement-entry-level-hire-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Procurement Intern:",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Procurement Intern: 2026 at InternshipRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57310&source=WEB_Search_NA",
+    "id": "ibm-procurement-intern-research-triangle-park"
+  }
+]
