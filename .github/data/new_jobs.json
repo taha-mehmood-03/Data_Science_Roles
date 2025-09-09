@@ -1,43 +1,82 @@
 [
   {
-    "job_title": "Business Analyst II, At Risk Clinical Programs",
-    "employer_name": "Amazon",
-    "job_city": "Virtual",
-    "job_state": "USA",
-    "job_description": "Data Science job for the role Business Analyst II, At Risk Clinical Programs at Virtual, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078965/business-analyst-ii-at-risk-clinical-programs",
-    "job_posted_at": "2025-09-09T19:16:19.447Z",
-    "job_posted_at_datetime_utc": "2025-09-09T19:16:19.447Z",
-    "id": "amazon-business-analyst-ii-at-risk-clinical-programs-virtual"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer -  Data Platform / Database - Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer -  Data Platform / Database - Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57362&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-platform-database-industry-market-multiple-cities"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Storage Engineer",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Platform AI Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Storage Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844370/Senior-Storage-Engineer",
-    "id": "microsoft-senior-storage-engineer-mountain-view"
+    "job_description": "Data Science job for the role Platform AI Engineer at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56954&source=WEB_Search_NA",
+    "id": "ibm-platform-ai-engineer-austin"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Systems Engineer",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Full Stack Software Engineer",
+    "job_city": "Irvine",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Systems Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848860/Senior-Systems-Engineer",
-    "id": "microsoft-senior-systems-engineer-mountain-view"
+    "job_description": "Data Science job for the role Full Stack Software Engineer at ProfessionalIrvine, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57611&source=WEB_Search_NA",
+    "id": "ibm-full-stack-software-engineer-irvine"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Software Engineering Internship",
-    "job_city": "Chicago",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Production Technician",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Internship at Chicago, Illinois, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-software-engineering-internship-chicago"
+    "job_description": "Data Science job for the role Manufacturing Production Technician at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57363&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-production-technician-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Apptio - Solutions Consultant (Digital Technical Specialist)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Apptio - Solutions Consultant (Digital Technical Specialist) at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55744&source=WEB_Search_NA",
+    "id": "ibm-apptio-solutions-consultant-digital-technical-specialist-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Experience Program Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Client Experience Program Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57552&source=WEB_Search_NA",
+    "id": "ibm-client-experience-program-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Development (M&A) Executive",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Development (M&A) Executive at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53852&source=WEB_Search_NA",
+    "id": "ibm-business-development-m-a-executive-new-york"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "CMOS Research Engineer (Life Sciences)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role CMOS Research Engineer (Life Sciences) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Deep-Tech-Electronics-Architecture-Engineer_R255391?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-cmos-research-engineer-life-sciences-us"
   }
 ]
