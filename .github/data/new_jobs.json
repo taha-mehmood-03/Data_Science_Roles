@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML with Data Analytics , MLOps & Data Science",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "19h ago",
-    "job_description": "data science job for the role AI/ML with Data Analytics , MLOps & Data Science at Austin, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880214-ai-ml-with-data-analytics-mlops-data-science",
-    "id": "aijobs-ai-ml-with-data-analytics-mlops-data-science-us"
+    "employer_name": "Arm",
+    "job_title": "SAP Sales Lead",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal SAP Sales Lead at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-sap-sales-lead/33099/85946376832",
+    "id": "arm-sap-sales-lead-cambridge"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science Analyst",
-    "job_city": "US",
-    "job_state": "MN",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Data Science Analyst at Rochester, MN, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880215-data-science-analyst",
-    "id": "aijobs-data-science-analyst-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist – Measurement",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Senior Data Scientist – Measurement at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880216-senior-data-scientist-measurement",
-    "id": "aijobs-data-scientist-measurement-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science Analyst, Corporate Strategy",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Data Science Analyst, Corporate Strategy at Menlo Park, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880205-data-science-analyst-corporate-strategy",
-    "id": "aijobs-data-science-analyst-corporate-strategy-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sports Scientist",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "17h ago",
-    "job_description": "data science job for the role Sports Scientist at El Segundo, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880212-sports-scientist",
-    "id": "aijobs-sports-scientist-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Early Career, Data Scientist (2026)",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Early Career, Data Scientist (2026) at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880207-early-career-data-scientist-2026",
-    "id": "aijobs-early-career-data-scientist-2026-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Growth Data Scientist",
-    "job_city": "US",
-    "job_state": "Buffalo-Niagara Falls Area",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Growth Data Scientist at Buffalo-Niagara Falls Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/161880206-growth-data-scientist",
-    "id": "aijobs-growth-data-scientist-us"
+    "employer_name": "SIEMENS",
+    "job_title": "Production Manager",
+    "job_city": "Broken Arrow",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Production Manager at Broken Arrow, Oklahoma, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-production-manager-broken-arrow"
   }
 ]
