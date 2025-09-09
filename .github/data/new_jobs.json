@@ -1,32 +1,43 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer -CPU Architect",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer -CPU Architect at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-cpu-architect/33099/76890966592",
-    "id": "arm-engineer-cpu-architect-bengaluru"
+    "job_title": "Business Analyst II, At Risk Clinical Programs",
+    "employer_name": "Amazon",
+    "job_city": "Virtual",
+    "job_state": "USA",
+    "job_description": "Data Science job for the role Business Analyst II, At Risk Clinical Programs at Virtual, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078965/business-analyst-ii-at-risk-clinical-programs",
+    "job_posted_at": "2025-09-09T19:16:19.447Z",
+    "job_posted_at_datetime_utc": "2025-09-09T19:16:19.447Z",
+    "id": "amazon-business-analyst-ii-at-risk-clinical-programs-virtual"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Storage Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Program Manager at Austin, Texas, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
-    "id": "arm-principal-program-manager-austin"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Storage Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844370/Senior-Storage-Engineer",
+    "id": "microsoft-senior-storage-engineer-mountain-view"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Distinguished Custom Memory Architect Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Distinguished Custom Memory Architect Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Distinguished-Memory-Architect-Engineer_2402690?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-distinguished-custom-memory-architect-engineer-santa-clara"
+    "employer_name": "Microsoft",
+    "job_title": "Senior Systems Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Systems Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848860/Senior-Systems-Engineer",
+    "id": "microsoft-senior-systems-engineer-mountain-view"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Software Engineering Internship",
+    "job_city": "Chicago",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering Internship at Chicago, Illinois, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-software-engineering-internship-chicago"
   }
 ]
