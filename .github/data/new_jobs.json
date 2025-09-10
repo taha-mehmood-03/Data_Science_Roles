@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Silicon Applications Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Silicon Applications Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-silicon-applications-engineer/33099/74671715296",
-    "id": "arm-silicon-applications-engineer-sophia-antipolis"
+    "employer_name": "AiJobs",
+    "job_title": "Remote AI/ML Scientist (Healthcare)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Remote AI/ML Scientist (Healthcare) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071443-remote-ai-ml-scientist-healthcare",
+    "id": "aijobs-remote-ai-ml-scientist-healthcare-unknown"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Performance Solution Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Performance Solution Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-performance-solution-engineer/33099/75645072992",
-    "id": "arm-performance-solution-engineer-cambridge"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Advertising",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Data Scientist - Advertising at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071444-data-scientist-advertising",
+    "id": "aijobs-data-scientist-advertising-us"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Director, GPU Product Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, GPU Product Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-gpu-product-manager/33099/82080684640",
-    "id": "arm-director-gpu-product-manager-cambridge"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Forecasting",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Data Scientist, Forecasting at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162071447-data-scientist-forecasting",
+    "id": "aijobs-data-scientist-forecasting-us"
   }
 ]
