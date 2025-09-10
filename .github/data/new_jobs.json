@@ -1,13 +1,42 @@
 [
   {
-    "job_title": "Applied Scientist, BRP Payment Risk ML",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
+    "employer_name": "AiJobs",
+    "job_title": "Data Platform Admin - Finance",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist, BRP Payment Risk ML at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2934836/applied-scientist-brp-payment-risk-ml",
-    "job_posted_at": "2025-09-10T00:04:39.395Z",
-    "job_posted_at_datetime_utc": "2025-09-10T00:04:39.395Z",
-    "id": "amazon-applied-scientist-brp-payment-risk-ml-san-diego"
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Data Platform Admin - Finance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161994000-senior-data-platform-admin-finance",
+    "id": "aijobs-data-platform-admin-finance-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Pricing Analyst",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Pricing Analyst at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161993994-senior-pricing-analyst",
+    "id": "aijobs-pricing-analyst-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Developer Technology Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Senior Developer Technology Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161994001-senior-developer-technology-engineer",
+    "id": "aijobs-developer-technology-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer, Enterprise MODS",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Software Engineer, Enterprise MODS at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/161993998-senior-system-software-engineer-enterprise-mods",
+    "id": "aijobs-system-software-engineer-enterprise-mods-santa-clara"
   }
 ]
