@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Manufacturing Diagnostic Engineer",
+    "job_title": "Graduate Implementation Engineer - CPU",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manufacturing Diagnostic Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manufacturing-diagnostic-engineer/33099/85995358816",
-    "id": "arm-manufacturing-diagnostic-engineer-austin"
+    "job_description": "Data Science job for the role Graduate Implementation Engineer - CPU at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
+    "id": "arm-graduate-implementation-engineer-cpu-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Performance Architecture & PnP Modeling Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern Performance Architecture & PnP Modeling Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/intern-performance-architecture-and-pnp-modeling-engineer/33099/85997348752",
+    "id": "arm-intern-performance-architecture-pnp-modeling-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Hardware Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
+    "id": "arm-graduate-hardware-engineer-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Regional Account Manager - Data Centers & Hyperscaler",
+    "job_city": "Fremont",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Regional Account Manager - Data Centers & Hyperscaler at Fremont, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-regional-account-manager-data-centers-hyperscaler-fremont"
   }
 ]
