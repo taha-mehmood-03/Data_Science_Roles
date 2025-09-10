@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Diffusion and Implant Shift Process Technician",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Diffusion and Implant Shift Process Technician at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/31043411",
-    "id": "micron-diffusion-and-implant-shift-process-technician-boise"
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Software Engineer  2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Printed Circuit Board Supplier Development Engineer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Printed Circuit Board Supplier Development Engineer 2026 at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57933&source=WEB_Search_NA",
+    "id": "ibm-entry-level-printed-circuit-board-supplier-development-engineer-rochester"
   }
 ]
