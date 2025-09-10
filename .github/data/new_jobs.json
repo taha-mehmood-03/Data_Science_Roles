@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Staff Quantitative UX Researcher",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Watsonx.data intelligence Product Manager",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "39 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Quantitative UX Researcher, Search Verticals",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129684698539401926-senior-staff-quantitative-ux-researcher-search-verticals?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-staff-quantitative-ux-researcher-mountain-view"
+    "job_description": "Data Science job for the role Watsonx.data intelligence Product Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57629&source=WEB_Search_NA",
+    "id": "ibm-watsonx-data-intelligence-product-manager-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Commercial Strategist, Open Platform",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Commercial Strategist, Open Platform at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57628&source=WEB_Search_NA",
+    "id": "ibm-commercial-strategist-open-platform-san-jose"
   }
 ]
