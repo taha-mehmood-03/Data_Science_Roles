@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Remote AI/ML Scientist (Healthcare)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "16h ago",
-    "job_description": "data science job for the role Remote AI/ML Scientist (Healthcare) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/162071443-remote-ai-ml-scientist-healthcare",
-    "id": "aijobs-remote-ai-ml-scientist-healthcare-unknown"
+    "job_title": "Data Scientist, People Experience and Technology Central Science",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Scientist, People Experience and Technology Central Science at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981030/data-scientist-people-experience-and-technology-central-science",
+    "job_posted_at": "2025-09-06T13:23:34.656Z",
+    "job_posted_at_datetime_utc": "2025-09-06T13:23:34.656Z",
+    "id": "amazon-data-scientist-people-experience-and-technology-central-science-arlington"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Advertising",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Data Scientist - Advertising at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162071444-data-scientist-advertising",
-    "id": "aijobs-data-scientist-advertising-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Forecasting",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "22min ago",
-    "job_description": "data science job for the role Data Scientist, Forecasting at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162071447-data-scientist-forecasting",
-    "id": "aijobs-data-scientist-forecasting-us"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Graphics and ML",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer - Graphics and ML at Cambridge, United Kingdom, Trondheim, Norway, Oslo, Norway",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-graphics-and-ml/33099/85969516928",
+    "id": "arm-software-engineer-graphics-and-ml-cambridge"
   }
 ]
