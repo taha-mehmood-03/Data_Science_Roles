@@ -1,44 +1,12 @@
 [
   {
-    "job_title": "Data Product Manager, Re:Cycle Reverse Logistics",
-    "employer_name": "Amazon",
-    "job_city": "Greencastle",
-    "job_state": "PA",
-    "job_description": "Data Science job for the role Data Product Manager, Re:Cycle Reverse Logistics at Greencastle, PA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3079831/data-product-manager-re-cycle-reverse-logistics",
-    "job_posted_at": "2025-09-10T17:21:10.689Z",
-    "job_posted_at_datetime_utc": "2025-09-10T17:21:10.689Z",
-    "id": "amazon-data-product-manager-re-cycle-reverse-logistics-greencastle"
-  },
-  {
-    "job_title": "Data Engineer, Amazon Photos",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, Amazon Photos at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3053707/data-engineer-amazon-photos",
-    "job_posted_at": "2025-09-10T17:21:10.689Z",
-    "job_posted_at_datetime_utc": "2025-09-10T17:21:10.689Z",
-    "id": "amazon-data-engineer-amazon-photos-seattle"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Administrative Project Coordinator",
-    "job_city": "Johnston",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Manufacturing Diagnostic Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Smart Buildings Administrative Project Coordinator at Johnston, Iowa, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-administrative-project-coordinator-johnston"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Administrative Project Coordinator",
-    "job_city": "Indianapolis",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Smart Buildings Administrative Project Coordinator at Indianapolis, Indiana, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-administrative-project-coordinator-indianapolis"
+    "job_description": "Data Science job for the role Senior Manufacturing Diagnostic Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manufacturing-diagnostic-engineer/33099/85995358816",
+    "id": "arm-manufacturing-diagnostic-engineer-austin"
   }
 ]
