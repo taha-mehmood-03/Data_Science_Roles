@@ -1,83 +1,32 @@
 [
   {
-    "job_title": "Business Analyst II, At Risk Clinical Programs",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Business Analyst II, At Risk Clinical Programs at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078965/business-analyst-ii-at-risk-clinical-programs",
-    "job_posted_at": "2025-09-09T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-09T00:00:00.000Z",
-    "id": "amazon-business-analyst-ii-at-risk-clinical-programs-san-francisco"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Clinical Experience Manager",
+    "job_title": "Data Scientist",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Clinical Experience Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862579/Clinical-Experience-Manager",
-    "id": "microsoft-clinical-experience-manager-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832306/Data-Scientist",
+    "id": "microsoft-data-scientist-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Data Engineer Intern:",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Clinical Experience Lead",
+    "job_city": "Burlington",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Federal Data Engineer Intern: 2026 at InternshipWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
-    "id": "ibm-federal-data-engineer-intern-washington"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Clinical Experience Lead",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862596/Clinical-Experience-Lead",
+    "id": "microsoft-clinical-experience-lead-burlington"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Software Performance Analyst",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Performance Analyst at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57550&source=WEB_Search_NA",
-    "id": "ibm-software-performance-analyst-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "managing SAP consultant ISU FICA",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior managing SAP consultant ISU FICA at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57655&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-consultant-isu-fica-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "OpenSearch Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role OpenSearch Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57955&source=WEB_Search_NA",
-    "id": "ibm-opensearch-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Leader, State of Minnesota, US Public Market",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Leader, State of Minnesota, US Public Market at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57086&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-leader-state-of-minnesota-us-public-market-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Technical Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP Technical Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57657&source=WEB_Search_NA",
-    "id": "ibm-sap-technical-architect-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "Physical Design Engineer Intern - Master's Degree",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Physical Design Engineer Intern - Master's Degree at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Physical-Design-Engineer-Intern---Master-s-Degree_2502381-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-physical-design-engineer-intern-master-s-degree-austin"
   }
 ]
