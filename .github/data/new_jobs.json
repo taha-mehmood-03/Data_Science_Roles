@@ -1,12 +1,44 @@
 [
   {
+    "job_title": "Software Development Engineer, Web Information System",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer, Web Information System at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2954719/software-development-engineer-web-information-system",
+    "job_posted_at": "2025-09-09T18:18:17.877Z",
+    "job_posted_at_datetime_utc": "2025-09-09T18:18:17.877Z",
+    "id": "amazon-software-development-engineer-web-information-system-bellevue"
+  },
+  {
+    "job_title": "Applied Scientist, Advertising Measurement, Ad Measurements Science",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Advertising Measurement, Ad Measurements Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2909844/applied-scientist-advertising-measurement-ad-measurements-science",
+    "job_posted_at": "2025-09-07T18:18:17.877Z",
+    "job_posted_at_datetime_utc": "2025-09-07T18:18:17.877Z",
+    "id": "amazon-applied-scientist-advertising-measurement-ad-measurements-science-seattle"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Casual Games",
+    "job_title": "Senior Service Engineer (Security)",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Game & Marketing Artist. Level: All Levels. Posted: Recently. Full Title: Senior Game & Marketing Artist - Casual Games",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845686/Senior-Game-%26-Marketing-Artist---Casual-Games",
-    "id": "microsoft-casual-games-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Service Engineer (Security)",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874068/Senior-Service-Engineer-(Security)",
+    "id": "microsoft-senior-service-engineer-security-redmond"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "AI/ML Engineer, Central Operations AI Incubation Team",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI/ML Engineer, Central Operations AI Incubation Team at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-ML-Engineer-Central-Operations-AI-Incubation-Team/1440862",
+    "id": "cisco-ai-ml-engineer-central-operations-ai-incubation-team-san-jose"
   }
 ]
