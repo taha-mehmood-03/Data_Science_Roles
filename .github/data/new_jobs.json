@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Software Engineer",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "employer_name": "IBM",
+    "job_title": "Advisory Solution Architect",
+    "job_city": "COPPELL",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "45 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Engineer, Gen AI Infrastructure, Public Sector",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136753063657382598-senior-software-engineer-gen-ai-infrastructure-public-sector?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-senior-software-engineer-reston"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "AI Architect, Director of Machine Learning & AI",
-    "job_city": "Raleigh",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Architect, Director of Machine Learning & AI at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-ai-architect-director-of-machine-learning-ai-raleigh"
+    "job_description": "Data Science job for the role Advisory Solution Architect at ProfessionalCOPPELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58180&source=WEB_Search_NA",
+    "id": "ibm-advisory-solution-architect-coppell"
   }
 ]
