@@ -1,72 +1,23 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Electrical Engineer",
-    "job_city": "Leominster",
-    "job_state": "US",
+    "job_title": "Data Engineer II, GME Fintech",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, GME Fintech at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3080377/data-engineer-ii-gme-fintech",
+    "job_posted_at": "2025-09-11T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-11T00:00:00.000Z",
+    "id": "amazon-data-engineer-ii-gme-fintech-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Staff Engineering Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Electrical Engineer at Leominster",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-electrical-engineer-leominster"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "GenAI Data Scientist",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role GenAI Data Scientist at Austin, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162071441-genai-data-scientist",
-    "id": "aijobs-genai-data-scientist-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "GenAI Data Scientist",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role GenAI Data Scientist at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/162071442-genai-data-scientist",
-    "id": "aijobs-genai-data-scientist-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - People Analytics",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Data Scientist - People Analytics at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315118-data-scientist-people-analytics",
-    "id": "aijobs-data-scientist-people-analytics-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "17min ago",
-    "job_description": "data science job for the role Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS) at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315120-data-scientist-graduate-tiktok-product-data-science-2026-start-bs-ms",
-    "id": "aijobs-data-scientist-graduate-tiktok-product-data-science-2026-start-bs-ms-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Personalization",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Data Scientist - Personalization at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315117-data-scientist-personalization",
-    "id": "aijobs-data-scientist-personalization-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Research Scientist Intern (Fall 2025)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Machine Learning Research Scientist Intern (Fall 2025) at San Mateo, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162315115-machine-learning-research-scientist-intern-fall-2025",
-    "id": "aijobs-machine-learning-research-scientist-intern-fall-2025-us"
+    "job_description": "24 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Engineering Analyst, Webspam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111841016390001350-senior-staff-engineering-analyst-webspam?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-staff-engineering-analyst-mountain-view"
   }
 ]
