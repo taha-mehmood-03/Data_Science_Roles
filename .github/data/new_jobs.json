@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Accounting Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Google",
+    "job_title": "Senior Data Scientist",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Accounting Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873455/Senior-Accounting-Manager%2C-Cloud-Supply-Chain",
-    "id": "microsoft-senior-accounting-manager-redmond"
+    "job_description": "6 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist, Product, Google Cloud Business Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103755587447071430-senior-data-scientist-product-google-cloud-business-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-data-scientist-sunnyvale"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "GPU Modelling Intern",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GPU Modelling Intern at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/gpu-modelling-intern/33099/86055976480",
-    "id": "arm-gpu-modelling-intern-trondheim"
+    "employer_name": "Micron",
+    "job_title": "GenAI Software Development Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "Data Science job for the role GenAI Software Development Engineer at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27744998",
+    "id": "micron-genai-software-development-engineer-san-jose"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Performance Analysis Intern",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Performance Analysis Intern at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/performance-analysis-intern/33099/86055976368",
-    "id": "arm-performance-analysis-intern-trondheim"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Services Project Manager",
-    "job_city": "Arlington",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Services Project Manager at Arlington, Virginia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-services-project-manager-arlington"
+    "employer_name": "AiJobs",
+    "job_title": "Associate in Artificial Intelligence, Research & Innovation",
+    "job_city": "United States",
+    "job_state": "Georgia",
+    "job_posted_at": "30min ago",
+    "job_description": "data science job for the role Associate in Artificial Intelligence, Research & Innovation at Atlanta, Georgia, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162493712-associate-in-artificial-intelligence-research-innovation",
+    "id": "aijobs-associate-in-artificial-intelligence-research-innovation-united-states"
   }
 ]
