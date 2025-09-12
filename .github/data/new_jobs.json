@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Register Your Interest - Intern",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Field Marketing Intern (Spring 2026, ST&MK)",
+    "job_city": "Maryland Heights",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Register Your Interest - Intern at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/manchester/register-your-interest-intern/33099/85210407264",
-    "id": "arm-register-your-interest-intern-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Register Your Interest - Graduate Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Register Your Interest - Graduate Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/manchester/register-your-interest-graduate-engineer/33099/85798101056",
-    "id": "arm-register-your-interest-graduate-engineer-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Register Your Interest - Graduate Engineer (Galway)",
-    "job_city": "Galway",
-    "job_state": "Ireland",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Register Your Interest - Graduate Engineer (Galway) at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/register-your-interest-graduate-engineer-galway/33099/84946866240",
-    "id": "arm-register-your-interest-graduate-engineer-galway-galway"
+    "job_description": "Data Science job for the role Strategic Student Program: Field Marketing Intern (Spring 2026, ST&MK) at Maryland Heights, Missouri, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-field-marketing-intern-spring-2026-st-mk-maryland-heights"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Associate Energy Engineer",
-    "job_city": "Bellevue",
+    "job_title": "Strategic Student Program: Communications & Marketing Intern (ST&MK, Spring 2026)",
+    "job_city": "Maryland Heights",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Smart Buildings Associate Energy Engineer at Bellevue, Washington, United States of America",
+    "job_description": "Data Science job for the role Strategic Student Program: Communications & Marketing Intern (ST&MK, Spring 2026) at Maryland Heights, Missouri, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-associate-energy-engineer-bellevue"
+    "id": "siemens-strategic-student-program-communications-marketing-intern-st-mk-spring-2026-maryland-heights"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Project Management Assistant Internship- Rail Infrastructure (Summer 2026)",
-    "job_city": "New York City",
+    "job_title": "Strategic Student Program: Social Acquisition Marketing Intern (Spring 2026, ST&MK)",
+    "job_city": "Maryland Heights",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Management Assistant Internship- Rail Infrastructure (Summer 2026) at New York City, New York, United States of America",
+    "job_description": "Data Science job for the role Strategic Student Program: Social Acquisition Marketing Intern (Spring 2026, ST&MK) at Maryland Heights, Missouri, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-project-management-assistant-internship-rail-infrastructure-summer-2026-new-york-city"
+    "id": "siemens-strategic-student-program-social-acquisition-marketing-intern-spring-2026-st-mk-maryland-heights"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Smart Buildings Service Coordinator Supervisor",
+    "job_city": "Houston",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Smart Buildings Service Coordinator Supervisor at Houston, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-smart-buildings-service-coordinator-supervisor-houston"
   }
 ]
