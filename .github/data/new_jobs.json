@@ -1,62 +1,13 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Xbox",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Data Engineer. Level: All Levels. Posted: Recently. Full Title: Senior Data Engineer - Xbox",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875894/Senior-Data-Engineer---Xbox",
-    "id": "microsoft-xbox-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "GPU Hardware Intern",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GPU Hardware Intern at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/gpu-hardware-intern/33099/86055976432",
-    "id": "arm-gpu-hardware-intern-trondheim"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Engineer / Senior Engineer - Instrumentation & Controls",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 8 days ago",
-    "job_description": "Data Science job for the role Engineer / Senior Engineer - Instrumentation & Controls at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37797787",
-    "id": "micron-engineer-senior-engineer-instrumentation-controls-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solution Architect-Entry Level Sales Program",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solution Architect-Entry Level Sales Program 2026 at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58502&source=WEB_Search_NA",
-    "id": "ibm-solution-architect-entry-level-sales-program-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Consultant - SAP S4 HANA PP/QM",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Managing Consultant - SAP S4 HANA PP/QM at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57118&source=WEB_Search_NA",
-    "id": "ibm-managing-consultant-sap-s4-hana-pp-qm-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Business Transformation Consultant Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Business Transformation Consultant Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58730&source=WEB_Search_NA",
-    "id": "ibm-associate-business-transformation-consultant-intern-multiple-cities"
+    "job_title": "Data Scientist II - AMZ24724.1",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist II - AMZ24724.1 at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3054396/data-scientist-ii-amz24724-1",
+    "job_posted_at": "2025-09-12T21:13:28.580Z",
+    "job_posted_at_datetime_utc": "2025-09-12T21:13:28.580Z",
+    "id": "amazon-data-scientist-ii-amz24724-1-new-york"
   }
 ]
