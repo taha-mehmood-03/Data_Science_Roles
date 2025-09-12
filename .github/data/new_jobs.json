@@ -1,22 +1,43 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Embeded Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Applied Scientist, Amazon Connect",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Amazon Connect at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3081539/applied-scientist-amazon-connect",
+    "job_posted_at": "2025-09-12T00:52:35.057Z",
+    "job_posted_at_datetime_utc": "2025-09-12T00:52:35.057Z",
+    "id": "amazon-applied-scientist-amazon-connect-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Logic Design Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Embeded Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-embeded-software-engineer/33099/66037111824",
-    "id": "arm-embeded-software-engineer-bengaluru"
+    "job_description": "Data Science job for the role Logic Design Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57387&source=WEB_Search_NA",
+    "id": "ibm-logic-design-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Marketing (Austin, TX)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern – IBM Marketing (Austin, TX) at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58136&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-marketing-austin-tx-austin"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "ML/AI Engineer Intern",
-    "job_city": "US",
-    "job_state": "MI",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role ML/AI Engineer Intern at Zeeland, MI, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/162431694-ml-ai-engineer-intern",
-    "id": "aijobs-ml-ai-engineer-intern-us"
+    "job_title": "Data Scientist, API",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Data Scientist, API at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/162436485-data-scientist-api",
+    "id": "aijobs-data-scientist-api-ca"
   }
 ]
