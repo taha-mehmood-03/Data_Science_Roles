@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Edge AI Solution Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Consumer Experience Designer",
+    "job_city": "San Bruno",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Edge AI Solution Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/edge-ai-solution-manager/33099/81282657056",
-    "id": "arm-edge-ai-solution-manager-cambridge"
+    "job_description": "41 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Consumer Experience Designer, YouTube Consumer Experience Operations",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74955804502827718-consumer-experience-designer-youtube-consumer-experience-operations?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-consumer-experience-designer-san-bruno"
   },
   {
     "employer_name": "Arm",
-    "job_title": "RTL Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Graduate Graphics Software Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior RTL Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-rtl-engineer/33099/86070309344",
-    "id": "arm-rtl-engineer-austin"
+    "job_description": "Data Science job for the role Graduate Graphics Software Engineer at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer/33099/86072349568",
+    "id": "arm-graduate-graphics-software-engineer-trondheim"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graphics Software Intern, Direct3D",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graphics Software Intern, Direct3D at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graphics-software-intern-direct3d/33099/86072346848",
+    "id": "arm-graphics-software-intern-direct3d-trondheim"
   }
 ]
