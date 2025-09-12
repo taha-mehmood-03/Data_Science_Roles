@@ -1,43 +1,52 @@
 [
   {
-    "job_title": "Applied Scientist, Amazon Connect",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Amazon Connect at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3081539/applied-scientist-amazon-connect",
-    "job_posted_at": "2025-09-12T00:52:35.057Z",
-    "job_posted_at_datetime_utc": "2025-09-12T00:52:35.057Z",
-    "id": "amazon-applied-scientist-amazon-connect-seattle"
+    "employer_name": "IBM",
+    "job_title": "Client Engineering Innovation Designer Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Client Engineering Innovation Designer Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54096&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-innovation-designer-consultant-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Logic Design Engineer",
+    "job_title": "2026 Intern – Motion Designer",
     "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Logic Design Engineer at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57387&source=WEB_Search_NA",
-    "id": "ibm-logic-design-engineer-austin"
+    "job_description": "Data Science job for the role 2026 Intern – Motion Designer at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58139&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-motion-designer-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – IBM Marketing (Austin, TX)",
-    "job_city": "Austin",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Application Consultant Intern (Spring 2026; GSCS)",
+    "job_city": "Amherst",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 2026 Intern – IBM Marketing (Austin, TX) at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58136&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-ibm-marketing-austin-tx-austin"
+    "job_description": "Data Science job for the role Strategic Student Program: Application Consultant Intern (Spring 2026; GSCS) at Amherst, New York, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-application-consultant-intern-spring-2026-gscs-amherst"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Production Planner - Manufacturing",
+    "job_city": "Grand Prairie",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Production Planner - Manufacturing at Grand Prairie, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-production-planner-manufacturing-grand-prairie"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Scientist, API",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Data Scientist, API at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/162436485-data-scientist-api",
-    "id": "aijobs-data-scientist-api-ca"
+    "job_title": "Supplier Quality Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Supplier Quality Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/162439132-supplier-quality-engineer",
+    "id": "aijobs-supplier-quality-engineer-united-states"
   }
 ]
