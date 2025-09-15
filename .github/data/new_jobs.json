@@ -1,12 +1,53 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "CyberSecurity Solutions Engineer - Incubation & GTM",
-    "job_city": "Offsite",
-    "job_state": "RTP",
+    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2988721/delivery-consultant-machine-learning-engineer-aws-professional-services-aws-professional-services",
+    "job_posted_at": "2025-09-15T20:13:34.853Z",
+    "job_posted_at_datetime_utc": "2025-09-15T20:13:34.853Z",
+    "id": "amazon-delivery-consultant-machine-learning-engineer-aws-professional-services-aws-professional-services-arlington"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Operations Analyst",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role CyberSecurity Solutions Engineer - Incubation & GTM at Offsite, RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/CyberSecurity-Solutions-Engineer-Incubation-GTM/1443332",
-    "id": "cisco-cybersecurity-solutions-engineer-incubation-gtm-offsite"
+    "job_description": "Data Science job for the role Graduate Operations Analyst at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-operations-analyst/33099/86183641008",
+    "id": "arm-graduate-operations-analyst-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern – Process Engineer ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern – Process Engineer ID1 at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30944879",
+    "id": "micron-intern-process-engineer-id1-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern – Manufacturing Engineer ID1",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern – Manufacturing Engineer ID1 at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30944869",
+    "id": "micron-intern-manufacturing-engineer-id1-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Partner Program Leader - Infrastructure",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Partner Program Leader - Infrastructure at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58650&source=WEB_Search_NA",
+    "id": "ibm-business-partner-program-leader-infrastructure-multiple-cities"
   }
 ]
