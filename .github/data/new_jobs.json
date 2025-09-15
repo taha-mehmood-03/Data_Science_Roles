@@ -1,53 +1,112 @@
 [
   {
-    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2988721/delivery-consultant-machine-learning-engineer-aws-professional-services-aws-professional-services",
-    "job_posted_at": "2025-09-15T20:13:34.853Z",
-    "job_posted_at_datetime_utc": "2025-09-15T20:13:34.853Z",
-    "id": "amazon-delivery-consultant-machine-learning-engineer-aws-professional-services-aws-professional-services-arlington"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Operations Analyst",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Security Analyst II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Operations Analyst at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-operations-analyst/33099/86183641008",
-    "id": "arm-graduate-operations-analyst-austin"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern – Process Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role Intern – Process Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30944879",
-    "id": "micron-intern-process-engineer-id1-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern – Manufacturing Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role Intern – Manufacturing Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30944869",
-    "id": "micron-intern-manufacturing-engineer-id1-boise"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Security Analyst II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872545/Security-Analyst-II",
+    "id": "microsoft-security-analyst-ii-redmond"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Business Partner Program Leader - Infrastructure",
+    "job_title": "Business Partner Program Leader - Data & BP Digital Campaigns",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Partner Program Leader - Infrastructure at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58650&source=WEB_Search_NA",
-    "id": "ibm-business-partner-program-leader-infrastructure-multiple-cities"
+    "job_description": "Data Science job for the role Business Partner Program Leader - Data & BP Digital Campaigns at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58655&source=WEB_Search_NA",
+    "id": "ibm-business-partner-program-leader-data-bp-digital-campaigns-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Regional Leader, Dallas Datacenter Operations",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Regional Leader, Dallas Datacenter Operations at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55506&source=WEB_Search_NA",
+    "id": "ibm-regional-leader-dallas-datacenter-operations-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Process Delivery Specialist - HR Services - (Memphis, TN)",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Process Delivery Specialist - HR Services - (Memphis, TN) at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55542&source=WEB_Search_NA",
+    "id": "ibm-process-delivery-specialist-hr-services-memphis-tn-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Value Management Expert",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Value Management Expert at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58846&source=WEB_Search_NA",
+    "id": "ibm-business-value-management-expert-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Developer at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58183&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Consultant at ProfessionalBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58951&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sales Development Representative - Apptio",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative - Apptio at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA",
+    "id": "ibm-sales-development-representative-apptio-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP MM/Procure to Pay Lead - Sr. Managing Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP MM/Procure to Pay Lead - Sr. Managing Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58515&source=WEB_Search_NA",
+    "id": "ibm-sap-mm-procure-to-pay-lead-sr-managing-consultant-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Security GRC Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Security GRC Analyst at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59095&source=WEB_Search_NA",
+    "id": "ibm-security-grc-analyst-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Product Management Specialist II (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Management Specialist II (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-II-Intern-United-States/1450503",
+    "id": "cisco-product-management-specialist-ii-intern-united-states-san-jose"
   }
 ]
