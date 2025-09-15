@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Software Dev Eng (Embedded System)",
-    "employer_name": "Amazon",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Software Dev Eng (Embedded System) at Los Gatos, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2871323/software-dev-eng-embedded-system",
-    "job_posted_at": "2025-09-15T17:21:08.332Z",
-    "job_posted_at_datetime_utc": "2025-09-15T17:21:08.332Z",
-    "id": "amazon-software-dev-eng-embedded-system-los-gatos"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Supplier Strategy Director",
-    "job_city": "Redmond",
+    "employer_name": "Arm",
+    "job_title": "Product Manager",
+    "job_city": "Seattle",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Supplier Strategy Director",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877885/Supplier-Strategy-Director",
-    "id": "microsoft-supplier-strategy-director-redmond"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "1447364 - Commerce Experiences Business Product Manager - AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 1447364 - Commerce Experiences Business Product Manager - AI at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/1447364-Commerce-Experiences-Business-Product-Manager-AI/1447364",
-    "id": "cisco-1447364-commerce-experiences-business-product-manager-ai-san-jose"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "DevOps Engineering Leader",
-    "job_city": "Milpitas",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role DevOps Engineering Leader at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/DevOps-Engineering-Leader/1446710",
-    "id": "cisco-devops-engineering-leader-milpitas"
+    "job_description": "Data Science job for the role Staff Product Manager at Seattle, Washington, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/seattle/staff-product-manager/33099/78973722336",
+    "id": "arm-product-manager-seattle"
   }
 ]
