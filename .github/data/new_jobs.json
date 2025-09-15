@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Analytics Manager",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "AI System Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytics Manager, Strategy and Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83232507129930438-analytics-manager-strategy-and-operations?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-analytics-manager-new-york"
+    "job_description": "Data Science job for the role AI System Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ai-system-architect/33099/77745208064",
+    "id": "arm-ai-system-architect-cambridge"
   }
 ]
