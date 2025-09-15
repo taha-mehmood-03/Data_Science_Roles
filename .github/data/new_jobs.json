@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Research Manager at Los Angeles, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162953947-research-manager",
+    "id": "aijobs-research-manager-us"
+  }
+]
