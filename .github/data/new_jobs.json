@@ -1,42 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Director of Customer Experience Insights",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Modeling Engineer - Summer",
+    "job_city": "Lexington",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Director of Customer Experience Insights",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823482/Senior-Director-of-Customer-Experience-Insights",
-    "id": "microsoft-senior-director-of-customer-experience-insights-multiple-locations"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - Dry Etch Process Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Intern - Dry Etch Process Development at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/37834787",
-    "id": "micron-intern-dry-etch-process-development-boise"
+    "job_description": "Data Science job for the role Internship - Modeling Engineer - Summer 2026 at Lexington",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-modeling-engineer-summer-lexington"
   },
   {
     "employer_name": "INFINEON",
-    "job_title": "Power System Design Engineer",
-    "job_city": "San Jose",
+    "job_title": "Internship - Modeling Engineer - Spring",
+    "job_city": "Lexington",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Power System Design Engineer at San Jose",
+    "job_description": "Data Science job for the role Internship - Modeling Engineer - Spring 2026 at Lexington",
     "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-power-system-design-engineer-san-jose"
+    "id": "infineon-internship-modeling-engineer-spring-lexington"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Apollo Cloud, VMES, Cesium Release Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Process Design Kit Engineer - Summer",
+    "job_city": "Lexington",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Apollo Cloud, VMES, Cesium Release Manager at Austin, Texas, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Apollo-Cloud-VMES-Cesium-Release-Manager/1447389",
-    "id": "cisco-apollo-cloud-vmes-cesium-release-manager-austin"
+    "job_description": "Data Science job for the role Internship - Process Design Kit Engineer - Summer 2026 at Lexington",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-process-design-kit-engineer-summer-lexington"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Internship - Process Design Kit Engineer - Spring",
+    "job_city": "Lexington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Internship - Process Design Kit Engineer - Spring 2026 at Lexington",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-internship-process-design-kit-engineer-spring-lexington"
   }
 ]
