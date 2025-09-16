@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Compute Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "CISCO",
+    "job_title": "Hyperconverged & AI Infrastructure Platform Product Manager",
+    "job_city": "Offsite",
+    "job_state": "San Diego",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Compute Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-compute-architect/33099/79481277824",
-    "id": "arm-compute-architect-cambridge"
+    "job_description": "Data Science job for the role Hyperconverged & AI Infrastructure Platform Product Manager at Offsite, San Diego, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hyperconverged-AI-Infrastructure-Platform-Product-Manager/1449614",
+    "id": "cisco-hyperconverged-ai-infrastructure-platform-product-manager-offsite"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Systems Engineer – Network Interconnects",
+    "employer_name": "CISCO",
+    "job_title": "CI/CD Release Automation and Quality Assurance Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Systems Engineer – Network Interconnects at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-systems-engineer-network-interconnects/33099/84462421856",
-    "id": "arm-principal-systems-engineer-network-interconnects-austin"
+    "job_description": "Data Science job for the role CI/CD Release Automation and Quality Assurance Engineer at Austin, Texas, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/CI-CD-Release-Automation-and-Quality-Assurance-Engineer/1447300",
+    "id": "cisco-ci-cd-release-automation-and-quality-assurance-engineer-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Electro Assembler",
+    "job_city": "Fort Worth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Electro Assembler at Fort Worth, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-electro-assembler-fort-worth"
   }
 ]
