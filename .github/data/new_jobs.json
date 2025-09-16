@@ -1,32 +1,83 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Hyperconverged & AI Infrastructure Platform Product Manager",
-    "job_city": "Offsite",
-    "job_state": "San Diego",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Hyperconverged & AI Infrastructure Platform Product Manager at Offsite, San Diego, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hyperconverged-AI-Infrastructure-Platform-Product-Manager/1449614",
-    "id": "cisco-hyperconverged-ai-infrastructure-platform-product-manager-offsite"
+    "job_title": "Data Engineer II, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, Intelligent Talent Acquisition at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022155/data-engineer-ii-intelligent-talent-acquisition",
+    "job_posted_at": "2025-09-16T20:14:05.031Z",
+    "job_posted_at_datetime_utc": "2025-09-16T20:14:05.031Z",
+    "id": "amazon-data-engineer-ii-intelligent-talent-acquisition-bellevue"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "CI/CD Release Automation and Quality Assurance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager Architect",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role CI/CD Release Automation and Quality Assurance Engineer at Austin, Texas, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/CI-CD-Release-Automation-and-Quality-Assurance-Engineer/1447300",
-    "id": "cisco-ci-cd-release-automation-and-quality-assurance-engineer-austin"
+    "job_description": "Data Science job for the role Customer Success Manager Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58186&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58173&source=WEB_Search_NA",
+    "id": "ibm-product-manager-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Backend Software Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Backend Software Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57108&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Program Manager",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Program Manager at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59375&source=WEB_Search_NA",
+    "id": "ibm-program-manager-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Solutions Engineer at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58467&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineer-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Management Professional Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Supply Chain Management Professional Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59388&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-management-professional-intern-multiple-cities"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Electro Assembler",
-    "job_city": "Fort Worth",
+    "job_title": "Portfolio Consultant, OEM Sales Acceleration",
+    "job_city": "Phoenix",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Electro Assembler at Fort Worth, Texas, United States of America",
+    "job_description": "Data Science job for the role Portfolio Consultant, OEM Sales Acceleration at Phoenix, Arizona, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-electro-assembler-fort-worth"
+    "id": "siemens-portfolio-consultant-oem-sales-acceleration-phoenix"
   }
 ]
