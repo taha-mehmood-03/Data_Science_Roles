@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Optimization",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Senior Data Scientist - Optimization at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163144508-senior-data-scientist-optimization",
+    "id": "aijobs-data-scientist-optimization-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, New Graduate",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "20h ago",
+    "job_description": "data science job for the role Data Scientist, New Graduate at Pittsburgh, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163144512-data-scientist-new-graduate",
+    "id": "aijobs-data-scientist-new-graduate-us"
+  }
+]
