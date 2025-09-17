@@ -1,22 +1,62 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "CTJ",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Principal Software Engineering Manager. Level: All Levels. Posted: Recently. Full Title: Principal Software Engineering Manager - CTJ",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879591/Principal-Software-Engineering-Manager---CTJ---Top-Secret",
-    "id": "microsoft-ctj-multiple-locations"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Customer Experience Content Program Manager",
+    "job_title": "Senior Research Data Scientist – LLM Memory & Agents – Microsoft Research",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Customer Experience Content Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875813/Customer-Experience-Content-Program-Manager",
-    "id": "microsoft-customer-experience-content-program-manager-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Research Data Scientist – LLM Memory & Agents – Microsoft Research",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879679/Senior-Research-Data-Scientist-%E2%80%93-LLM-Memory-%26-Agents-%E2%80%93-Microsoft-Research",
+    "id": "microsoft-senior-research-data-scientist-llm-memory-agents-microsoft-research-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "PowerVM Firmware Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role PowerVM Firmware Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59125&source=WEB_Search_NA",
+    "id": "ibm-powervm-firmware-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Subject Matter Expert (SME) - AI Productivity",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Subject Matter Expert (SME) - AI Productivity at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59354&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-subject-matter-expert-sme-ai-productivity-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manufacturing Production Operator at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59340&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Demand Strategy Leader, North America Select Territory",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Demand Strategy Leader, North America Select Territory at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58168&source=WEB_Search_NA",
+    "id": "ibm-demand-strategy-leader-north-america-select-territory-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Marketing (New York City)",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern – IBM Marketing (New York City) at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59337&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-marketing-new-york-city-new-york"
   }
 ]
