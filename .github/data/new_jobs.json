@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Modeling Engineer - Summer",
-    "job_city": "Lexington",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Security Strategy",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Modeling Engineer - Summer 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-modeling-engineer-summer-lexington"
+    "job_description": "Category: Principal Technical Program Manager. Level: All Levels. Posted: Recently. Full Title: Principal Technical Program Manager - Security Strategy",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874240/Principal-Technical-Program-Manager---Security-Strategy",
+    "id": "microsoft-security-strategy-multiple-locations"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Modeling Engineer - Spring",
-    "job_city": "Lexington",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Modeling Engineer - Spring 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-modeling-engineer-spring-lexington"
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Developer",
+    "job_city": "US",
+    "job_state": "OH",
+    "job_posted_at": "8h ago",
+    "job_description": "data science job for the role AI/ML Developer at Columbus, OH, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163262447-ai-ml-developer",
+    "id": "aijobs-ai-ml-developer-us"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Process Design Kit Engineer - Summer",
-    "job_city": "Lexington",
+    "employer_name": "AiJobs",
+    "job_title": "AI/Machine Learning Engineer",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Process Design Kit Engineer - Summer 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-process-design-kit-engineer-summer-lexington"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Internship - Process Design Kit Engineer - Spring",
-    "job_city": "Lexington",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Internship - Process Design Kit Engineer - Spring 2026 at Lexington",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-internship-process-design-kit-engineer-spring-lexington"
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role AI/Machine Learning Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/163262448-ai-machine-learning-engineer",
+    "id": "aijobs-ai-machine-learning-engineer-unknown"
   }
 ]
