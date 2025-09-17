@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Cloud Solution Architect – Cloud & AI Data – CTJ – Top Secret",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Cloud Solution Architect – Cloud & AI Data – CTJ – Top Secret",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879433/Senior-Cloud-Solution-Architect-%E2%80%93-Cloud-%26-AI-Data-%E2%80%93-CTJ-%E2%80%93-Top-Secret",
-    "id": "microsoft-senior-cloud-solution-architect-cloud-ai-data-ctj-top-secret-multiple-locations"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Applied AI Engineer II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied AI Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876010/Applied-AI-Engineer-II",
-    "id": "microsoft-applied-ai-engineer-ii-redmond"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Audit (Software Systems)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Audit (Software Systems) at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Software-Quality-Engineering_R253505?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-audit-software-systems-us"
   }
 ]
