@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer Director",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: R&D Data Analytics Intern (ST&MK, Spring 2026)",
+    "job_city": "Maryland Heights",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer Director",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872315/Software-Engineer-Director",
-    "id": "microsoft-software-engineer-director-redmond"
+    "job_description": "Data Science job for the role Strategic Student Program: R&D Data Analytics Intern (ST&MK, Spring 2026) at Maryland Heights, Missouri, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-r-d-data-analytics-intern-st-mk-spring-2026-maryland-heights"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Software Engineer Intern (ST&MK, Spring 2026)",
+    "job_city": "Maryland Heights",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategic Student Program: Software Engineer Intern (ST&MK, Spring 2026) at Maryland Heights, Missouri, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-software-engineer-intern-st-mk-spring-2026-maryland-heights"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Strategic Student Program: Events Marketing Coordinator Intern (ST&MK, Spring 2026)",
+    "job_city": "Maryland Heights",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategic Student Program: Events Marketing Coordinator Intern (ST&MK, Spring 2026) at Maryland Heights, Missouri, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategic-student-program-events-marketing-coordinator-intern-st-mk-spring-2026-maryland-heights"
   }
 ]
