@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - EDM and Reverse Logistics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Strategic Deployment",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Technical Program Manager - EDM and Reverse Logistics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163273337-senior-technical-program-manager-edm-and-reverse-logistics",
-    "id": "aijobs-technical-program-manager-edm-and-reverse-logistics-santa-clara"
+    "job_description": "data science job for the role Software Engineer, Strategic Deployment at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163275209-software-engineer-strategic-deployment",
+    "id": "aijobs-software-engineer-strategic-deployment-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - Supply Chain Planning",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Applied Emerging Talent (2026)",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Technical Program Manager - Supply Chain Planning at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163273336-senior-technical-program-manager-supply-chain-planning",
-    "id": "aijobs-technical-program-manager-supply-chain-planning-santa-clara"
+    "job_description": "data science job for the role Software Engineer, Applied Emerging Talent (2026) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163275216-software-engineer-applied-emerging-talent-2026",
+    "id": "aijobs-software-engineer-applied-emerging-talent-2026-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Deep Learning Performance Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026)",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Deep Learning Performance Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163273335-senior-deep-learning-performance-architect",
-    "id": "aijobs-deep-learning-performance-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI-Accelerated System Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI-Accelerated System Software Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163273338-ai-accelerated-system-software-engineer",
-    "id": "aijobs-ai-accelerated-system-software-engineer-santa-clara"
+    "job_description": "data science job for the role Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/163275217-software-engineer-internship-co-op-applied-emerging-talent-summer-2026",
+    "id": "aijobs-software-engineer-internship-co-op-applied-emerging-talent-summer-2026-united-states"
   }
 ]
