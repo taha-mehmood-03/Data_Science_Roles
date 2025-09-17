@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Security Industry Specialist II - AMZ9080405",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Security Industry Specialist II - AMZ9080405 at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086379/security-industry-specialist-ii-amz9080405",
+    "job_posted_at": "2025-09-17T14:15:37.726Z",
+    "job_posted_at_datetime_utc": "2025-09-17T14:15:37.726Z",
+    "id": "amazon-security-industry-specialist-ii-amz9080405-new-york"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - BSP",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer - BSP at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/software-engineer-bsp/33099/86245662400",
+    "id": "arm-software-engineer-bsp-trondheim"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Manager, Machine Learning Engineer - ML Ops",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Machine Learning Engineer - ML Ops at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Manager-Machine-Learning-Engineer-ML-Ops/1448871",
+    "id": "cisco-manager-machine-learning-engineer-ml-ops-san-jose"
+  }
+]
