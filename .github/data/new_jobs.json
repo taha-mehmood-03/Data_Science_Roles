@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Security Strategy",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Principal Technical Program Manager. Level: All Levels. Posted: Recently. Full Title: Principal Technical Program Manager - Security Strategy",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874240/Principal-Technical-Program-Manager---Security-Strategy",
-    "id": "microsoft-security-strategy-multiple-locations"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Developer",
-    "job_city": "US",
-    "job_state": "OH",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role AI/ML Developer at Columbus, OH, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/163262447-ai-ml-developer",
-    "id": "aijobs-ai-ml-developer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/Machine Learning Engineer",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data & Intelligence",
+    "job_city": "New York",
     "job_state": "US",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role AI/Machine Learning Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/163262448-ai-machine-learning-engineer",
-    "id": "aijobs-ai-machine-learning-engineer-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data & Intelligence at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56902&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-intelligence-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Wells Fargo Data Center Technician",
+    "job_city": "Minneapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Wells Fargo Data Center Technician at Entry LevelMinneapolis, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58526&source=WEB_Search_NA",
+    "id": "ibm-wells-fargo-data-center-technician-minneapolis"
   }
 ]
