@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Business Analyst II - Risk Clinical Programs",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Business Analyst II - Risk Clinical Programs at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078965/business-analyst-ii-risk-clinical-programs",
-    "job_posted_at": "2025-09-17T17:20:40.249Z",
-    "job_posted_at_datetime_utc": "2025-09-17T17:20:40.249Z",
-    "id": "amazon-business-analyst-ii-risk-clinical-programs-san-francisco"
+    "employer_name": "SIEMENS",
+    "job_title": "IT Data Scientist Intern",
+    "job_city": "Alpharetta",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IT Data Scientist Intern at Alpharetta, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-it-data-scientist-intern-alpharetta"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "IT Data Insights and Project Management Intern",
+    "job_city": "Alpharetta",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IT Data Insights and Project Management Intern at Alpharetta, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-it-data-insights-and-project-management-intern-alpharetta"
   }
 ]
