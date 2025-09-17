@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Rack and Blade Level Validation -Director",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Rack and Blade Level Validation -Director at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/rack-and-blade-level-validation-director/33099/84667892928",
-    "id": "arm-rack-and-blade-level-validation-director-austin"
+    "employer_name": "MARVELL",
+    "job_title": "DFT Engineer",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior DFT Engineer at Burlington, VT",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Senior-DFT-Engineer_2502607-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-dft-engineer-burlington"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- C++ & Modeling (Hybrid Onsite)",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer- C++ & Modeling (Hybrid Onsite) at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-c-and-modeling-hybrid-onsite/33099/84729455696",
-    "id": "arm-software-engineer-c-modeling-hybrid-onsite-waltham"
+    "employer_name": "MARVELL",
+    "job_title": "Product Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior Product Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Product-Engineer_2502182?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-product-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Physical Design Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior Staff Physical Design Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Physical-Design-Engineer_2502585?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-physical-design-engineer-westborough"
   }
 ]
