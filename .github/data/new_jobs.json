@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "ML Platform Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior ML Platform Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423164-senior-ml-platform-engineer",
-    "id": "aijobs-ml-platform-engineer-santa-clara"
+    "employer_name": "Micron",
+    "job_title": "Intern - HBM Software Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Intern - HBM Software Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38038147",
+    "id": "micron-intern-hbm-software-engineer-richardson"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "CAD Flow Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "21min ago",
-    "job_description": "data science job for the role CAD Flow Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423162-cad-flow-development-engineer",
-    "id": "aijobs-cad-flow-development-engineer-santa-clara"
+    "employer_name": "Micron",
+    "job_title": "Design Readiness Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Design Readiness Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38035889",
+    "id": "micron-design-readiness-engineer-boise"
   }
 ]
