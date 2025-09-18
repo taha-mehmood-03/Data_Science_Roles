@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Audit (Software Systems)",
-    "job_city": "US",
+    "employer_name": "MARVELL",
+    "job_title": "Physical Verification CAD Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Physical Verification CAD Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Physical-Verification-CAD-Intern---Master-s-Degree_2502434-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-physical-verification-cad-intern-master-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "or Senior Principal Engineer, Architecture ASIC / System",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal or Senior Principal Engineer, Architecture ASIC / System at 8 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-or-Senior-Principal-Engineer--Architecture-ASIC---System_2502090-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-or-senior-principal-engineer-architecture-asic-system-8-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Physical Design Engineer Intern - Bachelor's Degree",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Physical Design Engineer Intern - Bachelor's Degree at Burlington, VT",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Physical-Design-Engineer-Intern---Bachelor-s-Degree_2502382?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-physical-design-engineer-intern-bachelor-s-degree-burlington"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design for Test Engineering Intern - Bachelors Degree",
+    "job_city": "Westborough",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Engineer, Audit (Software Systems) at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Software-Quality-Engineering_R253505?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-audit-software-systems-us"
+    "job_description": "Data Science job for the role Design for Test Engineering Intern - Bachelors Degree at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Design-for-Test-Engineering-Intern---Bachelors-Degree_2502682-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-for-test-engineering-intern-bachelors-degree-westborough"
   }
 ]
