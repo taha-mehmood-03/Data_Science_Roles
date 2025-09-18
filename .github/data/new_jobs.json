@@ -1,72 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Procurement Manager - Corporate Services",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Analytical Lead",
+    "job_city": "Chicago",
+    "job_state": "IL",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Procurement Manager - Corporate Services at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-procurement-manager-corporate-services/33099/86283357680",
-    "id": "arm-procurement-manager-corporate-services-cambridge"
+    "job_description": "51 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytical Lead, Large Customer Sales",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94147827210298054-analytical-lead-large-customer-sales?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-analytical-lead-chicago"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Modeling Engineer",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "employer_name": "CISCO",
+    "job_title": "Business Solutions Engineer GES - Boise",
+    "job_city": "Offsite",
+    "job_state": "Boise",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Modeling Engineer at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/senior-software-modeling-engineer/33099/86062435008",
-    "id": "arm-software-modeling-engineer-waltham"
+    "job_description": "Data Science job for the role Business Solutions Engineer GES - Boise 1448450 at Offsite, Boise, Idaho, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Business-Solutions-Engineer-GES-Boise-1448450/1448450",
+    "id": "cisco-business-solutions-engineer-ges-boise-offsite"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data Software Sales Specialist - Industry Market",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Sales Analytics Data Engineer",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Software Sales Specialist - Industry Market at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59645&source=WEB_Search_NA",
-    "id": "ibm-data-software-sales-specialist-industry-market-multiple-cities"
+    "job_description": "Data Science job for the role Sales Analytics Data Engineer at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sales-Analytics-Data-Engineer/1448762",
+    "id": "cisco-sales-analytics-data-engineer-offsite"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Manager - Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Wireless Compliance Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Customer Success Manager - Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59682&source=WEB_Search_NA",
-    "id": "ibm-customer-success-manager-entry-level-sales-program-multiple-cities"
+    "job_description": "Data Science job for the role Wireless Compliance Engineer at San Francisco, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Wireless-Compliance-Engineer/1448920",
+    "id": "cisco-wireless-compliance-engineer-san-francisco"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Customer Success Manager Intern – Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Strategy Internship- Communications",
+    "job_city": "Reston",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Customer Success Manager Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59847&source=WEB_Search_NA",
-    "id": "ibm-customer-success-manager-intern-entry-level-sales-program-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Email Security Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Email Security Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59694&source=WEB_Search_NA",
-    "id": "ibm-email-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – External Communications",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 2026 Intern – External Communications at InternshipNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58164&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-external-communications-new-york"
+    "job_description": "Data Science job for the role Strategy Internship- Communications at Reston, Virginia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-strategy-internship-communications-reston"
   }
 ]
