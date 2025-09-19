@@ -1,33 +1,42 @@
 [
   {
-    "job_title": "Applied Scientist II, Amazon AI at Work",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist II, Amazon AI at Work at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3088493/applied-scientist-ii-amazon-ai-at-work",
-    "job_posted_at": "2025-09-19T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-19T00:00:00.000Z",
-    "id": "amazon-applied-scientist-ii-amazon-ai-at-work-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "UX Designer",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "SAP CPI Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "53 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: UX Designer, YouTube Core, Platform Responsibility",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112831776761488070-ux-designer-youtube-core-platform-responsibility?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-ux-designer-new-york"
+    "job_description": "Data Science job for the role SAP CPI Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-cpi-analyst/33099/86321259616",
+    "id": "arm-sap-cpi-analyst-bengaluru"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Graduate Engineer – Design Implementation Readiness",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "job_title": "ML Applications Engineer - Conversational AI",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Engineer – Design Implementation Readiness at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-engineer-design-implementation-readiness/33099/86319019488",
-    "id": "arm-graduate-engineer-design-implementation-readiness-trondheim"
+    "job_description": "Data Science job for the role ML Applications Engineer - Conversational AI at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ml-applications-engineer-conversational-ai/33099/86321257968",
+    "id": "arm-ml-applications-engineer-conversational-ai-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Windows Drivers Senior Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Windows Drivers Senior Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57932&source=WEB_Search_NA",
+    "id": "ibm-windows-drivers-senior-developer-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Unix Kernel Developer",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Unix Kernel Developer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57937&source=WEB_Search_NA",
+    "id": "ibm-unix-kernel-developer-lowell"
   }
 ]
