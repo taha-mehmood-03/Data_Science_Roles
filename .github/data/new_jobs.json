@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Customer Quality Assurance Specialist",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Quality Assurance Specialist at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/customer-quality-assurance-specialist/33099/86317161280",
+    "id": "arm-customer-quality-assurance-specialist-cambridge"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Project Manager",
+    "job_city": "Norcross",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Building Automation Project Manager at Norcross, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-project-manager-norcross"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Athlete Data & Innovation",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Senior Data Scientist, Athlete Data & Innovation at Beaverton, OR, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163599990-senior-data-scientist-athlete-data-innovation",
+    "id": "aijobs-data-scientist-athlete-data-innovation-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (N)",
+    "job_city": "US",
+    "job_state": "VA",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Data Scientist (N) at Norfolk, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163599986-data-scientist-n",
+    "id": "aijobs-data-scientist-n-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Specialist",
+    "job_city": "US",
+    "job_state": "VA",
+    "job_posted_at": "20h ago",
+    "job_description": "data science job for the role AI/ML Specialist at Falls Church, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/163599988-ai-ml-specialist",
+    "id": "aijobs-ai-ml-specialist-us"
+  }
+]
