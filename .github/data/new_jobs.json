@@ -1,22 +1,82 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SOC Principal Technical Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SOC Principal Technical Program Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-principal-technical-program-manager/33099/72932452352",
-    "id": "arm-soc-principal-technical-program-manager-austin"
+    "job_description": "Data Science job for the role Intern 2026: Software Engineer - Semiconductor at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Unit Process Engineer: Wafer Bonding and Debonding",
-    "job_city": "Albany",
+    "job_title": "Intern 2026: Research Scientist - Semiconductor",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Unit Process Engineer: Wafer Bonding and Debonding at ProfessionalAlbany, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59406&source=WEB_Search_NA",
-    "id": "ibm-unit-process-engineer-wafer-bonding-and-debonding-albany"
+    "job_description": "Data Science job for the role Intern 2026: Research Scientist - Semiconductor at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-research-scientist-semiconductor-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intellectual Property Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Research Partnerships Internship",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Research Partnerships Internship at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59639&source=WEB_Search_NA",
+    "id": "ibm-ai-research-partnerships-internship-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Advanced Developer",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "21min ago",
+    "job_description": "data science job for the role Software Advanced Developer at US, WA, Redmond",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525133-software-advanced-developer",
+    "id": "aijobs-software-advanced-developer-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Architect, Agentic AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Architect, Agentic AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525130-senior-software-architect-agentic-ai",
+    "id": "aijobs-software-architect-agentic-ai-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architect, AI-assisted Code Development",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Architect, AI-assisted Code Development at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525129-senior-architect-ai-assisted-code-development",
+    "id": "aijobs-architect-ai-assisted-code-development-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compiler Engineer – Networking Compiler Technology",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "21min ago",
+    "job_description": "data science job for the role Senior Compiler Engineer – Networking Compiler Technology at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/163525139-senior-compiler-engineer-networking-compiler-technology",
+    "id": "aijobs-compiler-engineer-networking-compiler-technology-santa-clara"
   }
 ]
