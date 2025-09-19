@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Backend Engineer II - Core Data (HashiCorp)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Backend Engineer II - Core Data (HashiCorp) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57926&source=WEB_Search_NA",
+    "id": "ibm-backend-engineer-ii-core-data-hashicorp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist - Data Platform (North Carolina and South Carolina)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Sales Specialist - Data Platform (North Carolina and South Carolina) at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59126&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-data-platform-north-carolina-and-south-carolina-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Firmware Developer - Host Boot",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Power Firmware Developer - Host Boot at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59686&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-host-boot-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Developer Advocate",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: Quantum Developer Advocate at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59975&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-developer-advocate-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Midwest Embedded AI Sales Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Midwest Embedded AI Sales Specialist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57637&source=WEB_Search_NA",
+    "id": "ibm-midwest-embedded-ai-sales-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Inference Optimization Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: AI Inference Optimization Engineer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-inference-optimization-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Warehouse Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Warehouse Production Operator at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA",
+    "id": "ibm-warehouse-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "CORAL GABLES",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Solutions Engineer at ProfessionalCORAL GABLES, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58877&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-coral-gables"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: CMOS Circuit Design Intern – Quantum Computing Applications",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: CMOS Circuit Design Intern – Quantum Computing Applications at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59979&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-cmos-circuit-design-intern-quantum-computing-applications-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Platform Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: AI Platform Developer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60196&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-platform-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Package Consultant Intern:",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Package Consultant Intern: 2026 at InternshipWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59881&source=WEB_Search_NA",
+    "id": "ibm-federal-package-consultant-intern-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Architect FileNet Content Manager",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Architect FileNet Content Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59243&source=WEB_Search_NA",
+    "id": "ibm-software-architect-filenet-content-manager-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer FileNet Content Manager",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Developer FileNet Content Manager at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59248&source=WEB_Search_NA",
+    "id": "ibm-software-developer-filenet-content-manager-san-jose"
+  }
+]
