@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Life Sciences",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "21h ago",
-    "job_description": "data science job for the role Senior Data Scientist, Life Sciences at Cambridge, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/163708899-senior-data-scientist-life-sciences",
-    "id": "aijobs-data-scientist-life-sciences-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, 1+ Years of Experience",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Scientist, 1+ Years of Experience at Los Angeles, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/163708911-data-scientist-1+-years-of-experience",
-    "id": "aijobs-data-scientist-1-years-of-experience-us"
+    "employer_name": "Micron",
+    "job_title": "Sr ATE, DIFF/IMP Process Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 5 days ago",
+    "job_description": "Data Science job for the role Sr ATE, DIFF/IMP Process Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30703975",
+    "id": "micron-sr-ate-diff-imp-process-engineer-manassas"
   }
 ]
