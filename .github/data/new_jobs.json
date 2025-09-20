@@ -1,62 +1,12 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "R&D Test Engineer - Temporary",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role R&D Test Engineer - Temporary at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00004989/R-D-Test-Engineer-Temporary",
-    "id": "abb-r-d-test-engineer-temporary-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Maintenance Specialist-T&D2",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Maintenance Specialist-T&D2 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/94988654/Maintenance-Specialist-T-D2",
-    "id": "abb-maintenance-specialist-t-d2-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality & Operational Excellence Leader",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Quality & Operational Excellence Leader at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002274/Quality-Operational-Excellence-Leader",
-    "id": "abb-quality-operational-excellence-leader-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tendering Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Tendering Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00003133/Tendering-Manager",
-    "id": "abb-tendering-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Channel Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Channel Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/96983919/Channel-Manager",
-    "id": "abb-channel-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Indirect Sales Account Manager M/F",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Indirect Sales Account Manager M/F at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00005365/Indirect-Sales-Account-Manager-M-F",
-    "id": "abb-indirect-sales-account-manager-m-f-not-specific"
+    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
+    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
