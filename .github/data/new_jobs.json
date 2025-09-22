@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Masters or PhD Intern – Marketing Data Science & Data Analytics",
-    "job_city": "New York",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer",
+    "job_city": "Boulder",
+    "job_state": "Colorado",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 2026 Masters or PhD Intern – Marketing Data Science & Data Analytics at InternshipNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60273&source=WEB_Search_NA",
-    "id": "ibm-2026-masters-or-phd-intern-marketing-data-science-data-analytics-new-york"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: IBM Quantum Sales and Operations",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern 2026: IBM Quantum Sales and Operations at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60311&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-ibm-quantum-sales-and-operations-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Firmware Developer Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Firmware Developer Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60609&source=WEB_Search_NA",
-    "id": "ibm-firmware-developer-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM CISO - Cybersecurity Forensic Analyst",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM CISO - Cybersecurity Forensic Analyst at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59621&source=WEB_Search_NA",
-    "id": "ibm-ibm-ciso-cybersecurity-forensic-analyst-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Online Community Engagement Intern– Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Online Community Engagement Intern– Entry Level Sales Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59930&source=WEB_Search_NA",
-    "id": "ibm-online-community-engagement-intern-entry-level-sales-program-multiple-cities"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877936/Software-Engineer%2C-Data-Engineering-(CoreAI)",
+    "id": "microsoft-software-engineer-boulder"
   }
 ]
