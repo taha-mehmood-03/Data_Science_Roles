@@ -1,82 +1,42 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist/Sr Data Scientist, Safety",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role Data Scientist/Sr Data Scientist, Safety at Fort Worth, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520416-data-scientist-sr-data-scientist-safety",
-    "id": "aijobs-data-scientist-sr-data-scientist-safety-us"
+    "employer_name": "CISCO",
+    "job_title": "Technical Program Manager, Customer Experience",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Program Manager, Customer Experience at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Technical-Program-Manager-Customer-Experience/1440696",
+    "id": "cisco-technical-program-manager-customer-experience-san-jose"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Global Tech Leader",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Data Scientist - Global Tech Leader at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520412-data-scientist-global-tech-leader",
-    "id": "aijobs-data-scientist-global-tech-leader-us"
+    "employer_name": "SIEMENS",
+    "job_title": "Software Engineer - Senior",
+    "job_city": "Charlotte",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer - Senior at Charlotte, North Carolina, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-software-engineer-senior-charlotte"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Infrastructure",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Staff Data Scientist - Infrastructure at Sunnyvale, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520418-staff-data-scientist-infrastructure",
-    "id": "aijobs-data-scientist-infrastructure-us"
+    "employer_name": "SIEMENS",
+    "job_title": "Sales Development Representative",
+    "job_city": "Raleigh",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-sales-development-representative-raleigh"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Level Data Scientist (Remote)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Junior Level Data Scientist (Remote) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520404-junior-level-data-scientist-remote",
-    "id": "aijobs-level-data-scientist-remote-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Medical Software Company",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Senior Data Scientist - Medical Software Company at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520407-senior-data-scientist-medical-software-company",
-    "id": "aijobs-data-scientist-medical-software-company-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Research, Search Experiments",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Data Scientist, Research, Search Experiments at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520413-data-scientist-research-search-experiments",
-    "id": "aijobs-data-scientist-research-search-experiments-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Staff Data Scientist, Trust and Anti-Abuse",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Senior Staff Data Scientist, Trust and Anti-Abuse at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520400-senior-staff-data-scientist-trust-and-anti-abuse",
-    "id": "aijobs-staff-data-scientist-trust-and-anti-abuse-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Data-Driven Global Investment Firm",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Data Scientist - Data-Driven Global Investment Firm at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164520405-data-scientist-data-driven-global-investment-firm",
-    "id": "aijobs-data-scientist-data-driven-global-investment-firm-us"
+    "employer_name": "SIEMENS",
+    "job_title": "Product Owner",
+    "job_city": "Charlotte",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Owner at Charlotte, North Carolina, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-product-owner-charlotte"
   }
 ]
