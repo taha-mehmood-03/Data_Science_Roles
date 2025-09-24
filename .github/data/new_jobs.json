@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Performance Benchmarking Engineer (CPU)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "SIEMENS",
+    "job_title": "Fire Sprinkler/MAC Service Sales Executive",
+    "job_city": "Austin",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Performance Benchmarking Engineer (CPU) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-performance-benchmarking-engineer-cpu/33099/86499804720",
-    "id": "arm-performance-benchmarking-engineer-cpu-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Financial Accountant",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Financial Accountant at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/financial-accountant/33099/86503173648",
-    "id": "arm-financial-accountant-cambridge"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Decisions - Rider Segments",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Data Scientist, Decisions - Rider Segments at San Francisco County, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634624-data-scientist-decisions-rider-segments",
-    "id": "aijobs-data-scientist-decisions-rider-segments-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientists - All Levels",
-    "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Data Scientists - All Levels at Boca Raton, FL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634622-data-scientists-all-levels",
-    "id": "aijobs-data-scientists-all-levels-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data Scientist, Analytics & Insights, Americas",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Applied Data Scientist, Analytics & Insights, Americas at Boston, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164634623-applied-data-scientist-analytics-insights-americas",
-    "id": "aijobs-applied-data-scientist-analytics-insights-americas-us"
+    "job_description": "Data Science job for the role Fire Sprinkler/MAC Service Sales Executive at Austin, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-fire-sprinkler-mac-service-sales-executive-austin"
   }
 ]
