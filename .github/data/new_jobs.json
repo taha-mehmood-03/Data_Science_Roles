@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Fire Sprinkler/MAC Service Sales Executive",
-    "job_city": "Austin",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Integration Lead (BTP Integration)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Fire Sprinkler/MAC Service Sales Executive at Austin, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-fire-sprinkler-mac-service-sales-executive-austin"
+    "job_description": "Data Science job for the role Integration Lead (BTP Integration) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60994&source=WEB_Search_NA",
+    "id": "ibm-integration-lead-btp-integration-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Product Management Specialist I (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Management Specialist I (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055",
+    "id": "cisco-product-management-specialist-i-intern-united-states-san-jose"
   }
 ]
