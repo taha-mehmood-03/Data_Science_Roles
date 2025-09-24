@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Enterprise Product Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "IBM",
+    "job_title": "AEP Solutions Architect - Adobe Marketing Cloud (AJO)",
+    "job_city": "Chicago",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Enterprise Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879700/Enterprise-Product-Manager%2C-Unified-Support-Offerings",
-    "id": "microsoft-enterprise-product-manager-multiple-locations"
+    "job_description": "Data Science job for the role AEP Solutions Architect - Adobe Marketing Cloud (AJO) at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58567&source=WEB_Search_NA",
+    "id": "ibm-aep-solutions-architect-adobe-marketing-cloud-ajo-chicago"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Production Operator",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "AEM Solutions Architect – Adobe Experience",
+    "job_city": "Chicago",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Production Operator at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59945&source=WEB_Search_NA",
-    "id": "ibm-production-operator-poughkeepsie"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data & AI Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "3h ago",
-    "job_description": "data science job for the role Applied Data & AI Engineer at Austin, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164573936-applied-data-ai-engineer",
-    "id": "aijobs-applied-data-ai-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/Generative AI Engineer",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "19h ago",
-    "job_description": "data science job for the role AI/Generative AI Engineer at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164573935-ai-generative-ai-engineer",
-    "id": "aijobs-ai-generative-ai-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Generative AI Engineer",
-    "job_city": "US",
-    "job_state": "IL",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Generative AI Engineer at Chicago, IL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164573931-generative-ai-engineer",
-    "id": "aijobs-generative-ai-engineer-us"
+    "job_description": "Data Science job for the role AEM Solutions Architect – Adobe Experience at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58575&source=WEB_Search_NA",
+    "id": "ibm-aem-solutions-architect-adobe-experience-chicago"
   }
 ]
