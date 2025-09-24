@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Commercial Marketing Data & Analytics",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Data Analyst. Level: All Levels. Posted: Recently. Full Title: Data Analyst - Commercial Marketing Data & Analytics",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881921/Data-Analyst---Commercial-Marketing-Data-%26-Analytics",
-    "id": "microsoft-commercial-marketing-data-analytics-redmond"
+    "job_title": "Data Scientist II, Secure 3P Tools",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Scientist II, Secure 3P Tools at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092565/data-scientist-ii-secure-3p-tools",
+    "job_posted_at": "2025-09-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
+    "id": "amazon-data-scientist-ii-secure-3p-tools-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data Scientist",
-    "job_city": "LOWELL",
+    "employer_name": "INFINEON",
+    "job_title": "Dir Product Marketing",
+    "job_city": "Livonia",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Scientist at ProfessionalLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60290&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-lowell"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Product Applications Intern",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Product Applications Intern at 5 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Applications-Intern_R255003?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-product-applications-intern-5-locations"
+    "job_description": "Data Science job for the role Dir Product Marketing at Livonia",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-dir-product-marketing-livonia"
   }
 ]
