@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Applied Scientist II (CoreAI)",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Applied Scientist II (CoreAI)",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874661/Senior-Applied-Scientist-II-(CoreAI)",
-    "id": "microsoft-senior-applied-scientist-ii-coreai-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision System Performance Engineer",
-    "job_city": "Santa Clara",
+    "job_title": "Research Scientist, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Computer Vision System Performance Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/164577762-senior-computer-vision-system-performance-engineer",
-    "id": "aijobs-computer-vision-system-performance-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Network Site Reliability Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Network Site Reliability Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/164577764-network-site-reliability-engineer",
-    "id": "aijobs-network-site-reliability-engineer-santa-clara"
+    "job_description": "Data Science job for the role Research Scientist, AWS Center for Quantum Computing at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091896/research-scientist-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-09-24T04:15:11.302Z",
+    "job_posted_at_datetime_utc": "2025-09-24T04:15:11.302Z",
+    "id": "amazon-research-scientist-aws-center-for-quantum-computing-pasadena"
   }
 ]
