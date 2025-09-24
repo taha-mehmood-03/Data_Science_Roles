@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Technology Policy Manager",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_posted_at": "Posted 8 days ago",
+    "job_description": "Data Science job for the role Senior Technology Policy Manager at Washington, District of Columbia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37948995",
+    "id": "micron-technology-policy-manager-washington"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr. Program Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 7 days ago",
+    "job_description": "Data Science job for the role Sr. Program Manager at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38011725",
+    "id": "micron-sr-program-manager-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Z Systems Support Intern",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Z Systems Support Intern 2026 at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58627&source=WEB_Search_NA",
+    "id": "ibm-z-systems-support-intern-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Engineer, Jr",
+    "job_city": "Chantilly",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Engineer, Jr at ProfessionalChantilly, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57604&source=WEB_Search_NA",
+    "id": "ibm-system-engineer-jr-chantilly"
+  }
+]
