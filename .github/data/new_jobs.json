@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Data Scientist, Amazon Astro",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Data Scientist, Amazon Astro at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092209/data-scientist-amazon-astro",
-    "job_posted_at": "2025-09-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
-    "id": "amazon-data-scientist-amazon-astro-austin"
+    "employer_name": "MARVELL",
+    "job_title": "Product Engineer Intern - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Product Engineer Intern - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-product-engineer-intern-master-s-degree-santa-clara"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Senior Functional Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007894/Senior-Functional-Analyst",
-    "id": "abb-senior-functional-analyst-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Firmware Engineer Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Firmware Engineer Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502359-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-firmware-engineer-intern-bachelor-s-degree-santa-clara"
   }
 ]
