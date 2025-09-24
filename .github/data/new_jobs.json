@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - ASIC Design Verification",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Intern - ASIC Design Verification at Minneapolis, Minnesota, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38168202",
-    "id": "micron-intern-asic-design-verification-minneapolis"
+    "employer_name": "Microsoft",
+    "job_title": "Microsoft AI Infrastructure",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Microsoft AI Infrastructure",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849373/Senior-Finance-Manager---Microsoft-AI-Infrastructure",
+    "id": "microsoft-microsoft-ai-infrastructure-redmond"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Physical Design",
-    "job_city": "2 Locations",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Sales Executive | Account Executive - Building Automation Service",
+    "job_city": "Mechanicsburg",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Sales Executive | Account Executive - Building Automation Service at Mechanicsburg, Pennsylvania, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-sales-executive-account-executive-building-automation-service-mechanicsburg"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Failure Analysis Engineering Intern",
+    "job_city": "3 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Engineer, Physical Design at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Staff-Engineer--Physical-Design_2502633?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-physical-design-2-locations"
+    "job_description": "Data Science job for the role Failure Analysis Engineering Intern at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Failure-Analysis-Engineering-Intern_R256321?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-failure-analysis-engineering-intern-3-locations"
   }
 ]
