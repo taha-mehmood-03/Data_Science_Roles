@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Integration Lead (BTP Integration)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Integration Lead (BTP Integration) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60994&source=WEB_Search_NA",
-    "id": "ibm-integration-lead-btp-integration-multiple-cities"
+    "job_title": "Data Scientist, Amazon Astro",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Scientist, Amazon Astro at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092209/data-scientist-amazon-astro",
+    "job_posted_at": "2025-09-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
+    "id": "amazon-data-scientist-amazon-astro-austin"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Product Management Specialist I (Intern) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Management Specialist I (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055",
-    "id": "cisco-product-management-specialist-i-intern-united-states-san-jose"
+    "employer_name": "ABB",
+    "job_title": "Senior Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Senior Functional Analyst at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007894/Senior-Functional-Analyst",
+    "id": "abb-senior-functional-analyst-multiple"
   }
 ]
