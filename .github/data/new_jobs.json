@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Data Migration Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Migration Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60971&source=WEB_Search_NA",
-    "id": "ibm-data-migration-lead-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Machine Learning/Computer Vision",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer, Machine Learning/Computer Vision at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164580554-software-engineer-machine-learning-computer-vision",
-    "id": "aijobs-software-engineer-machine-learning-computer-vision-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quantitative Researcher: Machine Learning - Data-Driven Global Investment Firm",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Quantitative Researcher: Machine Learning - Data-Driven Global Investment Firm at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164580576-quantitative-researcher-machine-learning-data-driven-global-investment-firm",
-    "id": "aijobs-quantitative-researcher-machine-learning-data-driven-global-investment-firm-us"
+    "job_description": "Data Science job for the role Design Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/design-engineer/33099/86495225408",
+    "id": "arm-design-engineer-bengaluru"
   }
 ]
