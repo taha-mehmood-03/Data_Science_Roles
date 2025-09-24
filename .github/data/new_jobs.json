@@ -1,22 +1,53 @@
 [
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Decision Support & Agentic Workflow Automation Leader",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Decision Support & Agentic Workflow Automation Leader at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006975/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-decision-support-agentic-workflow-automation-leader-dallas"
+    "job_title": "Business Intel Engineer , Sales and Operations Planning",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intel Engineer , Sales and Operations Planning at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092490/business-intel-engineer-sales-and-operations-planning",
+    "job_posted_at": "2025-09-24T20:13:40.903Z",
+    "job_posted_at_datetime_utc": "2025-09-24T20:13:40.903Z",
+    "id": "amazon-business-intel-engineer-sales-and-operations-planning-bellevue"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "User Experience I (Intern) - United States",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
+    "employer_name": "Microsoft",
+    "job_title": "Customer Experience Data Analyst",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role User Experience I (Intern) - United States at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/User-Experience-I-Intern-United-States/1450136",
-    "id": "cisco-user-experience-i-intern-united-states-rtp"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Customer Experience Data Analyst",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877510/Customer-Experience-Data-Analyst",
+    "id": "microsoft-customer-experience-data-analyst-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Medium Term Demand Planner",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Medium Term Demand Planner",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881824/Medium-Term-Demand-Planner",
+    "id": "microsoft-medium-term-demand-planner-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Discover DS Data Scientist",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "23 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Discover DS Data Scientist, Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133191053468410566-discover-ds-data-scientist-research?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-discover-ds-data-scientist-mountain-view"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern:",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Developer Intern: 2026 at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58729&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-tucson"
   }
 ]
