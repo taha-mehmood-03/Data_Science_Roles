@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Transformation Lead",
-    "job_city": "Chicago",
-    "job_state": "IL",
+    "employer_name": "Microsoft",
+    "job_title": "Enterprise Product Manager",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Transformation Lead, Education and Careers",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74647058631271110-data-transformation-lead-education-and-careers?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-data-transformation-lead-chicago"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Enterprise Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879700/Enterprise-Product-Manager%2C-Unified-Support-Offerings",
+    "id": "microsoft-enterprise-product-manager-multiple-locations"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Production Operator at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59945&source=WEB_Search_NA",
+    "id": "ibm-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Data & AI Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role Applied Data & AI Engineer at Austin, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/164573936-applied-data-ai-engineer",
+    "id": "aijobs-applied-data-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/Generative AI Engineer",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "19h ago",
+    "job_description": "data science job for the role AI/Generative AI Engineer at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/164573935-ai-generative-ai-engineer",
+    "id": "aijobs-ai-generative-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Generative AI Engineer",
+    "job_city": "US",
+    "job_state": "IL",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role Generative AI Engineer at Chicago, IL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/164573931-generative-ai-engineer",
+    "id": "aijobs-generative-ai-engineer-us"
   }
 ]
