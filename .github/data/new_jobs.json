@@ -1,22 +1,52 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Power Firmware Developer - Simulation",
+    "job_title": "Customer Success Manager Architect - Data Specialty",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Power Firmware Developer - Simulation at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59689&source=WEB_Search_NA",
-    "id": "ibm-power-firmware-developer-simulation-multiple-cities"
+    "job_description": "Data Science job for the role Customer Success Manager Architect - Data Specialty at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59638&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-architect-data-specialty-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Growth Marketing Manager II (Global Campaigns)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Growth Marketing Manager II (Global Campaigns) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61036&source=WEB_Search_NA",
-    "id": "ibm-growth-marketing-manager-ii-global-campaigns-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Electronic Discovery Collection Specialist",
+    "job_city": "Remote",
+    "job_state": "DC",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Electronic Discovery Collection Specialist at US, DC, Remote",
+    "job_apply_link": "https://www.aijobs.com/jobs/163663737-electronic-discovery-collection-specialist",
+    "id": "aijobs-electronic-discovery-collection-specialist-remote"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Finance, ChatGPT Core",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Product Finance, ChatGPT Core at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713729-product-finance-chatgpt-core",
+    "id": "aijobs-product-finance-chatgpt-core-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Customer Technical Program Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Customer Technical Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712499-customer-technical-program-manager",
+    "id": "aijobs-customer-technical-program-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Tegra",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Software Engineer - Tegra at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164712505-senior-system-software-engineer-tegra",
+    "id": "aijobs-system-software-engineer-tegra-santa-clara"
   }
 ]
