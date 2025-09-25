@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Data Scientist II, Secure 3P Tools",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Data Scientist II, Secure 3P Tools at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092565/data-scientist-ii-secure-3p-tools",
-    "job_posted_at": "2025-09-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
-    "id": "amazon-data-scientist-ii-secure-3p-tools-austin"
+    "employer_name": "Microsoft",
+    "job_title": "Gaming Data Analytics Internship Opportunities – Xbox",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Gaming Data Analytics Internship Opportunities – Xbox",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877196/Gaming-Data-Analytics-Internship-Opportunities-%E2%80%93-Xbox",
+    "id": "microsoft-gaming-data-analytics-internship-opportunities-xbox-redmond"
   },
   {
-    "employer_name": "INFINEON",
-    "job_title": "Dir Product Marketing",
-    "job_city": "Livonia",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "ML Engineer",
+    "job_city": "Offsite",
+    "job_state": "Portland",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Dir Product Marketing at Livonia",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-dir-product-marketing-livonia"
+    "job_description": "Data Science job for the role Principal ML Engineer at Offsite, Portland, Oregon, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Principal-ML-Engineer/1450917",
+    "id": "cisco-ml-engineer-offsite"
   }
 ]
