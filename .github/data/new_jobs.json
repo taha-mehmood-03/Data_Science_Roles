@@ -1,24 +1,12 @@
 [
   {
-    "job_title": "Data Engineer II, GSF , UTR Data engineering Team",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, GSF , UTR Data engineering Team at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093251/data-engineer-ii-gsf-utr-data-engineering-team",
-    "job_posted_at": "2025-09-25T17:22:04.762Z",
-    "job_posted_at_datetime_utc": "2025-09-25T17:22:04.762Z",
-    "id": "amazon-data-engineer-ii-gsf-utr-data-engineering-team-bellevue"
-  },
-  {
-    "job_title": "Business Intelligence Engineer, Customer Trust External Relations",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, Customer Trust External Relations at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093236/business-intelligence-engineer-customer-trust-external-relations",
-    "job_posted_at": "2025-09-25T17:22:04.762Z",
-    "job_posted_at_datetime_utc": "2025-09-25T17:22:04.762Z",
-    "id": "amazon-business-intelligence-engineer-customer-trust-external-relations-seattle"
+    "employer_name": "Arm",
+    "job_title": "Electronics Hardware Lead Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Electronics Hardware Lead Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/electronics-hardware-lead-engineer/33099/86070307440",
+    "id": "arm-electronics-hardware-lead-engineer-chandler"
   }
 ]
