@@ -1,63 +1,12 @@
 [
   {
-    "job_title": "Applied Scientist II, People eXperience Technology Central Science (PXTCS)",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist II, People eXperience Technology Central Science (PXTCS) at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093013/applied-scientist-ii-people-experience-technology-central-science-pxtcs",
-    "job_posted_at": "2025-09-25T15:18:36.711Z",
-    "job_posted_at_datetime_utc": "2025-09-25T15:18:36.711Z",
-    "id": "amazon-applied-scientist-ii-people-experience-technology-central-science-pxtcs-new-york"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Content Design",
+    "job_title": "Applied & Data Scientist",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Content Design",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879544/Senior-Content-Design",
-    "id": "microsoft-senior-content-design-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Go-to-Market Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Go-to-Market Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881637/Senior-Go-to-Market-Manager",
-    "id": "microsoft-senior-go-to-market-manager-redmond"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Career Accelerator Program - Failure Analysis Engineer - PhD",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Career Accelerator Program - Failure Analysis Engineer - PhD at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007272/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-career-accelerator-program-failure-analysis-engineer-phd-dallas"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Facilities Data Analytics Intern",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Facilities Data Analytics Intern at United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25004533/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-facilities-data-analytics-intern-"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Machine Learning",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Engineer, Machine Learning at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Machine-Learning_R255562?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-machine-learning-us"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied & Data Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881096/Applied-%26-Data-Scientist",
+    "id": "microsoft-applied-data-scientist-redmond"
   }
 ]
