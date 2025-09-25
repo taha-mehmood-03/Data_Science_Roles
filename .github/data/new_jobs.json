@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Applied Scientist II, WW Integrated Marketing Systems & Intelligence",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist II, WW Integrated Marketing Systems & Intelligence at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092604/applied-scientist-ii-ww-integrated-marketing-systems-intelligence",
-    "job_posted_at": "2025-09-25T00:58:56.707Z",
-    "job_posted_at_datetime_utc": "2025-09-25T00:58:56.707Z",
-    "id": "amazon-applied-scientist-ii-ww-integrated-marketing-systems-intelligence-new-york"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Email Security Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Email Security Engineer at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59681&source=WEB_Search_NA",
-    "id": "ibm-email-security-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Demand Strategy Leader, North America",
+    "job_title": "Power Firmware Developer - Simulation",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Demand Strategy Leader, North America at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61246&source=WEB_Search_NA",
-    "id": "ibm-demand-strategy-leader-north-america-multiple-cities"
+    "job_description": "Data Science job for the role Power Firmware Developer - Simulation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59689&source=WEB_Search_NA",
+    "id": "ibm-power-firmware-developer-simulation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Growth Marketing Manager II (Global Campaigns)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Growth Marketing Manager II (Global Campaigns) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61036&source=WEB_Search_NA",
+    "id": "ibm-growth-marketing-manager-ii-global-campaigns-multiple-cities"
   }
 ]
