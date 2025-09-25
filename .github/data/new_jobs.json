@@ -1,12 +1,24 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Applied & Data Scientist",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied & Data Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881096/Applied-%26-Data-Scientist",
-    "id": "microsoft-applied-data-scientist-redmond"
+    "job_title": "Data Engineer II, GSF , UTR Data engineering Team",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, GSF , UTR Data engineering Team at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093251/data-engineer-ii-gsf-utr-data-engineering-team",
+    "job_posted_at": "2025-09-25T17:22:04.762Z",
+    "job_posted_at_datetime_utc": "2025-09-25T17:22:04.762Z",
+    "id": "amazon-data-engineer-ii-gsf-utr-data-engineering-team-bellevue"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, Customer Trust External Relations",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Customer Trust External Relations at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093236/business-intelligence-engineer-customer-trust-external-relations",
+    "job_posted_at": "2025-09-25T17:22:04.762Z",
+    "job_posted_at_datetime_utc": "2025-09-25T17:22:04.762Z",
+    "id": "amazon-business-intelligence-engineer-customer-trust-external-relations-seattle"
   }
 ]
