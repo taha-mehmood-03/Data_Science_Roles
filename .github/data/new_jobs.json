@@ -1,52 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Data Analyst",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Analyst",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883419/Senior-Data-Analyst",
-    "id": "microsoft-senior-data-analyst-multiple-locations"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Program Manager",
+    "job_title": "Solution Play Marketing Performance Analyst",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875736/Senior-Program-Manager",
-    "id": "microsoft-senior-program-manager-redmond"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Program Manager",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Program Manager at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60276&source=WEB_Search_NA",
-    "id": "ibm-technical-program-manager-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "RF/Microwave Researcher",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role RF/Microwave Researcher at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42863&source=WEB_Search_NA",
-    "id": "ibm-rf-microwave-researcher-yorktown-heights"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "PreSales Manager I – Data & AI Solutions Manager",
-    "job_city": "Livonia",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role PreSales Manager I – Data & AI Solutions Manager at Livonia, Michigan, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-presales-manager-i-data-ai-solutions-manager-livonia"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Solution Play Marketing Performance Analyst",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882667/Solution-Play-Marketing-Performance-Analyst",
+    "id": "microsoft-solution-play-marketing-performance-analyst-redmond"
   }
 ]
