@@ -1,43 +1,44 @@
 [
   {
-    "job_title": "Data Engineer II, ADS BI",
+    "job_title": "Data Scientist II, People eXperience & Technology Central Science (PXTCS)",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, ADS BI at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3094470/data-engineer-ii-ads-bi",
-    "job_posted_at": "2025-09-26T16:13:55.916Z",
-    "job_posted_at_datetime_utc": "2025-09-26T16:13:55.916Z",
-    "id": "amazon-data-engineer-ii-ads-bi-seattle"
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist II, People eXperience & Technology Central Science (PXTCS) at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3094667/data-scientist-ii-people-experience-technology-central-science-pxtcs",
+    "job_posted_at": "2025-09-26T17:19:27.719Z",
+    "job_posted_at_datetime_utc": "2025-09-26T17:19:27.719Z",
+    "id": "amazon-data-scientist-ii-people-experience-technology-central-science-pxtcs-new-york"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Research and Development (R&D) Service Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Research and Development (R&D) Service Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882684/Research-and-Development-(R%26D)-Service-Engineer",
-    "id": "microsoft-research-and-development-r-d-service-engineer-redmond"
+    "job_title": "Applied Scientist, Account Integrity - Fixed",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist, Account Integrity - Fixed at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3094636/applied-scientist-account-integrity-fixed",
+    "job_posted_at": "2025-09-26T17:19:27.719Z",
+    "job_posted_at_datetime_utc": "2025-09-26T17:19:27.719Z",
+    "id": "amazon-applied-scientist-account-integrity-fixed-san-diego"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Consultant - Public Works and Utilities",
-    "job_city": "Raleigh",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "Director - Product Management (Cisco Hyperfabric)",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consultant - Public Works and Utilities at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-consultant-public-works-and-utilities-raleigh"
+    "job_description": "Data Science job for the role Senior Director - Product Management (Cisco Hyperfabric) at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Director-Product-Management-Cisco-Hyperfabric/1448541",
+    "id": "cisco-director-product-management-cisco-hyperfabric-san-jose"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Operations/Financial Analyst Internship- Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer PhD (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Operations/Financial Analyst Internship- Rolling Stock (Summer 2026) at Sacramento, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-operations-financial-analyst-internship-rolling-stock-summer-2026-sacramento"
+    "job_description": "Data Science job for the role Hardware Engineer PhD (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-PhD-Intern-United-States/1448175",
+    "id": "cisco-hardware-engineer-phd-intern-united-states-san-jose"
   }
 ]
