@@ -1,92 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Critical Environment Platform Engineer",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
+    "employer_name": "Arm",
+    "job_title": "Software Project Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Critical Environment Platform Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880533/Critical-Environment-Platform-Engineer",
-    "id": "microsoft-critical-environment-platform-engineer-atlanta"
+    "job_description": "Data Science job for the role Software Project Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/software-project-manager/33099/83233501088",
+    "id": "arm-software-project-manager-cambridge"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Front End UI Design Architect",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Front End UI Design Architect at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Front-End-UI-Design-Architect_2502852-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-front-end-ui-design-architect-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Design Verification Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Staff Design Verification Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Design-Verification-Engineer_2502912?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-design-verification-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist Associate",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist Associate at Boston, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899795-data-scientist-associate",
-    "id": "aijobs-data-scientist-associate-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, User Growth",
-    "job_city": "US",
-    "job_state": "PA",
-    "job_posted_at": "21h ago",
-    "job_description": "data science job for the role Data Scientist, User Growth at Pittsburgh, PA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899798-data-scientist-user-growth",
-    "id": "aijobs-data-scientist-user-growth-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Decision Scientist, Operations Decision Science",
-    "job_city": "US",
-    "job_state": "GA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Decision Scientist, Operations Decision Science at Atlanta, GA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899800-decision-scientist-operations-decision-science",
-    "id": "aijobs-decision-scientist-operations-decision-science-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science Associate",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Data Science Associate at Sunnyvale, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899796-data-science-associate",
-    "id": "aijobs-data-science-associate-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Fleet Health",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "17h ago",
-    "job_description": "data science job for the role Data Scientist, Fleet Health at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
-    "id": "aijobs-data-scientist-fleet-health-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Business Analysis & Decision Support)",
-    "job_city": "US",
-    "job_state": "New York City Metropolitan Area",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role Data Scientist (Business Analysis & Decision Support) at New York City Metropolitan Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899790-data-scientist-business-analysis-decision-support",
-    "id": "aijobs-data-scientist-business-analysis-decision-support-us"
+    "employer_name": "IBM",
+    "job_title": "Technical Support Eng",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Support Eng at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61376&source=WEB_Search_NA",
+    "id": "ibm-technical-support-eng-dallas"
   }
 ]
