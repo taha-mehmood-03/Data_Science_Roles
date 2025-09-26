@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Software Engineering Manager – Microsoft 365 Copilot Growth",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Software Engineering Manager – Microsoft 365 Copilot Growth",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882748/Principal-Software-Engineering-Manager-%E2%80%93-Microsoft-365-Copilot-Growth",
+    "id": "microsoft-principal-software-engineering-manager-microsoft-365-copilot-growth-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Data Center Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: Quantum Data Center Engineering at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-data-center-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Professional - Planning, Scheduling & Inventory",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Supply Chain Professional - Planning, Scheduling & Inventory at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-professional-planning-scheduling-inventory-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Consultant at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61347&source=WEB_Search_NA",
+    "id": "ibm-consultant-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Support Engineer at ProfessionalBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61646&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-bellevue"
+  }
+]
