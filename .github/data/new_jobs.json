@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Applied Scientist - GenAI, Trust and Store Integrity Science",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist - GenAI, Trust and Store Integrity Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093518/applied-scientist-genai-trust-and-store-integrity-science",
+    "job_posted_at": "2025-09-26T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-26T00:00:00.000Z",
+    "id": "amazon-applied-scientist-genai-trust-and-store-integrity-science-seattle"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "​​Principal Applied AI Engineer​",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - ​​Principal Applied AI Engineer​",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880675/%E2%80%8B%E2%80%8BPrincipal-Applied-AI-Engineer%E2%80%8B",
+    "id": "microsoft-principal-applied-ai-engineer-san-francisco"
+  }
+]
