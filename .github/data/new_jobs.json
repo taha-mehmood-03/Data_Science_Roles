@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Process Sustaining Engineer, 2nd Shift",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Process Sustaining Engineer, 2nd Shift at US, MA, Chelmsford, Alpha",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Engineer--Process-Sustaining-Engineering_R242025?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-process-sustaining-engineer-2nd-shift-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Operations Engineer – Finance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI Operations Engineer – Finance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164961099-ai-operations-engineer-finance",
+    "id": "aijobs-ai-operations-engineer-finance-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Perception - Autonomous Driving",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Machine Learning Engineer, Perception - Autonomous Driving at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164961098-senior-machine-learning-engineer-perception-autonomous-driving",
+    "id": "aijobs-machine-learning-engineer-perception-autonomous-driving-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DevOps and SRE Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior DevOps and SRE Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/164961095-senior-devops-and-sre-engineer",
+    "id": "aijobs-devops-and-sre-engineer-santa-clara"
+  }
+]
