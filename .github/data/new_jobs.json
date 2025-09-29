@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Analytics Manager, Paid Media Measurement",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Analytics Manager, Paid Media Measurement at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093359/analytics-manager-paid-media-measurement",
-    "job_posted_at": "2025-09-29T14:15:39.423Z",
-    "job_posted_at_datetime_utc": "2025-09-29T14:15:39.423Z",
-    "id": "amazon-analytics-manager-paid-media-measurement-newark"
+    "employer_name": "Google",
+    "job_title": "Associate Competition Economist",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "28 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Associate Competition Economist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84994449817379526-associate-competition-economist?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-associate-competition-economist-new-york"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Data Scientist -Media Optimization",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Scientist -Media Optimization",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882646/Senior-Data-Scientist--Media-Optimization",
-    "id": "microsoft-senior-data-scientist-media-optimization-redmond"
+    "employer_name": "Micron",
+    "job_title": "Central Mask Tapeout Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 11 days ago",
+    "job_description": "Data Science job for the role Senior Central Mask Tapeout Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38050023",
+    "id": "micron-central-mask-tapeout-engineer-boise"
   }
 ]
