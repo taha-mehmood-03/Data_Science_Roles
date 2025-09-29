@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "job_title": "Data Scientist",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Data Science job for the role Data Scientist at Newark, NJ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097276/data-scientist",
+    "job_posted_at": "2025-09-29T19:16:01.582Z",
+    "job_posted_at_datetime_utc": "2025-09-29T19:16:01.582Z",
+    "id": "amazon-data-scientist-newark"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Battery Modeling Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Battery Modeling Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883884/Senior-Battery-Modeling-Engineer",
+    "id": "microsoft-senior-battery-modeling-engineer-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Systems Modeling Engineer",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Systems Modeling Engineer at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
+    "id": "arm-graduate-systems-modeling-engineer-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Systems Modeling Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Systems Modeling Engineer at Austin, Texas, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
+    "id": "arm-graduate-systems-modeling-engineer-austin"
+  }
+]
