@@ -1,43 +1,52 @@
 [
   {
-    "job_title": "Data Scientist",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Data Scientist at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097276/data-scientist",
-    "job_posted_at": "2025-09-29T19:16:01.582Z",
-    "job_posted_at_datetime_utc": "2025-09-29T19:16:01.582Z",
-    "id": "amazon-data-scientist-newark"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Battery Modeling Engineer",
+    "job_title": "Machine Learning Engineer",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Battery Modeling Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883884/Senior-Battery-Modeling-Engineer",
-    "id": "microsoft-senior-battery-modeling-engineer-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Machine Learning Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882133/Machine-Learning-Engineer",
+    "id": "microsoft-machine-learning-engineer-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Systems Modeling Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Systems Modeling Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
-    "id": "arm-graduate-systems-modeling-engineer-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Systems Modeling Engineer",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - QA Test",
     "job_city": "Austin",
-    "job_state": "Texas",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Systems Modeling Engineer at Austin, Texas, Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776",
-    "id": "arm-graduate-systems-modeling-engineer-austin"
+    "job_description": "Data Science job for the role Data Scientist - QA Test at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58476&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-qa-test-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Network  / Security Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: Quantum Network  / Security Engineer at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-network-security-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role QA Test Developer at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect- Entry Level Infrastructure IBM Expert Labs",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solution Architect- Entry Level Infrastructure IBM Expert Labs at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61377&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-entry-level-infrastructure-ibm-expert-labs-multiple-cities"
   }
 ]
