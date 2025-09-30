@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer II",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883188/Software-Engineer-II",
+    "id": "microsoft-software-engineer-ii-atlanta"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Embedded Software Architect - Zephyr",
+    "job_city": "Portland",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Embedded Software Architect - Zephyr at Portland",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-embedded-software-architect-zephyr-portland"
+  }
+]
