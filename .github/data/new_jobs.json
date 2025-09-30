@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Quality Program Management Lead",
-    "job_city": "San Bruno",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Graduate Graphics Software Engineer, Direct3D Team",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "47 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Quality Program Management Lead, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/76316210697773766-quality-program-management-lead-youtube?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-quality-program-management-lead-san-bruno"
+    "job_description": "Data Science job for the role Graduate Graphics Software Engineer, Direct3D Team at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-direct3d-team/33099/86072349568",
+    "id": "arm-graduate-graphics-software-engineer-direct3d-team-trondheim"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manager, Software Development Engineering",
+    "employer_name": "Arm",
+    "job_title": "Graduate Graphics Software Engineer, Vulkan Team",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Graphics Software Engineer, Vulkan Team at Trondheim, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-vulkan-team/33099/86731498144",
+    "id": "arm-graduate-graphics-software-engineer-vulkan-team-trondheim"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science & AI: Data Scientist",
     "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Manager, Software Development Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Manager--Software-Development-Engineering_R255295?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manager-software-development-engineering-us"
+    "job_state": "VA",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Science & AI: Data Scientist at Norfolk, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271191-data-science-ai-data-scientist",
+    "id": "aijobs-data-science-ai-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Temperate Hub Data Integrity",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Data Scientist - Temperate Hub Data Integrity at Durham, NC, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165271182-data-scientist-temperate-hub-data-integrity",
+    "id": "aijobs-data-scientist-temperate-hub-data-integrity-us"
   }
 ]
