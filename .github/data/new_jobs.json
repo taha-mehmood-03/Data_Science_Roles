@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Graphics Software Engineer, Direct3D Team",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "employer_name": "Microsoft",
+    "job_title": "Data Scientist I",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Graphics Software Engineer, Direct3D Team at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-direct3d-team/33099/86072349568",
-    "id": "arm-graduate-graphics-software-engineer-direct3d-team-trondheim"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist I",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883306/Data-Scientist-I",
+    "id": "microsoft-data-scientist-i-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Financial Analysis",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Financial Analysis",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884164/Financial-Analysis",
+    "id": "microsoft-financial-analysis-redmond"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Graduate Graphics Software Engineer, Vulkan Team",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Graphics Software Engineer, Vulkan Team at Trondheim, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/graduate-graphics-software-engineer-vulkan-team/33099/86731498144",
-    "id": "arm-graduate-graphics-software-engineer-vulkan-team-trondheim"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science & AI: Data Scientist",
-    "job_city": "US",
-    "job_state": "VA",
-    "job_posted_at": "21h ago",
-    "job_description": "data science job for the role Data Science & AI: Data Scientist at Norfolk, VA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165271191-data-science-ai-data-scientist",
-    "id": "aijobs-data-science-ai-data-scientist-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Temperate Hub Data Integrity",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Data Scientist - Temperate Hub Data Integrity at Durham, NC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165271182-data-scientist-temperate-hub-data-integrity",
-    "id": "aijobs-data-scientist-temperate-hub-data-integrity-us"
+    "job_description": "Data Science job for the role Senior Site Reliability Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-site-reliability-engineer/33099/86733603168",
+    "id": "arm-site-reliability-engineer-austin"
   }
 ]
