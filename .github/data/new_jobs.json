@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data Scientist I",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Google",
+    "job_title": "Data Science",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist I",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883306/Data-Scientist-I",
-    "id": "microsoft-data-scientist-i-redmond"
+    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Science, Product, Applied AI, Developer Productivity",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104746557735084742-data-science-product-applied-ai-developer-productivity?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-data-science-mountain-view"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Financial Analysis",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Google",
+    "job_title": "Group Product Manager",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Financial Analysis",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884164/Financial-Analysis",
-    "id": "microsoft-financial-analysis-redmond"
+    "job_description": "16 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Group Product Manager, Google, BigQuery Developer Experience",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134094722103681734-group-product-manager-google-bigquery-developer-experience?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-group-product-manager-kirkland"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Site Reliability Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Google",
+    "job_title": "Payments Risk Product Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Site Reliability Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-site-reliability-engineer/33099/86733603168",
-    "id": "arm-site-reliability-engineer-austin"
+    "job_description": "59 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Payments Risk Product Manager",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126712601034793670-payments-risk-product-manager?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-payments-risk-product-manager-mountain-view"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "AI/ML Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI/ML Intern - Bachelor's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-ML-Intern---Bachelor-s-Degree_2502807?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-ml-intern-bachelor-s-degree-santa-clara"
   }
 ]
