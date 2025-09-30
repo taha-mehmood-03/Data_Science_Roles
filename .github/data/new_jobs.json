@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Quantum Data Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern: Quantum Data Analyst at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62374&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-quantum-data-analyst-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern:",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role QA Test Developer Intern: 2026 at InternshipTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Finance Tax Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP Finance Tax Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60615&source=WEB_Search_NA",
+    "id": "ibm-sap-finance-tax-consultant-no-city"
+  }
+]
