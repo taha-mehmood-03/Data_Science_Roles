@@ -1,22 +1,34 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Data Scientist",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "19 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Data Scientist, Product",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107565516570141382-staff-data-scientist-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-data-scientist-seattle"
+    "job_title": "UX Researcher, Talent Acquisition - Products",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role UX Researcher, Talent Acquisition - Products at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099267/ux-researcher-talent-acquisition-products",
+    "job_posted_at": "2025-10-01T18:12:41.109Z",
+    "job_posted_at_datetime_utc": "2025-10-01T18:12:41.109Z",
+    "id": "amazon-ux-researcher-talent-acquisition-products-arlington"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer Networking",
-    "job_city": "Milpitas",
-    "job_state": "California",
+    "job_title": "Business Analyst II, RISC GDA",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Business Analyst II, RISC GDA at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099282/business-analyst-ii-risc-gda",
+    "job_posted_at": "2025-10-01T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-01T00:00:00.000Z",
+    "id": "amazon-business-analyst-ii-risc-gda-arlington"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Quality Test and Automation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer Networking at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Networking/1444119",
-    "id": "cisco-software-engineer-networking-milpitas"
+    "job_description": "Data Science job for the role Senior System Quality Test and Automation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-system-quality-test-and-automation-engineer/33099/86778250464",
+    "id": "arm-system-quality-test-and-automation-engineer-austin"
   }
 ]
