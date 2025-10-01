@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "HPC Performance Engineer - AI for Science at Scale",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Data Scientist, Financial Engineering",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior HPC Performance Engineer - AI for Science at Scale at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/165329691-senior-hpc-performance-engineer-ai-for-science-at-scale",
-    "id": "aijobs-hpc-performance-engineer-ai-for-science-at-scale-santa-clara"
+    "job_description": "data science job for the role Data Scientist, Financial Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332626-data-scientist-financial-engineering",
+    "id": "aijobs-data-scientist-financial-engineering-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer, Tegra UEFI Firmware",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Systems Software Engineer, Tegra UEFI Firmware at US, CO, Boulder",
-    "job_apply_link": "https://www.aijobs.com/jobs/165329690-senior-systems-software-engineer-tegra-uefi-firmware",
-    "id": "aijobs-systems-software-engineer-tegra-uefi-firmware-boulder"
+    "job_title": "Middleware Engineering Intern [Winter 2026]",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Middleware Engineering Intern [Winter 2026] at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332342-middleware-engineering-intern-winter-2026",
+    "id": "aijobs-middleware-engineering-intern-winter-2026-ca"
   }
 ]
