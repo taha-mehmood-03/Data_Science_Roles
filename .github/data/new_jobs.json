@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Staff Data Scientist",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "19 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Data Scientist, Product",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107565516570141382-staff-data-scientist-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-data-scientist-seattle"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer Networking",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer Networking at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Networking/1444119",
+    "id": "cisco-software-engineer-networking-milpitas"
+  }
+]
