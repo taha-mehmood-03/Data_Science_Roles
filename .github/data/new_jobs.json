@@ -1,34 +1,22 @@
 [
   {
-    "job_title": "UX Researcher, Talent Acquisition - Products",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role UX Researcher, Talent Acquisition - Products at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099267/ux-researcher-talent-acquisition-products",
-    "job_posted_at": "2025-10-01T18:12:41.109Z",
-    "job_posted_at_datetime_utc": "2025-10-01T18:12:41.109Z",
-    "id": "amazon-ux-researcher-talent-acquisition-products-arlington"
-  },
-  {
-    "job_title": "Business Analyst II, RISC GDA",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Business Analyst II, RISC GDA at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099282/business-analyst-ii-risc-gda",
-    "job_posted_at": "2025-10-01T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-01T00:00:00.000Z",
-    "id": "amazon-business-analyst-ii-risc-gda-arlington"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "System Quality Test and Automation Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Marketing Technology Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior System Quality Test and Automation Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-system-quality-test-and-automation-engineer/33099/86778250464",
-    "id": "arm-system-quality-test-and-automation-engineer-austin"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Marketing Technology Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885580/Marketing-Technology-Architect",
+    "id": "microsoft-marketing-technology-architect-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Customer Experience Engineer",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Customer Experience Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881034/Senior-Customer-Experience-Engineer",
+    "id": "microsoft-senior-customer-experience-engineer-multiple-locations"
   }
 ]
