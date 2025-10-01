@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Review Scientist",
-    "job_city": "US",
-    "job_state": "WI",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Data Review Scientist at Madison, WI, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165367978-data-review-scientist",
-    "id": "aijobs-data-review-scientist-us"
+    "employer_name": "IBM",
+    "job_title": "Web Developer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Web Developer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61726&source=WEB_Search_NA",
+    "id": "ibm-web-developer-san-jose"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineer - SerDes Digital Design",
+    "job_city": "US - NY - Hudson Valley",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff Engineer - SerDes Digital Design at US - NY - Hudson Valley",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---NY---Hudson-Valley/Staff-Engineer---SerDes-Digital-Design_2502949?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineer-serdes-digital-design-us-ny-hudson-valley"
   }
 ]
