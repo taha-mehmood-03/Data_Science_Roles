@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Support Engineer - HashiCorp",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Support Engineer - HashiCorp at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
-    "id": "ibm-support-engineer-hashicorp-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP consultant ISU Billing",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP consultant ISU Billing at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62104&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-consultant-isu-billing-multiple-cities"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Applied Machine Learning Scientist Intern - PhD",
+    "employer_name": "AiJobs",
+    "job_title": "HPC Performance Engineer - AI for Science at Scale",
     "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Applied Machine Learning Scientist Intern - PhD at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-applied-machine-learning-scientist-intern-phd-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Solutions Architecture Intern - PhD",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Solutions Architecture Intern - PhD at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Solutions-Architecture-Intern---PhD_2502347-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-solutions-architecture-intern-phd-santa-clara"
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior HPC Performance Engineer - AI for Science at Scale at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329691-senior-hpc-performance-engineer-ai-for-science-at-scale",
+    "id": "aijobs-hpc-performance-engineer-ai-for-science-at-scale-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Software Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role AI Software Engineer at Dallas, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165320843-ai-software-engineer",
-    "id": "aijobs-ai-software-engineer-us"
+    "job_title": "Systems Software Engineer, Tegra UEFI Firmware",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Systems Software Engineer, Tegra UEFI Firmware at US, CO, Boulder",
+    "job_apply_link": "https://www.aijobs.com/jobs/165329690-senior-systems-software-engineer-tegra-uefi-firmware",
+    "id": "aijobs-systems-software-engineer-tegra-uefi-firmware-boulder"
   }
 ]
