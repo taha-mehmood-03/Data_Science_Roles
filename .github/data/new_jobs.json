@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Cloud Solution Architect and Senior Cloud Solution Architect – Data and AI (Multiple Openings)",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Cloud Solution Architect and Senior Cloud Solution Architect – Data and AI (Multiple Openings)",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881202/Cloud-Solution-Architect-and-Senior-Cloud-Solution-Architect-%E2%80%93-Data-and-AI-(Multiple-Openings)",
-    "id": "microsoft-cloud-solution-architect-and-senior-cloud-solution-architect-data-and-ai-multiple-openings-multiple-locations"
+    "job_description": "Data Science job for the role Supply Chain Professional at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62367&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Project Manager Apprentice",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Project Manager Apprentice at Entry LevelNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62813&source=WEB_Search_NA",
+    "id": "ibm-associate-project-manager-apprentice-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer - Java & Web Technologies",
+    "job_city": "Phoenix",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Application Developer - Java & Web Technologies at ProfessionalPhoenix, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52646&source=WEB_Search_NA",
+    "id": "ibm-application-developer-java-web-technologies-phoenix"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Partner Sales Business Intelligence Manager",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Partner Sales Business Intelligence Manager at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Partner-Sales-Business-Intelligence-Manager/1448818",
+    "id": "cisco-partner-sales-business-intelligence-manager-rtp"
   }
 ]
