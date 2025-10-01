@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Marketing Technology Architect",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Marketing Technology Architect",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885580/Marketing-Technology-Architect",
-    "id": "microsoft-marketing-technology-architect-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Customer Experience Engineer",
+    "job_title": "Cloud Solution Architect and Senior Cloud Solution Architect – Data and AI (Multiple Openings)",
     "job_city": "Multiple Locations",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Customer Experience Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881034/Senior-Customer-Experience-Engineer",
-    "id": "microsoft-senior-customer-experience-engineer-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Cloud Solution Architect and Senior Cloud Solution Architect – Data and AI (Multiple Openings)",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881202/Cloud-Solution-Architect-and-Senior-Cloud-Solution-Architect-%E2%80%93-Data-and-AI-(Multiple-Openings)",
+    "id": "microsoft-cloud-solution-architect-and-senior-cloud-solution-architect-data-and-ai-multiple-openings-multiple-locations"
   }
 ]
