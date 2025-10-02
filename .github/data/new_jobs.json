@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Media Driver",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "CISCO",
+    "job_title": "Leader, Data Science",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer - Media Driver at Cambridge, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/software-engineer-media-driver/33099/76704245440",
-    "id": "arm-software-engineer-media-driver-cambridge"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Senior Staff Engineer Applications",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Staff Engineer Applications at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-senior-staff-engineer-applications-san-jose"
+    "job_description": "Data Science job for the role Leader, Data Science at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Leader-Data-Science/1447746",
+    "id": "cisco-leader-data-science-rtp"
   }
 ]
