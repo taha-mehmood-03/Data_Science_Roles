@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "CoreAI",
-    "job_city": "New York City",
-    "job_state": "New York",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Device Drivers",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Forward Deployed Scientist. Level: All Levels. Posted: Recently. Full Title: Senior Forward Deployed Scientist - CoreAI",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884263/Senior-Forward-Deployed-Scientist---CoreAI",
-    "id": "microsoft-coreai-new-york-city"
+    "job_description": "Data Science job for the role Senior Software Engineer - Device Drivers at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-device-drivers/33099/74266619424",
+    "id": "arm-software-engineer-device-drivers-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Infrastructure Automation Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Infrastructure Automation Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-infrastructure-automation-engineer/33099/76146756752",
+    "id": "arm-infrastructure-automation-engineer-cambridge"
   }
 ]
