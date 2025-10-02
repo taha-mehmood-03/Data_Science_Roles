@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Director of Research",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Director of Research",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860421/Director-of-Research",
+    "id": "microsoft-director-of-research-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Product Manager – .NET Tools",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager – .NET Tools",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887851/Principal-Product-Manager-%E2%80%93-.NET-Tools",
+    "id": "microsoft-principal-product-manager-net-tools-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Controls & Compliance",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Controls & Compliance",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887818/Senior-Finance-Manager---Controls-%26-Compliance",
+    "id": "microsoft-controls-compliance-redmond"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Manager - Project Office",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager - Project Office at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-manager-project-office-san-jose"
+  }
+]
