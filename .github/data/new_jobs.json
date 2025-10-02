@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Deskside Support Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "CoreAI",
+    "job_city": "New York City",
+    "job_state": "New York",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Deskside Support Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/deskside-support-engineer/33099/82985445856",
-    "id": "arm-deskside-support-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Automotive Quality and Safety Manager",
-    "job_city": "Munich",
-    "job_state": "Germany",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Automotive Quality and Safety Manager at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/automotive-quality-and-safety-manager/33099/84419402048",
-    "id": "arm-automotive-quality-and-safety-manager-munich"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior CPU Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-verification-engineer/33099/84516810176",
-    "id": "arm-cpu-verification-engineer-cambridge"
+    "job_description": "Category: Senior Forward Deployed Scientist. Level: All Levels. Posted: Recently. Full Title: Senior Forward Deployed Scientist - CoreAI",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884263/Senior-Forward-Deployed-Scientist---CoreAI",
+    "id": "microsoft-coreai-new-york-city"
   }
 ]
