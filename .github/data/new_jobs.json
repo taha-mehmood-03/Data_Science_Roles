@@ -1,42 +1,23 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Director of Research",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Director of Research",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860421/Director-of-Research",
-    "id": "microsoft-director-of-research-redmond"
+    "job_title": "Data Engineer, AWS Infrastructure Supply Chain Automation",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Engineer, AWS Infrastructure Supply Chain Automation at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100406/data-engineer-aws-infrastructure-supply-chain-automation",
+    "job_posted_at": "2025-10-02T22:13:22.813Z",
+    "job_posted_at_datetime_utc": "2025-10-02T22:13:22.813Z",
+    "id": "amazon-data-engineer-aws-infrastructure-supply-chain-automation-herndon"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Product Manager – .NET Tools",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Microsoft Advertising",
+    "job_city": "New York City",
+    "job_state": "New York",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager – .NET Tools",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887851/Principal-Product-Manager-%E2%80%93-.NET-Tools",
-    "id": "microsoft-principal-product-manager-net-tools-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Controls & Compliance",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Controls & Compliance",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887818/Senior-Finance-Manager---Controls-%26-Compliance",
-    "id": "microsoft-controls-compliance-redmond"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Senior Manager - Project Office",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager - Project Office at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-senior-manager-project-office-san-jose"
+    "job_description": "Category: Senior Analytical Lead. Level: All Levels. Posted: Recently. Full Title: Senior Analytical Lead - Microsoft Advertising",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883223/Senior-Analytical-Lead---Microsoft-Advertising",
+    "id": "microsoft-microsoft-advertising-new-york-city"
   }
 ]
