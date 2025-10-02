@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "CISCO",
+    "job_title": "Analyst of Pricing Strategy and Monetization",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Analyst of Pricing Strategy and Monetization at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Analyst-of-Pricing-Strategy-and-Monetization/1450368",
+    "id": "cisco-analyst-of-pricing-strategy-and-monetization-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Threat Intelligence Analyst",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Threat Intelligence Analyst at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Threat-Intelligence-Analyst/1447142",
+    "id": "cisco-threat-intelligence-analyst-rtp"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "AI Platform Engineer Intern (Agentic) - Master's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI Platform Engineer Intern (Agentic) - Master's Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-Platform-Engineer-Intern--Agentic----Master-s-Degree_2502270-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-platform-engineer-intern-agentic-master-s-degree-santa-clara"
+  }
+]
