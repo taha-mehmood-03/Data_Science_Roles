@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Director of Procurement",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Director of Procurement",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882820/Director-of-Procurement",
+    "id": "microsoft-director-of-procurement-redmond"
+  }
+]
