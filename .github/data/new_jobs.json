@@ -1,52 +1,44 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "19min ago",
-    "job_description": "data science job for the role Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS) at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688808-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms",
-    "id": "aijobs-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms-us"
+    "job_title": "Data Engineer II, AWS Sustainability Technology",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, AWS Sustainability Technology at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099818/data-engineer-ii-aws-sustainability-technology",
+    "job_posted_at": "2025-10-02T14:15:36.375Z",
+    "job_posted_at_datetime_utc": "2025-10-02T14:15:36.375Z",
+    "id": "amazon-data-engineer-ii-aws-sustainability-technology-seattle"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Senior, Data Scientist",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Senior, Data Scientist at Sunnyvale, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688814-senior-data-scientist",
-    "id": "aijobs-senior-data-scientist-us"
+    "job_title": "Language Engineer, Artificial General Intelligence - Data Services",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Language Engineer, Artificial General Intelligence - Data Services at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099797/language-engineer-artificial-general-intelligence-data-services",
+    "job_posted_at": "2025-10-02T14:15:36.375Z",
+    "job_posted_at_datetime_utc": "2025-10-02T14:15:36.375Z",
+    "id": "amazon-language-engineer-artificial-general-intelligence-data-services-bellevue"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI Data Scientist - Field Analytics",
-    "job_city": "US",
-    "job_state": "IN",
-    "job_posted_at": "5d ago",
-    "job_description": "data science job for the role AI Data Scientist - Field Analytics at Indianapolis, IN, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688817-ai-data-scientist-field-analytics",
-    "id": "aijobs-ai-data-scientist-field-analytics-us"
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer (CPU)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Verification Engineer (CPU) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-cpu/33099/84516810176",
+    "id": "arm-verification-engineer-cpu-cambridge"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Health Plan Operations",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Data Scientist - Health Plan Operations at Compton, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688818-data-scientist-health-plan-operations",
-    "id": "aijobs-data-scientist-health-plan-operations-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sr Data Scientist - Demand Forecasting",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Sr Data Scientist - Demand Forecasting at San Antonio, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165688816-sr-data-scientist-demand-forecasting",
-    "id": "aijobs-sr-data-scientist-demand-forecasting-us"
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Product Marketing",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern – IBM Product Marketing at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62930&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-product-marketing-new-york"
   }
 ]
