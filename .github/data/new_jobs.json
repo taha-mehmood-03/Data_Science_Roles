@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Director of Procurement",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - Backend",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Director of Procurement",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882820/Director-of-Procurement",
-    "id": "microsoft-director-of-procurement-redmond"
+    "job_description": "Data Science job for the role Software Engineer - Backend at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62830&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-backend-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer, Cisco Networking, US Commercial",
+    "job_city": "Offsite",
+    "job_state": "San Francisco",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Engineer, Cisco Networking, US Commercial at Offsite, San Francisco, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Cisco-Networking-US-Commercial/1451086",
+    "id": "cisco-solutions-engineer-cisco-networking-us-commercial-offsite"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data & AI Engineer",
+    "job_city": "US",
+    "job_state": "FL",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Data & AI Engineer at Tampa, FL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165607341-data-ai-engineer",
+    "id": "aijobs-data-ai-engineer-us"
   }
 ]
