@@ -1,44 +1,42 @@
 [
   {
-    "job_title": "Data Engineer II, AWS Sustainability Technology",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, AWS Sustainability Technology at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099818/data-engineer-ii-aws-sustainability-technology",
-    "job_posted_at": "2025-10-02T14:15:36.375Z",
-    "job_posted_at_datetime_utc": "2025-10-02T14:15:36.375Z",
-    "id": "amazon-data-engineer-ii-aws-sustainability-technology-seattle"
+    "employer_name": "Micron",
+    "job_title": "Photolithography Process Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Photolithography Process Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38283337",
+    "id": "micron-photolithography-process-engineer-manassas"
   },
   {
-    "job_title": "Language Engineer, Artificial General Intelligence - Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Language Engineer, Artificial General Intelligence - Data Services at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099797/language-engineer-artificial-general-intelligence-data-services",
-    "job_posted_at": "2025-10-02T14:15:36.375Z",
-    "job_posted_at_datetime_utc": "2025-10-02T14:15:36.375Z",
-    "id": "amazon-language-engineer-artificial-general-intelligence-data-services-bellevue"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer (CPU)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "CISCO",
+    "job_title": "Software Development Engineer",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Verification Engineer (CPU) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer-cpu/33099/84516810176",
-    "id": "arm-verification-engineer-cpu-cambridge"
+    "job_description": "Data Science job for the role Software Development Engineer at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Development-Engineer/1451050",
+    "id": "cisco-software-development-engineer-offsite"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – IBM Product Marketing",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 2026 Intern – IBM Product Marketing at InternshipNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62930&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-ibm-product-marketing-new-york"
+    "employer_name": "MARVELL",
+    "job_title": "Failure Analysis Engineer Intern - Bachelors Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Failure Analysis Engineer Intern - Bachelors Degree at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Failure-Analysis-Engineer-Intern---Bachelors-Degree_2502718?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-failure-analysis-engineer-intern-bachelors-degree-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design for Test Engineering Intern - Bachelors Degree",
+    "job_city": "Morrisville",
+    "job_state": "NC",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Design for Test Engineering Intern - Bachelors Degree at Morrisville, NC",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Design-for-Test-Engineering-Intern---Bachelors-Degree_2502683-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-for-test-engineering-intern-bachelors-degree-morrisville"
   }
 ]
