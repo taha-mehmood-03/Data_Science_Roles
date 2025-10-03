@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Formal/SV UVM Verification Engineer",
-    "job_city": "Lund",
-    "job_state": "Sweden",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Formal/SV UVM Verification Engineer at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/staff-formal-sv-uvm-verification-engineer/33099/84906859600",
-    "id": "arm-formal-sv-uvm-verification-engineer-lund"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist – AI/ML Recommendations & Personalization",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Scientist – AI/ML Recommendations & Personalization at Redmond, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165833068-data-scientist-ai-ml-recommendations-personalization",
+    "id": "aijobs-data-scientist-ai-ml-recommendations-personalization-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "New Grads 2026 - Data Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "11h ago",
+    "job_description": "data science job for the role New Grads 2026 - Data Scientist at San Jose, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165833069-new-grads-2026-data-scientist",
+    "id": "aijobs-new-grads-2026-data-scientist-us"
   }
 ]
