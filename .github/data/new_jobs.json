@@ -1,22 +1,54 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist – AI/ML Recommendations & Personalization",
-    "job_city": "US",
+    "job_title": "Software Development Engineer Internship - Winter- 2026 (US)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Data Scientist – AI/ML Recommendations & Personalization at Redmond, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165833068-data-scientist-ai-ml-recommendations-personalization",
-    "id": "aijobs-data-scientist-ai-ml-recommendations-personalization-us"
+    "job_description": "Data Science job for the role Software Development Engineer Internship - Winter- 2026 (US) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100321/software-development-engineer-internship-winter-2026-us",
+    "job_posted_at": "2025-10-03T14:15:05.106Z",
+    "job_posted_at_datetime_utc": "2025-10-03T14:15:05.106Z",
+    "id": "amazon-software-development-engineer-internship-winter-2026-us-seattle"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "New Grads 2026 - Data Scientist",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role New Grads 2026 - Data Scientist at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/165833069-new-grads-2026-data-scientist",
-    "id": "aijobs-new-grads-2026-data-scientist-us"
+    "job_title": "Data Engineer, Speed Products, Science and Analytics",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, Speed Products, Science and Analytics at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100735/data-engineer-speed-products-science-and-analytics",
+    "job_posted_at": "2025-10-03T14:15:05.105Z",
+    "job_posted_at_datetime_utc": "2025-10-03T14:15:05.105Z",
+    "id": "amazon-data-engineer-speed-products-science-and-analytics-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Compilers (LLVM)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer - Compilers (LLVM) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-compilers-llvm/33099/86845179984",
+    "id": "arm-software-engineer-compilers-llvm-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "5G/Networking Performance Graduate Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 5G/Networking Performance Graduate Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/5g-networking-performance-graduate-engineer/33099/86845170432",
+    "id": "arm-5g-networking-performance-graduate-engineer-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Automation Engineer - DevOps (WebEx)",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Automation Engineer - DevOps (WebEx) at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Automation-Engineer-DevOps-WebEx/1447325",
+    "id": "cisco-automation-engineer-devops-webex-rtp"
   }
 ]
