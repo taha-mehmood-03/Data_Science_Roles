@@ -1,32 +1,72 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Data Scientist",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Quantum Research Scientist: Quantum Processor Characterization",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "3 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist, Ads Planning",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106721632805888710-senior-data-scientist-ads-planning?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-scientist-los-angeles"
+    "job_description": "Data Science job for the role Quantum Research Scientist: Quantum Processor Characterization at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62404&source=WEB_Search_NA",
+    "id": "ibm-quantum-research-scientist-quantum-processor-characterization-yorktown-heights"
   },
   {
-    "employer_name": "Google",
-    "job_title": "UX Quantitative Researcher",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager Technical Specialist - Data",
+    "job_city": "Irvine",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "47 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Quantitative Researcher, Google Photos",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94253969810825926-ux-quantitative-researcher-google-photos?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-ux-quantitative-researcher-mountain-view"
+    "job_description": "Data Science job for the role Customer Success Manager Technical Specialist - Data at ProfessionalIrvine, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62822&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-technical-specialist-data-irvine"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Product Applications Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Product Applications Engineer at Longmont, Colorado, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38368859",
-    "id": "micron-product-applications-engineer-longmont"
+    "employer_name": "IBM",
+    "job_title": "Business Analyst - Performance Management",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Analyst - Performance Management at ProfessionalBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61104&source=WEB_Search_NA",
+    "id": "ibm-business-analyst-performance-management-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Manager (RPO)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Delivery Manager (RPO) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63062&source=WEB_Search_NA",
+    "id": "ibm-delivery-manager-rpo-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Development Manager - IBM z/OS Networking",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Development Manager - IBM z/OS Networking at ProfessionalDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62732&source=WEB_Search_NA",
+    "id": "ibm-software-development-manager-ibm-z-os-networking-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Sales Engineer - Storage",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Sales Engineer - Storage at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63031&source=WEB_Search_NA",
+    "id": "ibm-technical-sales-engineer-storage-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI (Python) Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "7h ago",
+    "job_description": "data science job for the role AI (Python) Engineer at Dallas, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165793464-ai-python-engineer",
+    "id": "aijobs-ai-python-engineer-us"
   }
 ]
