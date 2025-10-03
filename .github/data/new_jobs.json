@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Engineer",
-    "job_city": "TUCSON",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Manufacturing Test Engineer",
+    "job_city": "Maynard",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Support Engineer at Entry LevelTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63043&source=WEB_Search_NA",
-    "id": "ibm-technical-support-engineer-tucson"
+    "job_description": "Data Science job for the role Manufacturing Test Engineer at Maynard, Massachusetts, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Manufacturing-Test-Engineer/1448337",
+    "id": "cisco-manufacturing-test-engineer-maynard"
   }
 ]
