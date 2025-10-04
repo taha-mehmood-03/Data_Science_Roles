@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Group Impact Investments Manager -Sustainability",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Data Scientist II",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Group Impact Investments Manager -Sustainability",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887171/Group-Impact-Investments-Manager--Sustainability",
-    "id": "microsoft-group-impact-investments-manager-sustainability-redmond"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Analytics Lead",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytics Lead, Cloud Runtimes Strategy and Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124637693744161478-analytics-lead-cloud-runtimes-strategy-and-operations?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-analytics-lead-san-francisco"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "AI/ML System Simulation Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role AI/ML System Simulation Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-ML-Engineer-HW-SW_2501958?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ai-ml-system-simulation-engineer-santa-clara"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885294/Data-Scientist-II",
+    "id": "microsoft-data-scientist-ii-multiple-locations"
   }
 ]
