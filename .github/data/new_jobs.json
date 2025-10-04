@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Data Analytics Engineer II - HashiCorp",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Data Analytics Engineer II - HashiCorp at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62779&source=WEB_Search_NA",
-    "id": "ibm-sr-data-analytics-engineer-ii-hashicorp-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Growth & GTM Strategy",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Growth & GTM Strategy at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/165912731-growth-gtm-strategy",
+    "id": "aijobs-growth-gtm-strategy-united-states"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Analyst, Global Strategic Initiatives",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Analyst, Global Strategic Initiatives at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63090&source=WEB_Search_NA",
-    "id": "ibm-analyst-global-strategic-initiatives-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Generative AI Algorithms Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Generative AI Algorithms Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/165907771-generative-ai-algorithms-engineer-new-college-grad-2025",
+    "id": "aijobs-generative-ai-algorithms-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, ChatGPT Business Growth",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Product Manager, ChatGPT Business Growth at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/165912722-product-manager-chatgpt-business-growth",
+    "id": "aijobs-product-manager-chatgpt-business-growth-united-states"
   }
 ]
