@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Commercial",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "19h ago",
+    "job_description": "data science job for the role Data Scientist - Commercial at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935658-data-scientist-commercial",
+    "id": "aijobs-data-scientist-commercial-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Mid level",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist - Mid level at District of Columbia, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935647-data-scientist-mid-level",
+    "id": "aijobs-data-scientist-mid-level-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Data Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Machine Learning Data Scientist at South San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935659-machine-learning-data-scientist",
+    "id": "aijobs-machine-learning-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Scientist (DPX)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "19h ago",
+    "job_description": "data science job for the role Applied Scientist (DPX) at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935650-applied-scientist-dpx",
+    "id": "aijobs-applied-scientist-dpx-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health (On Site)",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health (On Site) at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935654-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health-on-site",
+    "id": "aijobs-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health-on-site-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer - Artificial Intelligence & Human Health",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Machine Learning Engineer - Artificial Intelligence & Human Health at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/165935660-machine-learning-engineer-artificial-intelligence-human-health",
+    "id": "aijobs-machine-learning-engineer-artificial-intelligence-human-health-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, B2B Marketing",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Data Scientist, B2B Marketing at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/162674873-data-scientist-b2b-marketing",
+    "id": "aijobs-data-scientist-b2b-marketing-us"
+  }
+]
