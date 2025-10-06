@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Customer Engineer Intern",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "employer_name": "Arm",
+    "job_title": "Performance Verification Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "46 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer Intern, Google Public Sector, Summer 2026",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112121227035714246-customer-engineer-intern-google-public-sector-summer-2026?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-customer-engineer-intern-reston"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Search Engineering Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "61 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Search Engineering Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/114827812346438342-search-engineering-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-search-engineering-analyst-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Search Webspam Engineering Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "63 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Search Webspam Engineering Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106281858219549382-search-webspam-engineering-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-search-webspam-engineering-analyst-mountain-view"
+    "job_description": "Data Science job for the role Senior Performance Verification Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-performance-verification-engineer/33099/86947448864",
+    "id": "arm-performance-verification-engineer-bengaluru"
   }
 ]
