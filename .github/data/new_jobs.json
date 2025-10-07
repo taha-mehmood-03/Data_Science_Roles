@@ -1,84 +1,22 @@
 [
   {
-    "job_title": "Delivery Consultant - Security",
-    "employer_name": "Amazon",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "Data Science job for the role Delivery Consultant - Security at Atlanta, GA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103476/delivery-consultant-security",
-    "job_posted_at": "2025-10-07T20:13:18.845Z",
-    "job_posted_at_datetime_utc": "2025-10-07T20:13:18.845Z",
-    "id": "amazon-delivery-consultant-security-atlanta"
-  },
-  {
-    "job_title": "Data Engineer, Foundational People Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, Foundational People Data Services at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103478/data-engineer-foundational-people-data-services",
-    "job_posted_at": "2025-10-07T20:13:18.844Z",
-    "job_posted_at_datetime_utc": "2025-10-07T20:13:18.844Z",
-    "id": "amazon-data-engineer-foundational-people-data-services-seattle"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Customer Experience Program Mgmt Specialist",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Software Engineer",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Customer Experience Program Mgmt Specialist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887014/Customer-Experience-Program-Mgmt-Specialist",
-    "id": "microsoft-customer-experience-program-mgmt-specialist-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Software Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891708/Software-Engineer",
+    "id": "microsoft-software-engineer-chicago"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Business Administrator",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Business Administrator",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887821/Senior-Business-Administrator",
-    "id": "microsoft-senior-business-administrator-redmond"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Director AI and Advanced Analytics",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role Director AI and Advanced Analytics at San Jose, California, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/38430799",
-    "id": "micron-director-ai-and-advanced-analytics-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Engagement Lead - United States Government",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum Engagement Lead - United States Government at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63364&source=WEB_Search_NA",
-    "id": "ibm-quantum-engagement-lead-united-states-government-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware User Experience Designer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Hardware User Experience Designer 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63042&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-user-experience-designer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Client Engineering Solution Architect",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Client Engineering Solution Architect at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62946&source=WEB_Search_NA",
-    "id": "ibm-client-engineering-solution-architect-multiple-cities"
+    "employer_name": "MARVELL",
+    "job_title": "IC Validation Engineer Intern - Master's Degree",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role IC Validation Engineer Intern - Master's Degree at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/IC-Validation-Engineer-Intern---Master-s-Degree_2503012-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ic-validation-engineer-intern-master-s-degree-westlake-village"
   }
 ]
