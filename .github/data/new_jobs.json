@@ -1,72 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr User Experience Researcher - AI",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr User Experience Researcher - AI at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62069&source=WEB_Search_NA",
-    "id": "ibm-sr-user-experience-researcher-ai-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry level 2026 - Site Reliability Engineer (SRE)",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry level 2026 - Site Reliability Engineer (SRE) at Entry LevelTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60973&source=WEB_Search_NA",
-    "id": "ibm-entry-level-2026-site-reliability-engineer-sre-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Storage Delivery Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Storage Delivery Consultant at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62910&source=WEB_Search_NA",
-    "id": "ibm-storage-delivery-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Delivery Consultant - Enterprise Learning Managment",
-    "job_city": "Cambridge",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Delivery Consultant - Enterprise Learning Managment at ProfessionalCambridge, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57918&source=WEB_Search_NA",
-    "id": "ibm-technical-delivery-consultant-enterprise-learning-managment-cambridge"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer, Hardware Systems & Silicon Validation",
-    "job_city": "Irvine",
+    "job_title": "Actuarial Manager Analyst, Amazon One Medical Actuary, Amazon One Medical Actuary",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Engineer, Hardware Systems & Silicon Validation at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Senior-Staff-Engineer--Hardware-Systems---Silicon-Validation_2502831?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-hardware-systems-silicon-validation-irvine"
+    "job_description": "Data Science job for the role Actuarial Manager Analyst, Amazon One Medical Actuary, Amazon One Medical Actuary at San Francisco, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3102759/actuarial-manager-analyst-amazon-one-medical-actuary-amazon-one-medical-actuary",
+    "job_posted_at": "2025-10-07T00:05:11.634Z",
+    "job_posted_at_datetime_utc": "2025-10-07T00:05:11.634Z",
+    "id": "amazon-actuarial-manager-analyst-amazon-one-medical-actuary-amazon-one-medical-actuary-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager III",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "48 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager III, Carbon Reduction Data Solutions, Global Sustainability",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119863232004268742-technical-program-manager-iii-carbon-reduction-data-solutions-global-sustainability?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-technical-program-manager-iii-boulder"
   },
   {
     "employer_name": "MARVELL",
-    "job_title": "Emulation Engineer",
+    "job_title": "Digital IC Design Staff Engineer",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Emulation Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Emulation-Engineer_2502865?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-emulation-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, Hardware System & Silicon Validation",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Engineer, Hardware System & Silicon Validation at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Staff-Engineer--Hardware-System---Silicon-Validation_2502832?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-hardware-system-silicon-validation-irvine"
+    "job_description": "Data Science job for the role Digital IC Design Staff Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Staff-Engineer_2502918?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-digital-ic-design-staff-engineer-santa-clara"
   }
 ]
