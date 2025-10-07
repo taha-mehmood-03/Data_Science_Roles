@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Applied Scientist",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "job_title": "Microsoft Technical Trainer",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1888051/Senior-Applied-Scientist",
-    "id": "microsoft-senior-applied-scientist-seattle"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Silicon Principal Program Manager (Cloud Data Center)",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Silicon Principal Program Manager (Cloud Data Center) at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Silicon-Principal-Program-Manager--Cloud-Data-Center-_2502827?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-silicon-principal-program-manager-cloud-data-center-3-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Microsoft Technical Trainer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889400/Microsoft-Technical-Trainer",
+    "id": "microsoft-microsoft-technical-trainer-boston"
   }
 ]
