@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Micron",
+    "job_title": "Intern - DRAM Quality Data Analytics Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "Data Science job for the role Intern - DRAM Quality Data Analytics Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38427618",
+    "id": "micron-intern-dram-quality-data-analytics-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Ecosystem Strategist | Acquisition Acceleration",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "45 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Data Scientist, Google Customer Solutions Ads Finance",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94959551333180102-business-data-scientist-google-customer-solutions-ads-finance?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-business-data-scientist-mountain-view"
+    "job_description": "Data Science job for the role Ecosystem Strategist | Acquisition Acceleration at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62858&source=WEB_Search_NA",
+    "id": "ibm-ecosystem-strategist-acquisition-acceleration-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director IT Finance Gen AI Strategy & Transformation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Director IT Finance Gen AI Strategy & Transformation at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-IT-Finance-Gen-AI-Strategy---Transformation_2502561?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-it-finance-gen-ai-strategy-transformation-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist Intern (PhD or Masters)",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist Intern (PhD or Masters) at Pittsburgh, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/166270482-data-scientist-intern-phd-or-masters",
+    "id": "aijobs-data-scientist-intern-phd-or-masters-us"
   }
 ]
