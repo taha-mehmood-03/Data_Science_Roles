@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Data Engineer, AWS DC Central Operations",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, AWS DC Central Operations at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103409/data-engineer-aws-dc-central-operations",
-    "job_posted_at": "2025-10-07T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-07T00:00:00.000Z",
-    "id": "amazon-data-engineer-aws-dc-central-operations-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "DevOps Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior DevOps Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-devops-engineer/33099/78707347264",
-    "id": "arm-devops-engineer-manchester"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Package Layout Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Package Layout Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-package-layout-engineer/33099/87000370272",
-    "id": "arm-package-layout-engineer-chandler"
+    "employer_name": "MARVELL",
+    "job_title": "CAD Engineer - AI/ML",
+    "job_city": "US - CA - Santa Clara - Marvell Park",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal CAD Engineer - AI/ML at US - CA - Santa Clara - Marvell Park",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---CA---Santa-Clara---Marvell-Park/Principal-CAD-Engineer---AI-ML_2502980?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-cad-engineer-ai-ml-us-ca-santa-clara-marvell-park"
   }
 ]
