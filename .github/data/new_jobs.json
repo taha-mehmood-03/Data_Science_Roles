@@ -1,33 +1,22 @@
 [
   {
-    "job_title": "Account Manager, Startups",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Account Manager, Startups at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104356/account-manager-startups",
-    "job_posted_at": "2025-10-08T16:14:14.742Z",
-    "job_posted_at_datetime_utc": "2025-10-08T16:14:14.742Z",
-    "id": "amazon-account-manager-startups-san-francisco"
-  },
-  {
     "employer_name": "Microsoft",
-    "job_title": "Sr. Sourcing and Category Manager",
+    "job_title": "Marketing Transformation",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr. Sourcing and Category Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890584/Sr.-Sourcing-and-Category-Manager",
-    "id": "microsoft-sr-sourcing-and-category-manager-redmond"
+    "job_description": "Category: Business Operations Lead. Level: All Levels. Posted: Recently. Full Title: Business Operations Lead - Marketing Transformation",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889119/Business-Operations-Lead---Marketing-Transformation",
+    "id": "microsoft-marketing-transformation-redmond"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Process Engineering Intern",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Process Engineering Intern at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Process-Engineering-Intern_R257265?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-process-engineering-intern-3-locations"
+    "employer_name": "Google",
+    "job_title": "Quantitative UX Researcher",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "49 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Quantitative UX Researcher, Payments Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92977715983852230-quantitative-ux-researcher-payments-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-quantitative-ux-researcher-mountain-view"
   }
 ]
