@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Technical Product Manager, AWS",
-    "employer_name": "Amazon",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Technical Product Manager, AWS at Dallas, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103838/technical-product-manager-aws",
-    "job_posted_at": "2025-10-07T23:04:43.440Z",
-    "job_posted_at_datetime_utc": "2025-10-07T23:04:43.440Z",
-    "id": "amazon-technical-product-manager-aws-dallas"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "HR Data Analyst",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - HR Data Analyst",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891789/HR-Data-Analyst",
-    "id": "microsoft-hr-data-analyst-multiple-locations"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Principal System Performance Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal System Performance Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-system-performance-architect/33099/87011792672",
-    "id": "arm-principal-system-performance-architect-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Cloud Data & AI Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Cloud Data & AI Engineer at Irvine, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/166338586-cloud-data-ai-engineer",
+    "id": "aijobs-cloud-data-ai-engineer-us"
   }
 ]
