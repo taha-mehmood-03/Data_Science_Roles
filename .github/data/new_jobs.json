@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Marketing Transformation",
+    "job_title": "Windows 365",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business Operations Lead. Level: All Levels. Posted: Recently. Full Title: Business Operations Lead - Marketing Transformation",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889119/Business-Operations-Lead---Marketing-Transformation",
-    "id": "microsoft-marketing-transformation-redmond"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Windows 365",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885284/Senior-Finance-Manager---Windows-365",
+    "id": "microsoft-windows-365-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Quantitative UX Researcher",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Partner Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "49 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Quantitative UX Researcher, Payments Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92977715983852230-quantitative-ux-researcher-payments-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-quantitative-ux-researcher-mountain-view"
+    "job_description": "Data Science job for the role Principal Partner Program Manager at Austin, Texas, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-partner-program-manager/33099/87011765776",
+    "id": "arm-partner-program-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Partner Program Manager",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Partner Program Manager at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-partner-program-manager/33099/87011765776",
+    "id": "arm-partner-program-manager-multiple"
   }
 ]
