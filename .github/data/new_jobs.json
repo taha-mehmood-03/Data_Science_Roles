@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Scientist Intern 2026 at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Data Analytics and Insights",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Director, Data Analytics and Insights at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360481-director-data-analytics-and-insights",
+    "id": "aijobs-director-data-analytics-and-insights-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Networking Software",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "28min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Networking Software at US, WA, Redmond",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360482-senior-software-engineer-networking-software",
+    "id": "aijobs-software-engineer-networking-software-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Documentation Automation Engineer, Consumer Support",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Documentation Automation Engineer, Consumer Support at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360485-documentation-automation-engineer-consumer-support",
+    "id": "aijobs-documentation-automation-engineer-consumer-support-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Research Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360480-senior-research-engineer-autonomous-vehicles",
+    "id": "aijobs-research-engineer-autonomous-vehicles-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Board Test Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Board Test Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360477-senior-board-test-engineer",
+    "id": "aijobs-board-test-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, AI and ML Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Technical Program Manager, AI and ML Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166360488-senior-technical-program-manager-ai-and-ml-software",
+    "id": "aijobs-technical-program-manager-ai-and-ml-software-santa-clara"
+  }
+]
