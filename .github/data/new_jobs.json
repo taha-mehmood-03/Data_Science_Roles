@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Applied Scientist, Account Integrity",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Account Integrity at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105448/applied-scientist-account-integrity",
-    "job_posted_at": "2025-10-09T21:13:52.463Z",
-    "job_posted_at_datetime_utc": "2025-10-09T21:13:52.463Z",
-    "id": "amazon-applied-scientist-account-integrity-seattle"
+    "employer_name": "Microsoft",
+    "job_title": "Cloud Applications Finance Product Health Team",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Cloud Applications Finance Product Health Team",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887379/Senior-Finance-Manager---Cloud-Applications-Finance-Product-Health-Team",
+    "id": "microsoft-cloud-applications-finance-product-health-team-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Windows Ecosystem",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Windows Ecosystem",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889227/Senior-Finance-Manager---Windows-Ecosystem",
+    "id": "microsoft-windows-ecosystem-redmond"
   }
 ]
