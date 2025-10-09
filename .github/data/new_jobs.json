@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Applied Machine Learning Engineer, Circuit Design - New College Grad",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Protection Scientist Engineer, Intelligence and Investigations",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Applied Machine Learning Engineer, Circuit Design - New College Grad 2025 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/166470808-applied-machine-learning-engineer-circuit-design-new-college-grad-2025",
-    "id": "aijobs-applied-machine-learning-engineer-circuit-design-new-college-grad-santa-clara"
+    "job_description": "data science job for the role Protection Scientist Engineer, Intelligence and Investigations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations",
+    "id": "aijobs-protection-scientist-engineer-intelligence-and-investigations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Notifcations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Research Engineer, Notifcations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/166472424-research-engineer-notifcations",
+    "id": "aijobs-research-engineer-notifcations-united-states"
   }
 ]
