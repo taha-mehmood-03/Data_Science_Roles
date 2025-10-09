@@ -1,22 +1,85 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Product Marketing Manager",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Marketing Manager at ProfessionalWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62824&source=WEB_Search_NA",
-    "id": "ibm-product-marketing-manager-washington"
+    "job_title": "Data Scientist, NA Stores Expansion",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, NA Stores Expansion at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105178/data-scientist-na-stores-expansion",
+    "job_posted_at": "2025-10-09T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
+    "id": "amazon-data-scientist-na-stores-expansion-seattle"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Package Consultant",
-    "job_city": "Rocket Center",
-    "job_state": "US",
+    "job_title": "Product Marketing Manager, Customer Acquisition, Luna Prime Gaming Marketing",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Product Marketing Manager, Customer Acquisition, Luna Prime Gaming Marketing at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105221/product-marketing-manager-customer-acquisition-luna-prime-gaming-marketing",
+    "job_posted_at": "2025-10-09T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
+    "id": "amazon-product-marketing-manager-customer-acquisition-luna-prime-gaming-marketing-bellevue"
+  },
+  {
+    "job_title": "Software Development Engineer, AWS Center for Quantum Computing, Device Team",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Software Development Engineer, AWS Center for Quantum Computing, Device Team at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105241/software-development-engineer-aws-center-for-quantum-computing-device-team",
+    "job_posted_at": "2025-10-09T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-aws-center-for-quantum-computing-device-team-pasadena"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Software Engineering Manager",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Consultant at ProfessionalRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64595&source=WEB_Search_NA",
-    "id": "ibm-package-consultant-rocket-center"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Software Engineering Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883583/Principal-Software-Engineering-Manager",
+    "id": "microsoft-principal-software-engineering-manager-multiple-locations"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Gaming Content and Studios Finance Lead",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Gaming Content and Studios Finance Lead",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889387/Gaming-Content-and-Studios-Finance-Lead",
+    "id": "microsoft-gaming-content-and-studios-finance-lead-redmond"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "CMP Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Senior CMP Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27797974",
+    "id": "micron-cmp-process-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Dry Etch Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Senior Dry Etch Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27797796",
+    "id": "micron-dry-etch-process-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Wet Etch Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Senior Wet Etch Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27798045",
+    "id": "micron-wet-etch-process-engineer-boise"
   }
 ]
