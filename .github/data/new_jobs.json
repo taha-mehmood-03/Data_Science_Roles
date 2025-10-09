@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Data Scientist - Hardware Development",
+    "job_title": "Component Engineer Accelerate ELH",
     "job_city": "POUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Scientist - Hardware Development at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-hardware-development-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Engineer - IBM Z",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Engineer - IBM Z at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
-    "id": "ibm-product-engineer-ibm-z-poughkeepsie"
+    "job_description": "Data Science job for the role Component Engineer Accelerate ELH at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA",
+    "id": "ibm-component-engineer-accelerate-elh-poughkeepsie"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Analyst",
+    "job_title": "Machine Learning / Artificial Intelligence Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role Data Analyst at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/166447791-data-analyst",
-    "id": "aijobs-data-analyst-us"
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Machine Learning / Artificial Intelligence Engineer at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/166450095-machine-learning-artificial-intelligence-engineer",
+    "id": "aijobs-machine-learning-artificial-intelligence-engineer-us"
   }
 ]
