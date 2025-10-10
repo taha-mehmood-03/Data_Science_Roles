@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Developer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "Sourcing and Category Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Developer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/developer/33099/87112638704",
-    "id": "arm-developer-cambridge"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sourcing and Category Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889378/Sourcing-and-Category-Manager",
+    "id": "microsoft-sourcing-and-category-manager-redmond"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Design Automation Engineer - Front-End Methodologies & Design Flows",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "job_title": "Graduate CPU Performance Analysis and Modelling Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Design Automation Engineer - Front-End Methodologies & Design Flows at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/design-automation-engineer-front-end-methodologies-and-design-flows/33099/87112637216",
-    "id": "arm-design-automation-engineer-front-end-methodologies-design-flows-san-diego"
+    "job_description": "Data Science job for the role Graduate CPU Performance Analysis and Modelling Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-performance-analysis-and-modelling-engineer/33099/87114694192",
+    "id": "arm-graduate-cpu-performance-analysis-and-modelling-engineer-sophia-antipolis"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Engineering Project Manager",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Engineering Project Manager at Chandler, AZ",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Engineering-Project-Manager_2503126?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-engineering-project-manager-chandler"
   }
 ]
