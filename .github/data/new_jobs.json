@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "2026 Applied Science Internship - Distributed Systems and High Performance Computing",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role 2026 Applied Science Internship - Distributed Systems and High Performance Computing at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
-    "job_posted_at": "2025-10-10T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-10T00:00:00.000Z",
-    "id": "amazon-2026-applied-science-internship-distributed-systems-and-high-performance-computing-seattle"
+    "employer_name": "Arm",
+    "job_title": "Developer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Developer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/developer/33099/87112638704",
+    "id": "arm-developer-cambridge"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Marketing Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "Design Automation Engineer - Front-End Methodologies & Design Flows",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Product Marketing Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887623/Senior-Product-Marketing-Manager%2C-Marketing-Analytics",
-    "id": "microsoft-senior-product-marketing-manager-redmond"
+    "job_description": "Data Science job for the role Design Automation Engineer - Front-End Methodologies & Design Flows at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/design-automation-engineer-front-end-methodologies-and-design-flows/33099/87112637216",
+    "id": "arm-design-automation-engineer-front-end-methodologies-design-flows-san-diego"
   }
 ]
