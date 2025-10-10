@@ -1,32 +1,43 @@
 [
   {
+    "job_title": "Operations Engineer II, Total GCF Field",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role Operations Engineer II, Total GCF Field at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
+    "job_posted_at": "2025-10-10T15:18:46.765Z",
+    "job_posted_at_datetime_utc": "2025-10-10T15:18:46.765Z",
+    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
+  },
+  {
     "employer_name": "Arm",
-    "job_title": "Hardware Platform Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Functional Safety / Cybersecurity Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Hardware Platform Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-hardware-platform-architect/33099/87104824816",
-    "id": "arm-hardware-platform-architect-cambridge"
+    "job_description": "Data Science job for the role Functional Safety / Cybersecurity Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/functional-safety-cybersecurity-intern/33099/78303901744",
+    "id": "arm-functional-safety-cybersecurity-intern-sophia-antipolis"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Tapestry)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "39min ago",
-    "job_description": "data science job for the role Data Scientist (Tapestry) at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/166612689-data-scientist-tapestry",
-    "id": "aijobs-data-scientist-tapestry-us"
+    "employer_name": "Arm",
+    "job_title": "Technical Writer Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Writer Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/technical-writer-intern/33099/87106682896",
+    "id": "arm-technical-writer-intern-sophia-antipolis"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer, Predict",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Machine Learning Engineer, Predict at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/166612694-machine-learning-engineer-predict",
-    "id": "aijobs-machine-learning-engineer-predict-us"
+    "employer_name": "Arm",
+    "job_title": "Architecture and Technology Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Architecture and Technology Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/architecture-and-technology-intern/33099/87106681248",
+    "id": "arm-architecture-and-technology-intern-sophia-antipolis"
   }
 ]
