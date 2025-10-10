@@ -1,32 +1,72 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Sourcing and Category Manager",
+    "job_title": "Product Leader",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Product Leader",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891087/Product-Leader",
+    "id": "microsoft-product-leader-mountain-view"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Consumer Finance",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sourcing and Category Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889378/Sourcing-and-Category-Manager",
-    "id": "microsoft-sourcing-and-category-manager-redmond"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Consumer Finance",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894612/Senior-Finance-Manager---Consumer-Finance",
+    "id": "microsoft-consumer-finance-redmond"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Graduate CPU Performance Analysis and Modelling Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "job_title": "FP&A Data Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate CPU Performance Analysis and Modelling Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-performance-analysis-and-modelling-engineer/33099/87114694192",
-    "id": "arm-graduate-cpu-performance-analysis-and-modelling-engineer-sophia-antipolis"
+    "job_description": "Data Science job for the role FP&A Data Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/fp-and-a-data-engineer/33099/86421401568",
+    "id": "arm-fp-a-data-engineer-cambridge"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineering Project Manager",
-    "job_city": "Chandler",
-    "job_state": "AZ",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Engineering Project Manager at Chandler, AZ",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Engineering-Project-Manager_2503126?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineering-project-manager-chandler"
+    "employer_name": "IBM",
+    "job_title": "Veeva Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Veeva Consultant at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64736&source=WEB_Search_NA",
+    "id": "ibm-veeva-consultant-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Delivery Architect - Payment Fraud",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Delivery Architect - Payment Fraud at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64394&source=WEB_Search_NA",
+    "id": "ibm-technical-delivery-architect-payment-fraud-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineering Operations Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Engineering Operations Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61629&source=WEB_Search_NA",
+    "id": "ibm-engineering-operations-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Enterprise Sales Development Representative - Apptio",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise Sales Development Representative - Apptio at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63715&source=WEB_Search_NA",
+    "id": "ibm-enterprise-sales-development-representative-apptio-research-triangle-park"
   }
 ]
