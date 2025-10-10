@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Security Enablement",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Technical Program Manager, Security Enablement at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576080-technical-program-manager-security-enablement",
+    "id": "aijobs-technical-program-manager-security-enablement-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architect, Data Center Modeling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Architect, Data Center Modeling at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576073-senior-architect-data-center-modeling",
+    "id": "aijobs-architect-data-center-modeling-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer, TAO Machine Learning Data Modeling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "19min ago",
+    "job_description": "data science job for the role Senior Systems Software Engineer, TAO Machine Learning Data Modeling at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576067-senior-systems-software-engineer-tao-machine-learning-data-modeling",
+    "id": "aijobs-systems-software-engineer-tao-machine-learning-data-modeling-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Integration Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Staff Integration Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576074-staff-integration-engineer",
+    "id": "aijobs-integration-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Communication Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "19min ago",
+    "job_description": "data science job for the role Senior Deep Learning Communication Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576070-senior-deep-learning-communication-architect",
+    "id": "aijobs-deep-learning-communication-architect-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Aerial - Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "18min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Aerial - Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576079-senior-software-engineer-aerial-performance",
+    "id": "aijobs-software-engineer-aerial-performance-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, CAD Automation - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Engineer, CAD Automation - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166576077-software-engineer-cad-automation-new-college-grad-2025",
+    "id": "aijobs-software-engineer-cad-automation-new-college-grad-santa-clara"
+  }
+]
