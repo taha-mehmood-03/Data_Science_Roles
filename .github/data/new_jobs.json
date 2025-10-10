@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "2026 Applied Science Internship - Distributed Systems and High Performance Computing",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role 2026 Applied Science Internship - Distributed Systems and High Performance Computing at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
+    "job_posted_at": "2025-10-10T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-10T00:00:00.000Z",
+    "id": "amazon-2026-applied-science-internship-distributed-systems-and-high-performance-computing-seattle"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Product Marketing Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Product Marketing Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887623/Senior-Product-Marketing-Manager%2C-Marketing-Analytics",
+    "id": "microsoft-senior-product-marketing-manager-redmond"
+  }
+]
