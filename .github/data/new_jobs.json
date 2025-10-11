@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Biology & Life Sciences",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "9h ago",
+    "job_description": "data science job for the role Software Engineer, Biology & Life Sciences at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/166664836-software-engineer-biology-life-sciences",
+    "id": "aijobs-software-engineer-biology-life-sciences-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Engineer, Ops Data Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "11min ago",
+    "job_description": "data science job for the role Senior Data Engineer, Ops Data Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166665462-senior-data-engineer-ops-data-platform",
+    "id": "aijobs-data-engineer-ops-data-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Learning Engineer",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "11min ago",
+    "job_description": "data science job for the role Senior Deep Learning Engineer at US, WA, Redmond",
+    "job_apply_link": "https://www.aijobs.com/jobs/166665468-senior-deep-learning-engineer",
+    "id": "aijobs-deep-learning-engineer-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Integration Engineer - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Principal Software Integration Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166665465-principal-software-integration-engineer-autonomous-vehicles",
+    "id": "aijobs-software-integration-engineer-autonomous-vehicles-santa-clara"
+  }
+]
