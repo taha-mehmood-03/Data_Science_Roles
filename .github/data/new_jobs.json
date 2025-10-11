@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Global Critical Environment (CE) Senior Application Service Engineer",
+    "job_title": "Principal Applied Science Manager",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Global Critical Environment (CE) Senior Application Service Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894235/Global-Critical-Environment-(CE)-Senior-Application-Service-Engineer",
-    "id": "microsoft-global-critical-environment-ce-senior-application-service-engineer-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Applied Science Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894659/Principal-Applied-Science-Manager",
+    "id": "microsoft-principal-applied-science-manager-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Data Scientist",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892824/Principal-Data-Scientist",
+    "id": "microsoft-principal-data-scientist-mountain-view"
   }
 ]
