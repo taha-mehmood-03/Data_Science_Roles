@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Sr. Researcher, Amazon MGM Studios",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Sr. Researcher, Amazon MGM Studios at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3107068/sr-researcher-amazon-mgm-studios",
+    "job_posted_at": "2025-10-13T14:15:53.672Z",
+    "job_posted_at_datetime_utc": "2025-10-13T14:15:53.672Z",
+    "id": "amazon-sr-researcher-amazon-mgm-studios-culver-city"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - Media IP",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Verification Engineer - Media IP at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/verification-engineer-media-ip/33099/79951019504",
+    "id": "arm-verification-engineer-media-ip-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Software Engineer at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/principal-software-engineer/33099/77051634768",
+    "id": "arm-software-engineer-munich"
+  }
+]
