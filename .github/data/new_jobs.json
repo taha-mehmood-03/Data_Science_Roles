@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Microsoft Customer and Partner Solutions (MCAPS)",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Microsoft Customer and Partner Solutions (MCAPS)",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885744/Senior-Finance-Manager---Microsoft-Customer-and-Partner-Solutions-(MCAPS)",
-    "id": "microsoft-microsoft-customer-and-partner-solutions-mcaps-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate CPU Verification Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate CPU Verification Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-verification-engineer/33099/87216485584",
-    "id": "arm-graduate-cpu-verification-engineer-sophia-antipolis"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "/ Staff Environmental Engineer - Air",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "Data Science job for the role Senior / Staff Environmental Engineer - Air at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38429315",
-    "id": "micron-staff-environmental-engineer-air-boise"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Medical Quality Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Sr. Medical Quality Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sr-Medical-Quality-Engineer_R254976?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-medical-quality-engineer-us"
   }
 ]
