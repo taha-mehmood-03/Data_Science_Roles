@@ -1,52 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Data Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65312&source=WEB_Search_NA",
-    "id": "ibm-data-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant, AI Business Transformation",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Consultant, AI Business Transformation at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65354&source=WEB_Search_NA",
-    "id": "ibm-consultant-ai-business-transformation-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Marketplace Marketing Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Marketplace Marketing Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58874&source=WEB_Search_NA",
-    "id": "ibm-marketplace-marketing-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive, Chicago",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive, Chicago at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65042&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-chicago-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Project Manager-Oracle Payroll Transformation`",
-    "job_city": "Detroit",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Manager-Oracle Payroll Transformation` at ProfessionalDetroit, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64738&source=WEB_Search_NA",
-    "id": "ibm-project-manager-oracle-payroll-transformation-detroit"
+    "job_title": "Data Engineer Gen AI, Customer Engagement Technology",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer Gen AI, Customer Engagement Technology at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3107771/data-engineer-gen-ai-customer-engagement-technology",
+    "job_posted_at": "2025-10-13T19:13:32.526Z",
+    "job_posted_at_datetime_utc": "2025-10-13T19:13:32.526Z",
+    "id": "amazon-data-engineer-gen-ai-customer-engagement-technology-seattle"
   }
 ]
