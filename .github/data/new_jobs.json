@@ -1,33 +1,32 @@
 [
   {
-    "job_title": "Delivery Consultant – SAP GenAI/ML, Professional Services, SAP",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Delivery Consultant – SAP GenAI/ML, Professional Services, SAP at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104872/delivery-consultant-sap-genai-ml-professional-services-sap",
-    "job_posted_at": "2025-10-09T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
-    "id": "amazon-delivery-consultant-sap-genai-ml-professional-services-sap-arlington"
+    "employer_name": "Micron",
+    "job_title": "Process Quality Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Process Quality Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38307721",
+    "id": "micron-process-quality-engineer-boise"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Field Applications Engineer - Rotational Program",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Field Applications Engineer - Rotational Program at 7 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Field-Applications-Engineer_R257217?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-applications-engineer-rotational-program-7-locations"
+    "employer_name": "Micron",
+    "job_title": "Environmental Engineer / Senior Engineer - Stormwater",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Environmental Engineer / Senior Engineer - Stormwater at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38469286",
+    "id": "micron-environmental-engineer-senior-engineer-stormwater-boise"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "RTL Design Intern - Bachelors Degree",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role RTL Design Intern - Bachelors Degree at Westborough, MA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/RTL-Design-Intern---Bachelors-Degree_2502811-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-rtl-design-intern-bachelors-degree-westborough"
+    "employer_name": "Micron",
+    "job_title": "Environmental Engineer / Senior Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Environmental Engineer / Senior Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38469031",
+    "id": "micron-environmental-engineer-senior-engineer-boise"
   }
 ]
