@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Cloud Applications FP&A",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Finance Manager, Revenue. Level: All Levels. Posted: Recently. Full Title: Finance Manager, Revenue - Cloud Applications FP&A",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889806/Finance-Manager%2C-Revenue---Cloud-Applications-FP%26A",
+    "id": "microsoft-cloud-applications-fp-a-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Strategy and Operations Senior Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "28 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategy and Operations Senior Analyst, Go-to-Market",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/120647035618501318-strategy-and-operations-senior-analyst-gotomarket?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-strategy-and-operations-senior-analyst-mountain-view"
+  }
+]
