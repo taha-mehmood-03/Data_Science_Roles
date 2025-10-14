@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Cloud Applications FP&A",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Finance Manager, Revenue. Level: All Levels. Posted: Recently. Full Title: Finance Manager, Revenue - Cloud Applications FP&A",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889806/Finance-Manager%2C-Revenue---Cloud-Applications-FP%26A",
-    "id": "microsoft-cloud-applications-fp-a-redmond"
+    "employer_name": "MARVELL",
+    "job_title": "Verification Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Verification Engineer at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Principal-Verification-Engineer_2503151?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-verification-engineer-2-locations"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Strategy and Operations Senior Analyst",
-    "job_city": "Mountain View",
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer,  Design Verification",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "28 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategy and Operations Senior Analyst, Go-to-Market",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/120647035618501318-strategy-and-operations-senior-analyst-gotomarket?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-strategy-and-operations-senior-analyst-mountain-view"
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Engineer,  Design Verification at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer---Design-Verification_2502971-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-design-verification-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Thermal-Mechanical Engineer Intern - Master'sDegree",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Thermal-Mechanical Engineer Intern - Master'sDegree at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Thermal-Mechanical-Engineer-Intern---Bachelor-s-Degree_2502363-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-thermal-mechanical-engineer-intern-master-sdegree-westlake-village"
   }
 ]
