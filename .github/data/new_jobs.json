@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Verification Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Verification Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Principal-Verification-Engineer_2503151?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-verification-engineer-2-locations"
+    "employer_name": "Arm",
+    "job_title": "Software Engineer- SRE/Devops",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Engineer- SRE/Devops at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-software-engineer-sre-devops/33099/84932474448",
+    "id": "arm-software-engineer-sre-devops-austin"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Engineer,  Design Verification",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Engineer,  Design Verification at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Engineer---Design-Verification_2502971-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-engineer-design-verification-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Thermal-Mechanical Engineer Intern - Master'sDegree",
-    "job_city": "Westlake Village",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Thermal-Mechanical Engineer Intern - Master'sDegree at Westlake Village, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Thermal-Mechanical-Engineer-Intern---Bachelor-s-Degree_2502363-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-thermal-mechanical-engineer-intern-master-sdegree-westlake-village"
+    "employer_name": "Arm",
+    "job_title": "5G/Networking Performance Engineer",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 5G/Networking Performance Engineer at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/5g-networking-performance-engineer/33099/86845170432",
+    "id": "arm-5g-networking-performance-engineer-taipei"
   }
 ]
