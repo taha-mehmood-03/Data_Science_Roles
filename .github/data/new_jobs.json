@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Cloud Data Center Program Manager",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Cloud Data Center Program Manager at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/167149614-cloud-data-center-program-manager",
-    "id": "aijobs-cloud-data-center-program-manager-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Customer Technical Program Manager - AI Datacenter",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Customer Technical Program Manager - AI Datacenter at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/167149605-senior-customer-technical-program-manager-ai-datacenter",
-    "id": "aijobs-customer-technical-program-manager-ai-datacenter-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/167149612-ai-and-ml-infra-software-engineer-gpu-clusters-new-college-grad-2026",
-    "id": "aijobs-ai-and-ml-infra-software-engineer-gpu-clusters-new-college-grad-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer L3, Planning and Controls - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Principal Software Engineer L3, Planning and Controls - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/167149611-principal-software-engineer-l3-planning-and-controls-autonomous-vehicles",
-    "id": "aijobs-software-engineer-l3-planning-and-controls-autonomous-vehicles-santa-clara"
+    "employer_name": "Microsoft",
+    "job_title": "UX Researcher 2",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - UX Researcher 2",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889043/UX-Researcher-2",
+    "id": "microsoft-ux-researcher-2-multiple-locations"
   }
 ]
