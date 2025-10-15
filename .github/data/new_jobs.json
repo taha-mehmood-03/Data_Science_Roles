@@ -1,22 +1,212 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Product Manager",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "job_title": "Senior Privacy Manager",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896830/Principal-Product-Manager",
-    "id": "microsoft-principal-product-manager-mountain-view"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Privacy Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897187/Senior-Privacy-Manager",
+    "id": "microsoft-senior-privacy-manager-multiple-locations"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist - Entry Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Data Scientist - Entry Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65753&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-entry-level-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist (Data Platform SLED) - New York",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Sales Specialist (Data Platform SLED) - New York at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63337&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-data-platform-sled-new-york-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Entry Level (Buffalo, NY)",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Scientist - Entry Level (Buffalo, NY) at Entry LevelBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65752&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-entry-level-buffalo-ny-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer - Entry Level (Buffalo, NY)",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Engineer - Entry Level (Buffalo, NY) at Entry LevelBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65757&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-entry-level-buffalo-ny-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer - Entry Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Engineer - Entry Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65787&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-entry-level-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate SAP Package Specialist - Entry Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate SAP Package Specialist - Entry Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65768&source=WEB_Search_NA",
+    "id": "ibm-associate-sap-package-specialist-entry-level-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Specialist - Entry Level (Lansing, MI)",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Package Specialist - Entry Level (Lansing, MI) at Entry LevelLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65764&source=WEB_Search_NA",
+    "id": "ibm-associate-package-specialist-entry-level-lansing-mi-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "U.S. Health & Welfare Benefits Leader",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role U.S. Health & Welfare Benefits Leader at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65679&source=WEB_Search_NA",
+    "id": "ibm-u-s-health-welfare-benefits-leader-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Business Transformation Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Business Transformation Consultant 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65771&source=WEB_Search_NA",
+    "id": "ibm-associate-business-transformation-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Consultant - Entry Level (Lansing, MI)",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Application Consultant - Entry Level (Lansing, MI) at Entry LevelLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65762&source=WEB_Search_NA",
+    "id": "ibm-associate-application-consultant-entry-level-lansing-mi-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Threat Intelligence Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Threat Intelligence Consultant 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65776&source=WEB_Search_NA",
+    "id": "ibm-associate-threat-intelligence-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Consultant - Entry Level (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Package Consultant - Entry Level (Baton Rouge, LA) at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65767&source=WEB_Search_NA",
+    "id": "ibm-associate-package-consultant-entry-level-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer - Entry Level (Lansing, MI)",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Application Developer - Entry Level (Lansing, MI) at Entry LevelLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65763&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-entry-level-lansing-mi-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer - Entry Level (Monroe, LA)",
+    "job_city": "MONROE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Application Developer - Entry Level (Monroe, LA) at Entry LevelMONROE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65765&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-entry-level-monroe-la-monroe"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant - Entry Level (Buffalo, NY)",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Security Consultant - Entry Level (Buffalo, NY) at Entry LevelBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65761&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-entry-level-buffalo-ny-buffalo"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Materials Lab Associate, Prototyping",
+    "job_title": "ML/AI Engineer",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role ML/AI Engineer at Princeton, NJ, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256919-ml-ai-engineer",
+    "id": "aijobs-ml-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sr Data Scientist / AI engineer",
+    "job_city": "US",
+    "job_state": "IL",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Sr Data Scientist / AI engineer at Chicago, IL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256910-sr-data-scientist-ai-engineer",
+    "id": "aijobs-sr-data-scientist-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence / Machine Learning Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Materials Lab Associate, Prototyping at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/167248736-materials-lab-associate-prototyping",
-    "id": "aijobs-materials-lab-associate-prototyping-us"
+    "job_posted_at": "6d ago",
+    "job_description": "data science job for the role Senior Artificial Intelligence / Machine Learning Engineer at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256917-senior-artificial-intelligence-machine-learning-engineer",
+    "id": "aijobs-artificial-intelligence-machine-learning-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sr. Machine Learning/AI Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Sr. Machine Learning/AI Engineer at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256912-sr-machine-learning-ai-engineer",
+    "id": "aijobs-sr-machine-learning-ai-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Design Innovation",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role AI Engineer, Design Innovation at Manhattan Beach, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167256928-ai-engineer-design-innovation",
+    "id": "aijobs-ai-engineer-design-innovation-us"
   }
 ]
