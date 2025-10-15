@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Quantitative User Researcher",
+    "job_title": "Principal Data Engineering Manager",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Quantitative User Researcher",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893976/Principal-Quantitative-User-Researcher",
-    "id": "microsoft-principal-quantitative-user-researcher-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Engineering Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893706/Principal-Data-Engineering-Manager",
+    "id": "microsoft-principal-data-engineering-manager-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Security Engineer - Fuzzing Specialist",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior/Staff Security Engineer - Fuzzing Specialist at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-security-engineer-fuzzing-specialist/33099/83220625200",
+    "id": "arm-senior-staff-security-engineer-fuzzing-specialist-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Sr Formal Verification Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Formal Verification Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/sr-formal-verification-engineer/33099/87298653504",
+    "id": "arm-sr-formal-verification-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Test Development Engineer (Platforms)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Test Development Engineer (Platforms) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-test-development-engineer-platforms/33099/87251868048",
+    "id": "arm-test-development-engineer-platforms-bengaluru"
   }
 ]
