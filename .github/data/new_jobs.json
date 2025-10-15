@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Product Security Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Product Security Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-product-security-engineer/33099/83233506688",
-    "id": "arm-product-security-engineer-cambridge"
+    "job_title": "Data Engineer, PXT Central Science",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Engineer, PXT Central Science at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3109133/data-engineer-pxt-central-science",
+    "job_posted_at": "2025-10-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-15T00:00:00.000Z",
+    "id": "amazon-data-engineer-pxt-central-science-arlington"
   }
 ]
