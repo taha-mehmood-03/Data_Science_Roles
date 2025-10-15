@@ -1,52 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Physical Implementation Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "AI/Copilot",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Physical Implementation Applications Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-physical-implementation-applications-engineer/33099/87300720688",
-    "id": "arm-graduate-physical-implementation-applications-engineer-austin"
+    "job_description": "Category: Principal Technical Program Manager. Level: All Levels. Posted: Recently. Full Title: Principal Technical Program Manager - AI/Copilot",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885730/Principal-Technical-Program-Manager---AI%2FCopilot",
+    "id": "microsoft-ai-copilot-redmond"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "PVD/CVD Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Senior PVD/CVD Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27797973",
-    "id": "micron-pvd-cvd-process-engineer-boise"
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Finance Compliance Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr. Finance Compliance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890688/Sr.-Finance-Compliance-Manager",
+    "id": "microsoft-sr-finance-compliance-manager-redmond"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Photolithography Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Senior Photolithography Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27795612",
-    "id": "micron-photolithography-process-engineer-boise"
+    "employer_name": "IBM",
+    "job_title": "AI-Centric Solution Architecting for Global IT - Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI-Centric Solution Architecting for Global IT - Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65071&source=WEB_Search_NA",
+    "id": "ibm-ai-centric-solution-architecting-for-global-it-entry-level-sales-program-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Diffusion Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Senior Diffusion Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27798042",
-    "id": "micron-diffusion-process-engineer-boise"
+    "employer_name": "IBM",
+    "job_title": "Head of SLED (State, Local & Education)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Head of SLED (State, Local & Education) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66016&source=WEB_Search_NA",
+    "id": "ibm-head-of-sled-state-local-education-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Diffusion Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Senior Diffusion Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/27399938",
-    "id": "micron-diffusion-equipment-engineer-boise"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer - SerDes Digital Design",
+    "job_city": "US - NY - Hudson Valley",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Engineer - SerDes Digital Design at US - NY - Hudson Valley",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---NY---Hudson-Valley/Senior-Staff-Engineer---SerDes-Digital-Design_2502611?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-serdes-digital-design-us-ny-hudson-valley"
   }
 ]
