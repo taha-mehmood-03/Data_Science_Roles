@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Digital Direct Sales",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "Principal Applied Scientist",
+    "job_city": "New York",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: Sr. Finance Manager. Level: All Levels. Posted: Recently. Full Title: Sr. Finance Manager - Digital Direct Sales",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884694/Sr.-Finance-Manager---Digital-Direct-Sales",
-    "id": "microsoft-digital-direct-sales-redmond"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Analog Mixed-Signal IC Design Engineer",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Analog Mixed-Signal IC Design Engineer at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Analog-Mixed-Signal-IC-Design-Engineer_2502838-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-analog-mixed-signal-ic-design-engineer-irvine"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897841/Principal-Applied-Scientist",
+    "id": "microsoft-principal-applied-scientist-new-york"
   }
 ]
