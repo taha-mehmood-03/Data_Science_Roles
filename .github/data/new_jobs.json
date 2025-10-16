@@ -1,82 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Applied Engineer II",
+    "job_title": "eCommerce Data Analyst",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied Engineer II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892830/Applied-Engineer-II",
-    "id": "microsoft-applied-engineer-ii-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - eCommerce Data Analyst",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893395/eCommerce-Data-Analyst",
+    "id": "microsoft-ecommerce-data-analyst-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "ML/Data Software Engineer (Fixed-Term 12 months)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Content Designer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role ML/Data Software Engineer (Fixed-Term 12 months) at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/ml-data-software-engineer-fixed-term-12-months/33099/87328936112",
-    "id": "arm-ml-data-software-engineer-fixed-term-12-months-cambridge"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Content Designer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879544/Senior-Content-Designer",
+    "id": "microsoft-senior-content-designer-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level AI Performance Analyst",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level AI Performance Analyst at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66089&source=WEB_Search_NA",
-    "id": "ibm-entry-level-ai-performance-analyst-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr.Solutions Engineer",
-    "job_city": "WASHINGTON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr.Solutions Engineer at ProfessionalWASHINGTON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66046&source=WEB_Search_NA",
-    "id": "ibm-sr-solutions-engineer-washington"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist – Fraud & Risk",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "16h ago",
-    "job_description": "data science job for the role Data Scientist – Fraud & Risk at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/167464089-data-scientist-fraud-risk",
-    "id": "aijobs-data-scientist-fraud-risk-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - AI Agent",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Data Scientist - AI Agent at San Bruno, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/167464086-data-scientist-ai-agent",
-    "id": "aijobs-data-scientist-ai-agent-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist II, People Analytics",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Data Scientist II, People Analytics at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/167464083-data-scientist-ii-people-analytics",
-    "id": "aijobs-data-scientist-ii-people-analytics-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Entry Level - Data Scientist",
-    "job_city": "US",
-    "job_state": "NJ",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Entry Level - Data Scientist at Jersey City, NJ, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/167464084-entry-level-data-scientist",
-    "id": "aijobs-entry-level-data-scientist-us"
+    "employer_name": "Micron",
+    "job_title": "Sr Engineer, Thin Films Development, Wafer Level Bonding",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Sr Engineer, Thin Films Development, Wafer Level Bonding at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38526582",
+    "id": "micron-sr-engineer-thin-films-development-wafer-level-bonding-boise"
   }
 ]
