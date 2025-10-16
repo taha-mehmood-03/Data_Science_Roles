@@ -1,12 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Applied Scientist",
-    "job_city": "New York",
+    "job_title": "Machine Learning",
+    "job_city": "Multiple Locations",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897841/Principal-Applied-Scientist",
-    "id": "microsoft-principal-applied-scientist-new-york"
+    "job_description": "Category: Senior Data Scientist. Level: All Levels. Posted: Recently. Full Title: Senior Data Scientist - Machine Learning",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896438/Senior-Data-Scientist---Machine-Learning",
+    "id": "microsoft-machine-learning-multiple-locations"
   }
 ]
