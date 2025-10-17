@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Applied Scientist, AWS Agentic AI Science",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Agentic AI Science at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3033189/applied-scientist-aws-agentic-ai-science",
-    "job_posted_at": "2025-10-16T23:06:07.906Z",
-    "job_posted_at_datetime_utc": "2025-10-16T23:06:07.906Z",
-    "id": "amazon-applied-scientist-aws-agentic-ai-science-santa-clara"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Gaming 3P Ecosystem",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Gaming 3P Ecosystem",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891452/Finance-Manager---Gaming-3P-Ecosystem",
-    "id": "microsoft-gaming-3p-ecosystem-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Revenue Cloud Applications",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Revenue Cloud Applications",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893385/Finance-Manager---Revenue-Cloud-Applications",
-    "id": "microsoft-revenue-cloud-applications-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Lab Technician",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lab Technician at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/lab-technician/33099/87348085200",
-    "id": "arm-lab-technician-chandler"
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role AI/ML Engineer at New York",
+    "job_apply_link": "https://www.aijobs.com/jobs/166410377-ai-ml-engineer",
+    "id": "aijobs-ai-ml-engineer-new-york"
   }
 ]
