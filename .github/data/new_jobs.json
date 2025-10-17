@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "SOC Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role SOC Design Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/SOC-Design-Engineer_2502188?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-soc-design-engineer-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineering Intern",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Site Reliability Engineering Intern 2026 at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66497&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineering-intern-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Algorithm Research",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: Quantum Algorithm Research at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66980&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-algorithm-research-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Site Reliability Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: IBM Quantum Writing Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern: IBM Quantum Writing Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66588&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-quantum-writing-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Architecture & Engineering Leader",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Architecture & Engineering Leader at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66575&source=WEB_Search_NA",
+    "id": "ibm-architecture-engineering-leader-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Elk Grove Village (Chicago, IL Service Territory)",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative - Elk Grove Village (Chicago, IL Service Territory) at Entry LevelChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-elk-grove-village-chicago-il-service-territory-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Corporate Strategy Summer Consultant – 2026 Internship",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Corporate Strategy Summer Consultant – 2026 Internship at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57337&source=WEB_Search_NA",
+    "id": "ibm-corporate-strategy-summer-consultant-2026-internship-new-york"
   }
 ]
