@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Solutions Manager",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Microsoft",
+    "job_title": "Teams Data Science",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "64 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Solutions Manager, Data, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138404934386098886-solutions-manager-data-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-solutions-manager-austin"
+    "job_description": "Category: Senior Data Scientist. Level: All Levels. Posted: Recently. Full Title: Senior Data Scientist - Teams Data Science",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893569/Senior-Data-Scientist---Teams-Data-Science",
+    "id": "microsoft-teams-data-science-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Finance Manager – Cloud Controllership & Enablement",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Finance Manager – Cloud Controllership & Enablement",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894480/Senior-Finance-Manager-%E2%80%93-Cloud-Controllership-%26-Enablement",
+    "id": "microsoft-senior-finance-manager-cloud-controllership-enablement-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Cloud Go-to-Market",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Cloud Go-to-Market at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-cloud-go-to-market/33099/85824524816",
+    "id": "arm-manager-cloud-go-to-market-san-jose"
   }
 ]
