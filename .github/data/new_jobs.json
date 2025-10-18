@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Engineer, Economic Research",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Data Engineer, Economic Research at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/167667025-data-engineer-economic-research",
-    "id": "aijobs-data-engineer-economic-research-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data Science & Machine Learning Leader - Global Forecasting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "6h ago",
-    "job_description": "data science job for the role Applied Data Science & Machine Learning Leader - Global Forecasting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/167668560-applied-data-science-machine-learning-leader-global-forecasting",
-    "id": "aijobs-applied-data-science-machine-learning-leader-global-forecasting-united-states"
+    "employer_name": "Arm",
+    "job_title": "Customer Support Engineer – Hardware Platform",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Support Engineer – Hardware Platform at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/customer-support-engineer-hardware-platform/33099/84729469312",
+    "id": "arm-customer-support-engineer-hardware-platform-taipei"
   }
 ]
