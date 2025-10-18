@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Managing Consultant at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67004&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-dallas"
+  }
+]
