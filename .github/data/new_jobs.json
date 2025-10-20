@@ -1,62 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Marketing Data Analytics",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Marketing Data Analytics",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893404/Marketing-Data-Analytics%2C-Director",
-    "id": "microsoft-marketing-data-analytics-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Market Research IC3",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Market Research IC3",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893384/Market-Research-IC3",
-    "id": "microsoft-market-research-ic3-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Applied Scientist",
-    "job_city": "Multiple Locations",
+    "job_title": "Principal Technical Program Manager",
+    "job_city": "New York",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896509/Applied-Scientist",
-    "id": "microsoft-applied-scientist-multiple-locations"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director Technical Program Management",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director Technical Program Management at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/director-technical-program-management/33099/87483893680",
-    "id": "arm-director-technical-program-management-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineering Program Coordinator",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineering Program Coordinator at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-engineering-program-coordinator/33099/87483982032",
-    "id": "arm-engineering-program-coordinator-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- C++, SoC",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer- C++, SoC at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/senior-software-engineer-c-soc/33099/85958007248",
-    "id": "arm-software-engineer-c-soc-waltham"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Technical Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899194/Principal-Technical-Program-Manager",
+    "id": "microsoft-principal-technical-program-manager-new-york"
   }
 ]
