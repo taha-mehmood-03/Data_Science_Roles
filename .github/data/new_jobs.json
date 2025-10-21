@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Technical Program Manager",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Technical Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897313/Principal-Technical-Program-Manager",
+    "id": "microsoft-principal-technical-program-manager-mountain-view"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Product Manager (M365 Copilot)",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager (M365 Copilot)",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897840/Principal-Product-Manager-(M365-Copilot)",
+    "id": "microsoft-principal-product-manager-m365-copilot-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Sr. Creative Intelligence Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr. Creative Intelligence Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896405/Sr.-Creative-Intelligence-Manager",
+    "id": "microsoft-sr-creative-intelligence-manager-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Creative Intelligence Manager – Trend Spotter",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Creative Intelligence Manager – Trend Spotter",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896397/Creative-Intelligence-Manager-%E2%80%93-Trend-Spotter",
+    "id": "microsoft-creative-intelligence-manager-trend-spotter-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Software Engineer at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/graduate-software-engineer/33099/87523225824",
+    "id": "arm-graduate-software-engineer-munich"
+  }
+]
