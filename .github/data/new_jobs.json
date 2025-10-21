@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Creative Director",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Creative Director",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897736/Creative-Director",
-    "id": "microsoft-creative-director-redmond"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "DCC Data Engineer",
-    "job_city": "Multiple Cities",
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer (Generative AI, LLMs, AIOps)",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role DCC Data Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65804&source=WEB_Search_NA",
-    "id": "ibm-dcc-data-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Business Transformation Consultant – Adobe Experience – Co-op",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Business Transformation Consultant – Adobe Experience – Co-op 2026 at InternshipNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67551&source=WEB_Search_NA",
-    "id": "ibm-associate-business-transformation-consultant-adobe-experience-co-op-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Application Developer – Adobe Experience – Co-op",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Application Developer – Adobe Experience – Co-op 2026 at InternshipNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67554&source=WEB_Search_NA",
-    "id": "ibm-associate-application-developer-adobe-experience-co-op-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "DCC Test Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role DCC Test Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65805&source=WEB_Search_NA",
-    "id": "ibm-dcc-test-engineer-multiple-cities"
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI Engineer (Generative AI, LLMs, AIOps) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/168050771-ai-engineer-generative-ai-llms-aiops",
+    "id": "aijobs-ai-engineer-generative-ai-llms-aiops-unknown"
   }
 ]
