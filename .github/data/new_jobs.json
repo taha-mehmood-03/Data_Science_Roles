@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "job_title": "Delivery Consultant, WWPS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant, WWPS Professional Services at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112741/delivery-consultant-wwps-professional-services",
+    "job_posted_at": "2025-10-21T16:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-21T16:14:23.942Z",
+    "id": "amazon-delivery-consultant-wwps-professional-services-arlington"
+  },
+  {
+    "job_title": "Research Scientist, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Research Scientist, Intelligent Talent Acquisition at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112715/research-scientist-intelligent-talent-acquisition",
+    "job_posted_at": "2025-10-21T15:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-21T15:14:23.942Z",
+    "id": "amazon-research-scientist-intelligent-talent-acquisition-arlington"
+  },
+  {
+    "job_title": "Paid Media Marketing Manager (Content), Amazon Music",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Paid Media Marketing Manager (Content), Amazon Music at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112449/paid-media-marketing-manager-content-amazon-music",
+    "job_posted_at": "2025-10-21T06:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-21T06:14:23.942Z",
+    "id": "amazon-paid-media-marketing-manager-content-amazon-music-culver-city"
+  },
+  {
+    "job_title": "Data Scientist, Amazon Music - DISCO",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist, Amazon Music - DISCO at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3093743/data-scientist-amazon-music-disco",
+    "job_posted_at": "2025-10-20T22:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:14:23.942Z",
+    "id": "amazon-data-scientist-amazon-music-disco-new-york"
+  },
+  {
+    "job_title": "Data Engineer, Applied AI Solutions",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, Applied AI Solutions at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112231/data-engineer-applied-ai-solutions",
+    "job_posted_at": "2025-10-20T22:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:14:23.942Z",
+    "id": "amazon-data-engineer-applied-ai-solutions-seattle"
+  },
+  {
+    "job_title": "Delivery Consultant - Machine Learning Engineer, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant - Machine Learning Engineer, AWS Professional Services at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2983399/delivery-consultant-machine-learning-engineer-aws-professional-services",
+    "job_posted_at": "2025-10-20T22:14:23.942Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:14:23.942Z",
+    "id": "amazon-delivery-consultant-machine-learning-engineer-aws-professional-services-arlington"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Cloud Solution Architect – Cloud & AI Data – CTJ – Secret",
+    "job_city": "Reston",
+    "job_state": "Virginia",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Cloud Solution Architect – Cloud & AI Data – CTJ – Secret",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899080/Senior-Cloud-Solution-Architect-%E2%80%93-Cloud-%26-AI-Data-%E2%80%93-CTJ-%E2%80%93-Secret",
+    "id": "microsoft-senior-cloud-solution-architect-cloud-ai-data-ctj-secret-reston"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Customer Growth Product Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Customer Growth Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899196/Customer-Growth-Product-Manager%2C-Minecraft-Education",
+    "id": "microsoft-customer-growth-product-manager-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Fault-tolerant Quantum Algorithm Resource Estimation Research Scientist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62970&source=WEB_Search_NA",
+    "id": "ibm-fault-tolerant-quantum-algorithm-resource-estimation-research-scientist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion: HR Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern Conversion: HR Professional at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66580&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-hr-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Information Architect",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Information Architect at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61016&source=WEB_Search_NA",
+    "id": "ibm-information-architect-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Technical Consultant - Storage Scale and LSF",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Technical Consultant - Storage Scale and LSF at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66557&source=WEB_Search_NA",
+    "id": "ibm-delivery-technical-consultant-storage-scale-and-lsf-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence/Machine Learning Research Engineer",
+    "job_city": "United States",
+    "job_state": "Pennsylvania",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Artificial Intelligence/Machine Learning Research Engineer at Springfield, Pennsylvania, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/167614192-artificial-intelligence-machine-learning-research-engineer",
+    "id": "aijobs-artificial-intelligence-machine-learning-research-engineer-united-states"
+  }
+]
