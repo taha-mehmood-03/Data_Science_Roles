@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer (Real-Time Computer Vision)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Software Engineer (Real-Time Computer Vision) at Santa Clara, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078133-software-engineer-real-time-computer-vision",
+    "id": "aijobs-software-engineer-real-time-computer-vision-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Analyst - Credit Research",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Business Analyst - Credit Research at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078118-business-analyst-credit-research",
+    "id": "aijobs-business-analyst-credit-research-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Program Manager, Content Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Senior Research Program Manager, Content Research at Los Angeles, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078122-senior-research-program-manager-content-research",
+    "id": "aijobs-research-program-manager-content-research-us"
+  }
+]
