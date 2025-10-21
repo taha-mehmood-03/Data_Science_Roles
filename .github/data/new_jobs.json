@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager: Environmental, Health and Safety",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager: Environmental, Health and Safety at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66086&source=WEB_Search_NA",
+    "id": "ibm-product-manager-environmental-health-and-safety-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Advanced Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Advanced Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66420&source=WEB_Search_NA",
+    "id": "ibm-advanced-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant SAP WAM / EAM Plant Maintenance",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant SAP WAM / EAM Plant Maintenance at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66139&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-wam-eam-plant-maintenance-multiple-cities"
+  }
+]
