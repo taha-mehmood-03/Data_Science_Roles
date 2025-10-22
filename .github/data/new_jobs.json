@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Sr Finance Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "TRIRIGA System Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr Finance Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894676/Sr-Finance-Manager%2C-CFT-Commercial-Revenue",
-    "id": "microsoft-sr-finance-manager-redmond"
+    "job_description": "Data Science job for the role TRIRIGA System Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67958&source=WEB_Search_NA",
+    "id": "ibm-tririga-system-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist: Federal Automation Platform",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Sales Specialist: Federal Automation Platform at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65691&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-federal-automation-platform-austin"
   }
 ]
