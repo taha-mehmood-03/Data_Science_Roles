@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Product Manager-MAI",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager-MAI",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885173/Principal-Product-Manager-MAI",
+    "id": "microsoft-principal-product-manager-mai-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Applied Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Applied Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899948/Principal-Applied-Engineer",
+    "id": "microsoft-principal-applied-engineer-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant, Data Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Consultant, Data Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68368&source=WEB_Search_NA",
+    "id": "ibm-consultant-data-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Scientist Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67986&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "US Demand Strategist – Data and AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role US Demand Strategist – Data and AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67041&source=WEB_Search_NA",
+    "id": "ibm-us-demand-strategist-data-and-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Fault-tolerant quantum algorithms",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern 2026: Fault-tolerant quantum algorithms at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68009&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-fault-tolerant-quantum-algorithms-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Safety & Industrial Hygiene Professional",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Safety & Industrial Hygiene Professional at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66555&source=WEB_Search_NA",
+    "id": "ibm-safety-industrial-hygiene-professional-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Support Engineer (Hashicorp - Vault)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Support Engineer (Hashicorp - Vault) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68034&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-vault-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cyber Defend Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cyber Defend Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67978&source=WEB_Search_NA",
+    "id": "ibm-cyber-defend-consultant-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative San Jose CA",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative San Jose CA at Entry LevelSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66968&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-san-jose-ca-san-jose"
+  }
+]
