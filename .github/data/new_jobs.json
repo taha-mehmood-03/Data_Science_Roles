@@ -1,24 +1,12 @@
 [
   {
-    "job_title": "Applied Scientist, Ads Measurement Science",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist, Ads Measurement Science at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113076/applied-scientist-ads-measurement-science",
-    "job_posted_at": "2025-10-21T22:14:36.136Z",
-    "job_posted_at_datetime_utc": "2025-10-21T22:14:36.136Z",
-    "id": "amazon-applied-scientist-ads-measurement-science-new-york"
-  },
-  {
-    "job_title": "Research Scientist, Global Hiring Science (GHS)",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Research Scientist, Global Hiring Science (GHS) at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112706/research-scientist-global-hiring-science-ghs",
-    "job_posted_at": "2025-10-21T15:14:36.136Z",
-    "job_posted_at_datetime_utc": "2025-10-21T15:14:36.136Z",
-    "id": "amazon-research-scientist-global-hiring-science-ghs-arlington"
+    "employer_name": "Microsoft",
+    "job_title": "Sr Finance Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sr Finance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894676/Sr-Finance-Manager%2C-CFT-Commercial-Revenue",
+    "id": "microsoft-sr-finance-manager-redmond"
   }
 ]
