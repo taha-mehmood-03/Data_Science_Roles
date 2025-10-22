@@ -1,13 +1,42 @@
 [
   {
-    "job_title": "Data Scientist II, Workforce Intelligence",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Data Scientist II, Workforce Intelligence at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113472/data-scientist-ii-workforce-intelligence",
-    "job_posted_at": "2025-10-22T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-22T00:00:00.000Z",
-    "id": "amazon-data-scientist-ii-workforce-intelligence-arlington"
+    "employer_name": "Microsoft",
+    "job_title": "Cloud Infrastructure Strategy",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Cloud Infrastructure Strategy",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896306/Finance-Manager---Cloud-Infrastructure-Strategy%2C-Planning-%26-Delivery",
+    "id": "microsoft-cloud-infrastructure-strategy-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Program Manager at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/technical-program-manager/33099/87550314576",
+    "id": "arm-technical-program-manager-bengaluru"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Consultant, Data Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Consultant, Data Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68376&source=WEB_Search_NA",
+    "id": "ibm-sr-consultant-data-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "Santa Monica",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Solutions Engineer at ProfessionalSanta Monica, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67524&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-santa-monica"
   }
 ]
