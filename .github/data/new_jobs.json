@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Group Product Manager – Growth and Data Platform",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Group Product Manager – Growth and Data Platform",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899758/Group-Product-Manager-%E2%80%93-Growth-and-Data-Platform",
+    "id": "microsoft-group-product-manager-growth-and-data-platform-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Sourcing Specialist",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sourcing Specialist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897219/Sourcing-Specialist",
+    "id": "microsoft-sourcing-specialist-redmond"
+  }
+]
