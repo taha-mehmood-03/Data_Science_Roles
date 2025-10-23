@@ -1,53 +1,34 @@
 [
   {
-    "job_title": "Industrial Design Engineer, GEMS NA Ops Engineering",
+    "job_title": "Applied Scientist, GenAI, CreativeX",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Industrial Design Engineer, GEMS NA Ops Engineering at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114259/industrial-design-engineer-gems-na-ops-engineering",
-    "job_posted_at": "2025-10-23T14:16:47.214Z",
-    "job_posted_at_datetime_utc": "2025-10-23T14:16:47.214Z",
-    "id": "amazon-industrial-design-engineer-gems-na-ops-engineering-arlington"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, GenAI, CreativeX at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114311/applied-scientist-genai-creativex",
+    "job_posted_at": "2025-10-23T15:19:21.785Z",
+    "job_posted_at_datetime_utc": "2025-10-23T15:19:21.785Z",
+    "id": "amazon-applied-scientist-genai-creativex-seattle"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Member of Technical Staff",
+    "job_title": "Applied Scientist, Kuiper Ground Software & Analytics",
+    "employer_name": "Amazon",
     "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Member of Technical Staff",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890386/Member-of-Technical-Staff",
-    "id": "microsoft-member-of-technical-staff-redmond"
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Kuiper Ground Software & Analytics at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114304/applied-scientist-kuiper-ground-software-analytics",
+    "job_posted_at": "2025-10-23T15:19:21.785Z",
+    "job_posted_at_datetime_utc": "2025-10-23T15:19:21.785Z",
+    "id": "amazon-applied-scientist-kuiper-ground-software-analytics-redmond"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Cloud Application Finance",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Cloud Application Finance",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1895048/Senior-Finance-Manager---Cloud-Application-Finance---M365-%26-Copilot",
-    "id": "microsoft-cloud-application-finance-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "System Performance Analysis Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Performance Analysis Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/system-performance-analysis-engineer/33099/87589230896",
-    "id": "arm-system-performance-analysis-engineer-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance Engineer - EDA workloads",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Performance Engineer - EDA workloads at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/performance-engineer-eda-workloads/33099/86006621520",
-    "id": "arm-performance-engineer-eda-workloads-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Data Scientist, Research at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168517873-data-scientist-research",
+    "id": "aijobs-data-scientist-research-us"
   }
 ]
