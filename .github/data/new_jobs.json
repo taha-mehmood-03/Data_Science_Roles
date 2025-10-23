@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Revenue Forecast & Planning Analytics",
+    "job_title": "Copilot Insights",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Revenue Forecast & Planning Analytics",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899027/Finance-Manager---Revenue-Forecast-%26-Planning-Analytics",
-    "id": "microsoft-revenue-forecast-planning-analytics-redmond"
+    "job_description": "Category: Data Engineer II. Level: All Levels. Posted: Recently. Full Title: Data Engineer II - Copilot Insights",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898030/Data-Engineer-II---Copilot-Insights",
+    "id": "microsoft-copilot-insights-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Commercial Business Insights",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Commercial Business Insights",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898917/Senior-Finance-Manager---Commercial-Business-Insights---Central-Finance-Team",
+    "id": "microsoft-commercial-business-insights-redmond"
   }
 ]
