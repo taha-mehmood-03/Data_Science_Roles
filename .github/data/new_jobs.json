@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Master Data Specialist",
+    "job_city": "Bartlesville",
+    "job_state": "Oklahoma",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Master Data Specialist at Bartlesville, Oklahoma, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013519/Master-Data-Specialist",
+    "id": "abb-master-data-specialist-bartlesville"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Analyst - Credit Research",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Business Analyst - Credit Research at New Jersey, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078118-business-analyst-credit-research",
+    "id": "aijobs-business-analyst-credit-research-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist I, SAMBA",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist I, SAMBA at New Jersey, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168347311-data-scientist-i-samba",
+    "id": "aijobs-data-scientist-i-samba-us"
+  }
+]
