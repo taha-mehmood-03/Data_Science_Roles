@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Group Product Manager – Growth and Data Platform",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Group Product Manager – Growth and Data Platform",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899758/Group-Product-Manager-%E2%80%93-Growth-and-Data-Platform",
-    "id": "microsoft-group-product-manager-growth-and-data-platform-redmond"
+    "job_title": "Applied Scientist, Model Customization, Generative AI Innovation Center, Model Customization",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Applied Scientist, Model Customization, Generative AI Innovation Center, Model Customization at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114503/applied-scientist-model-customization-generative-ai-innovation-center-model-customization",
+    "job_posted_at": "2025-10-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+    "id": "amazon-applied-scientist-model-customization-generative-ai-innovation-center-model-customization-arlington"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Sourcing Specialist",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "DFT Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Sourcing Specialist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897219/Sourcing-Specialist",
-    "id": "microsoft-sourcing-specialist-redmond"
+    "job_description": "Data Science job for the role Principal DFT Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-dft-architect/33099/85573344704",
+    "id": "arm-dft-architect-austin"
   }
 ]
