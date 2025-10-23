@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Applied Scientist",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "employer_name": "IBM",
+    "job_title": "Intern – Associate Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899255/Senior-Applied-Scientist",
-    "id": "microsoft-senior-applied-scientist-multiple-locations"
+    "job_description": "Data Science job for the role Intern – Associate Consultant at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66608&source=WEB_Search_NA",
+    "id": "ibm-intern-associate-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Delivery Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Delivery Consultant at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66563&source=WEB_Search_NA",
+    "id": "ibm-associate-delivery-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP SuccessFactors - Employee Central Lead",
+    "job_city": "Lansing",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP SuccessFactors - Employee Central Lead at ProfessionalLansing, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67974&source=WEB_Search_NA",
+    "id": "ibm-sap-successfactors-employee-central-lead-lansing"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist -Technology Expert Labs",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist -Technology Expert Labs at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66129&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-technology-expert-labs-multiple-cities"
   }
 ]
