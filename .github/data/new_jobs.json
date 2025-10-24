@@ -1,32 +1,83 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Applied Science Intern",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied Science Intern",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870447/Applied-Science-Intern",
-    "id": "microsoft-applied-science-intern-redmond"
+    "job_title": "Support Engineer IV, SPTO Tools",
+    "employer_name": "Amazon",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_description": "Data Science job for the role Support Engineer IV, SPTO Tools at Tempe, AZ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115273/support-engineer-iv-spto-tools",
+    "job_posted_at": "2025-10-24T20:13:48.046Z",
+    "job_posted_at_datetime_utc": "2025-10-24T20:13:48.046Z",
+    "id": "amazon-support-engineer-iv-spto-tools-tempe"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Dynamics 365 Finance",
-    "job_city": "Fargo",
-    "job_state": "North Dakota",
+    "employer_name": "IBM",
+    "job_title": "DCC Data Engineer, Senior",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Product Manager. Level: All Levels. Posted: Recently. Full Title: Senior Product Manager - Dynamics 365 Finance",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898438/Senior-Product-Manager---Dynamics-365-Finance",
-    "id": "microsoft-dynamics-365-finance-fargo"
+    "job_description": "Data Science job for the role DCC Data Engineer, Senior at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68861&source=WEB_Search_NA",
+    "id": "ibm-dcc-data-engineer-senior-multiple-cities"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Advertising Technology (AdTech) Signal Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Program Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Advertising Technology (AdTech) Signal Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900632/Advertising-Technology-(AdTech)-Signal-Engineer",
-    "id": "microsoft-advertising-technology-adtech-signal-engineer-redmond"
+    "job_description": "Data Science job for the role Program Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68043&source=WEB_Search_NA",
+    "id": "ibm-program-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Contract Administrator",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Contract Administrator at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68523&source=WEB_Search_NA",
+    "id": "ibm-contract-administrator-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Integration Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Integration Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68404&source=WEB_Search_NA",
+    "id": "ibm-integration-lead-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supplier Relationship Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Supplier Relationship Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68803&source=WEB_Search_NA",
+    "id": "ibm-supplier-relationship-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant IBMi",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Consultant IBMi at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68892&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-ibmi-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Contracts Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Contracts Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68897&source=WEB_Search_NA",
+    "id": "ibm-contracts-manager-multiple-cities"
   }
 ]
