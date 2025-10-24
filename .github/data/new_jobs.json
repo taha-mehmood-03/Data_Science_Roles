@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Audience Platform",
+    "job_title": "Principal Researcher",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Principal Product Manager. Level: All Levels. Posted: Recently. Full Title: Principal Product Manager - Audience Platform",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899698/Principal-Product-Manager---Audience-Platform",
-    "id": "microsoft-audience-platform-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Researcher",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901964/Principal-Researcher",
+    "id": "microsoft-principal-researcher-redmond"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "ATE Process Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role ATE Process Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38571652",
-    "id": "micron-ate-process-engineer-id1-boise"
+    "employer_name": "Microsoft",
+    "job_title": "Consumer AI Margin",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Consumer AI Margin",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901435/Senior-Finance-Manager---Consumer-AI-Margin---FP%26A",
+    "id": "microsoft-consumer-ai-margin-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Sustainability",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Scientist - Sustainability at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/168634147-data-scientist-sustainability",
+    "id": "aijobs-data-scientist-sustainability-unknown"
   }
 ]
