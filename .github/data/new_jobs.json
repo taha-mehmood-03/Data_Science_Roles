@@ -1,52 +1,32 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Data Analyst",
+    "job_title": "Applied Science Intern",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Analyst",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897564/Senior-Data-Analyst",
-    "id": "microsoft-senior-data-analyst-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied Science Intern",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870447/Applied-Science-Intern",
+    "id": "microsoft-applied-science-intern-redmond"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Central Finance Team",
+    "job_title": "Dynamics 365 Finance",
+    "job_city": "Fargo",
+    "job_state": "North Dakota",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Product Manager. Level: All Levels. Posted: Recently. Full Title: Senior Product Manager - Dynamics 365 Finance",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898438/Senior-Product-Manager---Dynamics-365-Finance",
+    "id": "microsoft-dynamics-365-finance-fargo"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Advertising Technology (AdTech) Signal Engineer",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Central Finance Team",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900710/Finance-Manager---Central-Finance-Team",
-    "id": "microsoft-central-finance-team-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "AI Solutions Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Solutions Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/ai-solutions-architect/33099/82681563472",
-    "id": "arm-ai-solutions-architect-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer at Chandler, Arizona, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
-    "id": "arm-engineer-chandler"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/chandler/senior-engineer/33099/86032470160",
-    "id": "arm-engineer-multiple"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Advertising Technology (AdTech) Signal Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900632/Advertising-Technology-(AdTech)-Signal-Engineer",
+    "id": "microsoft-advertising-technology-adtech-signal-engineer-redmond"
   }
 ]
