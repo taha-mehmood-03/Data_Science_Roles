@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "GRC Risk Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role GRC Risk Manager at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/grc-risk-manager/33099/87627795008",
+    "id": "arm-grc-risk-manager-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Serivce Manager Trainee",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Client Serivce Manager Trainee at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68949&source=WEB_Search_NA",
+    "id": "ibm-client-serivce-manager-trainee-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Concur Reporting Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP Concur Reporting Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68037&source=WEB_Search_NA",
+    "id": "ibm-sap-concur-reporting-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "MEMS Characterization Lead and Mechanical Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role MEMS Characterization Lead and Mechanical Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-Characterization-Lead-and-Mechanical-Engineer_R255729?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mems-characterization-lead-and-mechanical-engineer-us"
+  }
+]
