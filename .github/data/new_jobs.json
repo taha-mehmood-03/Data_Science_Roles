@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Mixed Methods UX Researcher",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "66 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Mixed Methods UX Researcher, Android Better Together",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100576640962044614-mixed-methods-ux-researcher-android-better-together?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-mixed-methods-ux-researcher-mountain-view"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Intern - Data Systems",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Intern - Data Systems at Redmond, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168586043-research-intern-data-systems",
+    "id": "aijobs-research-intern-data-systems-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision & Image Analytics",
+    "job_city": "US",
+    "job_state": "FL",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Computer Vision & Image Analytics at Orlando, FL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168586044-computer-vision-image-analytics",
+    "id": "aijobs-computer-vision-image-analytics-us"
+  }
+]
