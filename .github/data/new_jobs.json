@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Real World Evidence (RWE)",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "3w ago",
+    "job_description": "data science job for the role Principal Data Scientist, Real World Evidence (RWE) at Titusville, NJ, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168733977-principal-data-scientist-real-world-evidence-rwe",
+    "id": "aijobs-data-scientist-real-world-evidence-rwe-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Associate Scientist, Statistics and Data Science",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Associate Scientist, Statistics and Data Science at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168733982-associate-scientist-statistics-and-data-science",
+    "id": "aijobs-associate-scientist-statistics-and-data-science-us"
+  }
+]
