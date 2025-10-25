@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Associate I, Characterization",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Research Associate I, Characterization at Cambridge, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168690885-research-associate-i-characterization",
+    "id": "aijobs-research-associate-i-characterization-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "VP, Research & Analytics",
+    "job_city": "US",
+    "job_state": "VA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role VP, Research & Analytics at Alexandria, VA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168690887-vp-research-analytics",
+    "id": "aijobs-vp-research-analytics-us"
+  }
+]
