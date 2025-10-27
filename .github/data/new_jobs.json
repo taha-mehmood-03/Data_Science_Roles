@@ -1,43 +1,22 @@
 [
   {
-    "job_title": "Research Scientist, Intelligent Talent Acquisition, Global Hiring Science",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Research Scientist, Intelligent Talent Acquisition, Global Hiring Science at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115756/research-scientist-intelligent-talent-acquisition-global-hiring-science",
-    "job_posted_at": "2025-10-27T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-27T00:00:00.000Z",
-    "id": "amazon-research-scientist-intelligent-talent-acquisition-global-hiring-science-seattle"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "M365 Chat",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Google",
+    "job_title": "Top Customer Solutions Engineer I",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Product Manager. Level: All Levels. Posted: Recently. Full Title: Senior Product Manager - M365 Chat",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900820/Senior-Product-Manager---M365-Chat",
-    "id": "microsoft-m365-chat-redmond"
+    "job_description": "72 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Top Customer Solutions Engineer I, Data Analytics, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121411647171371718-top-customer-solutions-engineer-i-data-analytics-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-top-customer-solutions-engineer-i-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "IS Infrastructure Analyst",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role IS Infrastructure Analyst at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013082/IS-Infrastructure-Analyst",
-    "id": "abb-is-infrastructure-analyst-bartlesville"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "data scientist (Seattle, WA - U.S.)",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role senior data scientist (Seattle, WA - U.S.) at Seattle, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/168912360-senior-data-scientist-seattle-wa-u-s",
-    "id": "aijobs-data-scientist-seattle-wa-u-s-us"
+    "employer_name": "Google",
+    "job_title": "Top Customer Solutions Engineer II",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "73 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Top Customer Solutions Engineer II, Data Analytics, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93158356268524230-top-customer-solutions-engineer-ii-data-analytics-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-top-customer-solutions-engineer-ii-austin"
   }
 ]
