@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "Software Development Engineer Internship - Summer 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Software Development Engineer Internship - Summer 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us",
-    "job_posted_at": "2025-10-27T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-27T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-internship-summer-2026-us-seattle"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "AI Skilling",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Quantum Compilers and Programming Research Postdoc",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: Principal User Experience Researcher. Level: All Levels. Posted: Recently. Full Title: Principal User Experience Researcher - AI Skilling",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902441/Principal-User-Experience-Researcher---AI-Skilling",
-    "id": "microsoft-ai-skilling-san-francisco"
+    "job_description": "Data Science job for the role Quantum Compilers and Programming Research Postdoc at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68900&source=WEB_Search_NA",
+    "id": "ibm-quantum-compilers-and-programming-research-postdoc-multiple-cities"
   }
 ]
