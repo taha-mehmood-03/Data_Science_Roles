@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "GitHub FP&A Lead",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Finance Director. Level: All Levels. Posted: Recently. Full Title: Finance Director - GitHub FP&A Lead",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902681/Finance-Director---GitHub-FP%26A-Lead",
-    "id": "microsoft-github-fp-a-lead-redmond"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Verification Engineer - System IP",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Experienced HW Verification Engineer",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Verification Engineer - System IP at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-verification-engineer-system-ip/33099/87737120352",
-    "id": "arm-verification-engineer-system-ip-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Analysis Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Power Analysis Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-power-analysis-engineer/33099/87737121392",
-    "id": "arm-power-analysis-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Validation and Emulation Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Power Validation and Emulation Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-power-validation-and-emulation-engineer/33099/87737121280",
-    "id": "arm-power-validation-and-emulation-engineer-cambridge"
+    "job_description": "Data Science job for the role Experienced HW Verification Engineer at Trondheim, Norway, Oslo, Norway",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hw-verification-engineer/33099/76937737712",
+    "id": "arm-experienced-hw-verification-engineer-trondheim"
   }
 ]
