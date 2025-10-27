@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business Data Scientist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Microsoft",
+    "job_title": "AdTech Signal Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "41 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Data Scientist, Statistics, Platform Analytics, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83762677221860038-business-data-scientist-statistics-platform-analytics-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-business-data-scientist-sunnyvale"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - AdTech Signal Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900656/AdTech-Signal-Engineer",
+    "id": "microsoft-adtech-signal-engineer-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Azure Strategic Finance",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Finance Manager. Level: All Levels. Posted: Recently. Full Title: Finance Manager - Azure Strategic Finance",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900358/Finance-Manager---Azure-Strategic-Finance",
+    "id": "microsoft-azure-strategic-finance-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "DFT Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff DFT Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-dft-engineer/33099/87648492160",
+    "id": "arm-dft-engineer-san-diego"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Data Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68861&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Solutions Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69125&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineer-multiple-cities"
   }
 ]
