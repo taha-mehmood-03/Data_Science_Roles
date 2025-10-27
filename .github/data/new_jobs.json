@@ -1,12 +1,23 @@
 [
   {
+    "job_title": "Software Development Engineer Internship - Summer 2026 (US)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer Internship - Summer 2026 (US) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us",
+    "job_posted_at": "2025-10-27T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-27T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-internship-summer-2026-us-seattle"
+  },
+  {
     "employer_name": "Microsoft",
-    "job_title": "Senior Finance Manager – Azure Revenue",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_title": "AI Skilling",
+    "job_city": "San Francisco",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Finance Manager – Azure Revenue",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882161/Senior-Finance-Manager-%E2%80%93-Azure-Revenue",
-    "id": "microsoft-senior-finance-manager-azure-revenue-redmond"
+    "job_description": "Category: Principal User Experience Researcher. Level: All Levels. Posted: Recently. Full Title: Principal User Experience Researcher - AI Skilling",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902441/Principal-User-Experience-Researcher---AI-Skilling",
+    "id": "microsoft-ai-skilling-san-francisco"
   }
 ]
