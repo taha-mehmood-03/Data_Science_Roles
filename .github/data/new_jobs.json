@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Quantum Compilers and Programming Research Postdoc",
-    "job_city": "Multiple Cities",
+    "job_title": "Strategy Consultant",
+    "job_city": "WASHINGTON",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum Compilers and Programming Research Postdoc at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68900&source=WEB_Search_NA",
-    "id": "ibm-quantum-compilers-and-programming-research-postdoc-multiple-cities"
+    "job_description": "Data Science job for the role Senior Strategy Consultant at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68460&source=WEB_Search_NA",
+    "id": "ibm-strategy-consultant-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy and Value Lead",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategy and Value Lead at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68458&source=WEB_Search_NA",
+    "id": "ibm-strategy-and-value-lead-washington"
   }
 ]
