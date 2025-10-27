@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Top Customer Solutions Engineer I",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Global Category Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "72 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Top Customer Solutions Engineer I, Data Analytics, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121411647171371718-top-customer-solutions-engineer-i-data-analytics-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-top-customer-solutions-engineer-i-austin"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Global Category Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900060/Senior-Global-Category-Manager",
+    "id": "microsoft-senior-global-category-manager-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Top Customer Solutions Engineer II",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Finance Manager",
+    "job_city": "Reston",
+    "job_state": "Virginia",
     "job_posted_at": "Recently",
-    "job_description": "73 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Top Customer Solutions Engineer II, Data Analytics, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93158356268524230-top-customer-solutions-engineer-ii-data-analytics-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-top-customer-solutions-engineer-ii-austin"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Finance Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890478/Senior-Finance-Manager%2C-Azure",
+    "id": "microsoft-senior-finance-manager-reston"
   }
 ]
