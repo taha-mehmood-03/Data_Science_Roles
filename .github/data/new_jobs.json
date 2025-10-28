@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Applied AI Scientist",
+    "job_title": "Senior Researcher",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Applied AI Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902982/Senior-Applied-AI-Scientist",
-    "id": "microsoft-senior-applied-ai-scientist-redmond"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Researcher",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901163/Senior-Researcher",
+    "id": "microsoft-senior-researcher-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Partner Marketing Program Leader – Infrastructure",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Market Research Manager IC3",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Partner Marketing Program Leader – Infrastructure at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67561&source=WEB_Search_NA",
-    "id": "ibm-partner-marketing-program-leader-infrastructure-multiple-cities"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Market Research Manager IC3",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900409/Market-Research-Manager-IC3",
+    "id": "microsoft-market-research-manager-ic3-redmond"
   }
 ]
