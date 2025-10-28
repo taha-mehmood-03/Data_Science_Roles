@@ -1,32 +1,33 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Payments",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Data Analyst. Level: All Levels. Posted: Recently. Full Title: Data Analyst - Payments",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901468/Data-Analyst---Payments",
-    "id": "microsoft-payments-redmond"
+    "job_title": "Business Intelligence Engineer (BIE), Data, eNgineering and Analytics (DNA)",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Business Intelligence Engineer (BIE), Data, eNgineering and Analytics (DNA) at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3116913/business-intelligence-engineer-bie-data-engineering-and-analytics-dna",
+    "job_posted_at": "2025-10-28T17:23:23.653Z",
+    "job_posted_at_datetime_utc": "2025-10-28T17:23:23.653Z",
+    "id": "amazon-business-intelligence-engineer-bie-data-engineering-and-analytics-dna-austin"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Security Research Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Security Research Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901539/Principal-Security-Research-Manager",
-    "id": "microsoft-principal-security-research-manager-redmond"
+    "employer_name": "Micron",
+    "job_title": "Director, Finance AI & Advanced Analytics",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Director, Finance AI & Advanced Analytics at San Jose, California, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/38430799",
+    "id": "micron-director-finance-ai-advanced-analytics-san-jose"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "GTM",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - GTM",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901251/Senior-Finance-Manager---GTM%2C-Americas-Partner",
-    "id": "microsoft-gtm-redmond"
+    "employer_name": "Micron",
+    "job_title": "Sr Process Engineer, Photomask Printability",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 22 days ago",
+    "job_description": "Data Science job for the role Sr Process Engineer, Photomask Printability at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38432107",
+    "id": "micron-sr-process-engineer-photomask-printability-boise"
   }
 ]
