@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Center Materials Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Center Materials Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963078-data-center-materials-engineer",
+    "id": "aijobs-data-center-materials-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "UX Researcher",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role UX Researcher at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168690884-ux-researcher",
+    "id": "aijobs-ux-researcher-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer – AV Platform Scheduling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Systems Software Engineer – AV Platform Scheduling at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963077-systems-software-engineer-av-platform-scheduling",
+    "id": "aijobs-systems-software-engineer-av-platform-scheduling-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Language Model Pre-Training",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Research Engineer, Language Model Pre-Training at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168392252-research-engineer-language-model-pre-training",
+    "id": "aijobs-research-engineer-language-model-pre-training-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Audio & Speech Models",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Research Engineer, Audio & Speech Models at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168391372-research-engineer-audio-speech-models",
+    "id": "aijobs-research-engineer-audio-speech-models-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Storage Platform",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "7h ago",
+    "job_description": "data science job for the role Technical Program Manager, Storage Platform at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168964744-technical-program-manager-storage-platform",
+    "id": "aijobs-technical-program-manager-storage-platform-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Infrastructure Engineer, Cloud Partnerships - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Senior AI Infrastructure Engineer, Cloud Partnerships - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168574503-senior-ai-infrastructure-engineer-cloud-partnerships-dgx-cloud",
+    "id": "aijobs-ai-infrastructure-engineer-cloud-partnerships-dgx-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer (Founding Team)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role AI Engineer (Founding Team) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168453546-ai-engineer-founding-team",
+    "id": "aijobs-ai-engineer-founding-team-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer (US)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role AI Engineer (US) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168563333-ai-engineer-us",
+    "id": "aijobs-ai-engineer-us-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Marketing Engineer - AI Platform Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "6d ago",
+    "job_description": "data science job for the role Technical Marketing Engineer - AI Platform Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168463135-technical-marketing-engineer-ai-platform-software",
+    "id": "aijobs-technical-marketing-engineer-ai-platform-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied ML Engineer (Computer Vision)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Applied ML Engineer (Computer Vision) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168078136-applied-ml-engineer-computer-vision",
+    "id": "aijobs-applied-ml-engineer-computer-vision-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems R&D Engineer, Industrial Compute",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Systems R&D Engineer, Industrial Compute at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168575957-systems-r-d-engineer-industrial-compute",
+    "id": "aijobs-systems-r-d-engineer-industrial-compute-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer, BCM - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Site Reliability Engineer, BCM - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963082-senior-site-reliability-engineer-bcm-dgx-cloud",
+    "id": "aijobs-site-reliability-engineer-bcm-dgx-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solution Architect – Simulation Solutions for Edge Computing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Solution Architect – Simulation Solutions for Edge Computing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168963079-senior-solution-architect-simulation-solutions-for-edge-computing",
+    "id": "aijobs-solution-architect-simulation-solutions-for-edge-computing-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Experience Researcher, AI",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Staff Experience Researcher, AI at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/168478227-staff-experience-researcher-ai",
+    "id": "aijobs-experience-researcher-ai-us"
+  }
+]
