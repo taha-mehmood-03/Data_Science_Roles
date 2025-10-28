@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Counsel, Supply Chain and 3rd Party Risk",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Counsel, Supply Chain and 3rd Party Risk at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-counsel-supply-chain-and-3rd-party-risk/33099/87789253824",
-    "id": "arm-counsel-supply-chain-and-3rd-party-risk-san-jose"
+    "job_title": "Applied Scientist II, AWS Agentic AI",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai",
+    "job_posted_at": "2025-10-28T19:18:13.147Z",
+    "job_posted_at_datetime_utc": "2025-10-28T19:18:13.147Z",
+    "id": "amazon-applied-scientist-ii-aws-agentic-ai-new-york"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Physical Design Engineer Intern - Bachelor's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Physical Design Engineer Intern - Bachelor's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern---Bachelor-s-Degree_2502773-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-physical-design-engineer-intern-bachelor-s-degree-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Intern, Operations Analyst",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern, Operations Analyst at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-operations-analyst/33099/87791627568",
+    "id": "arm-intern-operations-analyst-austin"
   }
 ]
