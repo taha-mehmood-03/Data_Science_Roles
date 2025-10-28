@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "Applied Scientist II, AWS Agentic AI",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3117028/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2025-10-28T19:18:13.147Z",
-    "job_posted_at_datetime_utc": "2025-10-28T19:18:13.147Z",
-    "id": "amazon-applied-scientist-ii-aws-agentic-ai-new-york"
+    "employer_name": "Microsoft",
+    "job_title": "Copilot Notebooks",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Data Engineer. Level: All Levels. Posted: Recently. Full Title: Senior Data Engineer - Copilot Notebooks",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902569/Senior-Data-Engineer---Copilot-Notebooks",
+    "id": "microsoft-copilot-notebooks-redmond"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Intern, Operations Analyst",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Microsoft",
+    "job_title": "Principal Product Manager – Core AI",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern, Operations Analyst at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-operations-analyst/33099/87791627568",
-    "id": "arm-intern-operations-analyst-austin"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Product Manager – Core AI",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902718/Principal-Product-Manager-%E2%80%93-Core-AI",
+    "id": "microsoft-principal-product-manager-core-ai-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Finance Controller",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Finance Controller",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898754/Finance-Controller%2C-Industry-Solution-Delivery-Americas",
+    "id": "microsoft-finance-controller-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Scientist Manager II",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "7 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Scientist Manager II, Product",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97927767126876870-data-scientist-manager-ii-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-data-scientist-manager-ii-mountain-view"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "or Senior Principal Engineer, Architecture ASIC / System",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal or Senior Principal Engineer, Architecture ASIC / System at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-or-Senior-Principal-Engineer--Architecture-ASIC---System_2502198?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-or-senior-principal-engineer-architecture-asic-system-santa-clara"
   }
 ]
