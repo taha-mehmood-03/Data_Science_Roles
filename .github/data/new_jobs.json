@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Enhanced Support Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Unix Kernel Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Enhanced Support Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-enhanced-support-engineer/33099/87749242800",
-    "id": "arm-enhanced-support-engineer-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Quality and Reliability Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Quality and Reliability Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-quality-and-reliability-engineer/33099/86309340992",
-    "id": "arm-quality-and-reliability-engineer-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Electrical Failure Analysis Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Electrical Failure Analysis Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/staff-electrical-failure-analysis-engineer/33099/86497957072",
-    "id": "arm-electrical-failure-analysis-engineer-hsinchu"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Scientist",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role AI Scientist 2 at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/168118354-ai-scientist-2",
-    "id": "aijobs-ai-scientist-us"
+    "job_description": "Data Science job for the role Unix Kernel Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57937&source=WEB_Search_NA",
+    "id": "ibm-unix-kernel-developer-multiple-cities"
   }
 ]
