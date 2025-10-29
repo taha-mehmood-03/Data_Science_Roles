@@ -1,82 +1,23 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data Engineer 2",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Engineer 2",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903791/Data-Engineer-2",
-    "id": "microsoft-data-engineer-2-multiple-locations"
+    "job_title": "Materials Simulations and Characterization Senior Research Scientist, Materials Team, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Materials Simulations and Characterization Senior Research Scientist, Materials Team, AWS Center for Quantum Computing at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118219/materials-simulations-and-characterization-senior-research-scientist-materials-team-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-10-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-29T00:00:00.000Z",
+    "id": "amazon-materials-simulations-and-characterization-senior-research-scientist-materials-team-aws-center-for-quantum-computing-pasadena"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data Scientist Intern",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Scientist Intern at InternshipRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68506&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-intern-research-triangle-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Physical Design Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Physical Design Engineer at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69123&source=WEB_Search_NA",
-    "id": "ibm-physical-design-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer Intern",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Hardware Developer Intern 2026 at InternshipROCHESTER, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68446&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-intern-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Hardware Developer at Entry LevelROCHESTER, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58496&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Package Specialist - Entry-level 2026 (Lansing, Michigan)",
-    "job_city": "Lansing",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Package Specialist - Entry-level 2026 (Lansing, Michigan) at Entry LevelLansing, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65764&source=WEB_Search_NA",
-    "id": "ibm-associate-package-specialist-entry-level-2026-lansing-michigan-lansing"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Americas AWS Alliance Leader",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Americas AWS Alliance Leader at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70050&source=WEB_Search_NA",
-    "id": "ibm-americas-aws-alliance-leader-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategic Sourcing Analyst",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Strategic Sourcing Analyst at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70012&source=WEB_Search_NA",
-    "id": "ibm-strategic-sourcing-analyst-multiple-cities"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "IT Business Systems Analyst – ModelN Channel Management",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role IT Business Systems Analyst – ModelN Channel Management at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analyst--Information-Technology_R253445?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-it-business-systems-analyst-modeln-channel-management-us"
   }
 ]
