@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Researcher",
+    "job_title": "Data Center Innovation and Strategy",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Researcher",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901163/Senior-Researcher",
-    "id": "microsoft-senior-researcher-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Market Research Manager IC3",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Market Research Manager IC3",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900409/Market-Research-Manager-IC3",
-    "id": "microsoft-market-research-manager-ic3-redmond"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Data Center Innovation and Strategy",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902239/Senior-Finance-Manager---Data-Center%C2%A0Innovation-and-Strategy",
+    "id": "microsoft-data-center-innovation-and-strategy-redmond"
   }
 ]
