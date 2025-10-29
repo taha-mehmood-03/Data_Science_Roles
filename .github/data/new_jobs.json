@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Feedback Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "44 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Feedback Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87267108542390982-product-feedback-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-product-feedback-analyst-mountain-view"
+    "employer_name": "AiJobs",
+    "job_title": "Healthcare Research Analyst",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Lead Healthcare Research Analyst at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169096337-lead-healthcare-research-analyst",
+    "id": "aijobs-healthcare-research-analyst-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Executive Director, Market Research",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Executive Director, Market Research at Princeton, NJ, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169096338-executive-director-market-research",
+    "id": "aijobs-executive-director-market-research-us"
   }
 ]
