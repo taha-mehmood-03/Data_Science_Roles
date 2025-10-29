@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "AI Applied Scientist II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - AI Applied Scientist II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901754/AI-Applied-Scientist-II",
-    "id": "microsoft-ai-applied-scientist-ii-redmond"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern, Applications Engineering",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern, Applications Engineering at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/intern-applications-engineering/33099/87241561616",
-    "id": "arm-intern-applications-engineering-taipei"
+    "job_title": "Assoc Delivery Consult, AI/ML, A2C ProServe Shared Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Assoc Delivery Consult, AI/ML, A2C ProServe Shared Delivery at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106675/assoc-delivery-consult-ai-ml-a2c-proserve-shared-delivery",
+    "job_posted_at": "2025-10-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-29T00:00:00.000Z",
+    "id": "amazon-assoc-delivery-consult-ai-ml-a2c-proserve-shared-delivery-arlington"
   }
 ]
