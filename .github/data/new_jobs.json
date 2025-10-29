@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Service Desk Analyst",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Product Feedback Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Service Desk Analyst at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/service-desk-analyst/33099/87809046784",
-    "id": "arm-service-desk-analyst-bengaluru"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Offensive Security Engineer, Agent Security",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Offensive Security Engineer, Agent Security at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/169087205-offensive-security-engineer-agent-security",
-    "id": "aijobs-offensive-security-engineer-agent-security-united-states"
+    "job_description": "44 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Feedback Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87267108542390982-product-feedback-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-product-feedback-analyst-mountain-view"
   }
 ]
