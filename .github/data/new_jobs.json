@@ -1,12 +1,42 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Quality Compliance Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "GPU SW Infrastructure Development Intern",
+    "job_city": "Raanana",
+    "job_state": "Israel",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quality Compliance Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/quality-compliance-engineer/33099/61697469856",
-    "id": "arm-quality-compliance-engineer-austin"
+    "job_description": "Data Science job for the role GPU SW Infrastructure Development Intern at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/gpu-sw-infrastructure-development-intern/33099/87831070224",
+    "id": "arm-gpu-sw-infrastructure-development-intern-raanana"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "z Delivery Consultant, GDPS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role z Delivery Consultant, GDPS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68917&source=WEB_Search_NA",
+    "id": "ibm-z-delivery-consultant-gdps-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Layout Mask Designer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Layout Mask Designer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69610&source=WEB_Search_NA",
+    "id": "ibm-layout-mask-designer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representatives - Austin",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representatives - Austin at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68963&source=WEB_Search_NA",
+    "id": "ibm-system-services-representatives-austin-austin"
   }
 ]
