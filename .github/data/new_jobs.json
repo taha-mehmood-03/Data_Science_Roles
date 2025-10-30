@@ -1,73 +1,23 @@
 [
   {
-    "job_title": "Training Solutions Research Scientist, AWS Training and Certification",
+    "job_title": "Applied Scientist, Console Science",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Training Solutions Research Scientist, AWS Training and Certification at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification",
-    "job_posted_at": "2025-10-30T17:22:04.144Z",
-    "job_posted_at_datetime_utc": "2025-10-30T17:22:04.144Z",
-    "id": "amazon-training-solutions-research-scientist-aws-training-and-certification-seattle"
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist, Console Science at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science",
+    "job_posted_at": "2025-10-30T18:12:49.232Z",
+    "job_posted_at_datetime_utc": "2025-10-30T18:12:49.232Z",
+    "id": "amazon-applied-scientist-console-science-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Engineer - Analytics",
+    "job_title": "RF Design Engineer",
     "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Staff Data Engineer - Analytics at Menlo Park, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/169705255-staff-data-engineer-analytics",
-    "id": "aijobs-data-engineer-analytics-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Forward Deployed Software Engineer, New Grad - US Government",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Forward Deployed Software Engineer, New Grad - US Government at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585880-forward-deployed-software-engineer-new-grad-us-government",
-    "id": "aijobs-forward-deployed-software-engineer-new-grad-us-government-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Forward Deployed Infrastructure Engineer - US Government",
-    "job_city": "D.C.",
-    "job_state": "Washington",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Forward Deployed Infrastructure Engineer - US Government at Washington, D.C.",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585797-forward-deployed-infrastructure-engineer-us-government",
-    "id": "aijobs-forward-deployed-infrastructure-engineer-us-government-d-c"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Internship - Infrastructure",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Software Engineer, Internship - Infrastructure at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585686-software-engineer-internship-infrastructure",
-    "id": "aijobs-software-engineer-internship-infrastructure-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Writer",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Technical Writer at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585721-technical-writer",
-    "id": "aijobs-technical-writer-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Mission Manager",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Software Engineer - Mission Manager at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/169585716-software-engineer-mission-manager",
-    "id": "aijobs-software-engineer-mission-manager-ny"
+    "job_state": "GA",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role RF Design Engineer at Atlanta, GA, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169924000-rf-design-engineer",
+    "id": "aijobs-rf-design-engineer-united-states"
   }
 ]
