@@ -1,1 +1,842 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "AI Applied Scientist",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - AI Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902032/AI-Applied-Scientist",
+    "id": "microsoft-ai-applied-scientist-redmond"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Segment Marketing Manager - Client SSD",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "Data Science job for the role Staff Segment Marketing Manager - Client SSD at Boise, Idaho, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/38674094",
+    "id": "micron-segment-marketing-manager-client-ssd-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Research, AI Data",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Data Scientist, Research, AI Data at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169553276-data-scientist-research-ai-data",
+    "id": "aijobs-data-scientist-research-ai-data-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (Junior - Senior)",
+    "job_city": "US",
+    "job_state": "GA",
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Data Scientist (Junior - Senior) at Fort Gordon, GA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169553274-data-scientist-junior-senior",
+    "id": "aijobs-data-scientist-junior-senior-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Interaction Designer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "50min ago",
+    "job_description": "data science job for the role AI Interaction Designer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/169559927-ai-interaction-designer",
+    "id": "aijobs-ai-interaction-designer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Discover Data Scientist, Research",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Discover Data Scientist, Research at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/169553281-discover-data-scientist-research",
+    "id": "aijobs-discover-data-scientist-research-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Growth",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "50min ago",
+    "job_description": "data science job for the role Data Scientist - Growth at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/169559940-data-scientist-growth",
+    "id": "aijobs-data-scientist-growth-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Data Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585726-data-engineer",
+    "id": "aijobs-data-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer",
+    "job_city": "IL",
+    "job_state": "Chicago",
+    "job_posted_at": "41min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer at Chicago, IL",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585860-forward-deployed-software-engineer",
+    "id": "aijobs-forward-deployed-software-engineer-il"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Designer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "few min ago",
+    "job_description": "data science job for the role Product Designer at Menlo Park, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169705253-product-designer",
+    "id": "aijobs-product-designer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Backend",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "few min ago",
+    "job_description": "data science job for the role Software Engineer, Backend at Menlo Park, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169705252-software-engineer-backend",
+    "id": "aijobs-software-engineer-backend-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - Warp Speed",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "41min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - Warp Speed at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585863-forward-deployed-software-engineer-warp-speed",
+    "id": "aijobs-forward-deployed-software-engineer-warp-speed-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, iCreator Ecosystems",
+    "job_city": "United States",
+    "job_state": "US",
+    "job_posted_at": "few min ago",
+    "job_description": "data science job for the role Data Scientist, iCreator Ecosystems at United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169705256-data-scientist-icreator-ecosystems",
+    "id": "aijobs-data-scientist-icreator-ecosystems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer, New Grad - US Government",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "41min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer, New Grad - US Government at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585879-forward-deployed-software-engineer-new-grad-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-new-grad-us-government-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585809-forward-deployed-software-engineer",
+    "id": "aijobs-forward-deployed-software-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Growth",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "few min ago",
+    "job_description": "data science job for the role Software Engineer, Growth at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169705260-software-engineer-growth",
+    "id": "aijobs-software-engineer-growth-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Enablement Engineer - Customer Success",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Forward Deployed Enablement Engineer - Customer Success at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585671-forward-deployed-enablement-engineer-customer-success",
+    "id": "aijobs-forward-deployed-enablement-engineer-customer-success-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - Intel",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - Intel at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585855-forward-deployed-software-engineer-intel",
+    "id": "aijobs-forward-deployed-software-engineer-intel-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer,  Safety",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "few min ago",
+    "job_description": "data science job for the role Software Engineer,  Safety at Menlo Park, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/169705262-software-engineer-safety",
+    "id": "aijobs-software-engineer-safety-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - US Government",
+    "job_city": "NC",
+    "job_state": "Raleigh",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - US Government at Raleigh, NC",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585850-forward-deployed-software-engineer-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-us-government-nc"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - US Government",
+    "job_city": "HI",
+    "job_state": "Honolulu",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - US Government at Honolulu, HI",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585851-forward-deployed-software-engineer-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-us-government-hi"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - US Government",
+    "job_city": "CA",
+    "job_state": "San Diego",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - US Government at San Diego, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585849-forward-deployed-software-engineer-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-us-government-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - US Government",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - US Government at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585852-forward-deployed-software-engineer-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-us-government-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Infrastructure",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Infrastructure at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585705-software-engineer-new-grad-infrastructure",
+    "id": "aijobs-software-engineer-new-grad-infrastructure-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Infrastructure",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Infrastructure at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585706-software-engineer-new-grad-infrastructure",
+    "id": "aijobs-software-engineer-new-grad-infrastructure-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Defense",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Defense at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585709-software-engineer-new-grad-defense",
+    "id": "aijobs-software-engineer-new-grad-defense-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Production Infrastructure",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Production Infrastructure at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585703-software-engineer-new-grad-production-infrastructure",
+    "id": "aijobs-software-engineer-new-grad-production-infrastructure-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Production Infrastructure",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Production Infrastructure at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585704-software-engineer-new-grad-production-infrastructure",
+    "id": "aijobs-software-engineer-new-grad-production-infrastructure-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585713-software-engineer-new-grad",
+    "id": "aijobs-software-engineer-new-grad-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585707-software-engineer-new-grad",
+    "id": "aijobs-software-engineer-new-grad-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Production Infrastructure",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Production Infrastructure at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585701-software-engineer-new-grad-production-infrastructure",
+    "id": "aijobs-software-engineer-new-grad-production-infrastructure-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Defense",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Defense at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585710-software-engineer-new-grad-defense",
+    "id": "aijobs-software-engineer-new-grad-defense-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad - Defense",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad - Defense at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585708-software-engineer-new-grad-defense",
+    "id": "aijobs-software-engineer-new-grad-defense-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, New Grad",
+    "job_city": "CO",
+    "job_state": "Denver",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, New Grad at Denver, CO",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585697-software-engineer-new-grad",
+    "id": "aijobs-software-engineer-new-grad-co"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer - Infrastructure",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Backend Software Engineer - Infrastructure at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585825-backend-software-engineer-infrastructure",
+    "id": "aijobs-backend-software-engineer-infrastructure-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer - Infrastructure",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Backend Software Engineer - Infrastructure at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585823-backend-software-engineer-infrastructure",
+    "id": "aijobs-backend-software-engineer-infrastructure-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - US Government",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - US Government at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585853-forward-deployed-software-engineer-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-us-government-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - Japan Forward Deployed",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - Japan Forward Deployed at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585848-forward-deployed-software-engineer-japan-forward-deployed",
+    "id": "aijobs-forward-deployed-software-engineer-japan-forward-deployed-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Privacy and Civil Liberties Software Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Privacy and Civil Liberties Software Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585674-privacy-and-civil-liberties-software-engineer",
+    "id": "aijobs-privacy-and-civil-liberties-software-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Defense Tech",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Defense Tech at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585687-software-engineer-internship-defense-tech",
+    "id": "aijobs-software-engineer-internship-defense-tech-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Defense Tech",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Defense Tech at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585681-software-engineer-internship-defense-tech",
+    "id": "aijobs-software-engineer-internship-defense-tech-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer - Korea Forward Deployed",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer - Korea Forward Deployed at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585854-forward-deployed-software-engineer-korea-forward-deployed",
+    "id": "aijobs-forward-deployed-software-engineer-korea-forward-deployed-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Defense Tech",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Defense Tech at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585688-software-engineer-internship-defense-tech",
+    "id": "aijobs-software-engineer-internship-defense-tech-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Frontline",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Frontline at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585831-software-engineer-frontline",
+    "id": "aijobs-software-engineer-frontline-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Infrastructure",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Infrastructure at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585684-software-engineer-internship-infrastructure",
+    "id": "aijobs-software-engineer-internship-infrastructure-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer - Application Development",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Backend Software Engineer - Application Development at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585826-backend-software-engineer-application-development",
+    "id": "aijobs-backend-software-engineer-application-development-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Production Infrastructure",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Production Infrastructure at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585683-software-engineer-internship-production-infrastructure",
+    "id": "aijobs-software-engineer-internship-production-infrastructure-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585691-software-engineer-internship",
+    "id": "aijobs-software-engineer-internship-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship",
+    "job_city": "CO",
+    "job_state": "Denver",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship at Denver, CO",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585690-software-engineer-internship",
+    "id": "aijobs-software-engineer-internship-co"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Production Infrastructure",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Production Infrastructure at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585682-software-engineer-internship-production-infrastructure",
+    "id": "aijobs-software-engineer-internship-production-infrastructure-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585694-software-engineer-internship",
+    "id": "aijobs-software-engineer-internship-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585695-software-engineer-internship",
+    "id": "aijobs-software-engineer-internship-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585693-software-engineer-internship",
+    "id": "aijobs-software-engineer-internship-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Internship - Production Infrastructure",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Software Engineer, Internship - Production Infrastructure at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585689-software-engineer-internship-production-infrastructure",
+    "id": "aijobs-software-engineer-internship-production-infrastructure-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Incident Management Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Incident Management Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585718-incident-management-engineer",
+    "id": "aijobs-incident-management-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Infrastructure, Foundry Platform",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Infrastructure, Foundry Platform at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585811-software-engineer-infrastructure-foundry-platform",
+    "id": "aijobs-software-engineer-infrastructure-foundry-platform-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Web Application Developer - Defense",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Web Application Developer - Defense at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585679-web-application-developer-defense",
+    "id": "aijobs-web-application-developer-defense-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Web Application Developer - Defense",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Web Application Developer - Defense at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585698-web-application-developer-defense",
+    "id": "aijobs-web-application-developer-defense-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Information Security Engineer, Internship",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Information Security Engineer, Internship at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585753-information-security-engineer-internship",
+    "id": "aijobs-information-security-engineer-internship-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Web Application Developer - Defense",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Web Application Developer - Defense at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585662-web-application-developer-defense",
+    "id": "aijobs-web-application-developer-defense-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Developer Productivity",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Developer Productivity at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585830-software-engineer-developer-productivity",
+    "id": "aijobs-software-engineer-developer-productivity-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Mixed Reality Developer",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Mixed Reality Developer at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585814-mixed-reality-developer",
+    "id": "aijobs-mixed-reality-developer-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed AI Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Forward Deployed AI Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585793-forward-deployed-ai-engineer",
+    "id": "aijobs-forward-deployed-ai-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Substrate",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Substrate at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585843-senior-software-engineer-substrate",
+    "id": "aijobs-software-engineer-substrate-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Writer",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Technical Writer at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585720-technical-writer",
+    "id": "aijobs-technical-writer-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Substrate",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Substrate at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585841-senior-software-engineer-substrate",
+    "id": "aijobs-software-engineer-substrate-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Substrate",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Substrate at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585844-senior-software-engineer-substrate",
+    "id": "aijobs-software-engineer-substrate-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager (TPM) - Defense",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Technical Program Manager (TPM) - Defense at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585750-technical-program-manager-tpm-defense",
+    "id": "aijobs-technical-program-manager-tpm-defense-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Ceph Infrastructure Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Ceph Infrastructure Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585653-ceph-infrastructure-engineer",
+    "id": "aijobs-ceph-infrastructure-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Observability",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Staff Software Engineer - Observability at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585700-staff-software-engineer-observability",
+    "id": "aijobs-software-engineer-observability-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Network Infrastructure",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Network Infrastructure at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585838-senior-software-engineer-network-infrastructure",
+    "id": "aijobs-software-engineer-network-infrastructure-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Environment Platform",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Environment Platform at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585836-software-engineer-environment-platform",
+    "id": "aijobs-software-engineer-environment-platform-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Environment Platform",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Environment Platform at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585835-software-engineer-environment-platform",
+    "id": "aijobs-software-engineer-environment-platform-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Network Infrastructure",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Network Infrastructure at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585828-senior-software-engineer-network-infrastructure",
+    "id": "aijobs-software-engineer-network-infrastructure-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Network Infrastructure",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Senior Software Engineer, Network Infrastructure at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585820-senior-software-engineer-network-infrastructure",
+    "id": "aijobs-software-engineer-network-infrastructure-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Software Engineer - Apollo Platform",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Full Stack Software Engineer - Apollo Platform at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585817-full-stack-software-engineer-apollo-platform",
+    "id": "aijobs-full-stack-software-engineer-apollo-platform-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Software Engineer - Apollo Platform",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Full Stack Software Engineer - Apollo Platform at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585818-full-stack-software-engineer-apollo-platform",
+    "id": "aijobs-full-stack-software-engineer-apollo-platform-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Apollo Platform",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Apollo Platform at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585839-software-engineer-apollo-platform",
+    "id": "aijobs-software-engineer-apollo-platform-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Apollo Platform",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Apollo Platform at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585840-software-engineer-apollo-platform",
+    "id": "aijobs-software-engineer-apollo-platform-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager (TPM)",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "43min ago",
+    "job_description": "data science job for the role Technical Program Manager (TPM) at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585734-technical-program-manager-tpm",
+    "id": "aijobs-technical-program-manager-tpm-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Mission Manager",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Mission Manager at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585786-software-engineer-mission-manager",
+    "id": "aijobs-software-engineer-mission-manager-d-c"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Engineer - Mission Manager",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Full Stack Engineer - Mission Manager at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585819-full-stack-engineer-mission-manager",
+    "id": "aijobs-full-stack-engineer-mission-manager-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full Stack Engineer - Mission Manager",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Full Stack Engineer - Mission Manager at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585812-full-stack-engineer-mission-manager",
+    "id": "aijobs-full-stack-engineer-mission-manager-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Mission Manager",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "42min ago",
+    "job_description": "data science job for the role Software Engineer - Mission Manager at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/169585787-software-engineer-mission-manager",
+    "id": "aijobs-software-engineer-mission-manager-wa"
+  }
+]
