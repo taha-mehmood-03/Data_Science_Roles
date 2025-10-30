@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Z Infrastructure Solutions Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903632/Data-Engineer",
-    "id": "microsoft-data-engineer-redmond"
+    "job_description": "Data Science job for the role Z Infrastructure Solutions Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67976&source=WEB_Search_NA",
+    "id": "ibm-z-infrastructure-solutions-intern-entry-level-sales-program-multiple-cities"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Data Engineer – Critical Environment Systems Intelligence",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Strategy & Transformation Go-to-Market for Financial Services",
+    "job_city": "New York",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Engineer – Critical Environment Systems Intelligence",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900071/Senior-Data-Engineer-%E2%80%93-Critical-Environment-Systems-Intelligence",
-    "id": "microsoft-senior-data-engineer-critical-environment-systems-intelligence-redmond"
+    "job_description": "Data Science job for the role Strategy & Transformation Go-to-Market for Financial Services at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64406&source=WEB_Search_NA",
+    "id": "ibm-strategy-transformation-go-to-market-for-financial-services-new-york"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Windows + Devices",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "Procurement Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineer. Level: All Levels. Posted: Recently. Full Title: Software Engineer - Windows + Devices",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1904076/Software-Engineer---Windows-%2B-Devices%2C-Windows-Experiences",
-    "id": "microsoft-windows-devices-redmond"
+    "job_description": "Data Science job for the role Procurement Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70293&source=WEB_Search_NA",
+    "id": "ibm-procurement-lead-multiple-cities"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Manager, Global Facilities Operations Systems",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 2 days ago",
-    "job_description": "Data Science job for the role Manager, Global Facilities Operations Systems at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38650281",
-    "id": "micron-manager-global-facilities-operations-systems-manassas"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Design Verification Intern - Master's Degree",
-    "job_city": "Morrisville",
-    "job_state": "NC",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Design Verification Intern - Master's Degree at Morrisville, NC",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Design-Verification-Intern---Master-s-Degree_2502775-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-design-verification-intern-master-s-degree-morrisville"
+    "employer_name": "IBM",
+    "job_title": "Managing Integration Lead (BTP Integration)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Integration Lead (BTP Integration) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60994&source=WEB_Search_NA",
+    "id": "ibm-managing-integration-lead-btp-integration-multiple-cities"
   }
 ]
