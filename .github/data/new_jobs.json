@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "Materials Simulations and Characterization Senior Research Scientist, Materials Team, AWS Center for Quantum Computing",
-    "employer_name": "Amazon",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Materials Simulations and Characterization Senior Research Scientist, Materials Team, AWS Center for Quantum Computing at Pasadena, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118219/materials-simulations-and-characterization-senior-research-scientist-materials-team-aws-center-for-quantum-computing",
-    "job_posted_at": "2025-10-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-29T00:00:00.000Z",
-    "id": "amazon-materials-simulations-and-characterization-senior-research-scientist-materials-team-aws-center-for-quantum-computing-pasadena"
+    "employer_name": "Microsoft",
+    "job_title": "Data Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903632/Data-Engineer",
+    "id": "microsoft-data-engineer-redmond"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "IT Business Systems Analyst – ModelN Channel Management",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Data Engineer – Critical Environment Systems Intelligence",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Engineer – Critical Environment Systems Intelligence",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900071/Senior-Data-Engineer-%E2%80%93-Critical-Environment-Systems-Intelligence",
+    "id": "microsoft-senior-data-engineer-critical-environment-systems-intelligence-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Windows + Devices",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineer. Level: All Levels. Posted: Recently. Full Title: Software Engineer - Windows + Devices",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1904076/Software-Engineer---Windows-%2B-Devices%2C-Windows-Experiences",
+    "id": "microsoft-windows-devices-redmond"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Manager, Global Facilities Operations Systems",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "Data Science job for the role Manager, Global Facilities Operations Systems at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38650281",
+    "id": "micron-manager-global-facilities-operations-systems-manassas"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Intern - Master's Degree",
+    "job_city": "Morrisville",
+    "job_state": "NC",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role IT Business Systems Analyst – ModelN Channel Management at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analyst--Information-Technology_R253445?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-it-business-systems-analyst-modeln-channel-management-us"
+    "job_description": "Data Science job for the role Design Verification Intern - Master's Degree at Morrisville, NC",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Design-Verification-Intern---Master-s-Degree_2502775-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-intern-master-s-degree-morrisville"
   }
 ]
