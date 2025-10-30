@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Founding AI Engineer",
-    "job_city": "US",
+    "job_title": "Research Scientist, Materials Team, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
     "job_state": "CA",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role Founding AI Engineer at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/169189257-founding-ai-engineer",
-    "id": "aijobs-founding-ai-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Agent Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "43min ago",
-    "job_description": "data science job for the role AI Agent Engineer at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/169189270-ai-agent-engineer",
-    "id": "aijobs-ai-agent-engineer-us"
+    "job_description": "Data Science job for the role Research Scientist, Materials Team, AWS Center for Quantum Computing at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118308/research-scientist-materials-team-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-10-30T05:22:52.492Z",
+    "job_posted_at_datetime_utc": "2025-10-30T05:22:52.492Z",
+    "id": "amazon-research-scientist-materials-team-aws-center-for-quantum-computing-pasadena"
   }
 ]
