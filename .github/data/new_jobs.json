@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Applied Scientist, Console Science",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist, Console Science at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science",
-    "job_posted_at": "2025-10-30T18:12:49.232Z",
-    "job_posted_at_datetime_utc": "2025-10-30T18:12:49.232Z",
-    "id": "amazon-applied-scientist-console-science-santa-clara"
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Supply Chain Solutions Architect",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Supply Chain Solutions Architect at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007624/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-supply-chain-solutions-architect-dallas"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "RF Design Engineer",
-    "job_city": "United States",
-    "job_state": "GA",
-    "job_posted_at": "42min ago",
-    "job_description": "data science job for the role RF Design Engineer at Atlanta, GA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/169924000-rf-design-engineer",
-    "id": "aijobs-rf-design-engineer-united-states"
+    "employer_name": "MARVELL",
+    "job_title": "Physical Design Engineer",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Physical Design Engineer at Westborough, MA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Principal-Physical-Design-Engineer_2503225?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-physical-design-engineer-westborough"
   }
 ]
