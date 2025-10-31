@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Solution Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Solution Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903526/Solution-Architect%2C-Data-Center-Supply-Chain",
+    "id": "microsoft-solution-architect-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Principal Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-engineer/33099/87648489600",
+    "id": "arm-principal-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant Oracle Financial",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Consultant Oracle Financial at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49037&source=WEB_Search_NA",
+    "id": "ibm-consultant-oracle-financial-armonk"
+  }
+]
