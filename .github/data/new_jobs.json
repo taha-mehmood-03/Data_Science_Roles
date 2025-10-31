@@ -1,52 +1,82 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Member of Technical Staff- Machine Learning Operations Engineer",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Serialization & External Supply Solution & Data Architect",
+    "job_city": "San Francisco",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Member of Technical Staff- Machine Learning Operations Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/MIC140026/Member-of-Technical-Staff--Machine-Learning-Operations-Engineer",
-    "id": "microsoft-member-of-technical-staff-machine-learning-operations-engineer-mountain-view"
+    "job_description": "Data Science job for the role Serialization & External Supply Solution & Data Architect at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68595&source=WEB_Search_NA",
+    "id": "ibm-serialization-external-supply-solution-data-architect-san-francisco"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Hardware Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Technology Program Director",
+    "job_city": "No City",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Hardware Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/graduate-hardware-engineer/33099/87907108688",
-    "id": "arm-graduate-hardware-engineer-manchester"
+    "job_description": "Data Science job for the role Technology Program Director at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70703&source=WEB_Search_NA",
+    "id": "ibm-technology-program-director-no-city"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Software Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-software-engineer/33099/87907108672",
-    "id": "arm-graduate-software-engineer-cambridge"
+    "job_description": "Data Science job for the role Entry Level Product Manager 2026 at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59348&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-austin"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs)",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs) at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer---Time-Series---Sensor-Reasoning-Models--Lorenz-Labs-_R257762?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-time-series-sensor-reasoning-models-lorenz-labs-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Mainframe System Administrator Apprentice",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Mainframe System Administrator Apprentice at Entry LevelDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70047&source=WEB_Search_NA",
+    "id": "ibm-mainframe-system-administrator-apprentice-dallas"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "(Co-Op) - Reliability Hardware and Systems Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role (Co-Op) - Reliability Hardware and Systems Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/XMLNAME--Co-Op----Reliability-Hardware-and-Systems-Engineering_R257804?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-co-op-reliability-hardware-and-systems-engineering-us"
+    "employer_name": "IBM",
+    "job_title": "Managing SAP Consultant Work Management/Service Management",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing SAP Consultant Work Management/Service Management at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70058&source=WEB_Search_NA",
+    "id": "ibm-managing-sap-consultant-work-management-service-management-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer (Quantum Device Yield and Characterization)",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Developer (Quantum Device Yield and Characterization) at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69626&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-quantum-device-yield-and-characterization-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Database Administrator: IDMS - Mainframe COBOL",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Database Administrator: IDMS - Mainframe COBOL at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69997&source=WEB_Search_NA",
+    "id": "ibm-system-database-administrator-idms-mainframe-cobol-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69598&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-armonk"
   }
 ]
