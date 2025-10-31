@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Head of Data Science and Machine Learning, Global Forecasting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Head of Data Science and Machine Learning, Global Forecasting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/170896739-head-of-data-science-and-machine-learning-global-forecasting",
-    "id": "aijobs-head-of-data-science-and-machine-learning-global-forecasting-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director, Technical Program Management - AI and ML Platforms",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Director, Technical Program Management - AI and ML Platforms at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/170895473-director-technical-program-management-ai-and-ml-platforms",
-    "id": "aijobs-director-technical-program-management-ai-and-ml-platforms-santa-clara"
+    "job_title": "Computer Vision Data Scientist",
+    "job_city": "US",
+    "job_state": "ME",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Junior Computer Vision Data Scientist at Westbrook, ME, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/170918694-junior-computer-vision-data-scientist",
+    "id": "aijobs-computer-vision-data-scientist-us"
   }
 ]
