@@ -1,22 +1,52 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Applied Scientist II",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Member of Technical Staff- Machine Learning Operations Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Applied Scientist II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902344/Applied-Scientist-II",
-    "id": "microsoft-applied-scientist-ii-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Member of Technical Staff- Machine Learning Operations Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/MIC140026/Member-of-Technical-Staff--Machine-Learning-Operations-Engineer",
+    "id": "microsoft-member-of-technical-staff-machine-learning-operations-engineer-mountain-view"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Yield Enhancement Failure Analysis Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Yield Enhancement Failure Analysis Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38690541",
-    "id": "micron-yield-enhancement-failure-analysis-engineer-boise"
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Hardware Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/graduate-hardware-engineer/33099/87907108688",
+    "id": "arm-graduate-hardware-engineer-manchester"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Software Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-software-engineer/33099/87907108672",
+    "id": "arm-graduate-software-engineer-cambridge"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs)",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Engineer – Time-Series & Sensor Reasoning Models (Lorenz Labs) at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-Engineer---Time-Series---Sensor-Reasoning-Models--Lorenz-Labs-_R257762?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-time-series-sensor-reasoning-models-lorenz-labs-2-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "(Co-Op) - Reliability Hardware and Systems Engineering",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role (Co-Op) - Reliability Hardware and Systems Engineering at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/XMLNAME--Co-Op----Reliability-Hardware-and-Systems-Engineering_R257804?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-co-op-reliability-hardware-and-systems-engineering-us"
   }
 ]
