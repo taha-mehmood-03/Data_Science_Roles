@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Azure Revenue",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Azure Revenue",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903695/Senior-Finance-Manager---Azure-Revenue",
+    "id": "microsoft-azure-revenue-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Architect - Federated AI",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Principal Software Architect - Federated AI at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/170895468-principal-software-architect-federated-ai",
+    "id": "aijobs-software-architect-federated-ai-santa-clara"
+  }
+]
