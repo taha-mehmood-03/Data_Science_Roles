@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantum Engineer - HPC Systems",
+    "job_city": "Westford",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior Quantum Engineer - HPC Systems at US, MA, Westford",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617195-senior-quantum-engineer-hpc-systems",
+    "id": "aijobs-quantum-engineer-hpc-systems-westford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Infrastructure Engineer, DGXC Lepton",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role AI Infrastructure Engineer, DGXC Lepton at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617193-ai-infrastructure-engineer-dgxc-lepton",
+    "id": "aijobs-ai-infrastructure-engineer-dgxc-lepton-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Dev Ops Engineer",
+    "job_city": "Westford",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior HPC Dev Ops Engineer at US, MA, Westford",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617189-senior-hpc-dev-ops-engineer",
+    "id": "aijobs-hpc-dev-ops-engineer-westford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Applications Engineer",
+    "job_city": "Westford",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior HPC Applications Engineer at US, MA, Westford",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617197-senior-hpc-applications-engineer",
+    "id": "aijobs-hpc-applications-engineer-westford"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SoC Product Architect, NVL Fusion and Semi-Custom Silicon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role SoC Product Architect, NVL Fusion and Semi-Custom Silicon at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617201-soc-product-architect-nvl-fusion-and-semi-custom-silicon",
+    "id": "aijobs-soc-product-architect-nvl-fusion-and-semi-custom-silicon-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Software Engineer, GeForce NOW Low Latency Streaming Technology - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Systems Software Engineer, GeForce NOW Low Latency Streaming Technology - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/171617194-systems-software-engineer-geforce-now-low-latency-streaming-technology-new-college-grad-2025",
+    "id": "aijobs-systems-software-engineer-geforce-now-low-latency-streaming-technology-new-college-grad-santa-clara"
+  }
+]
