@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Staff/Principal Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Engineer-PDN",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff/Principal Software Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-principal-software-engineer/33099/77726588832",
-    "id": "arm-staff-principal-software-engineer-cambridge"
+    "job_description": "Data Science job for the role Principal Engineer-PDN at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-engineer-pdn/33099/88002924464",
+    "id": "arm-engineer-pdn-bengaluru"
   },
   {
     "employer_name": "Arm",
-    "job_title": "SoC Verification Engineer",
-    "job_city": "Manchester",
+    "job_title": "Engineering IP Governance Operations Manager",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Engineering IP Governance Operations Manager at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineering-ip-governance-operations-manager/33099/88002931472",
+    "id": "arm-engineering-ip-governance-operations-manager-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "/ Principal Implementation Engineer",
+    "job_city": "Sheffield",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC Verification Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/soc-verification-engineer/33099/87780420736",
-    "id": "arm-soc-verification-engineer-manchester"
+    "job_description": "Data Science job for the role Staff / Principal Implementation Engineer at Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/staff-principal-implementation-engineer/33099/84177006848",
+    "id": "arm-principal-implementation-engineer-sheffield"
   }
 ]
