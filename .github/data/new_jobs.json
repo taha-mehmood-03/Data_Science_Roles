@@ -1,82 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Solutions Engineer (Linux/Embedded Systems)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solutions Engineer (Linux/Embedded Systems) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/solutions-engineer-linux-embedded-systems/33099/86236625600",
-    "id": "arm-solutions-engineer-linux-embedded-systems-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Technology Manager",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Technology Manager at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-technology-manager/33099/88015187152",
-    "id": "arm-technology-manager-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer - FP",
-    "job_city": "Noida",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer - FP at Noida, India",
-    "job_apply_link": "https://careers.arm.com/job/noida/staff-engineer-fp/33099/87732527584",
-    "id": "arm-engineer-fp-noida"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer - STA",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer - STA at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-engineer-sta/33099/87732521984",
-    "id": "arm-engineer-sta-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "SoC Security Architecture & SDL Process Lead",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC Security Architecture & SDL Process Lead at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/soc-security-architecture-and-sdl-process-lead/33099/87532505168",
-    "id": "arm-soc-security-architecture-sdl-process-lead-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Building the Future with a 10x Mindset",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building the Future with a 10x Mindset at ",
-    "job_apply_link": "https://careers.arm.com/10x-mindset",
-    "id": "arm-building-the-future-with-a-10x-mindset-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Apprenticeships at Arm | You X Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Apprenticeships at Arm | You X Arm at ",
-    "job_apply_link": "https://careers.arm.com/apprenticeships",
-    "id": "arm-apprenticeships-at-arm-you-x-arm-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Sharbani Roy is building the future of AI at Arm Seattle",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sharbani Roy is building the future of AI at Arm Seattle at ",
-    "job_apply_link": "https://careers.arm.com/sharbani-roy-on-the-future-of-ai",
-    "id": "arm-sharbani-roy-is-building-the-future-of-ai-at-arm-seattle-multiple"
+    "job_title": "Deep Learning Architect, Generative AI Innovation Center",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Deep Learning Architect, Generative AI Innovation Center at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3081153/deep-learning-architect-generative-ai-innovation-center",
+    "job_posted_at": "2025-11-03T19:17:57.382Z",
+    "job_posted_at_datetime_utc": "2025-11-03T19:17:57.382Z",
+    "id": "amazon-deep-learning-architect-generative-ai-innovation-center-arlington"
   }
 ]
