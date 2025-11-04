@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Business Data Scientist II",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "35 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Data Scientist II, gTech",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/108054456049771206-business-data-scientist-ii-gtech?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-business-data-scientist-ii-boulder"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Global IT Infrastructure and Operations Leader",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Global IT Infrastructure and Operations Leader at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007576/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-global-it-infrastructure-and-operations-leader-dallas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science/R&D Analyst - Job description",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Data Science/R&D Analyst - Job description at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550500-data-science-r-d-analyst-job-description",
+    "id": "aijobs-data-science-r-d-analyst-job-description-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (3884)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist (3884) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550486-data-scientist-3884",
+    "id": "aijobs-data-scientist-3884-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, User Operations",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Data Scientist, User Operations at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550498-data-scientist-user-operations",
+    "id": "aijobs-data-scientist-user-operations-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, GeminiApp, Model Quality Team",
+    "job_city": "US",
+    "job_state": "Buffalo-Niagara Falls Area",
+    "job_posted_at": "13h ago",
+    "job_description": "data science job for the role Data Scientist, GeminiApp, Model Quality Team at Buffalo-Niagara Falls Area, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550483-data-scientist-geminiapp-model-quality-team",
+    "id": "aijobs-data-scientist-geminiapp-model-quality-team-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Trust & Safety",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist - Trust & Safety at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550492-data-scientist-trust-safety",
+    "id": "aijobs-data-scientist-trust-safety-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Analytics, Trust and Safety",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist - Analytics, Trust and Safety at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172550496-data-scientist-analytics-trust-and-safety",
+    "id": "aijobs-data-scientist-analytics-trust-and-safety-us"
+  }
+]
