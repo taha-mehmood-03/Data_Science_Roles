@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, User Operations",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Serialization & External Supply Business Analyst",
+    "job_city": "San Francisco",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist, User Operations at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/172368093-data-scientist-user-operations",
-    "id": "aijobs-data-scientist-user-operations-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, GPU Fleet Management",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Program Manager, GPU Fleet Management at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/172368088-technical-program-manager-gpu-fleet-management",
-    "id": "aijobs-technical-program-manager-gpu-fleet-management-united-states"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Serialization & External Supply Business Analyst at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68646&source=WEB_Search_NA",
+    "id": "ibm-serialization-external-supply-business-analyst-san-francisco"
   }
 ]
