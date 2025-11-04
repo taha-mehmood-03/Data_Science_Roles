@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy Consultant - Software - Cambridge, MA",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategy Consultant - Software - Cambridge, MA at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70679&source=WEB_Search_NA",
+    "id": "ibm-strategy-consultant-software-cambridge-ma-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Serialization Solution & Data Architect",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Serialization Solution & Data Architect at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68649&source=WEB_Search_NA",
+    "id": "ibm-serialization-solution-data-architect-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer-Federal",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer-Federal at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71070&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-federal-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager II at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71364&source=WEB_Search_NA",
+    "id": "ibm-product-manager-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Compilation Research Scientist",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantum Compilation Research Scientist at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69973&source=WEB_Search_NA",
+    "id": "ibm-quantum-compilation-research-scientist-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sourcing Professional - Marketing Services",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Sourcing Professional - Marketing Services at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59676&source=WEB_Search_NA",
+    "id": "ibm-sourcing-professional-marketing-services-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sourcing Professional - Technology",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Sourcing Professional - Technology at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69156&source=WEB_Search_NA",
+    "id": "ibm-sourcing-professional-technology-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sourcing Professional - HR Benefits & HR Services",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Sourcing Professional - HR Benefits & HR Services at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59677&source=WEB_Search_NA",
+    "id": "ibm-sourcing-professional-hr-benefits-hr-services-research-triangle-park"
+  }
+]
