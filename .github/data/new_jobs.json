@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Noida",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer at Noida, India",
-    "job_apply_link": "https://careers.arm.com/job/noida/staff-engineer/33099/88032989344",
-    "id": "arm-engineer-noida"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer-Verification",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer-Verification at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-engineer-verification/33099/88032985040",
-    "id": "arm-engineer-verification-bengaluru"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Infrastructure Engineer, Pre-training",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Staff Infrastructure Engineer, Pre-training at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/172366109-staff-infrastructure-engineer-pre-training",
-    "id": "aijobs-infrastructure-engineer-pre-training-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Systems Engineer - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Data Scientist, User Operations",
+    "job_city": "Unknown",
+    "job_state": "US",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Systems Engineer - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172366972-senior-software-systems-engineer-autonomous-vehicles",
-    "id": "aijobs-software-systems-engineer-autonomous-vehicles-santa-clara"
+    "job_description": "data science job for the role Data Scientist, User Operations at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/172368093-data-scientist-user-operations",
+    "id": "aijobs-data-scientist-user-operations-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "SDET Engineer- Enterprise Server",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Technical Program Manager, GPU Fleet Management",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior SDET Engineer- Enterprise Server at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/172366969-senior-sdet-engineer-enterprise-server",
-    "id": "aijobs-sdet-engineer-enterprise-server-santa-clara"
+    "job_description": "data science job for the role Technical Program Manager, GPU Fleet Management at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/172368088-technical-program-manager-gpu-fleet-management",
+    "id": "aijobs-technical-program-manager-gpu-fleet-management-united-states"
   }
 ]
