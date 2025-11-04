@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data Scientist, NLP/Text Analytics",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Senior Applied Data Scientist, NLP/Text Analytics at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/171165419-senior-applied-data-scientist-nlp-text-analytics",
-    "id": "aijobs-applied-data-scientist-nlp-text-analytics-unknown"
+    "employer_name": "Arm",
+    "job_title": "Thermal/Mechanical Engineer (Platforms)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Thermal/Mechanical Engineer (Platforms) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-thermal-mechanical-engineer-platforms/33099/87260512096",
+    "id": "arm-thermal-mechanical-engineer-platforms-bengaluru"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Engineering (AI-Native)",
-    "job_city": "Unknown",
+    "employer_name": "Arm",
+    "job_title": "Experienced Hardware Verification Engineer - (AI/ML)",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Experienced Hardware Verification Engineer - (AI/ML) at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/experienced-hardware-verification-engineer-ai-ml/33099/88043762416",
+    "id": "arm-experienced-hardware-verification-engineer-ai-ml-lund"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Specialist Intern 2026 (Monroe, LA)",
+    "job_city": "MONROE",
     "job_state": "US",
-    "job_posted_at": "5d ago",
-    "job_description": "data science job for the role Director of Engineering (AI-Native) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/169157160-director-of-engineering-ai-native",
-    "id": "aijobs-director-of-engineering-ai-native-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Specialist Intern 2026 (Monroe, LA) at InternshipMONROE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66519&source=WEB_Search_NA",
+    "id": "ibm-technical-specialist-intern-2026-monroe-la-monroe"
   }
 ]
