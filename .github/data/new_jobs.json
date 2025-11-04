@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DirectX Intern Developer",
-    "job_city": "Raanana",
-    "job_state": "Israel",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role DirectX Intern Developer at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/directx-intern-developer/33099/88042175216",
-    "id": "arm-directx-intern-developer-raanana"
+    "employer_name": "AiJobs",
+    "job_title": "Applied Data Scientist, NLP/Text Analytics",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Senior Applied Data Scientist, NLP/Text Analytics at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/171165419-senior-applied-data-scientist-nlp-text-analytics",
+    "id": "aijobs-applied-data-scientist-nlp-text-analytics-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Engineering (AI-Native)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Director of Engineering (AI-Native) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/169157160-director-of-engineering-ai-native",
+    "id": "aijobs-director-of-engineering-ai-native-unknown"
   }
 ]
