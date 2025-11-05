@@ -1,23 +1,13 @@
 [
   {
-    "job_title": "Data Engineer II, Perfect Order Experience",
+    "job_title": "Applied Scientist",
     "employer_name": "Amazon",
-    "job_city": "Detroit",
-    "job_state": "MI",
-    "job_description": "Data Science job for the role Data Engineer II, Perfect Order Experience at Detroit, MI, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3120995/data-engineer-ii-perfect-order-experience",
-    "job_posted_at": "2025-11-04T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-11-04T00:00:00.000Z",
-    "id": "amazon-data-engineer-ii-perfect-order-experience-detroit"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Digital Transformation Internship – AI & Apptio Tools",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Transformation Internship – AI & Apptio Tools at InternshipArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68896&source=WEB_Search_NA",
-    "id": "ibm-digital-transformation-internship-ai-apptio-tools-armonk"
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121030/applied-scientist",
+    "job_posted_at": "2025-11-04T23:11:21.954Z",
+    "job_posted_at_datetime_utc": "2025-11-04T23:11:21.954Z",
+    "id": "amazon-applied-scientist-santa-clara"
   }
 ]
