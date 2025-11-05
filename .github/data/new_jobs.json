@@ -1,13 +1,62 @@
 [
   {
-    "job_title": "Applied Scientist",
-    "employer_name": "Amazon",
+    "employer_name": "IBM",
+    "job_title": "Solutions Architect and Operations Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Architect and Operations Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71057&source=WEB_Search_NA",
+    "id": "ibm-solutions-architect-and-operations-manager-multiple-cities"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Validation Intern - Bachelor's Degree",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Validation Intern - Bachelor's Degree at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Validation-Intern---Bachelor-s-Degree_2502721-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-validation-intern-bachelor-s-degree-2-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Package Technology Principal Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Advanced Package Technology Principal Engineer at Austin, TX",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Advanced-Package-Technology-Principal-Engineer_2503367?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-package-technology-principal-engineer-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Director Information Technology",
     "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121030/applied-scientist",
-    "job_posted_at": "2025-11-04T23:11:21.954Z",
-    "job_posted_at_datetime_utc": "2025-11-04T23:11:21.954Z",
-    "id": "amazon-applied-scientist-santa-clara"
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Director Information Technology at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Director-Information-Technology_2503203?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-director-information-technology-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-mixed-signal-ic-ai-systems-r-d-intern-master-s-degree-irvine"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Associate Vice President, Chief of Staff - Custom Cloud Solutions",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Associate Vice President, Chief of Staff - Custom Cloud Solutions at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Associate-Vice-President--Chief-of-Staff---Custom-Cloud-Solutions_2502841?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-associate-vice-president-chief-of-staff-custom-cloud-solutions-irvine"
   }
 ]
