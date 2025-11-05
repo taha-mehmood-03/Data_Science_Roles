@@ -1,13 +1,43 @@
 [
   {
-    "job_title": "Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI)",
+    "job_title": "Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi",
-    "job_posted_at": "2025-11-05T15:20:22.957Z",
-    "job_posted_at_datetime_utc": "2025-11-05T15:20:22.957Z",
-    "id": "amazon-software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi-bellevue"
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services",
+    "job_posted_at": "2025-11-05T16:15:24.603Z",
+    "job_posted_at_datetime_utc": "2025-11-05T16:15:24.603Z",
+    "id": "amazon-software-dev-engineer-intern-ai-summer-2026-amazon-devices-services-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist Intern (Immediate Start)",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Data Scientist Intern (Immediate Start) at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172752860-data-scientist-intern-immediate-start",
+    "id": "aijobs-data-scientist-intern-immediate-start-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence/Machine Learning (AI/ML) Engineer",
+    "job_city": "US",
+    "job_state": "MD",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Artificial Intelligence/Machine Learning (AI/ML) Engineer at Annapolis Junction, MD, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/172752862-artificial-intelligence-machine-learning-ai-ml-engineer",
+    "id": "aijobs-artificial-intelligence-machine-learning-ai-ml-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Edge",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Engineer - Edge at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/172754982-software-engineer-edge",
+    "id": "aijobs-software-engineer-edge-d-c"
   }
 ]
