@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "Applied Scientist, Artificial General Intelligence - Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Applied Scientist, Artificial General Intelligence - Data Services at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3121529/applied-scientist-artificial-general-intelligence-data-services",
-    "job_posted_at": "2025-11-05T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-11-05T00:00:00.000Z",
-    "id": "amazon-applied-scientist-artificial-general-intelligence-data-services-boston"
+    "employer_name": "Arm",
+    "job_title": "Multimedia Solution Manager",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Multimedia Solution Manager at Cambridge, United Kingdom, Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/multimedia-solution-manager/33099/76633282320",
+    "id": "arm-multimedia-solution-manager-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Data Scientist, TPG",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Senior Data Scientist, TPG at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/38742408",
+    "id": "micron-data-scientist-tpg-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - IT Software Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role New College Grad - IT Software Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38534503",
+    "id": "micron-new-college-grad-it-software-engineer-boise"
   }
 ]
