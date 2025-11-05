@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Visiting Scientist – AI Foundations Research",
-    "job_city": "Cambridge",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Visiting Scientist – AI Foundations Research at Entry LevelCambridge, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68814&source=WEB_Search_NA",
-    "id": "ibm-visiting-scientist-ai-foundations-research-cambridge"
+    "employer_name": "MARVELL",
+    "job_title": "Digital, Mixed Signal IC Design Engineer, Principal",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Digital, Mixed Signal IC Design Engineer, Principal at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Digital--Mixed-Signal-IC-Design-Engineer--Principal_2502940?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-digital-mixed-signal-ic-design-engineer-principal-santa-clara"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive, Pacific Northwest",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive, Pacific Northwest at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71650&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-pacific-northwest-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive, Midwest",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive, Midwest at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71644&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-midwest-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive, NYC/Philly",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive, NYC/Philly at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71651&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-nyc-philly-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Exposure Management Services Consultant",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Exposure Management Services Consultant at ProfessionalHouston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71287&source=WEB_Search_NA",
-    "id": "ibm-exposure-management-services-consultant-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer (Front End Focused)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Software Engineer (Front End Focused) at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Software-Engineer-Front-End-Focused",
-    "id": "abb-software-engineer-front-end-focused-multiple"
+    "employer_name": "MARVELL",
+    "job_title": "Principal Hardware Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Principal Hardware Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Hardware-Engineer_2503354?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-hardware-engineer-santa-clara"
   }
 ]
