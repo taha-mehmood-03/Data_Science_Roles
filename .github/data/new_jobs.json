@@ -1,12 +1,82 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate Technical Writer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Back-end Developer",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Technical Writer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/graduate-technical-writer/33099/88127716672",
-    "id": "arm-graduate-technical-writer-cambridge"
+    "job_description": "Data Science job for the role Back-end Developer at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70666&source=WEB_Search_NA",
+    "id": "ibm-back-end-developer-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Salesforce Solution Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Salesforce Solution Engineer at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70335&source=WEB_Search_NA",
+    "id": "ibm-salesforce-solution-engineer-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Test Lead",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Test Lead at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63652&source=WEB_Search_NA",
+    "id": "ibm-hardware-test-lead-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 Lowell",
+    "job_city": "LOWELL",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer Co-Op 2026 Lowell at InternshipLOWELL, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71666&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-lowell-lowell"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 Austin",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer Co-Op 2026 Austin at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71664&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-austin-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Co-Op 2026 SVL",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer Co-Op 2026 SVL at InternshipSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71639&source=WEB_Search_NA",
+    "id": "ibm-software-developer-co-op-2026-svl-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Development Leader Navy / USMC",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Development Leader Navy / USMC at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71341&source=WEB_Search_NA",
+    "id": "ibm-business-development-leader-navy-usmc-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud Senior managing consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Oracle Cloud Senior managing consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=67050&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-senior-managing-consultant-multiple-cities"
   }
 ]
