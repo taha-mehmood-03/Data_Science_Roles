@@ -1,22 +1,132 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Specialist Intern 2026 (Lansing, MI)",
-    "job_city": "Lansing",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Specialist Intern 2026 (Lansing, MI) at InternshipLansing, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66526&source=WEB_Search_NA",
-    "id": "ibm-technical-specialist-intern-2026-lansing-mi-lansing"
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Diffusion Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role New College Grad - Diffusion Equipment Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30765221",
+    "id": "micron-new-college-grad-diffusion-equipment-engineer-manassas"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Specialist Intern 2026 (Baton Rouge, LA)",
-    "job_city": "BATON ROUGE",
+    "employer_name": "Micron",
+    "job_title": "New College Grad - PCS Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role New College Grad - PCS Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38566566",
+    "id": "micron-new-college-grad-pcs-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - R2R Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role New College Grad - R2R Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38632960",
+    "id": "micron-new-college-grad-r2r-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - OI System Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role New College Grad - OI System Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38374727",
+    "id": "micron-new-college-grad-oi-system-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Semiconductor Product Quality Assurance Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role New College Grad - Semiconductor Product Quality Assurance Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38632965",
+    "id": "micron-new-college-grad-semiconductor-product-quality-assurance-engineer-manassas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science & Optimization – Contractor",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Specialist Intern 2026 (Baton Rouge, LA) at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66525&source=WEB_Search_NA",
-    "id": "ibm-technical-specialist-intern-2026-baton-rouge-la-baton-rouge"
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Science & Optimization – Contractor at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245802-data-science-optimization-contractor",
+    "id": "aijobs-data-science-optimization-contractor-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science Intern - Year Round",
+    "job_city": "US",
+    "job_state": "WI",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Science Intern - Year Round at Saukville, WI, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245805-data-science-intern-year-round",
+    "id": "aijobs-data-science-intern-year-round-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Scientist I/II, Automated Image Analysis",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning Scientist I/II, Automated Image Analysis at Cambridge, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245817-machine-learning-scientist-i-ii-automated-image-analysis",
+    "id": "aijobs-machine-learning-scientist-i-ii-automated-image-analysis-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer II - Training",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning Engineer II - Training at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245813-machine-learning-engineer-ii-training",
+    "id": "aijobs-machine-learning-engineer-ii-training-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, Google Research",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Scientist, Google Research at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245801-research-scientist-google-research",
+    "id": "aijobs-research-scientist-google-research-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Development Internship",
+    "job_city": "US",
+    "job_state": "MN",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role AI Development Internship at Minneapolis, MN, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245807-ai-development-internship",
+    "id": "aijobs-ai-development-internship-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Biologist",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Biologist at Cambridge, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245814-biologist",
+    "id": "aijobs-biologist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Scientist",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Junior Scientist at Gibsonia, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/173245808-junior-scientist",
+    "id": "aijobs-scientist-us"
   }
 ]
