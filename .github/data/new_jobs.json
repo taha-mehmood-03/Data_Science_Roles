@@ -1,12 +1,43 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Consultant Intern 2026 (Baton Rouge, LA)",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
+    "job_title": "Assoc Delivery Cons - AI/ML, Associate to Consultant (A2C)",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Assoc Delivery Cons - AI/ML, Associate to Consultant (A2C) at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3122067/assoc-delivery-cons-ai-ml-associate-to-consultant-a2c",
+    "job_posted_at": "2025-11-06T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-06T00:00:00.000Z",
+    "id": "amazon-assoc-delivery-cons-ai-ml-associate-to-consultant-a2c-arlington"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graphics Hardware Debug Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consultant Intern 2026 (Baton Rouge, LA) at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66501&source=WEB_Search_NA",
-    "id": "ibm-consultant-intern-2026-baton-rouge-la-baton-rouge"
+    "job_description": "Data Science job for the role Graphics Hardware Debug Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/graphics-hardware-debug-engineer/33099/84349465808",
+    "id": "arm-graphics-hardware-debug-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Manager, Cloud Go-to-Market",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Cloud Go-to-Market at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-cloud-go-to-market/33099/85824524816",
+    "id": "arm-manager-cloud-go-to-market-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Yield Analysis Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Yield Analysis Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38760180",
+    "id": "micron-yield-analysis-engineer-boise"
   }
 ]
