@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Engineer Role @ NOIDA",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Engineer Role @ NOIDA at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/engineer-role-noida/33099/88040255072",
+    "id": "arm-engineer-role-noida-bengaluru"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "Software QA Test Development Engineer - Diagnostics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software QA Test Development Engineer - Diagnostics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/173109971-senior-software-qa-test-development-engineer-diagnostics",
-    "id": "aijobs-software-qa-test-development-engineer-diagnostics-santa-clara"
+    "job_title": "Research Scientist I/II, In Silico Materials Discovery",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Research Scientist I/II, In Silico Materials Discovery at Cambridge, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167571726-research-scientist-i-ii-in-silico-materials-discovery",
+    "id": "aijobs-research-scientist-i-ii-in-silico-materials-discovery-us"
   }
 ]
