@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Operations Manager, Vendor Management",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "IT Specialist",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Operations Manager, Vendor Management at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/operations-manager-vendor-management/33099/72932452352",
-    "id": "arm-operations-manager-vendor-management-austin"
+    "job_description": "Data Science job for the role IT Specialist at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71696&source=WEB_Search_NA",
+    "id": "ibm-it-specialist-armonk"
   },
   {
     "employer_name": "IBM",
-    "job_title": "FICON Firmware Developer",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "Solutions Architect",
+    "job_city": "Armonk",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role FICON Firmware Developer at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=70655&source=WEB_Search_NA",
-    "id": "ibm-ficon-firmware-developer-poughkeepsie"
+    "job_description": "Data Science job for the role Senior Solutions Architect at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63685&source=WEB_Search_NA",
+    "id": "ibm-solutions-architect-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Automation Digital Technical Specialist",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Automation Digital Technical Specialist at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63682&source=WEB_Search_NA",
+    "id": "ibm-automation-digital-technical-specialist-armonk"
   }
 ]
