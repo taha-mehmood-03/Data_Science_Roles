@@ -1,13 +1,42 @@
 [
   {
-    "job_title": "Domain Expert Lead- STEM (Contract), AGI - Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Domain Expert Lead- STEM (Contract), AGI - Data Services at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3122615/domain-expert-lead-stem-contract-agi-data-services",
-    "job_posted_at": "2025-11-07T00:09:36.471Z",
-    "job_posted_at_datetime_utc": "2025-11-07T00:09:36.471Z",
-    "id": "amazon-domain-expert-lead-stem-contract-agi-data-services-bellevue"
+    "employer_name": "IBM",
+    "job_title": "Quantum Hardware Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantum Hardware Engineer at Entry LevelYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=69136&source=WEB_Search_NA",
+    "id": "ibm-quantum-hardware-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Lifecycle Services Renewals Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72256&source=WEB_Search_NA",
+    "id": "ibm-technology-lifecycle-services-renewals-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Lifecycle Services Renewals – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Lifecycle Services Renewals – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72252&source=WEB_Search_NA",
+    "id": "ibm-technology-lifecycle-services-renewals-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mixed-signal ASIC Design and Integration Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Mixed-signal ASIC Design and Integration Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72053&source=WEB_Search_NA",
+    "id": "ibm-mixed-signal-asic-design-and-integration-engineer-yorktown-heights"
   }
 ]
