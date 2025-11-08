@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Digital Customer Marketing",
+    "job_city": "US",
+    "job_state": "TN",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist - Digital Customer Marketing at Nashville, TN, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053796-data-scientist-digital-customer-marketing",
+    "id": "aijobs-data-scientist-digital-customer-marketing-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sr Data Scientist - eCommerce",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Sr Data Scientist - eCommerce at San Antonio, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053801-sr-data-scientist-ecommerce",
+    "id": "aijobs-sr-data-scientist-ecommerce-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist/Machine Learning Engineer",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Data Scientist/Machine Learning Engineer at Wayne, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053799-data-scientist-machine-learning-engineer",
+    "id": "aijobs-data-scientist-machine-learning-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Search AI Mode",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Scientist, Search AI Mode at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053784-data-scientist-search-ai-mode",
+    "id": "aijobs-data-scientist-search-ai-mode-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Data Scientist",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Product Data Scientist at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053790-product-data-scientist",
+    "id": "aijobs-product-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist/Senior Data Scientist",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist/Senior Data Scientist at Seattle, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053794-data-scientist-senior-data-scientist",
+    "id": "aijobs-data-scientist-senior-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "decision scientist - Data & Analytics  (Seattle,WA)",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role decision scientist - Data & Analytics  (Seattle,WA) at Seattle, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174053787-decision-scientist-data-analytics-seattle-wa",
+    "id": "aijobs-decision-scientist-data-analytics-seattle-wa-us"
+  }
+]
