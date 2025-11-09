@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist/Engineer - Experienced or Recent Grad (Health Tech Startup) 🚀",
+    "job_city": "US",
+    "job_state": "IL",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist/Engineer - Experienced or Recent Grad (Health Tech Startup) 🚀 at Chicago, IL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174737937-data-scientist-engineer-experienced-or-recent-grad-health-tech-startup",
+    "id": "aijobs-data-scientist-engineer-experienced-or-recent-grad-health-tech-startup-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI & Machine Learning Engineer (Junior)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role AI & Machine Learning Engineer (Junior) at Malibu, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174737932-ai-machine-learning-engineer-junior",
+    "id": "aijobs-ai-machine-learning-engineer-junior-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist - Salesforce AI Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Scientist - Salesforce AI Research at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/174737933-research-scientist-salesforce-ai-research",
+    "id": "aijobs-research-scientist-salesforce-ai-research-us"
+  }
+]
