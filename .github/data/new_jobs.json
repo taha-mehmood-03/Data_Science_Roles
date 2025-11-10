@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Data Scientist",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Data Scientist, Consumer Shopping",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72927503378719430-staff-data-scientist-consumer-shopping?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-staff-data-scientist-kirkland"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Principal GPU Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "BMC Firmware Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal GPU Architect at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-gpu-architect/33099/88163615488",
-    "id": "arm-principal-gpu-architect-cambridge"
+    "job_description": "Data Science job for the role Principal BMC Firmware Design Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-bmc-firmware-design-engineer/33099/87532502544",
+    "id": "arm-bmc-firmware-design-engineer-san-jose"
   }
 ]
