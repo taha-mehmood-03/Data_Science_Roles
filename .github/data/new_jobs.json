@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Network and Computer Systems Administrator Apprenticeship",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Staff Data Scientist",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Network and Computer Systems Administrator Apprenticeship at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=68848&source=WEB_Search_NA",
-    "id": "ibm-network-and-computer-systems-administrator-apprenticeship-poughkeepsie"
+    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Data Scientist, Consumer Shopping",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72927503378719430-staff-data-scientist-consumer-shopping?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-staff-data-scientist-kirkland"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal GPU Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Principal GPU Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-principal-gpu-architect/33099/88163615488",
+    "id": "arm-principal-gpu-architect-cambridge"
   }
 ]
