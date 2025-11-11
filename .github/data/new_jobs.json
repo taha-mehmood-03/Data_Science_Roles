@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data scientist, Ads Insight and Measurement",
+    "employer_name": "Arm",
+    "job_title": "Operations QMS Expert",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Operations QMS Expert at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-operations-qms-expert/33099/88312726608",
+    "id": "arm-operations-qms-expert-cambridge"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Semiconductor Device Engineer",
     "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "6h ago",
-    "job_description": "data science job for the role Data scientist, Ads Insight and Measurement at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/175535519-data-scientist-ads-insight-and-measurement",
-    "id": "aijobs-data-scientist-ads-insight-and-measurement-us"
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Semiconductor Device Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Semiconductor-Device-Engineer_R257843?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-semiconductor-device-engineer-us"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Algorithms - Growth",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Data Scientist, Algorithms - Growth at Seattle, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/175535516-data-scientist-algorithms-growth",
-    "id": "aijobs-data-scientist-algorithms-growth-us"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Engineer, Advanced Package Technology Development & Design",
+    "job_city": "Westlake Village",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Engineer, Advanced Package Technology Development & Design at Westlake Village, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Senior-Staff-Engineer--Advanced-Package-Technology-Development---Design_2503426?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-engineer-advanced-package-technology-development-design-westlake-village"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Python Developer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "6d ago",
-    "job_description": "data science job for the role Python Developer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/175535520-python-developer",
-    "id": "aijobs-python-developer-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Internship [Summer 2026]",
-    "job_city": "US",
-    "job_state": "United States",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Data Scientist - Internship [Summer 2026] at New York, United States, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/175535513-data-scientist-internship-summer-2026",
-    "id": "aijobs-data-scientist-internship-summer-2026-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Apollo Systems",
-    "job_city": "NY",
-    "job_state": "New York",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer - Apollo Systems at New York, NY",
-    "job_apply_link": "https://www.aijobs.com/jobs/175541810-software-engineer-apollo-systems",
-    "id": "aijobs-software-engineer-apollo-systems-ny"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Apollo Systems",
-    "job_city": "WA",
-    "job_state": "Seattle",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer - Apollo Systems at Seattle, WA",
-    "job_apply_link": "https://www.aijobs.com/jobs/175541809-software-engineer-apollo-systems",
-    "id": "aijobs-software-engineer-apollo-systems-wa"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer – AI Agent Platform",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Senior Machine Learning Engineer – AI Agent Platform at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/175535512-senior-machine-learning-engineer-ai-agent-platform",
-    "id": "aijobs-machine-learning-engineer-ai-agent-platform-us"
+    "employer_name": "MARVELL",
+    "job_title": "Hardware Engineer, Optics",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Hardware Engineer, Optics at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Engineer--Optics_2503371?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-hardware-engineer-optics-santa-clara"
   }
 ]
