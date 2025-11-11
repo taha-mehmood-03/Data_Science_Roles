@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Service Assurance Specialist​",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Product Lead",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Service Assurance Specialist​ at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/service-assurance-specialist/33099/76033307696",
-    "id": "arm-service-assurance-specialist-bengaluru"
+    "job_description": "7 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Lead, Creative Effectiveness Research",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135297601112023750-product-lead-creative-effectiveness-research?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-product-lead-new-york"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer – Genomics HPC",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Software Engineer – Genomics HPC at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175280041-senior-system-software-engineer-genomics-hpc",
+    "id": "aijobs-system-software-engineer-genomics-hpc-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Development Engineer in Test",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Development Engineer in Test at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/168787635-senior-software-development-engineer-in-test",
+    "id": "aijobs-software-development-engineer-in-test-santa-clara"
   }
 ]
