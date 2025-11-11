@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Power Firmware Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Power Firmware Developer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72278&source=WEB_Search_NA",
-    "id": "ibm-power-firmware-developer-multiple-cities"
+    "job_title": "Product Marketing Manager, Amazon Music",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Product Marketing Manager, Amazon Music at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124471/product-marketing-manager-amazon-music",
+    "job_posted_at": "2025-11-11T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-11T00:00:00.000Z",
+    "id": "amazon-product-marketing-manager-amazon-music-culver-city"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Thesis Work for Evaluation of Digital Twin based Optimization of Cyber Physical System",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Thesis Work for Evaluation of Digital Twin based Optimization of Cyber Physical System at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016506/Thesis-Work-for-Evaluation-of-Digital-Twin-based-Optimization-of-Cyber-Physical-System",
+    "id": "abb-thesis-work-for-evaluation-of-digital-twin-based-optimization-of-cyber-physical-system-vaesteras"
   }
 ]
