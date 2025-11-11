@@ -1,72 +1,54 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Ecosystem Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Ecosystem Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72050&source=WEB_Search_NA",
-    "id": "ibm-entry-level-ecosystem-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solutions Architecture Specialist",
-    "job_city": "TUCSON",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solutions Architecture Specialist at ProfessionalTUCSON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72665&source=WEB_Search_NA",
-    "id": "ibm-solutions-architecture-specialist-tucson"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "VADAR Archive SME",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior VADAR Archive SME at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72674&source=WEB_Search_NA",
-    "id": "ibm-vadar-archive-sme-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern – Information Architecture",
+    "job_title": "Marketing Specialist",
+    "employer_name": "Amazon",
     "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role 2026 Intern – Information Architecture at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72716&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-information-architecture-austin"
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Marketing Specialist at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124112/marketing-specialist",
+    "job_posted_at": "2025-11-11T00:11:31.340Z",
+    "job_posted_at_datetime_utc": "2025-11-11T00:11:31.340Z",
+    "id": "amazon-marketing-specialist-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Entry-Level Technical Writer – AI & Open Source",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry-Level Technical Writer – AI & Open Source at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71798&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-writer-ai-open-source-multiple-cities"
+    "job_title": "Software Development Engineer - Content Analytics, Technical Content Experience",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer - Content Analytics, Technical Content Experience at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124095/software-development-engineer-content-analytics-technical-content-experience",
+    "job_posted_at": "2025-11-11T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-11T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-content-analytics-technical-content-experience-seattle"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Writer Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Director of Leadership Development",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Writer Intern at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72644&source=WEB_Search_NA",
-    "id": "ibm-technical-writer-intern-multiple-cities"
+    "job_description": "Data Science job for the role Director of Leadership Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-leadership-development/33099/88076531664",
+    "id": "arm-director-of-leadership-development-san-jose"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Infrastructure  (TPM)",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Senior Technical Program Manager, Infrastructure  (TPM) at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/175052996-senior-technical-program-manager-infrastructure-tpm",
-    "id": "aijobs-technical-program-manager-infrastructure-tpm-ca"
+    "employer_name": "Arm",
+    "job_title": "Director of Leadership Development",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Leadership Development at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-of-leadership-development/33099/83959009936",
+    "id": "arm-director-of-leadership-development-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "M&G Senior Commissioning Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role M&G Senior Commissioning Technician at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010549/M-G-Senior-Commissioning-Technician",
+    "id": "abb-m-g-senior-commissioning-technician-multiple"
   }
 ]
