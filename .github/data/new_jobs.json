@@ -1,12 +1,73 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Facilities Operations Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Data Scientist II - AMZ26308.1",
+    "employer_name": "Amazon",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Data Science job for the role Data Scientist II - AMZ26308.1 at Atlanta, GA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3108423/data-scientist-ii-amz26308-1",
+    "job_posted_at": "2025-11-12T20:15:01.622Z",
+    "job_posted_at_datetime_utc": "2025-11-12T20:15:01.622Z",
+    "id": "amazon-data-scientist-ii-amz26308-1-atlanta"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Lead for AI and Data Solutions",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Facilities Operations Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-facilities-operations-engineer/33099/88349930096",
-    "id": "arm-facilities-operations-engineer-austin"
+    "job_description": "Data Science job for the role Senior Delivery Lead for AI and Data Solutions at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73432&source=WEB_Search_NA",
+    "id": "ibm-delivery-lead-for-ai-and-data-solutions-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant- Hyperion",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Consultant- Hyperion at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73436&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-hyperion-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP HR Functional Consultant",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP HR Functional Consultant at ProfessionalBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73381&source=WEB_Search_NA",
+    "id": "ibm-sap-hr-functional-consultant-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Value Orchestrator",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Value Orchestrator at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72260&source=WEB_Search_NA",
+    "id": "ibm-value-orchestrator-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP FI/CO Functional Consultant",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP FI/CO Functional Consultant at ProfessionalBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73033&source=WEB_Search_NA",
+    "id": "ibm-sap-fi-co-functional-consultant-buffalo"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Data Analytics Intern",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Analytics Intern at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Data-Analytics-Intern_R258069?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-data-analytics-intern-us"
   }
 ]
