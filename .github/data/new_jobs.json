@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Product Manager",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/MIC140717/Senior-Product-Manager%2C-Measurement-%26-Experimentation%2C-Copilot",
+    "id": "microsoft-senior-product-manager-mountain-view"
+  }
+]
