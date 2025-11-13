@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Managing Architect Oracle Financial",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Managing Architect Oracle Financial at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49048&source=WEB_Search_NA",
-    "id": "ibm-managing-architect-oracle-financial-armonk"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Technical Business Strategist, AI and ML",
+    "job_title": "System Architect, GPU",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Business Strategist, AI and ML at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/175985058-technical-business-strategist-ai-and-ml",
-    "id": "aijobs-technical-business-strategist-ai-and-ml-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer - Humanoid Robotics Loco-Manipulation",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Machine Learning Engineer - Humanoid Robotics Loco-Manipulation at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/175985057-senior-machine-learning-engineer-humanoid-robotics-loco-manipulation",
-    "id": "aijobs-machine-learning-engineer-humanoid-robotics-loco-manipulation-santa-clara"
+    "job_description": "data science job for the role Senior System Architect, GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/175985054-senior-system-architect-gpu",
+    "id": "aijobs-system-architect-gpu-santa-clara"
   }
 ]
