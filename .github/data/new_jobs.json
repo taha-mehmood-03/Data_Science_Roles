@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Solution Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Solution Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-solution-engineer/33099/83233492784",
+    "id": "arm-solution-engineer-san-diego"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "System Architect, GPU",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior System Architect, GPU at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/175985054-senior-system-architect-gpu",
-    "id": "aijobs-system-architect-gpu-santa-clara"
+    "job_title": "Research Scientist (Applied Perception / Audio)",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Research Scientist (Applied Perception / Audio) at Redmond, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176017541-research-scientist-applied-perception-audio",
+    "id": "aijobs-research-scientist-applied-perception-audio-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Research Scientist at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/176017544-research-scientist",
+    "id": "aijobs-research-scientist-unknown"
   }
 ]
