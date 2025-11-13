@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science Specialist",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Science Specialist at Philadelphia, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614820-data-science-specialist",
+    "id": "aijobs-data-science-specialist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer (Data Science)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Machine Learning Engineer (Data Science) at Santa Clara, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614831-machine-learning-engineer-data-science",
+    "id": "aijobs-machine-learning-engineer-data-science-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer - AI/ML",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior Machine Learning Engineer - AI/ML at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614829-senior-machine-learning-engineer-ai-ml",
+    "id": "aijobs-machine-learning-engineer-ai-ml-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Engineer / AI Specialist- Machine learning",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role AI/ML Engineer / AI Specialist- Machine learning at Walnut Creek, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614812-ai-ml-engineer-ai-specialist-machine-learning",
+    "id": "aijobs-ai-ml-engineer-ai-specialist-machine-learning-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist III (US)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Scientist III (US) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614827-data-scientist-iii-us",
+    "id": "aijobs-data-scientist-iii-us-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, Machine Learning, Geospatial AI",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Scientist, Machine Learning, Geospatial AI at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614815-research-scientist-machine-learning-geospatial-ai",
+    "id": "aijobs-research-scientist-machine-learning-geospatial-ai-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "GenAI & AI/ML Engineering Intern",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role GenAI & AI/ML Engineering Intern at Milpitas, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/176614833-genai-ai-ml-engineering-intern",
+    "id": "aijobs-genai-ai-ml-engineering-intern-us"
+  }
+]
