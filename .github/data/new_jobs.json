@@ -1,62 +1,113 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Master Scheduler Planner",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Master Scheduler Planner at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015189/Master-Scheduler-Planner",
-    "id": "abb-master-scheduler-planner-mebane"
+    "job_title": "Software Development Engineer - Content Analytics, Technical Content Experience",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Software Development Engineer - Content Analytics, Technical Content Experience at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124095/software-development-engineer-content-analytics-technical-content-experience",
+    "job_posted_at": "2025-11-13T20:15:06.564Z",
+    "job_posted_at_datetime_utc": "2025-11-13T20:15:06.564Z",
+    "id": "amazon-software-development-engineer-content-analytics-technical-content-experience-arlington"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI/ML Robotics Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior AI/ML Robotics Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Senior-AI-ML-Robotics-Engineer_R257903?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-ml-robotics-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer",
-    "job_city": "United States",
-    "job_state": "New York",
-    "job_posted_at": "20h ago",
-    "job_description": "data science job for the role Senior AI Engineer at New York City, New York, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/176946061-senior-ai-engineer",
-    "id": "aijobs-ai-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, Prior Authorization",
-    "job_city": "United States",
-    "job_state": "New York",
-    "job_posted_at": "20h ago",
-    "job_description": "data science job for the role Senior AI Engineer, Prior Authorization at New York City, New York, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/176946062-senior-ai-engineer-prior-authorization",
-    "id": "aijobs-ai-engineer-prior-authorization-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "UX Designer",
-    "job_city": "United States",
-    "job_state": "New York",
-    "job_posted_at": "31min ago",
-    "job_description": "data science job for the role Senior UX Designer at New York City, New York, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/176946069-senior-ux-designer",
-    "id": "aijobs-ux-designer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer I (entry)",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Workday Data Conversion Lead",
+    "job_city": "New York",
     "job_state": "US",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Software Engineer I (entry) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/176946588-software-engineer-i-entry",
-    "id": "aijobs-software-engineer-i-entry-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Workday Data Conversion Lead at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73709&source=WEB_Search_NA",
+    "id": "ibm-workday-data-conversion-lead-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hire Remote Technical Support - Hardware and Software Products",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Hire Remote Technical Support - Hardware and Software Products 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73425&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hire-remote-technical-support-hardware-and-software-products-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Enablement Specialist Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Enablement Specialist Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73390&source=WEB_Search_NA",
+    "id": "ibm-technical-enablement-specialist-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Enablement Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Technical Enablement Specialist 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73423&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-enablement-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Pricing & Packaging",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Pricing & Packaging at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73177&source=WEB_Search_NA",
+    "id": "ibm-pricing-packaging-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "PowerVM Firmware Developer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role PowerVM Firmware Developer at ProfessionalROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74113&source=WEB_Search_NA",
+    "id": "ibm-powervm-firmware-developer-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Network and Computer Systems Administrator Apprentice",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Network and Computer Systems Administrator Apprentice at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72727&source=WEB_Search_NA",
+    "id": "ibm-network-and-computer-systems-administrator-apprentice-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Design Director",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Design Director at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72304&source=WEB_Search_NA",
+    "id": "ibm-design-director-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sports & Entertainment Partnerships Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sports & Entertainment Partnerships Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73690&source=WEB_Search_NA",
+    "id": "ibm-sports-entertainment-partnerships-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Contracts Manager",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Contracts Manager at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73839&source=WEB_Search_NA",
+    "id": "ibm-contracts-manager-washington"
   }
 ]
