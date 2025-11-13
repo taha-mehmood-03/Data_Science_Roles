@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Experienced Hardware Verification Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "employer_name": "Google",
+    "job_title": "Senior Product Manager",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Experienced Hardware Verification Engineer at Trondheim, Norway, Oslo, Norway",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/experienced-hardware-verification-engineer/33099/76937737712",
-    "id": "arm-experienced-hardware-verification-engineer-trondheim"
+    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, AI Agents, Business Intelligence, Looker",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/73051691284341446-senior-product-manager-ai-agents-business-intelligence-looker?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-product-manager-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Product Strategy Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "46 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Strategy Manager, Google Ecosystem Experience",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109216003111428806-product-strategy-manager-google-ecosystem-experience?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-product-strategy-manager-mountain-view"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Principal Architect",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "job_title": "SAP Security & Basis Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Architect at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-principal-architect/33099/88372506048",
-    "id": "arm-principal-architect-sophia-antipolis"
+    "job_description": "Data Science job for the role SAP Security & Basis Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/sap-security-and-basis-analyst/33099/88375646352",
+    "id": "arm-sap-security-basis-analyst-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Hardware System Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Principal Hardware System Design Engineer at Austin, Texas, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-hardware-system-design-engineer/33099/88350050144",
+    "id": "arm-principal-hardware-system-design-engineer-austin"
   }
 ]
