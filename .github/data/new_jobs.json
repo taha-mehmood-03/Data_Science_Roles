@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Sr. Data Scientist, Pricing Analytics (OR/Optimization)",
-    "job_city": "US",
-    "job_state": "GA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Sr. Data Scientist, Pricing Analytics (OR/Optimization) at Atlanta, GA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782151-sr-data-scientist-pricing-analytics-or-optimization",
-    "id": "aijobs-sr-data-scientist-pricing-analytics-or-optimization-us"
+    "employer_name": "Arm",
+    "job_title": "Health and Safety Project Manager - EHS",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Health and Safety Project Manager - EHS at San Jose, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/health-and-safety-project-manager-ehs/33099/88350044336",
+    "id": "arm-health-and-safety-project-manager-ehs-san-jose"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Ops Data Scientist – Jr.",
-    "job_city": "US",
-    "job_state": "VA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role AI/ML Ops Data Scientist – Jr. at Arlington, VA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782155-ai-ml-ops-data-scientist-jr",
-    "id": "aijobs-ai-ml-ops-data-scientist-jr-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist Strategic Analytics",
-    "job_city": "US",
-    "job_state": "IL",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Scientist Strategic Analytics at Bolingbrook, IL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782163-data-scientist-strategic-analytics",
-    "id": "aijobs-data-scientist-strategic-analytics-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Front Office Python Developer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Front Office Python Developer at Houston, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782160-front-office-python-developer",
-    "id": "aijobs-front-office-python-developer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Entry Level Software Developer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Entry Level Software Developer at Houston, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782157-entry-level-software-developer",
-    "id": "aijobs-entry-level-software-developer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Software Engineer",
-    "job_city": "US",
-    "job_state": "VA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role AI/ML Software Engineer at McLean, VA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/177782154-ai-ml-software-engineer",
-    "id": "aijobs-ai-ml-software-engineer-us"
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Verification Engineer - Video",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff/Principal Verification Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/staff-principal-verification-engineer-video/33099/88424979152",
+    "id": "arm-staff-principal-verification-engineer-video-manchester"
   }
 ]
