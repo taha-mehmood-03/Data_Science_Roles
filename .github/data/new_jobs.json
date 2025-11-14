@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job_title": "Senior Financial Analyst",
+    "employer_name": "Amazon",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Senior Financial Analyst at Irvine, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3126534/senior-financial-analyst",
+    "job_posted_at": "2025-11-14T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-14T00:00:00.000Z",
+    "id": "amazon-senior-financial-analyst-irvine"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Field Capacity Project Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Field Capacity Project Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/field-capacity-project-manager/33099/88398539968",
+    "id": "arm-field-capacity-project-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Learning & Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Learning & Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-learning-and-development/33099/88076531664",
+    "id": "arm-director-of-learning-development-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Learning & Development",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Learning & Development at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-of-learning-and-development/33099/83959009936",
+    "id": "arm-director-of-learning-development-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Domain Architect - Infra and Cloud Security",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Principal Domain Architect - Infra and Cloud Security at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014897/Principal-Domain-Architect-Infra-and-Cloud-Security",
+    "id": "abb-principal-domain-architect-infra-and-cloud-security-multiple"
+  }
+]
