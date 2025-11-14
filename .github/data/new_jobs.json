@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Technical Advisor",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Technical Advisor",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902792/Principal-Technical-Advisor",
+    "id": "microsoft-principal-technical-advisor-redmond"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "MLOps Engineer, GenAI Framework",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior MLOps Engineer, GenAI Framework at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/177673666-senior-mlops-engineer-genai-framework",
+    "id": "aijobs-mlops-engineer-genai-framework-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Architecture Energy Modeling Engineer - New College Grad",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Architecture Energy Modeling Engineer - New College Grad 2025 at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/177673667-architecture-energy-modeling-engineer-new-college-grad-2025",
+    "id": "aijobs-architecture-energy-modeling-engineer-new-college-grad-austin"
+  }
+]
