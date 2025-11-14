@@ -1,32 +1,112 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Machine Learning Engineering",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Intern - Machine Learning Engineering at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38873585",
-    "id": "micron-intern-machine-learning-engineering-richardson"
+    "employer_name": "IBM",
+    "job_title": "Quantum Engagement Lead - United States",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantum Engagement Lead - United States at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73460&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-lead-united-states-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Data Platform, Senior",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Product Manager - IBM Storage",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer, Data Platform, Senior at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/177901478-software-engineer-data-platform-senior",
-    "id": "aijobs-software-engineer-data-platform-senior-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager - IBM Storage at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73742&source=WEB_Search_NA",
+    "id": "ibm-product-manager-ibm-storage-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical Engineer",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Power Systems Development - Operating Systems, AI Enablement",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Staff Mechanical Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/177877101-staff-mechanical-engineer",
-    "id": "aijobs-mechanical-engineer-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Power Systems Development - Operating Systems, AI Enablement at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74129&source=WEB_Search_NA",
+    "id": "ibm-power-systems-development-operating-systems-ai-enablement-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Systems Development - Firmware, Hypervisor, Operating Systems, AI Enablement",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Power Systems Development - Firmware, Hypervisor, Operating Systems, AI Enablement at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74120&source=WEB_Search_NA",
+    "id": "ibm-power-systems-development-firmware-hypervisor-operating-systems-ai-enablement-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Cloud Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Cloud Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73850&source=WEB_Search_NA",
+    "id": "ibm-entry-level-cloud-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Partner",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Client Partner at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73439&source=WEB_Search_NA",
+    "id": "ibm-client-partner-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware and Systems Development Interns – 2026 (Multiple Openings)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware and Systems Development Interns – 2026 (Multiple Openings) at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73404&source=WEB_Search_NA",
+    "id": "ibm-hardware-and-systems-development-interns-2026-multiple-openings-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Software Engineer — Algorithms for Biomedical Discovery",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Software Engineer — Algorithms for Biomedical Discovery at Entry LevelYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74161&source=WEB_Search_NA",
+    "id": "ibm-ai-software-engineer-algorithms-for-biomedical-discovery-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Asset Sales",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Digital Asset Sales at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72905&source=WEB_Search_NA",
+    "id": "ibm-digital-asset-sales-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Asset Tech Sales",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Digital Asset Tech Sales at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72906&source=WEB_Search_NA",
+    "id": "ibm-digital-asset-tech-sales-new-york"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "Illinois",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Sales Specialist at Remote, Illinois, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014653/Sales-Specialist",
+    "id": "abb-sales-specialist-remote"
   }
 ]
