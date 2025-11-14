@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Verification Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CPU Verification Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-verification-intern/33099/87106675296",
+    "id": "arm-cpu-verification-intern-sophia-antipolis"
+  }
+]
