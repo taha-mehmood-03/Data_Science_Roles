@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Sr. Financial Analyst Commerce",
+    "employer_name": "Amazon",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Sr. Financial Analyst Commerce at Irvine, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127141/sr-financial-analyst-commerce",
+    "job_posted_at": "2025-11-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-15T00:00:00.000Z",
+    "id": "amazon-sr-financial-analyst-commerce-irvine"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Environmental Sustainability Lead for ABB Robotics",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Environmental Sustainability Lead for ABB Robotics at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015299/Environmental-Sustainability-Lead-for-ABB-Robotics",
+    "id": "abb-environmental-sustainability-lead-for-abb-robotics-beijing"
+  }
+]
