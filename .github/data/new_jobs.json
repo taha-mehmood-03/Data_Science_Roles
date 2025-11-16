@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Customer Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Customer Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901464/Senior%E2%80%AFCustomer-Program-Manager",
+    "id": "microsoft-senior-customer-program-manager-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Security Researcher",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Security Researcher",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903680/Principal-Security-Researcher",
+    "id": "microsoft-principal-security-researcher-redmond"
+  }
+]
