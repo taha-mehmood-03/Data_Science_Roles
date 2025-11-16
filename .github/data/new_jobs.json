@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Customer Program Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Customer Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901464/Senior%E2%80%AFCustomer-Program-Manager",
-    "id": "microsoft-senior-customer-program-manager-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Security Researcher",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Security Researcher",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1903680/Principal-Security-Researcher",
-    "id": "microsoft-principal-security-researcher-redmond"
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer with Databricks",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role AI Engineer with Databricks at King of Prussia, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/178384181-ai-engineer-with-databricks",
+    "id": "aijobs-ai-engineer-with-databricks-us"
   }
 ]
