@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Proposal Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Proposal Specialist at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015350/Proposal-Specialist",
+    "id": "abb-proposal-specialist-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI Compute System Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI Compute System Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Compute-System-Engineer_R253948?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-compute-system-engineer-us"
+  }
+]
