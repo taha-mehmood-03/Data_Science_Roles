@@ -1,12 +1,24 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Quality Specialist – Certification",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Quality Specialist – Certification at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016847/Quality-Specialist-Certification",
-    "id": "abb-quality-specialist-certification-quebec"
+    "job_title": "Senior Domain Expert Lead- STEM (Contract), AGI - Data Services",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Senior Domain Expert Lead- STEM (Contract), AGI - Data Services at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127857/senior-domain-expert-lead-stem-contract-agi-data-services",
+    "job_posted_at": "2025-11-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+    "id": "amazon-senior-domain-expert-lead-stem-contract-agi-data-services-bellevue"
+  },
+  {
+    "job_title": "2026 Operations Research Science Internship - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon",
+    "job_city": "Corvallis",
+    "job_state": "OR",
+    "job_description": "Data Science job for the role 2026 Operations Research Science Internship - United States, PhD Student Science Recruiting at Corvallis, OR, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127859/2026-operations-research-science-internship-united-states-phd-student-science-recruiting",
+    "job_posted_at": "2025-11-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-11-17T00:00:00.000Z",
+    "id": "amazon-2026-operations-research-science-internship-united-states-phd-student-science-recruiting-corvallis"
   }
 ]
