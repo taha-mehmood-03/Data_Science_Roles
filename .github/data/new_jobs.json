@@ -1,22 +1,42 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "Process Control Engineer (Run-To-Run)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Process Control Engineer (Run-To-Run) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38858066",
-    "id": "micron-process-control-engineer-run-to-run-boise"
+    "job_title": "CMBU Market Intelligence Analyst",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role CMBU Market Intelligence Analyst at San Jose, California, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/38886209",
+    "id": "micron-cmbu-market-intelligence-analyst-san-jose"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Business Application System Analyst Intern - Summer",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Business Application System Analyst Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015166/Business-Application-System-Analyst-Intern-Summer-2026",
-    "id": "abb-business-application-system-analyst-intern-summer-new-berlin"
+    "employer_name": "IBM",
+    "job_title": "Operations Lead - Quantum Strategic Partnerships",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Operations Lead - Quantum Strategic Partnerships at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73789&source=WEB_Search_NA",
+    "id": "ibm-operations-lead-quantum-strategic-partnerships-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Finance Business Analyst Intern -",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Finance Business Analyst Intern - 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74190&source=WEB_Search_NA",
+    "id": "ibm-finance-business-analyst-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware and Systems Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Hardware and Systems Engineer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73397&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-and-systems-engineer-multiple-cities"
   }
 ]
