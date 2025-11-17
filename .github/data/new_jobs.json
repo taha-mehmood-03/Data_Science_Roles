@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "IS Bussiness Analyst",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role IS Bussiness Analyst at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015976/IS-Bussiness-Analyst",
-    "id": "abb-is-bussiness-analyst-krakow"
+    "employer_name": "Arm",
+    "job_title": "Software and Platform Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software and Platform Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-and-platform-engineer/33099/72460628480",
+    "id": "arm-software-and-platform-engineer-cambridge"
   }
 ]
