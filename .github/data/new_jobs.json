@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, Applied ML",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Growth Marketing Manager",
+    "job_city": "San Bruno",
     "job_state": "CA",
-    "job_posted_at": "4d ago",
-    "job_description": "data science job for the role AI Engineer, Applied ML at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/178926446-ai-engineer-applied-ml",
-    "id": "aijobs-ai-engineer-applied-ml-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "R&D Gen AI | ML Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role R&D Gen AI | ML Engineer at Allen, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/178926438-r-d-gen-ai-%7C-ml-engineer",
-    "id": "aijobs-r-d-gen-ai-ml-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/Machine Learning Data Engineer",
-    "job_city": "US",
-    "job_state": "AR",
-    "job_posted_at": "4d ago",
-    "job_description": "data science job for the role AI/Machine Learning Data Engineer at Rogers, AR, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/178926436-ai-machine-learning-data-engineer",
-    "id": "aijobs-ai-machine-learning-data-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer, Personalization",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role Machine Learning Engineer, Personalization at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/178926452-machine-learning-engineer-personalization",
-    "id": "aijobs-machine-learning-engineer-personalization-us"
+    "job_posted_at": "Recently",
+    "job_description": "50 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Growth Marketing Manager, YouTube TV",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/114235711778890438-growth-marketing-manager-youtube-tv?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-growth-marketing-manager-san-bruno"
   }
 ]
