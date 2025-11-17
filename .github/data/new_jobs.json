@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Transformation Lead",
-    "job_city": "Detroit",
-    "job_state": "MI",
-    "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Transformation Lead, Automotive",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92400304204456646-data-transformation-lead-automotive?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-data-transformation-lead-detroit"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Cache Coherence Management Unit Micro-architect and Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cache Coherence Management Unit Micro-architect and Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/cache-coherence-management-unit-micro-architect-and-design-engineer/33099/87648489248",
-    "id": "arm-cache-coherence-management-unit-micro-architect-and-design-engineer-austin"
+    "employer_name": "ABB",
+    "job_title": "IS Bussiness Analyst",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role IS Bussiness Analyst at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015976/IS-Bussiness-Analyst",
+    "id": "abb-is-bussiness-analyst-krakow"
   }
 ]
