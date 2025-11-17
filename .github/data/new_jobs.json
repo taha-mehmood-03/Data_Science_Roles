@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "CMBU Market Intelligence Analyst",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role CMBU Market Intelligence Analyst at San Jose, California, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/38886209",
-    "id": "micron-cmbu-market-intelligence-analyst-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Operations Lead - Quantum Strategic Partnerships",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Operations Lead - Quantum Strategic Partnerships at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73789&source=WEB_Search_NA",
-    "id": "ibm-operations-lead-quantum-strategic-partnerships-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Finance Business Analyst Intern -",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Finance Business Analyst Intern - 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74190&source=WEB_Search_NA",
-    "id": "ibm-finance-business-analyst-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Hardware and Systems Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Hardware and Systems Engineer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73397&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-and-systems-engineer-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Quality Specialist – Certification",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Quality Specialist – Certification at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016847/Quality-Specialist-Certification",
+    "id": "abb-quality-specialist-certification-quebec"
   }
 ]
