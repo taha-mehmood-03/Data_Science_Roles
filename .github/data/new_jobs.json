@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127588/infrastructure-edge-planning-data-engineer-edge-strategy-and-planning",
-    "job_posted_at": "2025-11-17T17:22:28.696Z",
-    "job_posted_at_datetime_utc": "2025-11-17T17:22:28.696Z",
-    "id": "amazon-infrastructure-edge-planning-data-engineer-edge-strategy-and-planning-seattle"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Hedge Fund",
-    "job_city": "US",
-    "job_state": "United States",
-    "job_posted_at": "6h ago",
-    "job_description": "data science job for the role Data Scientist - Hedge Fund at New York, United States, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/178998057-data-scientist-hedge-fund",
-    "id": "aijobs-data-scientist-hedge-fund-us"
+    "employer_name": "Arm",
+    "job_title": "Field Capacity Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Field Capacity Program Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/field-capacity-program-manager/33099/88398539968",
+    "id": "arm-field-capacity-program-manager-austin"
   }
 ]
