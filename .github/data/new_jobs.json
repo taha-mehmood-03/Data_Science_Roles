@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer (Computer Vision, Robotics)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "9h ago",
-    "job_description": "data science job for the role Software Engineer (Computer Vision, Robotics) at Santa Clara, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179255645-software-engineer-computer-vision-robotics",
-    "id": "aijobs-software-engineer-computer-vision-robotics-us"
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Design Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-design-engineer/33099/88416723088",
+    "id": "arm-design-engineer-manchester"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director – Research & Development (R&D)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3h ago",
-    "job_description": "data science job for the role Director – Research & Development (R&D) at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179255680-director-research-development-r-d",
-    "id": "aijobs-director-research-development-r-d-us"
+    "employer_name": "Arm",
+    "job_title": "SoC Validation Engineer (Emulation)",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal SoC Validation Engineer (Emulation) at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-soc-validation-engineer-emulation/33099/87734064784",
+    "id": "arm-soc-validation-engineer-emulation-bengaluru"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - AI/ML",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Internship (m/f/d) - AI/ML at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015920/Internship-m-f-d-AI-ML",
+    "id": "abb-internship-m-f-d-ai-ml-mannheim"
   }
 ]
