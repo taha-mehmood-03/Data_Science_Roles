@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Eng - DB Core",
+    "job_city": "JEFFERSON CITY",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Eng - DB Core at ProfessionalJEFFERSON CITY, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74644&source=WEB_Search_NA",
+    "id": "ibm-software-eng-db-core-jefferson-city"
+  }
+]
