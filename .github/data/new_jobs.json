@@ -1,43 +1,13 @@
 [
   {
-    "job_title": "Research Scientist, Artificial General Intelligence - Data Services",
+    "job_title": "Data Engineer II",
     "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Research Scientist, Artificial General Intelligence - Data Services at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2829142/research-scientist-artificial-general-intelligence-data-services",
-    "job_posted_at": "2025-11-18T18:29:15.522Z",
-    "job_posted_at_datetime_utc": "2025-11-18T18:29:15.522Z",
-    "id": "amazon-research-scientist-artificial-general-intelligence-data-services-boston"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Product Yield Enhancement Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Product Yield Enhancement Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38907370",
-    "id": "micron-product-yield-enhancement-engineer-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer, Cloud Platform Services (Update: TX, CA or MA)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer, Cloud Platform Services (Update: TX, CA or MA) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
-    "id": "ibm-engineer-cloud-platform-services-update-tx-ca-or-ma-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sr. Software Engineer, Infra",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "20h ago",
-    "job_description": "data science job for the role Sr. Software Engineer, Infra at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179445106-sr-software-engineer-infra",
-    "id": "aijobs-sr-software-engineer-infra-unknown"
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Engineer II at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3128598/data-engineer-ii",
+    "job_posted_at": "2025-11-18T21:15:31.195Z",
+    "job_posted_at_datetime_utc": "2025-11-18T21:15:31.195Z",
+    "id": "amazon-data-engineer-ii-culver-city"
   }
 ]
