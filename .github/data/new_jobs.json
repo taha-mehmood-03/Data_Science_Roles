@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Northern NJ",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative - Northern NJ at Entry LevelPARAMUS, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74656&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-northern-nj-paramus"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cloud Developer Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75078&source=WEB_Search_NA",
+    "id": "ibm-cloud-developer-intern-multiple-cities"
+  }
+]
