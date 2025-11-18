@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, ML - Personalization / Recommendations",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Senior Data Scientist, ML - Personalization / Recommendations at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/150961156-senior-data-scientist-ml-personalization-recommendations",
+    "id": "aijobs-data-scientist-ml-personalization-recommendations-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Analytics - Core Product",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Staff Data Scientist, Analytics - Core Product at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/179323995-staff-data-scientist-analytics-core-product",
+    "id": "aijobs-data-scientist-analytics-core-product-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Junior",
+    "job_city": "US",
+    "job_state": "DC",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Data Scientist - Junior at Washington, DC, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/179323993-data-scientist-junior",
+    "id": "aijobs-data-scientist-junior-us"
+  }
+]
