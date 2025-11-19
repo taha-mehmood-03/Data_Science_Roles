@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Development Operations and Infrastructure Manager",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Development Operations and Infrastructure Manager at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Development-Operations-and-Infrastructure-Manager_R258048?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-development-operations-and-infrastructure-manager-us"
+    "employer_name": "Arm",
+    "job_title": "System Architect (Silent)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal System Architect (Silent) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-system-architect-silent/33099/75845165792",
+    "id": "arm-system-architect-silent-cambridge"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Systems Application - Aerospace and Defense",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Engineer, Systems Application - Aerospace and Defense at US, MA, Chelmsford, Alpha",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Staff-Engineer--Systems-Application---Aerospace-and-Defense_R257908?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-systems-application-aerospace-and-defense-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Intern (Undergraduate)",
-    "job_city": "US",
-    "job_state": "PA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist, Intern (Undergraduate) at Pittsburgh, PA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/169018292-data-scientist-intern-undergraduate",
-    "id": "aijobs-data-scientist-intern-undergraduate-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science (AI/ML) SME",
-    "job_city": "US",
-    "job_state": "MI",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Data Science (AI/ML) SME at Dearborn, MI, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179785335-data-science-ai-ml-sme",
-    "id": "aijobs-data-science-ai-ml-sme-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Engineer Intern, Master's - Summer 2026 (Mountain View, CA)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "21h ago",
-    "job_description": "data science job for the role AI/ML Engineer Intern, Master's - Summer 2026 (Mountain View, CA) at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179785336-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca",
-    "id": "aijobs-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca-us"
+    "employer_name": "Arm",
+    "job_title": "NAM Campus Recruiter",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role NAM Campus Recruiter at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/nam-campus-recruiter/33099/80452303984",
+    "id": "arm-nam-campus-recruiter-austin"
   }
 ]
