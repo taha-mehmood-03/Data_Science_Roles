@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "GPU Hardware Intern",
+    "job_city": "Raanana",
+    "job_state": "Israel",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role GPU Hardware Intern at Raanana, Israel",
+    "job_apply_link": "https://careers.arm.com/job/raanana/gpu-hardware-intern/33099/88596789008",
+    "id": "arm-gpu-hardware-intern-raanana"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision Engineer, R&D",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Computer Vision Engineer, R&D at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/177729181-computer-vision-engineer-r-d",
+    "id": "aijobs-computer-vision-engineer-r-d-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Associate Researcher (Part-time) - Immunology and Immunotherapy",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "9h ago",
+    "job_description": "data science job for the role Associate Researcher (Part-time) - Immunology and Immunotherapy at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/179739558-associate-researcher-part-time-immunology-and-immunotherapy",
+    "id": "aijobs-associate-researcher-part-time-immunology-and-immunotherapy-us"
+  }
+]
