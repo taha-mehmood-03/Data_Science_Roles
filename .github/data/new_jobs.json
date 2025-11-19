@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
+    "employer_name": "TEXAS INSTRUMENTS",
     "job_title": "Data Engineer",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "36 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Engineer, Go-To-Market",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115841733194851014-data-engineer-gotomarket?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-data-engineer-new-york"
+    "job_description": "Data Science job for the role Data Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007963/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-data-engineer-"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Data Engineering Intern",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Engineering Intern at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007966/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-data-engineering-intern-"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Control Systems Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Control Systems Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007962/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-control-systems-engineer-"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Control Systems Engineering Intern",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Control Systems Engineering Intern at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007965/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-control-systems-engineering-intern-"
   }
 ]
