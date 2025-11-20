@@ -1,72 +1,13 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Head of Data Science & AI",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Head of Data Science & AI at Austin, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980747-head-of-data-science-ai",
-    "id": "aijobs-head-of-data-science-ai-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "RESEARCH OFFICER & DATA SCIENTIST",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role SENIOR RESEARCH OFFICER & DATA SCIENTIST at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980756-senior-research-officer-data-scientist",
-    "id": "aijobs-research-officer-data-scientist-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Remote | Part-Time | $100 –$120/hr)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Data Scientist (Remote | Part-Time | $100 –$120/hr) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980755-data-scientist-remote-%7C-part-time-%7C-$100-$120-hr",
-    "id": "aijobs-data-scientist-remote-part-time-100-120-hr-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Python Developer/Data Engineering",
-    "job_city": "US",
-    "job_state": "New York City Metropolitan Area",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Python Developer/Data Engineering at New York City Metropolitan Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980750-python-developer-data-engineering",
-    "id": "aijobs-python-developer-data-engineering-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineering Intern",
-    "job_city": "US",
-    "job_state": "PA",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role AI Engineering Intern at Glen Mills, PA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980751-ai-engineering-intern",
-    "id": "aijobs-ai-engineering-intern-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Model Risk Management",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist - Model Risk Management at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980758-data-scientist-model-risk-management",
-    "id": "aijobs-data-scientist-model-risk-management-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer-EN",
-    "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Senior Machine Learning Engineer-EN at Orlando, FL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179980752-senior-machine-learning-engineer-en",
-    "id": "aijobs-machine-learning-engineer-en-us"
+    "job_title": "Applied Scientist, Skill Builder, AWS Training and Certifications",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Applied Scientist, Skill Builder, AWS Training and Certifications at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078588/applied-scientist-skill-builder-aws-training-and-certifications",
+    "job_posted_at": "2025-11-20T18:13:06.542Z",
+    "job_posted_at_datetime_utc": "2025-11-20T18:13:06.542Z",
+    "id": "amazon-applied-scientist-skill-builder-aws-training-and-certifications-arlington"
   }
 ]
