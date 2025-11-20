@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr CAD Engineer, DEG",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "Data Science job for the role Sr CAD Engineer, DEG at Richardson, Texas, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38954305",
-    "id": "micron-sr-cad-engineer-deg-richardson"
+    "employer_name": "IBM",
+    "job_title": "Software Strategy and M&A Summer Intern - Cambridge, MA",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Strategy and M&A Summer Intern - Cambridge, MA at InternshipCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75023&source=WEB_Search_NA",
+    "id": "ibm-software-strategy-and-m-a-summer-intern-cambridge-ma-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Strategy and M&A Summer Intern - New York, NY",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Strategy and M&A Summer Intern - New York, NY at InternshipNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75022&source=WEB_Search_NA",
+    "id": "ibm-software-strategy-and-m-a-summer-intern-new-york-ny-new-york"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Tlajomulco de Zuniga",
-    "job_state": "Mexico",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Tlajomulco de Zuniga, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016845/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-tlajomulco-de-zuniga"
+    "job_title": "Field Construction Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Field Construction Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013389/Field-Construction-Manager",
+    "id": "abb-field-construction-manager-multiple"
   }
 ]
