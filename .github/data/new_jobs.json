@@ -1,62 +1,52 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "ML Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role ML Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/ml-engineer/33099/87243299808",
+    "id": "arm-ml-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "ML/Data Software Engineer (Fixed-Term 12 months)",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role ML/Data Software Engineer (Fixed-Term 12 months) at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/ml-data-software-engineer-fixed-term-12-months/33099/87328936112",
+    "id": "arm-ml-data-software-engineer-fixed-term-12-months-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - Graphics and ML",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer - Graphics and ML at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-graphics-and-ml/33099/85969516928",
+    "id": "arm-software-engineer-graphics-and-ml-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Developer Marketing Specialist - Editorial Operations",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Developer Marketing Specialist - Editorial Operations at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/developer-marketing-specialist-editorial-operations/33099/86790641344",
+    "id": "arm-developer-marketing-specialist-editorial-operations-san-jose"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Sr Engineer, IT MFG & TPG",
+    "job_title": "Engineer - DRAM Design Rule",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role Sr Engineer, IT MFG & TPG at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38527973",
-    "id": "micron-sr-engineer-it-mfg-tpg-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI - Solutions Software Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI - Solutions Software Engineer at Entry LevelAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=71361&source=WEB_Search_NA",
-    "id": "ibm-ai-solutions-software-engineer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Management Professional",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Management Professional 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75746&source=WEB_Search_NA",
-    "id": "ibm-product-management-professional-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "InfoSphere Optim Technical Support Professional",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role InfoSphere Optim Technical Support Professional at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75294&source=WEB_Search_NA",
-    "id": "ibm-infosphere-optim-technical-support-professional-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65071&source=WEB_Search_NA",
-    "id": "ibm-ai-centric-solution-architecting-for-global-it-intern-entry-level-sales-program-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Management Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Management Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75747&source=WEB_Search_NA",
-    "id": "ibm-product-management-intern-multiple-cities"
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Principal Engineer - DRAM Design Rule at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38954246",
+    "id": "micron-engineer-dram-design-rule-boise"
   }
 ]
