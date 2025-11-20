@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer - New Grad",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Engineer - New Grad at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/179870897-ai-engineer-new-grad",
-    "id": "aijobs-ai-engineer-new-grad-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer (AI System Calibration & Optimization)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Engineer (AI System Calibration & Optimization) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/179870888-ai-engineer-ai-system-calibration-optimization",
-    "id": "aijobs-ai-engineer-ai-system-calibration-optimization-unknown"
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - University/Schools & Healthcare",
+    "job_city": "Remote",
+    "job_state": "California",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager - University/Schools & Healthcare at Remote, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015265/Business-Development-Manager-University-Schools-Healthcare",
+    "id": "abb-business-development-manager-university-schools-healthcare-remote"
   }
 ]
