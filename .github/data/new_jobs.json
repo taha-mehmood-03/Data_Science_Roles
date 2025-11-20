@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Supply Chain Program Manager - Design",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal Supply Chain Program Manager - Design at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Supply-Chain-Program-Manager---Design_2503350?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-supply-chain-program-manager-design-3-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Static Timing Analysis Staff Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Static Timing Analysis Staff Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Static-Timing-Analysis-Staff-Engineer_2503263?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-static-timing-analysis-staff-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Physical Design Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Staff Physical Design Manager at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Physical-Design-Manager_2503480?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-physical-design-manager-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Physical Design Clocking Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Staff Physical Design Clocking Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Physical-Design-Clocking-Engineer_2503478?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-physical-design-clocking-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Product Manager Custom Cloud Solutions Silicon/Semiconductor IP Product Manager",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal Product Manager Custom Cloud Solutions Silicon/Semiconductor IP Product Manager at 5 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Principal-Product-Manager-Custom-Cloud-Solutions-Silicon-Semiconductor-IP-Product-Manager_2503560-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-product-manager-custom-cloud-solutions-silicon-semiconductor-ip-product-manager-5-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director Product Management Custom Silicon/Semiconductor Solutions IP Customer Offering Manager",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Director Product Management Custom Silicon/Semiconductor Solutions IP Customer Offering Manager at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Custom-Silicon-Semiconductor-Solutions-IP-Customer-Offering-Manager_2503561?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-product-management-custom-silicon-semiconductor-solutions-ip-customer-offering-manager-3-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sustainability Analyst Intern - Master's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "Data Science job for the role Sustainability Analyst Intern - Master's Degree at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Sustainability-Analyst-Intern---Master-s-Degree_2503107-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sustainability-analyst-intern-master-s-degree-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer (CPU team)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role RTL Design Engineer (CPU team) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/rtl-design-engineer-cpu-team/33099/88641178208",
+    "id": "arm-rtl-design-engineer-cpu-team-cambridge"
   }
 ]
