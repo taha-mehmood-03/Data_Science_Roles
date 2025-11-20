@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "Channel/OEM Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Channel/OEM Sales Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016218/Channel-OEM-Sales-Manager",
+    "id": "abb-channel-oem-sales-manager-multiple"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Cybersecurity Engineer - Third Party Risk Management",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Cybersecurity Engineer - Third Party Risk Management at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901248-cybersecurity-engineer-third-party-risk-management",
+    "id": "aijobs-cybersecurity-engineer-third-party-risk-management-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Networking",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Principal Software Engineer, Networking at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901244-principal-software-engineer-networking",
+    "id": "aijobs-software-engineer-networking-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DevOps Engineer - Accelerated Computing",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior DevOps Engineer - Accelerated Computing at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901245-senior-devops-engineer-accelerated-computing",
+    "id": "aijobs-devops-engineer-accelerated-computing-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineering - Cryptographic PKI Management",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role System Software Engineering - Cryptographic PKI Management at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/179901247-system-software-engineering-cryptographic-pki-management",
+    "id": "aijobs-system-software-engineering-cryptographic-pki-management-santa-clara"
+  }
+]
