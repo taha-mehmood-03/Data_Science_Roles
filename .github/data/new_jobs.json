@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, IP and CSS Product Management",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Director, IP and CSS Product Management at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-director-ip-and-css-product-management/33099/87789072608",
-    "id": "arm-director-ip-and-css-product-management-austin"
+    "job_title": "Data Scientist, Devices and Services FinTech",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, Devices and Services FinTech at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3130794/data-scientist-devices-and-services-fintech",
+    "job_posted_at": "2025-11-21T19:17:46.394Z",
+    "job_posted_at_datetime_utc": "2025-11-21T19:17:46.394Z",
+    "id": "amazon-data-scientist-devices-and-services-fintech-seattle"
   }
 ]
