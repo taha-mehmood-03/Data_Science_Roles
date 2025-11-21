@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Hardware Platform Power Engineer/ Applications Engineer",
-    "job_city": "Chandler",
-    "job_state": "Arizona",
+    "employer_name": "Google",
+    "job_title": "Program Manager Lead",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Hardware Platform Power Engineer/ Applications Engineer at Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/chandler/hardware-platform-power-engineer-applications-engineer/33099/87878769552",
-    "id": "arm-hardware-platform-power-engineer-applications-engineer-chandler"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Software Engineer Intern",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role AI/ML Software Engineer Intern at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/180053559-ai-ml-software-engineer-intern",
-    "id": "aijobs-ai-ml-software-engineer-intern-us"
+    "job_description": "68 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager Lead, Waze Program Management Organization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140630300152472262-program-manager-lead-waze-program-management-organization?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-program-manager-lead-new-york"
   }
 ]
