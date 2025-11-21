@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Director Product Management - IP Customer Offering / Custom Silicon/Semiconductor Solutions",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Director Product Management - IP Customer Offering / Custom Silicon/Semiconductor Solutions at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director-Custom-Silicon-Semiconductor-Solutions-IP-Customer-Offering-Manager_2503561?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-product-management-ip-customer-offering-custom-silicon-semiconductor-solutions-3-locations"
+    "employer_name": "ABB",
+    "job_title": "ELDS Production Operator Epoxy Line- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role ELDS Production Operator Epoxy Line- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009872/ELDS-Production-Operator-Epoxy-Line-1st-shift",
+    "id": "abb-elds-production-operator-epoxy-line-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role ELDS MV SWGR 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011827/ELDS-MV-SWGR-1st-shift",
+    "id": "abb-elds-mv-swgr-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment  Intern - Spring",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "Data Science job for the role Health, Safety & Environment  Intern - Spring 2026 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026",
+    "id": "abb-health-safety-environment-intern-spring-mebane"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied Data Scientists",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Applied Data Scientists at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180137316-applied-data-scientists",
+    "id": "aijobs-applied-data-scientists-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist III (Remote Work Option, Multiple Openings)",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist III (Remote Work Option, Multiple Openings) at Beaverton, OR, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180137313-data-scientist-iii-remote-work-option-multiple-openings",
+    "id": "aijobs-data-scientist-iii-remote-work-option-multiple-openings-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Media",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist, Media at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180137314-data-scientist-media",
+    "id": "aijobs-data-scientist-media-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Science Lead (Simulation)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Science Lead (Simulation) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180137312-data-science-lead-simulation",
+    "id": "aijobs-data-science-lead-simulation-unknown"
   }
 ]
