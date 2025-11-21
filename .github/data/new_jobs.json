@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Hardware Platform Power Engineer/ Applications Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Platform Power Engineer/ Applications Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/hardware-platform-power-engineer-applications-engineer/33099/87878769552",
+    "id": "arm-hardware-platform-power-engineer-applications-engineer-chandler"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Software Engineer Intern",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role AI/ML Software Engineer Intern at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180053559-ai-ml-software-engineer-intern",
+    "id": "aijobs-ai-ml-software-engineer-intern-us"
+  }
+]
