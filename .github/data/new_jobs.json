@@ -1,472 +1,82 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Sales Manager, Mining & Materials - North America",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Sales Manager, Mining & Materials - North America at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014329/Sales-Manager-Mining-Materials-North-America",
-    "id": "abb-sales-manager-mining-materials-north-america-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Power Delivery Lead Field Engineer",
-    "job_city": "Albuquerque",
-    "job_state": "New Mexico",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Power Delivery Lead Field Engineer at Albuquerque, New Mexico, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002020/Power-Delivery-Lead-Field-Engineer",
-    "id": "abb-power-delivery-lead-field-engineer-albuquerque"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Machine Operator - Weekend Day Shift",
-    "job_city": "Albuquerque",
-    "job_state": "New Mexico",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Machine Operator - Weekend Day Shift at Albuquerque, New Mexico, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016085/Machine-Operator-Weekend-Day-Shift",
-    "id": "abb-machine-operator-weekend-day-shift-albuquerque"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Continuous Liquid Analyzers Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Continuous Liquid Analyzers Sales Manager at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014741/Continuous-Liquid-Analyzers-Sales-Manager",
-    "id": "abb-continuous-liquid-analyzers-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electronics Repair Technician",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Electronics Repair Technician at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002290/Electronics-Repair-Technician",
-    "id": "abb-electronics-repair-technician-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrical Engineering Intern - Summer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Electrical Engineering Intern - Summer 2026 at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026",
-    "id": "abb-electrical-engineering-intern-summer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health, Safety, & Environmental Intern-Summer",
-    "job_city": "Bartlesville",
-    "job_state": "Oklahoma",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Health, Safety, & Environmental Intern-Summer 2026 at Bartlesville, Oklahoma, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026",
-    "id": "abb-health-safety-environmental-intern-summer-bartlesville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global PA Data Platforms Architect Lead",
+    "job_title": "Craft Worker",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Global PA Data Platforms Architect Lead at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013360/Global-PA-Data-Platforms-Architect-Lead",
-    "id": "abb-global-pa-data-platforms-architect-lead-not-specific"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Craft Worker at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010932/Craft-Worker",
+    "id": "abb-craft-worker-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Software Developer to Information Solutions",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Software Developer to Information Solutions at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008249/Senior-Software-Developer-to-Information-Solutions",
-    "id": "abb-senior-software-developer-to-information-solutions-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Specialist - Product Data Replication",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role IS Specialist - Product Data Replication at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013047/IS-Specialist-Product-Data-Replication",
-    "id": "abb-is-specialist-product-data-replication-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Thesis Work: Safety Aware Decision Framework for Uncertain Perception of Large Autonomous Construction Vehicles",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Thesis Work: Safety Aware Decision Framework for Uncertain Perception of Large Autonomous Construction Vehicles at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016573/Thesis-Work-Safety-Aware-Decision-Framework-for-Uncertain-Perception-of-Large-Autonomous-Construction-Vehicles",
-    "id": "abb-thesis-work-safety-aware-decision-framework-for-uncertain-perception-of-large-autonomous-construction-vehicles-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Thesis Work: Intelligent Centralized Master Data Automation with LLMs",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Thesis Work: Intelligent Centralized Master Data Automation with LLMs at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014848/Thesis-Work-Intelligent-Centralized-Master-Data-Automation-with-LLMs",
-    "id": "abb-thesis-work-intelligent-centralized-master-data-automation-with-llms-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Business Analyst",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Business Analyst at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015305/Senior-Business-Analyst",
-    "id": "abb-senior-business-analyst-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Analytics & BI Specialist / Demand Planning App Developer",
+    "job_title": "IS Infrastructure Analyst",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Analytics & BI Specialist / Demand Planning App Developer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011911/Data-Analytics-BI-Specialist-Demand-Planning-App-Developer",
-    "id": "abb-data-analytics-bi-specialist-demand-planning-app-developer-not-specific"
+    "job_description": "Data Science job for the role IS Infrastructure Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013082/IS-Infrastructure-Analyst",
+    "id": "abb-is-infrastructure-analyst-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Principal Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role R&D Principal Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014492/R-D-Principal-Engineer",
-    "id": "abb-r-d-principal-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sustainability LCA Specialist",
+    "job_title": "Process Quality Technician- (Internal Conversions Only)",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sustainability LCA Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015398/Sustainability-LCA-Specialist",
-    "id": "abb-sustainability-lca-specialist-not-specific"
+    "job_description": "Data Science job for the role Process Quality Technician- (Internal Conversions Only) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014896/Process-Quality-Technician-Internal-Conversions-Only",
+    "id": "abb-process-quality-technician-internal-conversions-only-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Software Developer",
+    "job_title": "Production Supervisor 1st shift Smart Power",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Software Developer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015712/Software-Developer",
-    "id": "abb-software-developer-not-specific"
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Production Supervisor 1st shift Smart Power at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012743/Production-Supervisor-1st-shift-Smart-Power",
+    "id": "abb-production-supervisor-1st-shift-smart-power-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Internship – Testing Processes & Automation",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Internship – Testing Processes & Automation at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016466/Internship-Testing-Processes-Automation",
-    "id": "abb-internship-testing-processes-automation-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AIML Software Engineer - Computer Vision",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role AIML Software Engineer - Computer Vision at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015235/AIML-Software-Engineer-Computer-Vision",
-    "id": "abb-aiml-software-engineer-computer-vision-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Computer Vision AI & ML Engineer",
+    "job_title": "Quality Technician",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Senior Computer Vision AI & ML Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001409/Senior-Computer-Vision-AI-ML-Engineer",
-    "id": "abb-senior-computer-vision-ai-ml-engineer-not-specific"
+    "job_description": "Data Science job for the role Quality Technician at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002671/Quality-Technician",
+    "id": "abb-quality-technician-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Thesis Work for Evaluation of Digital Twin based Optimization of Cyber Physical System",
+    "job_title": "Lead Electrical Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Thesis Work for Evaluation of Digital Twin based Optimization of Cyber Physical System at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016506/Thesis-Work-for-Evaluation-of-Digital-Twin-based-Optimization-of-Cyber-Physical-System",
-    "id": "abb-thesis-work-for-evaluation-of-digital-twin-based-optimization-of-cyber-physical-system-not-specific"
+    "job_description": "Data Science job for the role Lead Electrical Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014858/Lead-Electrical-Engineer",
+    "id": "abb-lead-electrical-engineer-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Master Data Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Master Data Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013519/Master-Data-Specialist",
-    "id": "abb-master-data-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Bussiness Analyst",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role IS Bussiness Analyst at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015976/IS-Bussiness-Analyst",
-    "id": "abb-is-bussiness-analyst-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Thesis Work: Offline Reinforcement Learning with Physics-Informed Data-Driven Models",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Thesis Work: Offline Reinforcement Learning with Physics-Informed Data-Driven Models at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013849/Thesis-Work-Offline-Reinforcement-Learning-with-Physics-Informed-Data-Driven-Models",
-    "id": "abb-thesis-work-offline-reinforcement-learning-with-physics-informed-data-driven-models-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Principal Domain Architect - Identity and Access Security",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Principal Domain Architect - Identity and Access Security at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014152/Principal-Domain-Architect-Identity-and-Access-Security",
-    "id": "abb-principal-domain-architect-identity-and-access-security-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role AI Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014341/AI-Specialist",
-    "id": "abb-ai-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Tender Quotation Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Tender Quotation Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009248/Tender-Quotation-Specialist",
-    "id": "abb-tender-quotation-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data & Analytics Intern- Summer",
+    "job_title": "MV Final - Production Operator - HCEP Casting - 2nd shift",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Data & Analytics Intern- Summer 2026 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026",
-    "id": "abb-data-analytics-intern-summer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "SQC Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role SQC Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013583/SQC-Manager",
-    "id": "abb-sqc-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cyber Security Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Cyber Security Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015689/Cyber-Security-Specialist",
-    "id": "abb-cyber-security-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global IS Manager - Security Domain Architecture",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Global IS Manager - Security Domain Architecture at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011766/Global-IS-Manager-Security-Domain-Architecture",
-    "id": "abb-global-is-manager-security-domain-architecture-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Snr. R&D Engineer - Robotics Application Software",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Snr. R&D Engineer - Robotics Application Software at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011054/Snr-R-D-Engineer-Robotics-Application-Software",
-    "id": "abb-snr-r-d-engineer-robotics-application-software-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Application Scientist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Application Scientist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013536/Application-Scientist",
-    "id": "abb-application-scientist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Specialist – Certification",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Quality Specialist – Certification at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016847/Quality-Specialist-Certification",
-    "id": "abb-quality-specialist-certification-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role R&D Software Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Operations Support Analyst",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Business Operations Support Analyst at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst",
-    "id": "abb-business-operations-support-analyst-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Full Stack Lead",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Full Stack Lead at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00005862/Full-Stack-Lead",
-    "id": "abb-full-stack-lead-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Electrical Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role R&D Senior Electrical Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015346/R-D-Senior-Electrical-Engineer",
-    "id": "abb-r-d-senior-electrical-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Solution Architect for AI",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Solution Architect for AI at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013198/Solution-Architect-for-AI",
-    "id": "abb-solution-architect-for-ai-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service sales engineer/Specialist",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Service sales engineer/Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009813/Service-sales-engineer-Specialist",
-    "id": "abb-service-sales-engineer-specialist-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Solution Architect Cloud DevOps - Engine",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role IS Solution Architect Cloud DevOps - Engine at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014355/IS-Solution-Architect-Cloud-DevOps-Engine",
-    "id": "abb-is-solution-architect-cloud-devops-engine-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center Project Manager",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Data Center Project Manager at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010699/Data-Center-Project-Manager",
-    "id": "abb-data-center-project-manager-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Application System Analyst Intern - Summer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Business Application System Analyst Intern - Summer 2026 at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015166/Business-Application-System-Analyst-Intern-Summer-2026",
-    "id": "abb-business-application-system-analyst-intern-summer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Compliance Engineer - Cyber security",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Compliance Engineer - Cyber security at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/87613285/Product-Compliance-Engineer-Cyber-security",
-    "id": "abb-product-compliance-engineer-cyber-security-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Principal Domain Architect - Infra and Cloud Security",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Principal Domain Architect - Infra and Cloud Security at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014897/Principal-Domain-Architect-Infra-and-Cloud-Security",
-    "id": "abb-principal-domain-architect-infra-and-cloud-security-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Environmental Sustainability Lead for ABB Robotics",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Environmental Sustainability Lead for ABB Robotics at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015299/Environmental-Sustainability-Lead-for-ABB-Robotics",
-    "id": "abb-environmental-sustainability-lead-for-abb-robotics-not-specific"
+    "job_description": "Data Science job for the role MV Final - Production Operator - HCEP Casting - 2nd shift at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012119/MV-Final-Production-Operator-HCEP-Casting-2nd-shift",
+    "id": "abb-mv-final-production-operator-hcep-casting-2nd-shift-not-specific"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Science Lead (Simulation)",
+    "job_title": "Research Chemist",
     "job_city": "US",
-    "job_state": "Dallas-Fort Worth Metroplex",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Science Lead (Simulation) at Dallas-Fort Worth Metroplex, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/180137312-data-science-lead-simulation",
-    "id": "aijobs-data-science-lead-simulation-us"
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Research Chemist at Malibu, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180210780-research-chemist",
+    "id": "aijobs-research-chemist-us"
   }
 ]
