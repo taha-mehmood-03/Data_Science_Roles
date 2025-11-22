@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Analytics and Insights",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Data Scientist - Analytics and Insights at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180286353-data-scientist-analytics-and-insights",
+    "id": "aijobs-data-scientist-analytics-and-insights-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Supply Chain Analytics",
+    "job_city": "US",
+    "job_state": "MI",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Scientist - Supply Chain Analytics at Dearborn, MI, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180286352-data-scientist-supply-chain-analytics",
+    "id": "aijobs-data-scientist-supply-chain-analytics-us"
+  }
+]
