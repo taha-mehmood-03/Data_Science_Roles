@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Object Storage - DGX Cloud",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "6d ago",
-    "job_description": "data science job for the role Senior Software Engineer, Object Storage - DGX Cloud at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180464836-senior-software-engineer-object-storage-dgx-cloud",
-    "id": "aijobs-software-engineer-object-storage-dgx-cloud-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, SAP Application Security",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Manager, SAP Application Security at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180464835-senior-manager-sap-application-security",
-    "id": "aijobs-manager-sap-application-security-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Product Marketing",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern – IBM Product Marketing at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75087&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-product-marketing-austin"
   }
 ]
