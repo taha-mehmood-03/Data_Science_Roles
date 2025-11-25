@@ -1,42 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Performance and PnP Modeling Architect",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Performance and PnP Modeling Architect at San Diego, California, Austin, Texas, Chandler, Arizona",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/performance-and-pnp-modeling-architect/33099/79583647024",
-    "id": "arm-performance-and-pnp-modeling-architect-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "IPQA Automation Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal IPQA Automation Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-ipqa-automation-engineer/33099/88831460496",
-    "id": "arm-ipqa-automation-engineer-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - Operations Research",
-    "job_city": "US",
-    "job_state": "IL",
-    "job_posted_at": "37min ago",
-    "job_description": "data science job for the role Data Scientist - Operations Research at Chicago, IL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/180804414-data-scientist-operations-research",
-    "id": "aijobs-data-scientist-operations-research-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist I - AI & Human Health",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "17h ago",
-    "job_description": "data science job for the role Data Scientist I - AI & Human Health at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/180804412-data-scientist-i-ai-human-health",
-    "id": "aijobs-data-scientist-i-ai-human-health-us"
+    "job_title": "Amazon Robotics - Software Development Engineer Co-Op and Intern 2026",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role Amazon Robotics - Software Development Engineer Co-Op and Intern 2026 at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3100414/amazon-robotics-software-development-engineer-co-op-and-intern-2026",
+    "job_posted_at": "2025-11-25T19:18:15.939Z",
+    "job_posted_at_datetime_utc": "2025-11-25T19:18:15.939Z",
+    "id": "amazon-amazon-robotics-software-development-engineer-co-op-and-intern-2026-north-reading"
   }
 ]
