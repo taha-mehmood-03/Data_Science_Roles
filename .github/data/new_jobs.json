@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Product Data Scientist",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "Engineer, RTL Design",
+    "job_city": "Noida",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "1 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Product Data Scientist, Enterprise Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/94858805761712838-staff-product-data-scientist-enterprise-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-product-data-scientist-new-york"
+    "job_description": "Data Science job for the role Senior Engineer, RTL Design at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/senior-engineer-rtl-design/33099/88816662816",
+    "id": "arm-engineer-rtl-design-noida"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantitative Researcher ($10+ Billion International Hedge Fund)",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Quantitative Researcher ($10+ Billion International Hedge Fund) at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180686616-quantitative-researcher-$10+-billion-international-hedge-fund",
+    "id": "aijobs-quantitative-researcher-10-billion-international-hedge-fund-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Freelancer - OSINT / WEBINT / Intelligence Researcher",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Freelancer - OSINT / WEBINT / Intelligence Researcher at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180686617-freelancer-osint-webint-intelligence-researcher",
+    "id": "aijobs-freelancer-osint-webint-intelligence-researcher-unknown"
   }
 ]
