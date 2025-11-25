@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Engineer, RTL Design",
-    "job_city": "Noida",
-    "job_state": "India",
+    "job_title": "Identity Security Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer, RTL Design at Noida, India",
-    "job_apply_link": "https://careers.arm.com/job/noida/senior-engineer-rtl-design/33099/88816662816",
-    "id": "arm-engineer-rtl-design-noida"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quantitative Researcher ($10+ Billion International Hedge Fund)",
-    "job_city": "US",
-    "job_state": "United States",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Quantitative Researcher ($10+ Billion International Hedge Fund) at New York, United States, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/180686616-quantitative-researcher-$10+-billion-international-hedge-fund",
-    "id": "aijobs-quantitative-researcher-10-billion-international-hedge-fund-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Freelancer - OSINT / WEBINT / Intelligence Researcher",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Freelancer - OSINT / WEBINT / Intelligence Researcher at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/180686617-freelancer-osint-webint-intelligence-researcher",
-    "id": "aijobs-freelancer-osint-webint-intelligence-researcher-unknown"
+    "job_description": "Data Science job for the role Identity Security Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/identity-security-architect/33099/88819756832",
+    "id": "arm-identity-security-architect-cambridge"
   }
 ]
