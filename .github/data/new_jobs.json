@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Full stack senior Software Developer",
-    "job_city": "LOWELL",
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer / Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Machine Learning Engineer / Scientist at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/180935199-machine-learning-engineer-scientist",
+    "id": "aijobs-machine-learning-engineer-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Growth Product",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Full stack senior Software Developer at ProfessionalLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76738&source=WEB_Search_NA",
-    "id": "ibm-full-stack-senior-software-developer-lowell"
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Data Scientist, Growth Product at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180935202-senior-data-scientist-growth-product",
+    "id": "aijobs-data-scientist-growth-product-unknown"
   }
 ]
