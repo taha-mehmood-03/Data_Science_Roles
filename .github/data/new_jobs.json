@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "DATA STRATEGIST",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SENIOR DATA STRATEGIST at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76111&source=WEB_Search_NA",
+    "id": "ibm-data-strategist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager Intern Poughkeepsie New York",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager Intern Poughkeepsie New York 2026 at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77189&source=WEB_Search_NA",
+    "id": "ibm-product-manager-intern-poughkeepsie-new-york-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research Software Engineer",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Research Software Engineer at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76817&source=WEB_Search_NA",
+    "id": "ibm-research-software-engineer-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant, - z Solutions, GDPS",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Consultant, - z Solutions, GDPS at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77506&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-z-solutions-gdps-washington"
+  }
+]
