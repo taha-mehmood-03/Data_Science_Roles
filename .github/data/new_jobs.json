@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Quantitative Business Analyst",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "Power Analysis Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "5 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Quantitative Business Analyst, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86091360171369158-quantitative-business-analyst-youtube?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-quantitative-business-analyst-new-york"
+    "job_description": "Data Science job for the role Staff Power Analysis Software Engineer at San Diego, California, Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-software-engineer/33099/84150069744",
+    "id": "arm-power-analysis-software-engineer-san-diego"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "DL System Software Engineer, AI Platform - New College Graduate",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Data Visualization Analyst",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role DL System Software Engineer, AI Platform - New College Graduate 2025 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/180863903-dl-system-software-engineer-ai-platform-new-college-graduate-2025",
-    "id": "aijobs-dl-system-software-engineer-ai-platform-new-college-graduate-santa-clara"
+    "job_description": "data science job for the role Data Visualization Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/180865092-data-visualization-analyst",
+    "id": "aijobs-data-visualization-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Social Risk Analyst",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI Social Risk Analyst at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/180865093-ai-social-risk-analyst",
+    "id": "aijobs-ai-social-risk-analyst-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Risk Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Strategic Risk Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/180865091-strategic-risk-manager",
+    "id": "aijobs-strategic-risk-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Security Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Software Engineer, Security Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/168220749-software-engineer-security-products",
+    "id": "aijobs-software-engineer-security-products-united-states"
   }
 ]
