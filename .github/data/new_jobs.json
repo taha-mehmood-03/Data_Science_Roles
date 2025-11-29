@@ -1,152 +1,72 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Digital Adoption/Training Analyst",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Adoption/Training Analyst at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72360&source=WEB_Search_NA",
-    "id": "ibm-digital-adoption-training-analyst-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Machine Operator",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Machine Operator at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007328/Machine-Operator",
-    "id": "abb-machine-operator-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Quality Inspector- 2nd shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role ELDS MV SWGR Quality Inspector- 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016707/ELDS-MV-SWGR-Quality-Inspector-2nd-shift",
-    "id": "abb-elds-mv-swgr-quality-inspector-2nd-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Production Operator- 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator- 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011353/ELDS-MV-SWGR-Production-Operator-1st-shift",
-    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Team Leader",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role ELDS MV SWGR Team Leader at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015885/ELDS-MV-SWGR-Team-Leader",
-    "id": "abb-elds-mv-swgr-team-leader-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Lean Challenge Intern Mebane - Summer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Lean Challenge Intern Mebane - Summer 2026 at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012505/Lean-Challenge-Intern-Mebane-Summer-2026",
-    "id": "abb-lean-challenge-intern-mebane-summer-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer - Analytics Developer",
+    "job_title": "Werkstudent (m/w/d) - Technische Dokumentation",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role R&D Senior Engineer - Analytics Developer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007536/R-D-Senior-Engineer-Analytics-Developer",
-    "id": "abb-r-d-senior-engineer-analytics-developer-not-specific"
+    "job_description": "Data Science job for the role Werkstudent (m/w/d) - Technische Dokumentation at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008555/Werkstudent-m-w-d-Technische-Dokumentation",
+    "id": "abb-werkstudent-m-w-d-technische-dokumentation-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Internship (m/f/d) - Analytics and Condition Monitoring for Electromechanical Systems",
+    "job_title": "Document Control & Project Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Document Control & Project Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012460/Document-Control-Project-Specialist",
+    "id": "abb-document-control-project-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "operator",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role operator at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95837987/operator",
+    "id": "abb-operator-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Supervisor",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
     "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Internship (m/f/d) - Analytics and Condition Monitoring for Electromechanical Systems at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012687/Internship-m-f-d-Analytics-and-Condition-Monitoring-for-Electromechanical-Systems",
-    "id": "abb-internship-m-f-d-analytics-and-condition-monitoring-for-electromechanical-systems-not-specific"
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Supervisor at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011685/Warehouse-Internal-Logistics-Supervisor",
+    "id": "abb-warehouse-internal-logistics-supervisor-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "E-commerce / application specialist",
+    "job_title": "Company / JV Manager",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role E-commerce / application specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013463/E-commerce-application-specialist",
-    "id": "abb-e-commerce-application-specialist-not-specific"
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Company / JV Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97042416/Company-JV-Manager",
+    "id": "abb-company-jv-manager-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "eCommerce Implementation Specialist",
+    "job_title": "Internship / Masterthesis (m/f/d) - Use of Large Language Models (LLMs) for the Configuration of Home Automation Systems",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role eCommerce Implementation Specialist at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015982/eCommerce-Implementation-Specialist",
-    "id": "abb-ecommerce-implementation-specialist-not-specific"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Internship / Masterthesis (m/f/d) - Use of Large Language Models (LLMs) for the Configuration of Home Automation Systems at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009652/Internship-Masterthesis-m-f-d-Use-of-Large-Language-Models-LLMs-for-the-Configuration-of-Home-Automation-Systems",
+    "id": "abb-internship-masterthesis-m-f-d-use-of-large-language-models-llms-for-the-configuration-of-home-automation-systems-not-specific"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Principal Software Engineer - .NET full-stack",
+    "job_title": "Sr. Technical Trainer-Electrical Distribution Systems",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Principal Software Engineer - .NET full-stack at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/95720221/Principal-Software-Engineer-NET-full-stack",
-    "id": "abb-principal-software-engineer-net-full-stack-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Experienced Software Engineer – ABB Robotics, Mölndal",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Experienced Software Engineer – ABB Robotics, Mölndal at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015589/Experienced-Software-Engineer-ABB-Robotics-Mölndal",
-    "id": "abb-experienced-software-engineer-abb-robotics-m-lndal-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Solution Architect",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Solution Architect at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012635/Solution-Architect",
-    "id": "abb-solution-architect-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "SAP PP Solution Architect",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role SAP PP Solution Architect at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014889/SAP-PP-Solution-Architect",
-    "id": "abb-sap-pp-solution-architect-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer (Front End Focused)",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Software Engineer (Front End Focused) at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Software-Engineer-Front-End-Focused",
-    "id": "abb-software-engineer-front-end-focused-not-specific"
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Sr. Technical Trainer-Electrical Distribution Systems at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010525/Sr-Technical-Trainer-Electrical-Distribution-Systems",
+    "id": "abb-sr-technical-trainer-electrical-distribution-systems-not-specific"
   }
 ]
