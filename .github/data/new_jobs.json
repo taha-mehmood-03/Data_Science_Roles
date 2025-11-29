@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer, Power Engineering",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Engineer, Power Engineering at Seattle, Washington, San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/seattle/principal-engineer-power-engineering/33099/88062625184",
+    "id": "arm-engineer-power-engineering-seattle"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Value Provider Program Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Value Provider Program Manager at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015354/Value-Provider-Program-Manager",
+    "id": "abb-value-provider-program-manager-multiple"
+  }
+]
