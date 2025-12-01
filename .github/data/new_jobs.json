@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Architecture Formal Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Architecture Formal Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-architecture-formal-engineer/33099/89039360960",
+    "id": "arm-architecture-formal-engineer-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017090/Internship-m-f-d-Health-Monitoring-and-Anomaly-Detection-of-Switchgears",
+    "id": "abb-internship-m-f-d-health-monitoring-and-anomaly-detection-of-switchgears-mannheim"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "1.78 Robotics Graduate Research Internship – Robot Learning",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "13h ago",
+    "job_description": "data science job for the role 1.78 Robotics Graduate Research Internship – Robot Learning at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/167571725-1-78-robotics-graduate-research-internship-robot-learning",
+    "id": "aijobs-1-78-robotics-graduate-research-internship-robot-learning-us"
+  }
+]
