@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Product Data Scientist",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff Component Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "1 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Data Scientist, Android and Business Communications",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109949014442418886-senior-product-data-scientist-android-and-business-communications?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-product-data-scientist-kirkland"
+    "job_description": "Data Science job for the role Senior/Staff Component Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-component-engineer/33099/89071071824",
+    "id": "arm-senior-staff-component-engineer-bengaluru"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Product Support - Software & Digital",
-    "job_city": "Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Support - Software & Digital at Sant Quirze del Valles, Barcelona, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017359/Product-Support-Software-Digital",
-    "id": "abb-product-support-software-digital-sant-quirze-del-valles"
+    "employer_name": "Arm",
+    "job_title": "PCB Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff PCB Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-pcb-engineer/33099/87317330384",
+    "id": "arm-pcb-engineer-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, World Model Systems Engineering - Autonomous Vehicles",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/181880672-senior-software-engineer-world-model-systems-engineering-autonomous-vehicles",
+    "id": "aijobs-software-engineer-world-model-systems-engineering-autonomous-vehicles-santa-clara"
   }
 ]
