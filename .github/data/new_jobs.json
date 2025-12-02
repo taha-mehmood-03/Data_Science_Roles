@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Intern, Mechanical Engineering",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Google",
+    "job_title": "Senior Product Data Scientist",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern, Mechanical Engineering at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-mechanical-engineering/33099/89069479088",
-    "id": "arm-intern-mechanical-engineering-austin"
+    "job_description": "1 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Data Scientist, Android and Business Communications",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109949014442418886-senior-product-data-scientist-android-and-business-communications?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-product-data-scientist-kirkland"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Production Engineering Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014060/Production-Engineering-Specialist",
-    "id": "abb-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
-    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, Ads AI",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Principal AI Engineer, Ads AI at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/181864968-principal-ai-engineer-ads-ai",
-    "id": "aijobs-ai-engineer-ads-ai-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Systems Engineer",
-    "job_city": "US",
-    "job_state": "IN",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role AI/ML Systems Engineer at Seymour, IN, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/181864962-ai-ml-systems-engineer",
-    "id": "aijobs-ai-ml-systems-engineer-us"
+    "job_title": "Product Support - Software & Digital",
+    "job_city": "Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Product Support - Software & Digital at Sant Quirze del Valles, Barcelona, Spain",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017359/Product-Support-Software-Digital",
+    "id": "abb-product-support-software-digital-sant-quirze-del-valles"
   }
 ]
