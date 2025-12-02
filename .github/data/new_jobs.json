@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff Component Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior/Staff Component Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-staff-component-engineer/33099/89071071824",
-    "id": "arm-senior-staff-component-engineer-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "Senior Data Scientist",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Senior Data Scientist at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015923/Senior-Data-Scientist",
+    "id": "abb-senior-data-scientist-krakow"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "PCB Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff PCB Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-pcb-engineer/33099/87317330384",
-    "id": "arm-pcb-engineer-bengaluru"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, World Model Systems Engineering - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/181880672-senior-software-engineer-world-model-systems-engineering-autonomous-vehicles",
-    "id": "aijobs-software-engineer-world-model-systems-engineering-autonomous-vehicles-santa-clara"
+    "employer_name": "ABB",
+    "job_title": "Senior Data Scientist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Senior Data Scientist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016923/Senior-Data-Scientist",
+    "id": "abb-senior-data-scientist-multiple"
   }
 ]
