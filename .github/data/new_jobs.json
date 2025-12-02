@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "job_title": "Data Engineer, Amazon Music DISCO",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Engineer, Amazon Music DISCO at San Francisco, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3134964/data-engineer-amazon-music-disco",
+    "job_posted_at": "2025-12-02T14:18:26.357Z",
+    "job_posted_at_datetime_utc": "2025-12-02T14:18:26.357Z",
+    "id": "amazon-data-engineer-amazon-music-disco-san-francisco"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "/ Principal Verification Engineer - Media IP",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff / Principal Verification Engineer - Media IP at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-principal-verification-engineer-media-ip/33099/89079255984",
+    "id": "arm-principal-verification-engineer-media-ip-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=74585&source=WEB_Search_NA",
+    "id": "ibm-software-developer-tucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP S/4HANA Infrastructure Lead (BASIS)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP S/4HANA Infrastructure Lead (BASIS) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77146&source=WEB_Search_NA",
+    "id": "ibm-sap-s-4hana-infrastructure-lead-basis-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Human-in-the-Loop Analyst",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Human-in-the-Loop Analyst at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78570&source=WEB_Search_NA",
+    "id": "ibm-human-in-the-loop-analyst-rocket-center"
+  }
+]
