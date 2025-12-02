@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer (C++)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer (C++) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-c/33099/85691100512",
-    "id": "arm-software-engineer-c-cambridge"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Scientist (L4) - Content & Conversation Modeling",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "19h ago",
-    "job_description": "data science job for the role Machine Learning Scientist (L4) - Content & Conversation Modeling at Los Gatos, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/181981340-machine-learning-scientist-l4-content-conversation-modeling",
-    "id": "aijobs-machine-learning-scientist-l4-content-conversation-modeling-us"
+    "job_title": "Business Intelligence Engineer, Intelligent Talent Acquisition",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Intelligent Talent Acquisition at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3136030/business-intelligence-engineer-intelligent-talent-acquisition",
+    "job_posted_at": "2025-12-02T19:19:59.559Z",
+    "job_posted_at_datetime_utc": "2025-12-02T19:19:59.559Z",
+    "id": "amazon-business-intelligence-engineer-intelligent-talent-acquisition-arlington"
   }
 ]
