@@ -1,22 +1,52 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Principal Engineer, Power Engineering",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "job_title": "Intern, Mechanical Engineering",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Principal Engineer, Power Engineering at Seattle, Washington, San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/seattle/senior-principal-engineer-power-engineering/33099/88062625184",
-    "id": "arm-principal-engineer-power-engineering-seattle"
+    "job_description": "Data Science job for the role Intern, Mechanical Engineering at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-mechanical-engineering/33099/89069479088",
+    "id": "arm-intern-mechanical-engineering-austin"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Electrification Smart Power - Lean Challenge Intern - Summer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Electrification Smart Power - Lean Challenge Intern - Summer 2026 at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015439/Electrification-Smart-Power-Lean-Challenge-Intern-Summer-2026",
-    "id": "abb-electrification-smart-power-lean-challenge-intern-summer-mebane"
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014060/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
+    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Ads AI",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role Principal AI Engineer, Ads AI at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/181864968-principal-ai-engineer-ads-ai",
+    "id": "aijobs-ai-engineer-ads-ai-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI/ML Systems Engineer",
+    "job_city": "US",
+    "job_state": "IN",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role AI/ML Systems Engineer at Seymour, IN, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/181864962-ai-ml-systems-engineer",
+    "id": "aijobs-ai-ml-systems-engineer-us"
   }
 ]
