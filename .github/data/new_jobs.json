@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "HPC Technical Account Manager",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role HPC Technical Account Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057977-hpc-technical-account-manager",
+    "id": "aijobs-hpc-technical-account-manager-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Technical Program Management - AI and Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Manager, Technical Program Management - AI and Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057986-senior-manager-technical-program-management-ai-and-platform",
+    "id": "aijobs-manager-technical-program-management-ai-and-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Cloud Operations Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Cloud Operations Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057981-senior-cloud-operations-engineer",
+    "id": "aijobs-cloud-operations-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Cloud Operations Engineering",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Manager, Cloud Operations Engineering at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057982-senior-manager-cloud-operations-engineering",
+    "id": "aijobs-manager-cloud-operations-engineering-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Cryptographic Key Management",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role System Software Engineer - Cryptographic Key Management at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057983-system-software-engineer-cryptographic-key-management",
+    "id": "aijobs-system-software-engineer-cryptographic-key-management-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - QNX BSP and IO Virtualization",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior System Software Engineer - QNX BSP and IO Virtualization at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182057980-senior-system-software-engineer-qnx-bsp-and-io-virtualization",
+    "id": "aijobs-system-software-engineer-qnx-bsp-and-io-virtualization-santa-clara"
+  }
+]
