@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Production Operator-Smart Power 2nd shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Manufacturing Production Operator-Smart Power 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015624/Manufacturing-Production-Operator-Smart-Power-2nd-shift",
-    "id": "abb-manufacturing-production-operator-smart-power-2nd-shift-mebane"
+    "employer_name": "Arm",
+    "job_title": "AMBA Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior AMBA Architect at Cambridge, United Kingdom, Sheffield, United Kingdom, Manchester, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-amba-architect/33099/89111719728",
+    "id": "arm-amba-architect-cambridge"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Material Compliance Specialist",
-    "job_city": "Vaasa",
-    "job_state": "Pohjanmaa",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Material Compliance Specialist at Vaasa, Pohjanmaa, Finland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018346/Material-Compliance-Specialist",
-    "id": "abb-material-compliance-specialist-vaasa"
+    "employer_name": "AiJobs",
+    "job_title": "decision scientist, Operations Research",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role decision scientist, Operations Research at Seattle, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182072412-decision-scientist-operations-research",
+    "id": "aijobs-decision-scientist-operations-research-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Quantitative Researcher",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Quantitative Researcher at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/180686615-quantitative-researcher",
+    "id": "aijobs-quantitative-researcher-unknown"
   }
 ]
