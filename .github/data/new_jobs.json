@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "AMBA Architect",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Strategy and Analytics Lead",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior AMBA Architect at Cambridge, United Kingdom, Sheffield, United Kingdom, Manchester, United Kingdom, Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-amba-architect/33099/89111719728",
-    "id": "arm-amba-architect-cambridge"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "decision scientist, Operations Research",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role decision scientist, Operations Research at Seattle, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182072412-decision-scientist-operations-research",
-    "id": "aijobs-decision-scientist-operations-research-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quantitative Researcher",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1w ago",
-    "job_description": "data science job for the role Quantitative Researcher at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/180686615-quantitative-researcher",
-    "id": "aijobs-quantitative-researcher-unknown"
+    "job_description": "45 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Strategy and Analytics Lead, YouTube Product Activation",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112622734663393990-strategy-and-analytics-lead-youtube-product-activation?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-strategy-and-analytics-lead-new-york"
   }
 ]
