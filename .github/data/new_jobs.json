@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Strategy and Analytics Lead",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "45 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Strategy and Analytics Lead, YouTube Product Activation",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112622734663393990-strategy-and-analytics-lead-youtube-product-activation?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-strategy-and-analytics-lead-new-york"
+    "employer_name": "MARVELL",
+    "job_title": "Staff Physical Verification CAD engineer - EDA Tools",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior Staff Physical Verification CAD engineer - EDA Tools at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Physical-Verification-CAD-engineer---EDA-Tools_2503634?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-physical-verification-cad-engineer-eda-tools-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Associate Vice President, Chief of Staff - Custom Cloud Solutions",
+    "job_city": "US - CA - Santa Clara - Marvell Park",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Associate Vice President, Chief of Staff - Custom Cloud Solutions at US - CA - Santa Clara - Marvell Park",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US---CA---Santa-Clara---Marvell-Park/Associate-Vice-President--Chief-of-Staff---Custom-Cloud-Solutions_2502841?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-associate-vice-president-chief-of-staff-custom-cloud-solutions-us-ca-santa-clara-marvell-park"
   }
 ]
