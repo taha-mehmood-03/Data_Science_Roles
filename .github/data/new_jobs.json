@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Hardware Developer at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79199&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist-Artificial Intelligence",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Data Scientist-Artificial Intelligence at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78616&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-artificial-intelligence-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Enterprise AI Architect",
+    "job_city": "Philadelphia",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise AI Architect at ProfessionalPhiladelphia, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73117&source=WEB_Search_NA",
+    "id": "ibm-enterprise-ai-architect-philadelphia"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "MHorton Conversion",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role MHorton Conversion at Entry LevelNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=75719&source=WEB_Search_NA",
+    "id": "ibm-mhorton-conversion-no-city"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Cybersecurity Senior Engineer - Temporary",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Cybersecurity Senior Engineer - Temporary at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016053/Cybersecurity-Senior-Engineer-Temporary",
+    "id": "abb-cybersecurity-senior-engineer-temporary-multiple"
+  }
+]
