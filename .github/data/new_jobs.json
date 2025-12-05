@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Yield Analysis Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role New College Grad - Yield Analysis Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38975434",
+    "id": "micron-new-college-grad-yield-analysis-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Engineer",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Engineer at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79210&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-chicago"
+  },
+  {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Robotic Sensor Engineer",
+    "job_title": "Embedded Software Engineer",
     "job_city": "US",
     "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Robotic Sensor Engineer at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Robotic-Sensor-Engineer_R257968?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-robotic-sensor-engineer-us"
+    "job_description": "Data Science job for the role Staff Embedded Software Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Embedded-Software-Engineer_R257970?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-embedded-software-engineer-us"
   }
 ]
