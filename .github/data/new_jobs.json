@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Business Analyst, External Fulfillment",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Analyst, External Fulfillment at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3138017/business-analyst-external-fulfillment",
+    "job_posted_at": "2025-12-05T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-05T00:00:00.000Z",
+    "id": "amazon-business-analyst-external-fulfillment-bellevue"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Research Scientist",
+    "job_city": "Washington D.C.",
+    "job_state": "DC",
+    "job_posted_at": "Recently",
+    "job_description": "10 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Research Scientist, Trust and Safety",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119604394592215750-data-research-scientist-trust-and-safety?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-data-research-scientist-washington-d-c"
+  }
+]
