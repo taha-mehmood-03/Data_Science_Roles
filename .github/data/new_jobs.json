@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "VP, Head of Data Science",
-    "job_city": "Unknown",
+    "employer_name": "Micron",
+    "job_title": "ID1 Yield Analysis Failure Analysis Lab SEM & Auto STEM Process Technician",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role ID1 Yield Analysis Failure Analysis Lab SEM & Auto STEM Process Technician at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39163292",
+    "id": "micron-id1-yield-analysis-failure-analysis-lab-sem-auto-stem-process-technician-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Application Architect",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role VP, Head of Data Science at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/182331492-vp-head-of-data-science",
-    "id": "aijobs-vp-head-of-data-science-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Application Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77596&source=WEB_Search_NA",
+    "id": "ibm-ai-application-architect-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist – Remote  $100 –$120/hr",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "MBA Summer Intern – AI-First Transformation & Value Creation",
+    "job_city": "Multiple Cities",
     "job_state": "US",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Scientist – Remote  $100 –$120/hr at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/182331494-data-scientist-remote-$100-$120-hr",
-    "id": "aijobs-data-scientist-remote-100-120-hr-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Decision Sciences Group (Graduate Program)",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Data Scientist, Decision Sciences Group (Graduate Program) at Raleigh, NC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182331490-data-scientist-decision-sciences-group-graduate-program",
-    "id": "aijobs-data-scientist-decision-sciences-group-graduate-program-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Machine Learning Engineer II (Intern) - United States",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role AI Machine Learning Engineer II (Intern) - United States at San Jose, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182331495-ai-machine-learning-engineer-ii-intern-united-states",
-    "id": "aijobs-ai-machine-learning-engineer-ii-intern-united-states-us"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role MBA Summer Intern – AI-First Transformation & Value Creation at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79672&source=WEB_Search_NA",
+    "id": "ibm-mba-summer-intern-ai-first-transformation-value-creation-multiple-cities"
   }
 ]
