@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Site Reliability Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Site Reliability Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-site-reliability-engineer/33099/84406379248",
-    "id": "arm-site-reliability-engineer-bengaluru"
+    "employer_name": "AiJobs",
+    "job_title": "VP, Head of Data Science",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role VP, Head of Data Science at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/182331492-vp-head-of-data-science",
+    "id": "aijobs-vp-head-of-data-science-unknown"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Consulting Account Executive, Pacific Northwest",
-    "job_city": "Bellevue",
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist – Remote  $100 –$120/hr",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Consulting Account Executive, Pacific Northwest at ProfessionalBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79582&source=WEB_Search_NA",
-    "id": "ibm-consulting-account-executive-pacific-northwest-bellevue"
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist – Remote  $100 –$120/hr at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/182331494-data-scientist-remote-$100-$120-hr",
+    "id": "aijobs-data-scientist-remote-100-120-hr-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Decision Sciences Group (Graduate Program)",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist, Decision Sciences Group (Graduate Program) at Raleigh, NC, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182331490-data-scientist-decision-sciences-group-graduate-program",
+    "id": "aijobs-data-scientist-decision-sciences-group-graduate-program-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Machine Learning Engineer II (Intern) - United States",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role AI Machine Learning Engineer II (Intern) - United States at San Jose, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182331495-ai-machine-learning-engineer-ii-intern-united-states",
+    "id": "aijobs-ai-machine-learning-engineer-ii-intern-united-states-us"
   }
 ]
