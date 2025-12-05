@@ -1,23 +1,32 @@
 [
   {
-    "job_title": "Business Analyst, External Fulfillment",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Analyst, External Fulfillment at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3138017/business-analyst-external-fulfillment",
-    "job_posted_at": "2025-12-05T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-12-05T00:00:00.000Z",
-    "id": "amazon-business-analyst-external-fulfillment-bellevue"
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager Poughkeepsie NY",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Product Manager Poughkeepsie NY 2026 at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79663&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-poughkeepsie-ny-poughkeepsie"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Data Research Scientist",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
+    "employer_name": "IBM",
+    "job_title": "AI/ML Engineering internship: SVL",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "10 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Research Scientist, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119604394592215750-data-research-scientist-trust-and-safety?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-data-research-scientist-washington-d-c"
+    "job_description": "Data Science job for the role AI/ML Engineering internship: SVL at InternshipSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79669&source=WEB_Search_NA",
+    "id": "ibm-ai-ml-engineering-internship-svl-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "CFO/CXO Advisory Consultant - Finance & Procurement Operations",
+    "job_city": "Naples",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CFO/CXO Advisory Consultant - Finance & Procurement Operations at ProfessionalNaples, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79249&source=WEB_Search_NA",
+    "id": "ibm-cfo-cxo-advisory-consultant-finance-procurement-operations-naples"
   }
 ]
