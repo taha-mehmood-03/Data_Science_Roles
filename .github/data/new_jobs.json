@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Software Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "5h ago",
+    "job_description": "data science job for the role AI Software Engineer I at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/182366269-ai-software-engineer-i",
+    "id": "aijobs-ai-software-engineer-unknown"
+  }
+]
