@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Digital IC Design Engineer",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Principal Digital IC Design Engineer at 7 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2503563?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-digital-ic-design-engineer-7-locations"
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer, Observability",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Site Reliability Engineer, Observability at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182375555-senior-site-reliability-engineer-observability",
+    "id": "aijobs-site-reliability-engineer-observability-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Cross-functional Prompt Engineer",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Cross-functional Prompt Engineer at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/182373503-cross-functional-prompt-engineer",
+    "id": "aijobs-cross-functional-prompt-engineer-ca"
   }
 ]
