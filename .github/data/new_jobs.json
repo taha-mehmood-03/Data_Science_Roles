@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Jr. Data Scientist",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Nashville",
+    "job_city": "No City",
     "job_state": "US",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Jr. Data Scientist at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/165833066-jr-data-scientist",
-    "id": "aijobs-jr-data-scientist-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Product, AI Data",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role Data Scientist, Product, AI Data at Sunnyvale, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182708186-data-scientist-product-ai-data",
-    "id": "aijobs-data-scientist-product-ai-data-us"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative - Nashville at Entry LevelNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79935&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-nashville-no-city"
   }
 ]
