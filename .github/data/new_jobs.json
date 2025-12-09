@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "IS Program Manager",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role IS Program Manager at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018548/IS-Program-Manager",
-    "id": "abb-is-program-manager-krakow"
+    "employer_name": "Arm",
+    "job_title": "Principal Engineer / GPU Architect",
+    "job_city": "Trondheim",
+    "job_state": "Norway",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Principal Engineer / GPU Architect at Trondheim, Norway, Cambridge, United Kingdom, Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/trondheim/senior-principal-engineer-gpu-architect/33099/87282170128",
+    "id": "arm-principal-engineer-gpu-architect-trondheim"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Embedded Software Intern [Summer 2026]",
-    "job_city": "CA",
-    "job_state": "San Jose",
-    "job_posted_at": "38min ago",
-    "job_description": "data science job for the role Embedded Software Intern [Summer 2026] at San Jose, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/182781559-embedded-software-intern-summer-2026",
-    "id": "aijobs-embedded-software-intern-summer-2026-ca"
+    "job_title": "Research Scientist,  Computational Cognitive Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Research Scientist,  Computational Cognitive Scientist at Los Altos, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/182788156-research-scientist-computational-cognitive-scientist",
+    "id": "aijobs-research-scientist-computational-cognitive-scientist-us"
   }
 ]
