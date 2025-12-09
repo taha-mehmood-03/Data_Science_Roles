@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - ISP",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer - ISP at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-software-engineer-isp/33099/87597038496",
-    "id": "arm-software-engineer-isp-manchester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Designer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Designer at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79958&source=WEB_Search_NA",
-    "id": "ibm-entry-level-designer-poughkeepsie"
+    "job_title": "Program Manager, Customer Service Center of Excellence (CoE)",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Data Science job for the role Program Manager, Customer Service Center of Excellence (CoE) at Newark, NJ, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139702/program-manager-customer-service-center-of-excellence-coe",
+    "job_posted_at": "2025-12-09T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-09T00:00:00.000Z",
+    "id": "amazon-program-manager-customer-service-center-of-excellence-coe-newark"
   }
 ]
