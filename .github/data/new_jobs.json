@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Research Data Scientist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer, Chip Methodology and Automation",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Research Data Scientist, Resource Planning, Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/122999583956443846-senior-research-data-scientist-resource-planning-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-research-data-scientist-sunnyvale"
+    "job_description": "Data Science job for the role Principal Applications Engineer, Chip Methodology and Automation at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-applications-engineer-chip-methodology-and-automation/33099/86204366128",
+    "id": "arm-applications-engineer-chip-methodology-and-automation-bengaluru"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Senior AI Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182780257-senior-ai-architect",
+    "id": "aijobs-ai-architect-santa-clara"
   }
 ]
