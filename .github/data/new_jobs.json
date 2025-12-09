@@ -1,12 +1,33 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
+    "job_title": "Data Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139967/data-engineer",
+    "job_posted_at": "2025-12-09T20:14:00.636Z",
+    "job_posted_at_datetime_utc": "2025-12-09T20:14:00.636Z",
+    "id": "amazon-data-engineer-seattle"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr Wet Process Engineer, Advanced Packaging",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Sr Wet Process Engineer, Advanced Packaging at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39146522",
+    "id": "micron-sr-wet-process-engineer-advanced-packaging-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Engineer, Systems HPC",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Staff Engineer, Systems HPC at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39196541",
+    "id": "micron-engineer-systems-hpc-richardson"
   }
 ]
