@@ -1,113 +1,12 @@
 [
   {
-    "job_title": "Data Engineer, CompanionProduct&Servi(ComPAS)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, CompanionProduct&Servi(ComPAS) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139912/data-engineer-companionproduct-servi-compas",
-    "job_posted_at": "2025-12-09T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-12-09T00:00:00.000Z",
-    "id": "amazon-data-engineer-companionproduct-servi-compas-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Firmware Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Firmware Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-firmware-design-engineer/33099/89339617712",
-    "id": "arm-firmware-design-engineer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager, Vendor Management",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, Vendor Management at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-vendor-management/33099/72932452352",
-    "id": "arm-manager-vendor-management-austin"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "PCS Manager - Fault Detection",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role PCS Manager - Fault Detection at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39162633",
-    "id": "micron-pcs-manager-fault-detection-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Processor Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum Processor Scientist at Entry LevelYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73783&source=WEB_Search_NA",
-    "id": "ibm-quantum-processor-scientist-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Veeva Architect & Engineer",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Veeva Architect & Engineer at ProfessionalChicago, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80293&source=WEB_Search_NA",
-    "id": "ibm-veeva-architect-engineer-chicago"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Lifecycle Support - Brand Sales Specialist - Open Market",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Lifecycle Support - Brand Sales Specialist - Open Market at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80030&source=WEB_Search_NA",
-    "id": "ibm-technology-lifecycle-support-brand-sales-specialist-open-market-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "ELH SRE Lowell, SVL, Austin",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role ELH SRE Lowell, SVL, Austin at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65792&source=WEB_Search_NA",
-    "id": "ibm-elh-sre-lowell-svl-austin-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Designer Lowell, SVL",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Designer Lowell, SVL at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66042&source=WEB_Search_NA",
-    "id": "ibm-entry-level-designer-lowell-svl-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Designer POK",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Designer POK at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79958&source=WEB_Search_NA",
-    "id": "ibm-entry-level-designer-pok-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AECC - Virtualization Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AECC - Virtualization Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79129&source=WEB_Search_NA",
-    "id": "ibm-aecc-virtualization-engineer-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   }
 ]
