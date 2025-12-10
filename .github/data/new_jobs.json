@@ -1,23 +1,33 @@
 [
   {
-    "job_title": "Security Industry Specialist , TSI",
+    "job_title": "Software Development Engineer – 2026, Artificial General Intelligence (AGI)",
     "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Security Industry Specialist , TSI at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3140466/security-industry-specialist-tsi",
-    "job_posted_at": "2025-12-10T15:22:46.733Z",
-    "job_posted_at_datetime_utc": "2025-12-10T15:22:46.733Z",
-    "id": "amazon-security-industry-specialist-tsi-san-diego"
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer – 2026, Artificial General Intelligence (AGI) at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3140503/software-development-engineer-2026-artificial-general-intelligence-agi",
+    "job_posted_at": "2025-12-10T16:19:19.638Z",
+    "job_posted_at_datetime_utc": "2025-12-10T16:19:19.638Z",
+    "id": "amazon-software-development-engineer-2026-artificial-general-intelligence-agi-bellevue"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Intern - IT Business Analyst, EA EPS",
+    "job_title": "Intern - FE Materials Business Analyst",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "Data Science job for the role Intern - IT Business Analyst, EA EPS at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39196532",
-    "id": "micron-intern-it-business-analyst-ea-eps-boise"
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role Intern - FE Materials Business Analyst at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39209244",
+    "id": "micron-intern-fe-materials-business-analyst-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Subk C Storage Administrator (AEDC)",
+    "job_city": "HERNDON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Subk C Storage Administrator (AEDC) at ProfessionalHERNDON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78899&source=WEB_Search_NA",
+    "id": "ibm-subk-c-storage-administrator-aedc-herndon"
   }
 ]
