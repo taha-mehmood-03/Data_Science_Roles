@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - System Software",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Engineer - System Software at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-system-software/33099/89368212576",
-    "id": "arm-software-engineer-system-software-cambridge"
+    "job_title": "Security Industry Specialist , TSI",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Security Industry Specialist , TSI at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3140466/security-industry-specialist-tsi",
+    "job_posted_at": "2025-12-10T15:22:46.733Z",
+    "job_posted_at_datetime_utc": "2025-12-10T15:22:46.733Z",
+    "id": "amazon-security-industry-specialist-tsi-san-diego"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sales Manager - Ecosystem Volume and Velocity Principal",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Manager - Ecosystem Volume and Velocity Principal at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80319&source=WEB_Search_NA",
-    "id": "ibm-sales-manager-ecosystem-volume-and-velocity-principal-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Leader, State of Missouri",
-    "job_city": "JEFFERSON CITY",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Leader, State of Missouri at ProfessionalJEFFERSON CITY, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80298&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-leader-state-of-missouri-jefferson-city"
+    "employer_name": "Micron",
+    "job_title": "Intern - IT Business Analyst, EA EPS",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Intern - IT Business Analyst, EA EPS at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39196532",
+    "id": "micron-intern-it-business-analyst-ea-eps-boise"
   }
 ]
