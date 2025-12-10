@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "R+D Engineer - Data Science",
-    "job_city": "US",
-    "job_state": "PA",
-    "job_posted_at": "6h ago",
-    "job_description": "data science job for the role R+D Engineer - Data Science at Pittsburgh, PA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/182949897-r+d-engineer-data-science",
-    "id": "aijobs-r-d-engineer-data-science-us"
+    "employer_name": "Micron",
+    "job_title": "Intern - Product Owner AI/Agentic Automation",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern - Product Owner AI/Agentic Automation at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39196226",
+    "id": "micron-intern-product-owner-ai-agentic-automation-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Manager, PVD/CVD Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Manager, PVD/CVD Equipment at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38907357",
+    "id": "micron-manager-pvd-cvd-equipment-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Master Data Governance Lead",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP Master Data Governance Lead at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80309&source=WEB_Search_NA",
+    "id": "ibm-sap-master-data-governance-lead-no-city"
   }
 ]
