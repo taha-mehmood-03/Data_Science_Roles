@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "job_title": "Data Engineer II, Managed Operations Data Science (MODS)",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Engineer II, Managed Operations Data Science (MODS) at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3138992/data-engineer-ii-managed-operations-data-science-mods",
+    "job_posted_at": "2025-12-09T10:19:33.514Z",
+    "job_posted_at_datetime_utc": "2025-12-09T10:19:33.514Z",
+    "id": "amazon-data-engineer-ii-managed-operations-data-science-mods-arlington"
+  },
+  {
+    "job_title": "Data Scientist II, PXT Central Science",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Scientist II, PXT Central Science at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science",
+    "job_posted_at": "2025-12-09T10:19:33.514Z",
+    "job_posted_at_datetime_utc": "2025-12-09T10:19:33.514Z",
+    "id": "amazon-data-scientist-ii-pxt-central-science-arlington"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect - Rack Scale AI Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Solutions Architect - Rack Scale AI Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/182882297-solutions-architect-rack-scale-ai-systems",
+    "id": "aijobs-solutions-architect-rack-scale-ai-systems-santa-clara"
+  }
+]
