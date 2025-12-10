@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer - System Software",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer - System Software at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-engineer-system-software/33099/89368212576",
+    "id": "arm-software-engineer-system-software-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sales Manager - Ecosystem Volume and Velocity Principal",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Manager - Ecosystem Volume and Velocity Principal at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80319&source=WEB_Search_NA",
+    "id": "ibm-sales-manager-ecosystem-volume-and-velocity-principal-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader, State of Missouri",
+    "job_city": "JEFFERSON CITY",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader, State of Missouri at ProfessionalJEFFERSON CITY, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80298&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-state-of-missouri-jefferson-city"
+  }
+]
