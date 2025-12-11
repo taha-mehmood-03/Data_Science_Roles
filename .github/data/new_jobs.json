@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Engineering Manager - Financial Systems",
-    "job_city": "Santa Clara",
+    "job_title": "Research Associate / Scientist, Physical Vapor Deposition",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Research Associate / Scientist, Physical Vapor Deposition at Cambridge, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183031210-research-associate-scientist-physical-vapor-deposition",
+    "id": "aijobs-research-associate-scientist-physical-vapor-deposition-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision AI Engineer",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Engineering Manager - Financial Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183020583-data-engineering-manager-financial-systems",
-    "id": "aijobs-data-engineering-manager-financial-systems-santa-clara"
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Computer Vision AI Engineer at El Segundo, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183030685-computer-vision-ai-engineer",
+    "id": "aijobs-computer-vision-ai-engineer-us"
   }
 ]
