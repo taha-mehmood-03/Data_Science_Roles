@@ -1,72 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Computational approaches to design de-novo molecules",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern 2026: Computational approaches to design de-novo molecules at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80833&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-computational-approaches-to-design-de-novo-molecules-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Value Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Value Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76384&source=WEB_Search_NA",
-    "id": "ibm-business-value-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant SAP RTR GL",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Consultant SAP RTR GL at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80032&source=WEB_Search_NA",
-    "id": "ibm-consultant-sap-rtr-gl-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Consultant SAP RTR Fixed Assets",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Consultant SAP RTR Fixed Assets at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80033&source=WEB_Search_NA",
-    "id": "ibm-consultant-sap-rtr-fixed-assets-no-city"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Engineer, Physical Design",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Principal Engineer, Physical Design at 5 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Morrisville-NC/Senior-Principal-Engineer--Physical-Design_2503626-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-engineer-physical-design-5-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal Engineer, Physical Design",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Principal Engineer, Physical Design at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Physical-Design_2503623?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-engineer-physical-design-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "IC Validation Engineer Intern - Master's Degree",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role IC Validation Engineer Intern - Master's Degree at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern---Master-s-Degree_2502793-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-ic-validation-engineer-intern-master-s-degree-2-locations"
+    "job_title": "Applied Scientist, AWS Agentic AI",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Applied Scientist, AWS Agentic AI at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3141530/applied-scientist-aws-agentic-ai",
+    "job_posted_at": "2025-12-11T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-11T00:00:00.000Z",
+    "id": "amazon-applied-scientist-aws-agentic-ai-new-york"
   }
 ]
