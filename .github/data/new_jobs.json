@@ -1,42 +1,54 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Verification Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior SoC Verification Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-soc-verification-engineer/33099/70017006032",
-    "id": "arm-soc-verification-engineer-san-diego"
+    "job_title": "Risk Manager I, Special Projects and Investigations",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Risk Manager I, Special Projects and Investigations at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3141444/risk-manager-i-special-projects-and-investigations",
+    "job_posted_at": "2025-12-11T19:19:31.398Z",
+    "job_posted_at_datetime_utc": "2025-12-11T19:19:31.398Z",
+    "id": "amazon-risk-manager-i-special-projects-and-investigations-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Hardware System Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Hardware System Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-hardware-system-design-engineer/33099/88350050144",
-    "id": "arm-hardware-system-design-engineer-austin"
+    "job_title": "Applied Scientist, Global Mile",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Global Mile at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3141457/applied-scientist-global-mile",
+    "job_posted_at": "2025-12-11T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-11T00:00:00.000Z",
+    "id": "amazon-applied-scientist-global-mile-bellevue"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Sr. Director, Systems Software",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Director, Systems Software at San Jose, California, Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/sr-director-systems-software/33099/87532513104",
-    "id": "arm-sr-director-systems-software-san-jose"
+    "employer_name": "AiJobs",
+    "job_title": "Sr Data Scientist (On site 3 days per week)",
+    "job_city": "US",
+    "job_state": "AL",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Sr Data Scientist (On site 3 days per week) at Hoover, AL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183064463-sr-data-scientist-on-site-3-days-per-week",
+    "id": "aijobs-sr-data-scientist-on-site-3-days-per-week-us"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - GEL Software",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Intern - GEL Software at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39211459",
-    "id": "micron-intern-gel-software-boise"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist | Analytics",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist | Analytics at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/183064454-data-scientist-%7C-analytics",
+    "id": "aijobs-data-scientist-analytics-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Associate AI Engineer",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Associate AI Engineer at North Carolina, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183010790-associate-ai-engineer",
+    "id": "aijobs-associate-ai-engineer-us"
   }
 ]
