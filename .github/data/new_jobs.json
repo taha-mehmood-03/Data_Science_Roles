@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Research Associate / Scientist, Physical Vapor Deposition",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Research Associate / Scientist, Physical Vapor Deposition at Cambridge, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/183031210-research-associate-scientist-physical-vapor-deposition",
-    "id": "aijobs-research-associate-scientist-physical-vapor-deposition-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision AI Engineer",
-    "job_city": "US",
+    "employer_name": "Google",
+    "job_title": "Senior Product Manager",
+    "job_city": "San Bruno",
     "job_state": "CA",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Computer Vision AI Engineer at El Segundo, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/183030685-computer-vision-ai-engineer",
-    "id": "aijobs-computer-vision-ai-engineer-us"
+    "job_posted_at": "Recently",
+    "job_description": "51 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Product Manager, YouTube Shorts Discovery",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107065675658207942-senior-product-manager-youtube-shorts-discovery?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-product-manager-san-bruno"
   }
 ]
