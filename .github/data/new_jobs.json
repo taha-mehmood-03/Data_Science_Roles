@@ -1,44 +1,23 @@
 [
   {
-    "job_title": "RF Systems Scientist, Amazon Leo",
+    "job_title": "Technical Program Manager, Leo Security",
     "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role RF Systems Scientist, Amazon Leo at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3142169/rf-systems-scientist-amazon-leo",
-    "job_posted_at": "2025-12-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-12-12T00:00:00.000Z",
-    "id": "amazon-rf-systems-scientist-amazon-leo-redmond"
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Technical Program Manager, Leo Security at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3142213/technical-program-manager-leo-security",
+    "job_posted_at": "2025-12-12T19:18:09.353Z",
+    "job_posted_at_datetime_utc": "2025-12-12T19:18:09.353Z",
+    "id": "amazon-technical-program-manager-leo-security-arlington"
   },
   {
-    "job_title": "Internal Risk Specialist, TSI",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Internal Risk Specialist, TSI at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3140466/internal-risk-specialist-tsi",
-    "job_posted_at": "2025-12-10T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-12-10T00:00:00.000Z",
-    "id": "amazon-internal-risk-specialist-tsi-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Applications Engineer",
-    "job_city": "Shanghai",
-    "job_state": "China",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Applications Engineer at Shanghai, China",
-    "job_apply_link": "https://careers.arm.com/job/shanghai/senior-software-applications-engineer/33099/81603013440",
-    "id": "arm-software-applications-engineer-shanghai"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Sr. Staff Verification Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Sr. Staff Verification Design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Verification-Design-Engineer_2503761?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-sr-staff-verification-design-engineer-santa-clara"
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Software Engineer, Internship - US Government",
+    "job_city": "HI",
+    "job_state": "Honolulu",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Forward Deployed Software Engineer, Internship - US Government at Honolulu, HI",
+    "job_apply_link": "https://www.aijobs.com/jobs/183196633-forward-deployed-software-engineer-internship-us-government",
+    "id": "aijobs-forward-deployed-software-engineer-internship-us-government-hi"
   }
 ]
