@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (+ Equity) at VC-backed AI product intelligence platform",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Senior Data Scientist (+ Equity) at VC-backed AI product intelligence platform at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290705-senior-data-scientist-+-equity-at-vc-backed-ai-product-intelligence-platform",
+    "id": "aijobs-data-scientist-equity-at-vc-backed-ai-product-intelligence-platform-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Graduate Data Scientist",
+    "job_city": "US",
+    "job_state": "NV",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Graduate Data Scientist at Las Vegas, NV, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290713-graduate-data-scientist",
+    "id": "aijobs-graduate-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist II, Growth",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist II, Growth at Los Angeles, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290708-data-scientist-ii-growth",
+    "id": "aijobs-data-scientist-ii-growth-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Retail Media",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist - Retail Media at San Antonio, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290703-data-scientist-retail-media",
+    "id": "aijobs-data-scientist-retail-media-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Gusto Retirement",
+    "job_city": "US",
+    "job_state": "CO",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Staff Data Scientist - Gusto Retirement at Denver, CO, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290706-staff-data-scientist-gusto-retirement",
+    "id": "aijobs-data-scientist-gusto-retirement-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist R&D Salty Pretzels",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Scientist R&D Salty Pretzels at Hershey, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290716-research-scientist-r-d-salty-pretzels",
+    "id": "aijobs-research-scientist-r-d-salty-pretzels-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Software Engineer at Redmond, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290711-software-engineer",
+    "id": "aijobs-software-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist Intern",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Research Scientist Intern at Santa Clara, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/183290702-research-scientist-intern",
+    "id": "aijobs-research-scientist-intern-us"
+  }
+]
