@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Applications Engineer",
+    "job_city": "Shanghai",
+    "job_state": "China",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Applications Engineer at Shanghai, China, Yokohama, Japan",
+    "job_apply_link": "https://careers.arm.com/job/shanghai/staff-applications-engineer/33099/82415590080",
+    "id": "arm-applications-engineer-shanghai"
+  }
+]
