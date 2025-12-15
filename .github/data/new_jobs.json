@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Growth Marketing Manager",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Micron",
+    "job_title": "Intern - AI/ML Algorithms, Silicon Systems AI",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Intern - AI/ML Algorithms, Silicon Systems AI at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39281405",
+    "id": "micron-intern-ai-ml-algorithms-silicon-systems-ai-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Process Technician (Idaho Fab 1)",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Process Technician (Idaho Fab 1) at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/38164827",
+    "id": "micron-process-technician-idaho-fab-1-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Professional - Data Analyst",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "35 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Growth Marketing Manager, YouTube Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83265831646962374-growth-marketing-manager-youtube-platforms?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-growth-marketing-manager-new-york"
+    "job_description": "Data Science job for the role Supply Chain Professional - Data Analyst at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79276&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-professional-data-analyst-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Support Engineer - Cloudability",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Technical Support Engineer - Cloudability at Entry LevelBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79949&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-support-engineer-cloudability-bellevue"
   }
 ]
