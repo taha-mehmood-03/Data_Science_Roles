@@ -1,42 +1,33 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - AI/ML Algorithms, Silicon Systems AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Intern - AI/ML Algorithms, Silicon Systems AI at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39281405",
-    "id": "micron-intern-ai-ml-algorithms-silicon-systems-ai-san-jose"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Process Technician (Idaho Fab 1)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Process Technician (Idaho Fab 1) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38164827",
-    "id": "micron-process-technician-idaho-fab-1-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Professional - Data Analyst",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Supply Chain Professional - Data Analyst at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79276&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-professional-data-analyst-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Technical Support Engineer - Cloudability",
+    "job_title": "Data Scientist, Amazon Fulfillment Technologies - Inbound",
+    "employer_name": "Amazon",
     "job_city": "Bellevue",
-    "job_state": "US",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, Amazon Fulfillment Technologies - Inbound at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3143086/data-scientist-amazon-fulfillment-technologies-inbound",
+    "job_posted_at": "2025-12-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-12-15T00:00:00.000Z",
+    "id": "amazon-data-scientist-amazon-fulfillment-technologies-inbound-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineering IP Governance Technical Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Technical Support Engineer - Cloudability at Entry LevelBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79949&source=WEB_Search_NA",
-    "id": "ibm-entry-level-technical-support-engineer-cloudability-bellevue"
+    "job_description": "Data Science job for the role Engineering IP Governance Technical Program Manager at Austin, Texas, San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/engineering-ip-governance-technical-program-manager/33099/87521064400",
+    "id": "arm-engineering-ip-governance-technical-program-manager-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Customer Quality Engineer",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Customer Quality Engineer at Taipei, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/principal-customer-quality-engineer/33099/89177854896",
+    "id": "arm-customer-quality-engineer-taipei"
   }
 ]
