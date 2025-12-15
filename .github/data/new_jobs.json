@@ -1,42 +1,12 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "RAM RDA Process Engineer",
+    "job_title": "Senior/Staff Process Quality Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "Data Science job for the role RAM RDA Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39294876",
-    "id": "micron-ram-rda-process-engineer-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP CRM Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP CRM Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80028&source=WEB_Search_NA",
-    "id": "ibm-sap-crm-lead-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Electrical Engineer",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Electrical Engineer at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80302&source=WEB_Search_NA",
-    "id": "ibm-electrical-engineer-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud Projects & Grants Lead (Public Sector/K12)",
-    "job_city": "Irvine",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Oracle Cloud Projects & Grants Lead (Public Sector/K12) at ProfessionalIrvine, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80576&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-projects-grants-lead-public-sector-k12-irvine"
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior/Staff Process Quality Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39280446",
+    "id": "micron-senior-staff-process-quality-engineer-boise"
   }
 ]
