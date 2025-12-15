@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Data Scientist, Amazon Fulfillment Technologies - Inbound",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Amazon Fulfillment Technologies - Inbound at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3143086/data-scientist-amazon-fulfillment-technologies-inbound",
-    "job_posted_at": "2025-12-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-12-15T00:00:00.000Z",
-    "id": "amazon-data-scientist-amazon-fulfillment-technologies-inbound-bellevue"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "Engineering IP Governance Technical Program Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_title": "Graduate Software Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Engineering IP Governance Technical Program Manager at Austin, Texas, San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/austin/engineering-ip-governance-technical-program-manager/33099/87521064400",
-    "id": "arm-engineering-ip-governance-technical-program-manager-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Customer Quality Engineer",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Customer Quality Engineer at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/principal-customer-quality-engineer/33099/89177854896",
-    "id": "arm-customer-quality-engineer-taipei"
+    "job_description": "Data Science job for the role Graduate Software Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-software-engineer/33099/89557416928",
+    "id": "arm-graduate-software-engineer-sophia-antipolis"
   }
 ]
