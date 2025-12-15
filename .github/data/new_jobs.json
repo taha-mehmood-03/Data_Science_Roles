@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - XR",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer - XR at US, WA, Seattle",
-    "job_apply_link": "https://www.aijobs.com/jobs/183475918-senior-software-engineer-xr",
-    "id": "aijobs-software-engineer-xr-seattle"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision and Deep Learning Engineer, 3D Reconstruction",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Computer Vision and Deep Learning Engineer, 3D Reconstruction at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183475919-senior-computer-vision-and-deep-learning-engineer-3d-reconstruction",
-    "id": "aijobs-computer-vision-and-deep-learning-engineer-3d-reconstruction-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Time Constraints Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Time Constraints Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-time-constraints-engineer/33099/89447313136",
+    "id": "arm-time-constraints-engineer-cambridge"
   }
 ]
