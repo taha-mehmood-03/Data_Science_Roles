@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "SAP Advanced Variant Configuration (AVC) Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP Advanced Variant Configuration (AVC) Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80922&source=WEB_Search_NA",
-    "id": "ibm-sap-advanced-variant-configuration-avc-lead-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "AI Solutions Architect and Technical Program Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role AI Solutions Architect and Technical Program Manager at Boise, Idaho, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39272602",
+    "id": "micron-ai-solutions-architect-and-technical-program-manager-boise"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019008/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
+    "employer_name": "AiJobs",
+    "job_title": "AI Educator",
+    "job_city": "United States",
+    "job_state": "South Carolina",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role AI Educator at Spartanburg, South Carolina, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/183196678-ai-educator",
+    "id": "aijobs-ai-educator-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Specialist (AI or GIS)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Systems Specialist (AI or GIS) at Ontario, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/182974344-systems-specialist-ai-or-gis",
+    "id": "aijobs-systems-specialist-ai-or-gis-united-states"
   }
 ]
