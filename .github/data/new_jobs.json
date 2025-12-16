@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP Advanced Variant Configuration (AVC) Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP Advanced Variant Configuration (AVC) Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80922&source=WEB_Search_NA",
+    "id": "ibm-sap-advanced-variant-configuration-avc-lead-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019008/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
+  }
+]
