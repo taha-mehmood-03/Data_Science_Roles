@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer Internship - Amazon Leo, Summer 2026 (US) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
+    "job_posted_at": "2025-12-16T18:17:00.682Z",
+    "job_posted_at_datetime_utc": "2025-12-16T18:17:00.682Z",
+    "id": "amazon-software-development-engineer-internship-amazon-leo-summer-2026-us-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern: 2026 - Research Triangle Park",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Scientist Intern: 2026 - Research Triangle Park at InternshipRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81721&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-2026-research-triangle-park-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Return Intern: Supply Chain Management Professional Intern",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Return Intern: Supply Chain Management Professional Intern 2026 at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81235&source=WEB_Search_NA",
+    "id": "ibm-return-intern-supply-chain-management-professional-intern-poughkeepsie"
+  }
+]
