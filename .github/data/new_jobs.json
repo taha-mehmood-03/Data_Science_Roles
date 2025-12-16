@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal)",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role CPU Performance – Microarchitecture Exploration Engineer (Senior/Principal) at Raleigh, North Carolina",
-    "job_apply_link": "https://careers.arm.com/job/raleigh/cpu-performance-microarchitecture-exploration-engineer-senior-principal/33099/65958437776",
-    "id": "arm-cpu-performance-microarchitecture-exploration-engineer-senior-principal-raleigh"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Performance Engineer - EDA platform & workloads",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Performance Engineer - EDA platform & workloads at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-performance-engineer-eda-platform-and-workloads/33099/86006621552",
-    "id": "arm-performance-engineer-eda-platform-workloads-austin"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Design for Test Engineering Intern - Master's Degree",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Design for Test Engineering Intern - Master's Degree at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Design-for-Test-Engineering-Intern---Bachelors-Degree_2502681-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-design-for-test-engineering-intern-master-s-degree-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Application Engineer, Customer Success - Entry Level Professional (ELP)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Application Engineer, Customer Success - Entry Level Professional (ELP) at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Embedded-Systems-Engineer---Innovation---Customer-Enablement_2502141?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-application-engineer-customer-success-entry-level-professional-elp-santa-clara"
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision Machine Learning Engineer, Autonomy",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "8h ago",
+    "job_description": "data science job for the role Computer Vision Machine Learning Engineer, Autonomy at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/183580771-computer-vision-machine-learning-engineer-autonomy",
+    "id": "aijobs-computer-vision-machine-learning-engineer-autonomy-unknown"
   }
 ]
