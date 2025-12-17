@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Prácticas en desarrollo de herramienta de diagnostico",
-    "job_city": "Madrigalejo del Monte",
-    "job_state": "Spain",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Prácticas en desarrollo de herramienta de diagnostico at Madrigalejo del Monte, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018491/Prácticas-en-desarrollo-de-herramienta-de-diagnostico",
-    "id": "abb-pr-cticas-en-desarrollo-de-herramienta-de-diagnostico-madrigalejo-del-monte"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sr. Staff Analyst, Information Security",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Sr. Staff Analyst, Information Security at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sr-Staff-Analyst--Information-Security_R258352?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sr-staff-analyst-information-security-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Full Stack",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer, Full Stack at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673942-senior-software-engineer-full-stack",
-    "id": "aijobs-software-engineer-full-stack-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer, NeMo Retriever - Model Optimization and MLOps",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior AI Engineer, NeMo Retriever - Model Optimization and MLOps at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673950-senior-ai-engineer-nemo-retriever-model-optimization-and-mlops",
-    "id": "aijobs-ai-engineer-nemo-retriever-model-optimization-and-mlops-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Software Engineer - Advanced Technology Group",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Systems Software Engineer - Advanced Technology Group at US, OR, Hillsboro",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673943-senior-systems-software-engineer-advanced-technology-group",
-    "id": "aijobs-systems-software-engineer-advanced-technology-group-hillsboro"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - AI and Robotics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role System Software Engineer - AI and Robotics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183673948-system-software-engineer-ai-and-robotics",
-    "id": "aijobs-system-software-engineer-ai-and-robotics-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Verification Methodology Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Verification Methodology Engineer at Cambridge, United Kingdom, Sheffield, United Kingdom, Toronto, Canada",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-verification-methodology-engineer/33099/89614614800",
+    "id": "arm-verification-methodology-engineer-cambridge"
   }
 ]
