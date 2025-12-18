@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D software engineer",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role R&D software engineer at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014784/R-D-software-engineer",
+    "id": "abb-r-d-software-engineer-xiamen"
+  }
+]
