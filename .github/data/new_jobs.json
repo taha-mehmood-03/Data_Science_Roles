@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Life at Arm",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "employer_name": "Google",
+    "job_title": "Data Customer Adoption Lead",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Life at Arm at ",
-    "job_apply_link": "https://careers.arm.com/life-at-arm",
-    "id": "arm-life-at-arm-multiple"
+    "job_description": "33 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Customer Adoption Lead, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/92068272630833862-data-customer-adoption-lead-core?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-data-customer-adoption-lead-new-york"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(Senior) Scientist (m/f/d) – Agentic AI and Applications (80 – 100%)",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role (Senior) Scientist (m/f/d) – Agentic AI and Applications (80 – 100%) at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019953/-Senior-Scientist-m-f-d-Agentic-AI-and-Applications-80-100",
+    "id": "abb-senior-scientist-m-f-d-agentic-ai-and-applications-80-100-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(Senior) Scientist – AI and Graphs (80 – 100%)",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role (Senior) Scientist – AI and Graphs (80 – 100%) at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019949/-Senior-Scientist-AI-and-Graphs-80-100",
+    "id": "abb-senior-scientist-ai-and-graphs-80-100-mannheim"
   }
 ]
