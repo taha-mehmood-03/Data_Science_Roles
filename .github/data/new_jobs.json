@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr Managing Consultant- Supply Chain Procurement",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Managing Consultant- Supply Chain Procurement at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=76797&source=WEB_Search_NA",
+    "id": "ibm-sr-managing-consultant-supply-chain-procurement-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr Managing Consultant Supply Chain - Planning & Logistics",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Managing Consultant Supply Chain - Planning & Logistics at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77221&source=WEB_Search_NA",
+    "id": "ibm-sr-managing-consultant-supply-chain-planning-logistics-multiple-cities"
+  }
+]
