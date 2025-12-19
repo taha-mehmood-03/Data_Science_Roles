@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Implementation Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "job_title": "Design Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Implementation Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-implementation-engineer/33099/89671494944",
-    "id": "arm-implementation-engineer-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Constraint Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Constraint Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-constraint-engineer/33099/87570617744",
-    "id": "arm-constraint-engineer-san-diego"
+    "job_description": "Data Science job for the role Senior Design Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/senior-design-engineer/33099/69630389392",
+    "id": "arm-design-engineer-chandler"
   }
 ]
