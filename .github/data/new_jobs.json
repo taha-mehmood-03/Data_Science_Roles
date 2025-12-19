@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Chapter Leader Firmware",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Chapter Leader Firmware at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017905/Chapter-Leader-Firmware",
-    "id": "abb-chapter-leader-firmware-multiple"
+    "employer_name": "Arm",
+    "job_title": "Implementation Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Implementation Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-implementation-engineer/33099/89671494944",
+    "id": "arm-implementation-engineer-san-diego"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Agent Research Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Applied Agent Research Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183858545-senior-applied-agent-research-engineer",
-    "id": "aijobs-applied-agent-research-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Networking - Cybersecurity",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer, Networking - Cybersecurity at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/183858541-senior-software-engineer-networking-cybersecurity",
-    "id": "aijobs-software-engineer-networking-cybersecurity-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Constraint Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Constraint Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-constraint-engineer/33099/87570617744",
+    "id": "arm-constraint-engineer-san-diego"
   }
 ]
