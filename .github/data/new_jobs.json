@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Business Process Owner / Lead-to-Opportunity BPO",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Business Process Owner / Lead-to-Opportunity BPO at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019179/Business-Process-Owner-Lead-to-Opportunity-BPO",
-    "id": "abb-business-process-owner-lead-to-opportunity-bpo-multiple"
+    "employer_name": "IBM",
+    "job_title": "IDIQ Transition Lead Full Scope Poly",
+    "job_city": "HERNDON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IDIQ Transition Lead Full Scope Poly at ProfessionalHERNDON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78625&source=WEB_Search_NA",
+    "id": "ibm-idiq-transition-lead-full-scope-poly-herndon"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Product Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80891&source=WEB_Search_NA",
+    "id": "ibm-product-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Architect",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Architect at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=81987&source=WEB_Search_NA",
+    "id": "ibm-ai-architect-new-york"
   }
 ]
