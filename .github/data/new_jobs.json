@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "2026 Data Science Internship - United States, PhD or Masters Student",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role 2026 Data Science Internship - United States, PhD or Masters Student at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144155/2026-data-science-internship-united-states-phd-or-masters-student",
-    "job_posted_at": "2025-12-16T16:20:20.825Z",
-    "job_posted_at_datetime_utc": "2025-12-16T16:20:20.825Z",
-    "id": "amazon-2026-data-science-internship-united-states-phd-or-masters-student-seattle"
+    "employer_name": "Micron",
+    "job_title": "Intern - Global Environmental Compliance",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role Intern - Global Environmental Compliance at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39361743",
+    "id": "micron-intern-global-environmental-compliance-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quote to Cash M&A Intern",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quote to Cash M&A Intern 2026 at InternshipArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82152&source=WEB_Search_NA",
+    "id": "ibm-quote-to-cash-m-a-intern-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo Application Suite Mobile Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo Application Suite Mobile Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82694&source=WEB_Search_NA",
+    "id": "ibm-maximo-application-suite-mobile-developer-multiple-cities"
   }
 ]
