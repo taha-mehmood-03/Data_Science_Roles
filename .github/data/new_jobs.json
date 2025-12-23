@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Robotic Simulation Software Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Robotic Simulation Software Engineer at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Staff-Robotic-Simulation-Software-Engineer_R258507?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-robotic-simulation-software-engineer-us"
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
+    "id": "abb-industry-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ANALOG DEVICES",
-    "job_title": "Analyst - CLM & LRO IT Systems",
+    "job_title": "Digital Design Engineer - Automotive",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "CO",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Analyst - CLM & LRO IT Systems at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Analyst---CLM---LRO-IT-Systems_R258741?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-analyst-clm-lro-it-systems-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Deep Tech Optical Sensing Architect",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Deep Tech Optical Sensing Architect at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Deep-Tech-Optical-Sensing-Architect_R258735?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-deep-tech-optical-sensing-architect-us"
+    "job_description": "Data Science job for the role Digital Design Engineer - Automotive at US, CO, Colorado Springs, Centennial",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Centennial/Digital-Design-Engineer---Automotive_R258787?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-design-engineer-automotive-us"
   }
 ]
