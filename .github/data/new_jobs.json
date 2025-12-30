@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Data Engineer, AWS Marketing D:SE",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, AWS Marketing D:SE at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3150371/data-engineer-aws-marketing-d-se",
+    "job_posted_at": "2025-12-30T21:16:07.579Z",
+    "job_posted_at_datetime_utc": "2025-12-30T21:16:07.579Z",
+    "id": "amazon-data-engineer-aws-marketing-d-se-seattle"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager, OpenSearch",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager, OpenSearch at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=78921&source=WEB_Search_NA",
+    "id": "ibm-product-manager-opensearch-san-jose"
+  }
+]
