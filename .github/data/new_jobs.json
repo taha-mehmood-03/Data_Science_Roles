@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Generative AI Executive Enablement Coach",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Generative AI Executive Enablement Coach at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39295822",
+    "id": "micron-generative-ai-executive-enablement-coach-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consulting Account Executive - Financial Services & Insurance (FSI)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Consulting Account Executive - Financial Services & Insurance (FSI) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84564&source=WEB_Search_NA",
+    "id": "ibm-consulting-account-executive-financial-services-insurance-fsi-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager - Drives",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Drives at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019863/Regional-Sales-Manager-Drives",
+    "id": "abb-regional-sales-manager-drives-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Customs Product Classification Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
+  }
+]
