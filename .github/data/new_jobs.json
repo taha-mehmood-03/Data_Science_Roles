@@ -1,13 +1,32 @@
 [
   {
-    "job_title": "Product Manager - Tech, Consumer Growth",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Product Manager - Tech, Consumer Growth at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3152740/product-manager-tech-consumer-growth",
-    "job_posted_at": "2026-01-05T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-05T00:00:00.000Z",
-    "id": "amazon-product-manager-tech-consumer-growth-newark"
+    "employer_name": "IBM",
+    "job_title": "Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83085&source=WEB_Search_NA",
+    "id": "ibm-engineer-full-stack-hcp-terraform-foundations-agent-services-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Engineering Manager-HCP Terraform Foundations-Production Engineering",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Engineering Manager-HCP Terraform Foundations-Production Engineering at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83082&source=WEB_Search_NA",
+    "id": "ibm-engineering-manager-hcp-terraform-foundations-production-engineering-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing SAP S4/HANA EWM Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing SAP S4/HANA EWM Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80823&source=WEB_Search_NA",
+    "id": "ibm-managing-sap-s4-hana-ewm-consultant-multiple-cities"
   }
 ]
