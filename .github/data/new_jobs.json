@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Engineer-Full Stack-HCP Terraform Foundations Agent Services Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83085&source=WEB_Search_NA",
-    "id": "ibm-engineer-full-stack-hcp-terraform-foundations-agent-services-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineering Manager-HCP Terraform Foundations-Production Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineering Manager-HCP Terraform Foundations-Production Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83082&source=WEB_Search_NA",
-    "id": "ibm-engineering-manager-hcp-terraform-foundations-production-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP S4/HANA EWM Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP S4/HANA EWM Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80823&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-s4-hana-ewm-consultant-multiple-cities"
+    "job_title": "Software Development Engineer Internship - Military Veterans",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Software Development Engineer Internship - Military Veterans at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3152797/software-development-engineer-internship-military-veterans",
+    "job_posted_at": "2026-01-05T21:16:45.106Z",
+    "job_posted_at_datetime_utc": "2026-01-05T21:16:45.106Z",
+    "id": "amazon-software-development-engineer-internship-military-veterans-arlington"
   }
 ]
