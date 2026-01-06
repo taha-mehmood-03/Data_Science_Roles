@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Data Science",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role Intern - Data Science at Boise, Idaho, United States of America + 3 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/39520182",
-    "id": "micron-intern-data-science-boise"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Delivery Manager",
-    "job_city": "DURHAM",
+    "job_title": "System Services Representative Indianapolis Indiana",
+    "job_city": "No City",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Delivery Manager at ProfessionalDURHAM, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82756&source=WEB_Search_NA",
-    "id": "ibm-delivery-manager-durham"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Project Management (Delivery Manager)",
-    "job_city": "DURHAM",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Management (Delivery Manager) at ProfessionalDURHAM, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82798&source=WEB_Search_NA",
-    "id": "ibm-project-management-delivery-manager-durham"
+    "job_description": "Data Science job for the role System Services Representative Indianapolis Indiana at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82154&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-indianapolis-indiana-no-city"
   }
 ]
