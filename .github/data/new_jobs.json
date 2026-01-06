@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Alternative Data Scientist",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Alternative Data Scientist at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/190950474-alternative-data-scientist",
+    "id": "aijobs-alternative-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Campus Full-Time",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "2h ago",
+    "job_description": "data science job for the role Data Scientist - Campus Full-Time at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/190950478-data-scientist-campus-full-time",
+    "id": "aijobs-data-scientist-campus-full-time-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Algorithms - Optimization",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist, Algorithms - Optimization at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/190950485-data-scientist-algorithms-optimization",
+    "id": "aijobs-data-scientist-algorithms-optimization-us"
+  }
+]
