@@ -1,23 +1,32 @@
 [
   {
-    "job_title": "Product Marketing Manager",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Data Science job for the role Product Marketing Manager at Newark, NJ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3153376/product-marketing-manager",
-    "job_posted_at": "2026-01-06T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-06T00:00:00.000Z",
-    "id": "amazon-product-marketing-manager-newark"
+    "employer_name": "Micron",
+    "job_title": "Intern - Data Science",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role Intern - Data Science at Boise, Idaho, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39520182",
+    "id": "micron-intern-data-science-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Business Sales & Delivery Leader",
-    "job_city": "Tempe",
+    "job_title": "Delivery Manager",
+    "job_city": "DURHAM",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Sales & Delivery Leader at ProfessionalTempe, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82771&source=WEB_Search_NA",
-    "id": "ibm-business-sales-delivery-leader-tempe"
+    "job_description": "Data Science job for the role Delivery Manager at ProfessionalDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82756&source=WEB_Search_NA",
+    "id": "ibm-delivery-manager-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Project Management (Delivery Manager)",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Project Management (Delivery Manager) at ProfessionalDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82798&source=WEB_Search_NA",
+    "id": "ibm-project-management-delivery-manager-durham"
   }
 ]
