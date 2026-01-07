@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Hardware Emulation Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "job_title": "Graduate CPU Microarchitecture Modelling and Performance Analysis",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Hardware Emulation Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/hardware-emulation-engineer/33099/88794276368",
-    "id": "arm-hardware-emulation-engineer-multiple"
+    "job_description": "Data Science job for the role Graduate CPU Microarchitecture Modelling and Performance Analysis at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-cpu-microarchitecture-modelling-and-performance-analysis/33099/87114694192",
+    "id": "arm-graduate-cpu-microarchitecture-modelling-and-performance-analysis-sophia-antipolis"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Physical Implementation Intern",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CPU Physical Implementation Intern at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/cpu-physical-implementation-intern/33099/87106675248",
+    "id": "arm-cpu-physical-implementation-intern-sophia-antipolis"
   }
 ]
