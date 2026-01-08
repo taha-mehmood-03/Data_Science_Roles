@@ -1,34 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer – Amazon Leo (US)",
+    "job_title": "Mechanical Engineer, Cryogenic Hardware",
     "employer_name": "Amazon",
-    "job_city": "Northridge",
+    "job_city": "Pasadena",
     "job_state": "CA",
-    "job_description": "Data Science job for the role Software Development Engineer – Amazon Leo (US) at Northridge, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144341/software-development-engineer-amazon-leo-us",
-    "job_posted_at": "2026-01-08T19:17:15.126Z",
-    "job_posted_at_datetime_utc": "2026-01-08T19:17:15.126Z",
-    "id": "amazon-software-development-engineer-amazon-leo-us-northridge"
-  },
-  {
-    "job_title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Northridge",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Software Development Engineer Internship - Amazon Leo, Summer 2026 (US) at Northridge, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
-    "job_posted_at": "2026-01-08T19:17:15.126Z",
-    "job_posted_at_datetime_utc": "2026-01-08T19:17:15.126Z",
-    "id": "amazon-software-development-engineer-internship-amazon-leo-summer-2026-us-northridge"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+    "job_description": "Data Science job for the role Mechanical Engineer, Cryogenic Hardware at Pasadena, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3155626/mechanical-engineer-cryogenic-hardware",
+    "job_posted_at": "2026-01-08T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-08T00:00:00.000Z",
+    "id": "amazon-mechanical-engineer-cryogenic-hardware-pasadena"
   }
 ]
