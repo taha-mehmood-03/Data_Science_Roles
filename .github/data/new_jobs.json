@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "MBA Summer Intern – AI-First Transformation & Value Creation (NYC and Armonk)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role MBA Summer Intern – AI-First Transformation & Value Creation (NYC and Armonk) at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79672&source=WEB_Search_NA",
-    "id": "ibm-mba-summer-intern-ai-first-transformation-value-creation-nyc-and-armonk-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Development - Planning",
-    "job_city": "Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Development - Planning at InternshipBellevue, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84816&source=WEB_Search_NA",
-    "id": "ibm-development-planning-bellevue"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Development - Kubecost/Containers",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Development - Kubecost/Containers at InternshipAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84814&source=WEB_Search_NA",
-    "id": "ibm-development-kubecost-containers-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Thesis Work for Offline Reinforcement Learning with Physics-Informed Data-Driven Models",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Thesis Work for Offline Reinforcement Learning with Physics-Informed Data-Driven Models at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021501/Thesis-Work-for-Offline-Reinforcement-Learning-with-Physics-Informed-Data-Driven-Models",
-    "id": "abb-thesis-work-for-offline-reinforcement-learning-with-physics-informed-data-driven-models-not-specific"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019644/Digital-Solution-Engineering-Specialist-80-100",
-    "id": "abb-digital-solution-engineering-specialist-80-100-untersiggenthal"
+    "employer_name": "Micron",
+    "job_title": "Intern - IT Software Engineer, EA EPS",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role Intern - IT Software Engineer, EA EPS at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39547826",
+    "id": "micron-intern-it-software-engineer-ea-eps-boise"
   }
 ]
