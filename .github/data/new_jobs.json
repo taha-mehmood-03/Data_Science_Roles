@@ -1,62 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "IBM",
+    "job_title": "MBA Summer Intern – AI-First Transformation & Value Creation (NYC and Armonk)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Design Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-design-engineer/33099/90376450784",
-    "id": "arm-design-engineer-sophia-antipolis"
+    "job_description": "Data Science job for the role MBA Summer Intern – AI-First Transformation & Value Creation (NYC and Armonk) at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79672&source=WEB_Search_NA",
+    "id": "ibm-mba-summer-intern-ai-first-transformation-value-creation-nyc-and-armonk-multiple-cities"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Associate Engineer, Biomedical Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Associate Engineer, Biomedical Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Associate-Engineer--Biomedical-Engineering_R258807?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-associate-engineer-biomedical-engineering-us"
+    "employer_name": "IBM",
+    "job_title": "Development - Planning",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Development - Planning at InternshipBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84816&source=WEB_Search_NA",
+    "id": "ibm-development-planning-bellevue"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Optical Engineer, Senior Staff",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Optical Engineer, Senior Staff at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Optical-Engineer--Senior-Staff_2502614?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-optical-engineer-senior-staff-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "CAD Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal CAD Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-CAD-Engineer_2503917?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-cad-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Advanced Packaging Technology Pathfinding and Development Engineer",
+    "employer_name": "IBM",
+    "job_title": "Development - Kubecost/Containers",
     "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Advanced Packaging Technology Pathfinding and Development Engineer at Austin, TX",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Advanced-Packaging-Technology-Pathfinding-and-Development-Engineer_2503963?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-advanced-packaging-technology-pathfinding-and-development-engineer-austin"
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Development - Kubecost/Containers at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84814&source=WEB_Search_NA",
+    "id": "ibm-development-kubecost-containers-austin"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Marketing Research & Analytics Manager",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Marketing Research & Analytics Manager at Foster City, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/191862964-marketing-research-analytics-manager",
-    "id": "aijobs-marketing-research-analytics-manager-us"
+    "employer_name": "ABB",
+    "job_title": "Thesis Work for Offline Reinforcement Learning with Physics-Informed Data-Driven Models",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Thesis Work for Offline Reinforcement Learning with Physics-Informed Data-Driven Models at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021501/Thesis-Work-for-Offline-Reinforcement-Learning-with-Physics-Informed-Data-Driven-Models",
+    "id": "abb-thesis-work-for-offline-reinforcement-learning-with-physics-informed-data-driven-models-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019644/Digital-Solution-Engineering-Specialist-80-100",
+    "id": "abb-digital-solution-engineering-specialist-80-100-untersiggenthal"
   }
 ]
