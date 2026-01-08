@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "IP Management, Technical Program Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader - Midwest",
+    "job_city": "Chicago",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IP Management, Technical Program Manager at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/ip-management-technical-program-manager/33099/87495270352",
-    "id": "arm-ip-management-technical-program-manager-san-jose"
+    "job_description": "Data Science job for the role Technology Sales Leader - Midwest at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85185&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-midwest-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Seller",
+    "job_city": "Columbus",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Seller at ProfessionalColumbus, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85218&source=WEB_Search_NA",
+    "id": "ibm-technology-seller-columbus"
   }
 ]
