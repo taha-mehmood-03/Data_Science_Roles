@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Hardware Engineer - Board‑level system design for storage, custom ASIC",
-    "job_city": "Irvine",
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning / Data Science Engineer",
+    "job_city": "US",
+    "job_state": "OH",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Machine Learning / Data Science Engineer at Columbus, OH, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760415-machine-learning-data-science-engineer",
+    "id": "aijobs-machine-learning-data-science-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer (LLM)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Machine Learning Engineer (LLM) at Boston, MA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760426-machine-learning-engineer-llm",
+    "id": "aijobs-machine-learning-engineer-llm-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Learning Scientist, Efficacy Research",
+    "job_city": "US",
+    "job_state": "PA",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Learning Scientist, Efficacy Research at Pittsburgh, PA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760431-learning-scientist-efficacy-research",
+    "id": "aijobs-learning-scientist-efficacy-research-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer - LLM, AI & Robotics",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Hardware Engineer - Board‑level system design for storage, custom ASIC at Irvine, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-Hardware-Engineer---High-Performance-Board-level-system-design-for-storage--network-security--and-custom-ASIC-applications_2600008?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-hardware-engineer-board-level-system-design-for-storage-custom-asic-irvine"
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Machine Learning Engineer - LLM, AI & Robotics at Santa Clara, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760429-machine-learning-engineer-llm-ai-robotics",
+    "id": "aijobs-machine-learning-engineer-llm-ai-robotics-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Machine Learning Engineer II (Full Time) United States",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role AI Machine Learning Engineer II (Full Time) United States at Austin, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760412-ai-machine-learning-engineer-ii-full-time-united-states",
+    "id": "aijobs-ai-machine-learning-engineer-ii-full-time-united-states-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Level",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Machine Learning Engineer, Level 4 at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760423-machine-learning-engineer-level-4",
+    "id": "aijobs-machine-learning-engineer-level-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Associate Researcher I-Renal",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Associate Researcher I-Renal at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/192760416-associate-researcher-i-renal",
+    "id": "aijobs-associate-researcher-i-renal-us"
   }
 ]
