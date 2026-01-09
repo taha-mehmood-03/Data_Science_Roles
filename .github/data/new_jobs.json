@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Emulation & FPGA Linux Operating System Prototyping Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "Google",
+    "job_title": "Business Data Scientist Manager",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Emulation & FPGA Linux Operating System Prototyping Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-emulation-and-fpga-linux-operating-system-prototyping-engineer/33099/89159713632",
-    "id": "arm-emulation-fpga-linux-operating-system-prototyping-engineer-bengaluru"
+    "job_description": "18 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Data Scientist Manager, Forecasting and Science",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89749176048329414-business-data-scientist-manager-forecasting-and-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-business-data-scientist-manager-boulder"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Economist",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "46 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Economist, Economic Impact Estimation",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123967399538893510-senior-economist-economic-impact-estimation?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-economist-reston"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data & AI Engineer (Remote)",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "6h ago",
+    "job_description": "data science job for the role Data & AI Engineer (Remote) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/185354219-data-ai-engineer-remote",
+    "id": "aijobs-data-ai-engineer-remote-unknown"
   }
 ]
