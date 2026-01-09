@@ -1,24 +1,12 @@
 [
   {
-    "job_title": "Applied Scientist, Generative AI Innovation Center, Model Customization",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Applied Scientist, Generative AI Innovation Center, Model Customization at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3155502/applied-scientist-generative-ai-innovation-center-model-customization",
-    "job_posted_at": "2026-01-08T19:19:59.081Z",
-    "job_posted_at_datetime_utc": "2026-01-08T19:19:59.081Z",
-    "id": "amazon-applied-scientist-generative-ai-innovation-center-model-customization-arlington"
-  },
-  {
-    "job_title": "Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)",
-    "employer_name": "Amazon",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_description": "Data Science job for the role Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS) at Boulder, CO, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3155394/software-dev-engineer-ii-measurement-ad-tech-and-data-science-mads",
-    "job_posted_at": "2026-01-08T18:19:59.081Z",
-    "job_posted_at_datetime_utc": "2026-01-08T18:19:59.081Z",
-    "id": "amazon-software-dev-engineer-ii-measurement-ad-tech-and-data-science-mads-boulder"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85523&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-san-francisco"
   }
 ]
