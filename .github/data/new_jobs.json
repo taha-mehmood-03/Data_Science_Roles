@@ -1,32 +1,24 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Agile Program Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Senior Agile Program Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/192476674-senior-agile-program-manager",
-    "id": "aijobs-agile-program-manager-santa-clara"
+    "job_title": "Applied Scientist, Generative AI Innovation Center, Model Customization",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Applied Scientist, Generative AI Innovation Center, Model Customization at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3155502/applied-scientist-generative-ai-innovation-center-model-customization",
+    "job_posted_at": "2026-01-08T19:19:59.081Z",
+    "job_posted_at_datetime_utc": "2026-01-08T19:19:59.081Z",
+    "id": "amazon-applied-scientist-generative-ai-innovation-center-model-customization-arlington"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Forward Deployed Engineer (FDE), Life Sciences",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Forward Deployed Engineer (FDE), Life Sciences at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/192479626-forward-deployed-engineer-fde-life-sciences",
-    "id": "aijobs-forward-deployed-engineer-fde-life-sciences-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Enterprise AI",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "13h ago",
-    "job_description": "data science job for the role Principal Technical Program Manager, Enterprise AI at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/192476678-principal-technical-program-manager-enterprise-ai",
-    "id": "aijobs-technical-program-manager-enterprise-ai-santa-clara"
+    "job_title": "Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)",
+    "employer_name": "Amazon",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_description": "Data Science job for the role Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS) at Boulder, CO, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3155394/software-dev-engineer-ii-measurement-ad-tech-and-data-science-mads",
+    "job_posted_at": "2026-01-08T18:19:59.081Z",
+    "job_posted_at_datetime_utc": "2026-01-08T18:19:59.081Z",
+    "id": "amazon-software-dev-engineer-ii-measurement-ad-tech-and-data-science-mads-boulder"
   }
 ]
