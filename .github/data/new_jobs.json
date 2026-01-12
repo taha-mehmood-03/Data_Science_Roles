@@ -1,23 +1,13 @@
 [
   {
-    "job_title": "Product Marketing Manager",
+    "job_title": "Applied Scientist, Denied Party Screening, AWS Compliance & Security Assurance",
     "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Product Marketing Manager at Culver City, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3153376/product-marketing-manager",
-    "job_posted_at": "2026-01-06T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-06T00:00:00.000Z",
-    "id": "amazon-product-marketing-manager-culver-city"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director of Technology Product Management – AI / ML",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director of Technology Product Management – AI / ML at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/director-of-technology-product-management-ai-ml/33099/88015187152",
-    "id": "arm-director-of-technology-product-management-ai-ml-cambridge"
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Applied Scientist, Denied Party Screening, AWS Compliance & Security Assurance at Dallas, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157154/applied-scientist-denied-party-screening-aws-compliance-security-assurance",
+    "job_posted_at": "2026-01-12T15:22:27.657Z",
+    "job_posted_at_datetime_utc": "2026-01-12T15:22:27.657Z",
+    "id": "amazon-applied-scientist-denied-party-screening-aws-compliance-security-assurance-dallas"
   }
 ]
