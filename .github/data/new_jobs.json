@@ -1,13 +1,272 @@
 [
   {
-    "job_title": "Applied Scientist, Denied Party Screening, AWS Compliance & Security Assurance",
-    "employer_name": "Amazon",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Applied Scientist, Denied Party Screening, AWS Compliance & Security Assurance at Dallas, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157154/applied-scientist-denied-party-screening-aws-compliance-security-assurance",
-    "job_posted_at": "2026-01-12T15:22:27.657Z",
-    "job_posted_at_datetime_utc": "2026-01-12T15:22:27.657Z",
-    "id": "amazon-applied-scientist-denied-party-screening-aws-compliance-security-assurance-dallas"
+    "employer_name": "Micron",
+    "job_title": "Implant Equipment Engineering Lead",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 17 hours ago",
+    "job_description": "Data Science job for the role Implant Equipment Engineering Lead at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39569885",
+    "id": "micron-implant-equipment-engineering-lead-boise"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sales Engineer - HEOR/RWE",
+    "job_city": "United States",
+    "job_state": "US",
+    "job_posted_at": "20min ago",
+    "job_description": "data science job for the role Sales Engineer - HEOR/RWE at United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/194474957-sales-engineer-heor-rwe",
+    "id": "aijobs-sales-engineer-heor-rwe-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, SAMBA",
+    "job_city": "US",
+    "job_state": "New York",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Research Scientist, SAMBA at New York City, New York, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467581-research-scientist-samba",
+    "id": "aijobs-research-scientist-samba-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Field Reliability Engineer",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Field Reliability Engineer at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194470240-field-reliability-engineer",
+    "id": "aijobs-field-reliability-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, GenMedia 3D",
+    "job_city": "US",
+    "job_state": "New York",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Research Engineer, GenMedia 3D at New York City, New York, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467564-research-engineer-genmedia-3d",
+    "id": "aijobs-research-engineer-genmedia-3d-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Design-for-Reliability Engineer",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "27min ago",
+    "job_description": "data science job for the role Design-for-Reliability Engineer at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194470239-design-for-reliability-engineer",
+    "id": "aijobs-design-for-reliability-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Product Management, Growth, Gemini App",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Director of Product Management, Growth, Gemini App at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467554-director-of-product-management-growth-gemini-app",
+    "id": "aijobs-director-of-product-management-growth-gemini-app-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Test Development Engineer",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Manufacturing Test Development Engineer at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194470235-manufacturing-test-development-engineer",
+    "id": "aijobs-manufacturing-test-development-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, CBRN",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Research Engineer, CBRN at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467578-research-engineer-cbrn",
+    "id": "aijobs-research-engineer-cbrn-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Nuclear Engineer (2 year Fixed Term Contract)",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Nuclear Engineer (2 year Fixed Term Contract) at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467573-nuclear-engineer-2-year-fixed-term-contract",
+    "id": "aijobs-nuclear-engineer-2-year-fixed-term-contract-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineer",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Staff Applied AI Engineer at New York, New York",
+    "job_apply_link": "https://www.aijobs.com/jobs/194474953-staff-applied-ai-engineer",
+    "id": "aijobs-applied-ai-engineer-new-york"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Software Engineer",
+    "job_city": "California",
+    "job_state": "San Francisco",
+    "job_posted_at": "5d ago",
+    "job_description": "data science job for the role Staff AI Software Engineer at San Francisco, California",
+    "job_apply_link": "https://www.aijobs.com/jobs/194474952-staff-ai-software-engineer",
+    "id": "aijobs-ai-software-engineer-california"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ML Investigator",
+    "job_city": "CA",
+    "job_state": "Sunnyvale",
+    "job_posted_at": "27min ago",
+    "job_description": "data science job for the role Principal ML Investigator at Sunnyvale, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194470234-principal-ml-investigator",
+    "id": "aijobs-ml-investigator-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, AI for Weather and Energy",
+    "job_city": "US; San Francisco",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Research Engineer, AI for Weather and Energy at Mountain View, California, US; San Francisco, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467589-research-engineer-ai-for-weather-and-energy",
+    "id": "aijobs-research-engineer-ai-for-weather-and-energy-us-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Post Silicon Validation and Bring-Up",
+    "job_city": "United States",
+    "job_state": "Texas",
+    "job_posted_at": "27min ago",
+    "job_description": "data science job for the role Senior Technical Program Manager, Post Silicon Validation and Bring-Up at Austin, Texas, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/194470255-senior-technical-program-manager-post-silicon-validation-and-bring-up",
+    "id": "aijobs-technical-program-manager-post-silicon-validation-and-bring-up-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineering Manager",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Research Engineering Manager at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467580-research-engineering-manager",
+    "id": "aijobs-research-engineering-manager-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Personalization",
+    "job_city": "MA",
+    "job_state": "Boston",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Machine Learning Engineer, Personalization at Boston, MA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485486-machine-learning-engineer-personalization",
+    "id": "aijobs-machine-learning-engineer-personalization-ma"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, API Collaboration",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Senior Product Manager, API Collaboration at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/194473906-senior-product-manager-api-collaboration",
+    "id": "aijobs-product-manager-api-collaboration-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, GenRecs, Personalization",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Machine Learning Engineer, GenRecs, Personalization at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485487-machine-learning-engineer-genrecs-personalization",
+    "id": "aijobs-machine-learning-engineer-genrecs-personalization-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Machine Learning Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Senior Staff Machine Learning Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485480-senior-staff-machine-learning-engineer",
+    "id": "aijobs-staff-machine-learning-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "MA",
+    "job_state": "Boston",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Machine Learning Engineer at Boston, MA",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485488-machine-learning-engineer",
+    "id": "aijobs-machine-learning-engineer-ma"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Psychologist or Sociologist  - AI Psychology & Safety",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Senior Psychologist or Sociologist  - AI Psychology & Safety at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467585-senior-psychologist-or-sociologist-ai-psychology-safety",
+    "id": "aijobs-psychologist-or-sociologist-ai-psychology-safety-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Staff Machine Learning Engineer - Home",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "6d ago",
+    "job_description": "data science job for the role Senior Staff Machine Learning Engineer - Home at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485479-senior-staff-machine-learning-engineer-home",
+    "id": "aijobs-staff-machine-learning-engineer-home-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Engineer (AI Agent)",
+    "job_city": "Remote",
+    "job_state": "United States",
+    "job_posted_at": "38min ago",
+    "job_description": "data science job for the role Forward Deployed Engineer (AI Agent) at United States, Remote",
+    "job_apply_link": "https://www.aijobs.com/jobs/194462182-forward-deployed-engineer-ai-agent",
+    "id": "aijobs-forward-deployed-engineer-ai-agent-remote"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Salesforce Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "19min ago",
+    "job_description": "data science job for the role Salesforce Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485464-salesforce-engineer",
+    "id": "aijobs-salesforce-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer - Music",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Staff Research Engineer - Music at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/194485494-staff-research-engineer-music",
+    "id": "aijobs-research-engineer-music-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Events Manager, GenAI",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Events Manager, GenAI at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/194467570-events-manager-genai",
+    "id": "aijobs-events-manager-genai-us"
   }
 ]
