@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant SAP SNP Data Lead",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant SAP SNP Data Lead at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85522&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-snp-data-lead-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Geo Leader - Americas, Executive Search",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Geo Leader - Americas, Executive Search at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86460&source=WEB_Search_NA",
+    "id": "ibm-geo-leader-americas-executive-search-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hiring Lead",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Hiring Lead at ProfessionalDURHAM, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85228&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hiring-lead-durham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist & Project Lead",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Staff Research Scientist & Project Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/196263468-staff-research-scientist-project-lead",
+    "id": "aijobs-research-scientist-project-lead-unknown"
+  }
+]
