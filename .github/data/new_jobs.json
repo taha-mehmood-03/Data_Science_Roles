@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Distinguished Engineer, JAX",
+    "job_title": "Senior Software Engineer, Agentic AI Applications",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Distinguished Engineer, JAX at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/195147848-distinguished-engineer-jax",
-    "id": "aijobs-distinguished-engineer-jax-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Quantum Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Quantum Software Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/195147846-senior-quantum-software-engineer",
-    "id": "aijobs-quantum-software-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Support Engineer - San Francisco",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Support Engineer - San Francisco at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/166667126-ai-support-engineer-san-francisco",
-    "id": "aijobs-ai-support-engineer-san-francisco-united-states"
+    "job_description": "data science job for the role Lead Senior Software Engineer, Agentic AI Applications at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/195147843-lead-senior-software-engineer-agentic-ai-applications",
+    "id": "aijobs-senior-software-engineer-agentic-ai-applications-santa-clara"
   }
 ]
