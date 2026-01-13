@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Research Scientist I, WW Integrated Marketing Systems & Intelligence",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Research Scientist I, WW Integrated Marketing Systems & Intelligence at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157820/research-scientist-i-ww-integrated-marketing-systems-intelligence",
+    "job_posted_at": "2026-01-13T09:19:23.770Z",
+    "job_posted_at_datetime_utc": "2026-01-13T09:19:23.770Z",
+    "id": "amazon-research-scientist-i-ww-integrated-marketing-systems-intelligence-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "CPU Verification Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CPU Verification Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/cpu-verification-engineer/33099/86313574016",
+    "id": "arm-cpu-verification-engineer-bengaluru"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test (Productization)",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Engineer in Test (Productization) at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-software-engineer-in-test-productization/33099/90537985104",
+    "id": "arm-software-engineer-in-test-productization-munich"
+  }
+]
