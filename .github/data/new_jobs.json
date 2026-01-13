@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Cost Accountant",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, Cost Accountant at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/director-cost-accountant/33099/90545972752",
-    "id": "arm-director-cost-accountant-san-jose"
+    "job_title": "Data Engineer, Studio Data Operations",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Engineer, Studio Data Operations at Culver City, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3157978/data-engineer-studio-data-operations",
+    "job_posted_at": "2026-01-13T15:25:34.949Z",
+    "job_posted_at_datetime_utc": "2026-01-13T15:25:34.949Z",
+    "id": "amazon-data-engineer-studio-data-operations-culver-city"
   }
 ]
