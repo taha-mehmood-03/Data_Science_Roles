@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Managing SAP Analytics Lead",
-    "job_city": "No City",
+    "job_title": "Project Manager-Oracle Enterprise Applications",
+    "job_city": "HUNTSVILLE",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP Analytics Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85524&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-analytics-lead-no-city"
+    "job_description": "Data Science job for the role Project Manager-Oracle Enterprise Applications at ProfessionalHUNTSVILLE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83768&source=WEB_Search_NA",
+    "id": "ibm-project-manager-oracle-enterprise-applications-huntsville"
   },
   {
     "employer_name": "IBM",
-    "job_title": "managing SAP Consultant Analytics Lead",
-    "job_city": "Irvine",
+    "job_title": "Oracle Cloud Source to Pay Lead",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior managing SAP Consultant Analytics Lead at ProfessionalIrvine, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85520&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-consultant-analytics-lead-irvine"
+    "job_description": "Data Science job for the role Oracle Cloud Source to Pay Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66613&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-source-to-pay-lead-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Mobile iOS Developer",
-    "job_city": "Armonk",
+    "job_title": "Oracle CX Incentive Compensation Lead",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Mobile iOS Developer at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86200&source=WEB_Search_NA",
-    "id": "ibm-mobile-ios-developer-armonk"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "PCIe/CXL Architect",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role PCIe/CXL Architect at 7 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2503563?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-pcie-cxl-architect-7-locations"
+    "job_description": "Data Science job for the role Oracle CX Incentive Compensation Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73732&source=WEB_Search_NA",
+    "id": "ibm-oracle-cx-incentive-compensation-lead-multiple-cities"
   }
 ]
