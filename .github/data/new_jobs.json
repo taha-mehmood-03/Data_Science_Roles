@@ -1,22 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Director, Metropolis Accelerated and Inferencing Software",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Research Engineer, AI for Science",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Director, Metropolis Accelerated and Inferencing Software at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/198053365-director-metropolis-accelerated-and-inferencing-software",
-    "id": "aijobs-director-metropolis-accelerated-and-inferencing-software-santa-clara"
+    "job_description": "data science job for the role Research Engineer, AI for Science at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165084-research-engineer-ai-for-science",
+    "id": "aijobs-research-engineer-ai-for-science-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "GenAI Algorithms Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_title": "Research-Hardware Codesign Engineer",
+    "job_city": "United States",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior GenAI Algorithms Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/198053369-senior-genai-algorithms-engineer",
-    "id": "aijobs-genai-algorithms-engineer-santa-clara"
+    "job_description": "data science job for the role Research-Hardware Codesign Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/198165089-research-hardware-codesign-engineer",
+    "id": "aijobs-research-hardware-codesign-engineer-united-states"
   }
 ]
