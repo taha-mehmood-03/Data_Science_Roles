@@ -1,52 +1,62 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Business Analyst - Workday",
+    "job_title": "Associate Application Developer –  Hybrid Cloud and Data",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Business Analyst - Workday at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85488&source=WEB_Search_NA",
-    "id": "ibm-business-analyst-workday-multiple-cities"
+    "job_description": "Data Science job for the role Associate Application Developer –  Hybrid Cloud and Data at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86506&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-hybrid-cloud-and-data-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Compliance Lab Technician",
-    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
+    "job_title": "Associate Application Developer –  Strategy and Transformation",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Compliance Lab Technician at Administration & TechnicianPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=77600&source=WEB_Search_NA",
-    "id": "ibm-compliance-lab-technician-administration-technicianpoughkeepsie"
+    "job_description": "Data Science job for the role Associate Application Developer –  Strategy and Transformation at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86491&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-strategy-and-transformation-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "System Services Representatives",
+    "job_title": "Managing Consultant SAP Architect - BW/SAC Analytics",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant SAP Architect - BW/SAC Analytics at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85518&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-architect-bw-sac-analytics-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Nashville",
+    "job_city": "Administration & TechnicianNo City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative - Nashville at Administration & TechnicianNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79935&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-nashville-administration-technicianno-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Development - Apptio Costing Intern",
+    "job_city": "Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Development - Apptio Costing Intern at InternshipBellevue, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86505&source=WEB_Search_NA",
+    "id": "ibm-development-apptio-costing-intern-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representatives - Austin",
     "job_city": "Administration & TechnicianAustin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Services Representatives at Administration & TechnicianAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84819&source=WEB_Search_NA",
-    "id": "ibm-system-services-representatives-administration-technicianaustin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager – Workday",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Manager – Workday at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83919&source=WEB_Search_NA",
-    "id": "ibm-product-manager-workday-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - Oxmoor DC4",
-    "job_city": "Administration & TechnicianHUNTSVILLE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Services Representative - Oxmoor DC4 at Administration & TechnicianHUNTSVILLE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=80228&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-oxmoor-dc4-administration-technicianhuntsville"
+    "job_description": "Data Science job for the role System Services Representatives - Austin at Administration & TechnicianAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=82391&source=WEB_Search_NA",
+    "id": "ibm-system-services-representatives-austin-administration-technicianaustin"
   }
 ]
