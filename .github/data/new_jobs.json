@@ -1,23 +1,52 @@
 [
   {
-    "job_title": "System Developer II, Ring/Blink Customer Service Engineering Services",
-    "employer_name": "Amazon",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role System Developer II, Ring/Blink Customer Service Engineering Services at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160421/system-developer-ii-ring-blink-customer-service-engineering-services",
-    "job_posted_at": "2026-01-15T19:20:12.550Z",
-    "job_posted_at_datetime_utc": "2026-01-15T19:20:12.550Z",
-    "id": "amazon-system-developer-ii-ring-blink-customer-service-engineering-services-hawthorne"
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineer HashiCorp – Entry Level Sales Program",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Engineer HashiCorp – Entry Level Sales Program at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86210&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineer-hashicorp-entry-level-sales-program-austin"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "New College Grad - RAM RDA Process Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role New College Grad - RAM RDA Process Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39635669",
-    "id": "micron-new-college-grad-ram-rda-process-engineer-id1-boise"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader - Salesforce",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader - Salesforce at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86952&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-salesforce-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - Las Vegas Nevada",
+    "job_city": "Administration & TechnicianNo City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative - Las Vegas Nevada at Administration & TechnicianNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84978&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-las-vegas-nevada-administration-technicianno-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Developer: Automation Development & Testing",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Developer: Automation Development & Testing at Entry LevelTUCSON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85174&source=WEB_Search_NA",
+    "id": "ibm-developer-automation-development-testing-tucson"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Algorithm Engineer / Robotics Algorithm Lead",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Algorithm Engineer / Robotics Algorithm Lead at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Algorithm-Engineer---Robotics-Algorithm-Lead_R258879?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithm-engineer-robotics-algorithm-lead-us"
   }
 ]
