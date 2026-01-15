@@ -1,42 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - Cloud Networking",
+    "job_title": "Deep Learning Algorithm Engineer, Training Framework",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Principal System Software Engineer - Cloud Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/200492596-principal-system-software-engineer-cloud-networking",
-    "id": "aijobs-system-software-engineer-cloud-networking-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, DGX Cloud Orchestration",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer, DGX Cloud Orchestration at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/200492597-senior-software-engineer-dgx-cloud-orchestration",
-    "id": "aijobs-software-engineer-dgx-cloud-orchestration-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Deep Learning Compiler Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Deep Learning Compiler Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/200492600-senior-deep-learning-compiler-engineer",
-    "id": "aijobs-deep-learning-compiler-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Software Engineer, LLM Inference Performance Analysis - New College Grad",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Software Engineer, LLM Inference Performance Analysis - New College Grad 2026 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/200492594-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-2026",
-    "id": "aijobs-ai-software-engineer-llm-inference-performance-analysis-new-college-grad-santa-clara"
+    "job_description": "data science job for the role Senior Deep Learning Algorithm Engineer, Training Framework at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/166245061-senior-deep-learning-algorithm-engineer-training-framework",
+    "id": "aijobs-deep-learning-algorithm-engineer-training-framework-santa-clara"
   }
 ]
