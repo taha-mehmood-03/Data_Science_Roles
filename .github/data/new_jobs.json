@@ -1,13 +1,22 @@
 [
   {
-    "job_title": "Business Intelligence Engineer, Prime Video Marketing Analytics",
-    "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, Prime Video Marketing Analytics at Culver City, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3159783/business-intelligence-engineer-prime-video-marketing-analytics",
-    "job_posted_at": "2026-01-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z",
-    "id": "amazon-business-intelligence-engineer-prime-video-marketing-analytics-culver-city"
+    "employer_name": "IBM",
+    "job_title": "Oracle OIC & Fusion Technical Architecture Lead (SCM)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Oracle OIC & Fusion Technical Architecture Lead (SCM) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85540&source=WEB_Search_NA",
+    "id": "ibm-oracle-oic-fusion-technical-architecture-lead-scm-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud EPM Planning Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Oracle Cloud EPM Planning Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72354&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-epm-planning-architect-multiple-cities"
   }
 ]
