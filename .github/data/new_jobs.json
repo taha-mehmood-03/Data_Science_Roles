@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Staff Research Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Productization Lead Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "13 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Research Data Scientist, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140818169001321158-staff-research-data-scientist-search?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-staff-research-data-scientist-mountain-view"
+    "job_description": "Data Science job for the role Principal Productization Lead Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-productization-lead-engineer/33099/90647570576",
+    "id": "arm-productization-lead-engineer-bengaluru"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist/AI Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist/AI Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/200103331-data-scientist-ai-engineer",
-    "id": "aijobs-data-scientist-ai-engineer-unknown"
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022105/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-frosinone"
   }
 ]
