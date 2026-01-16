@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Project Manager - Semiconductor",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Project Manager - Semiconductor at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/project-manager-semiconductor/33099/89039374736",
-    "id": "arm-project-manager-semiconductor-cambridge"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Smart Manufacturing and Automation Intern",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Smart Manufacturing and Automation Intern at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008795/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-smart-manufacturing-and-automation-intern-dallas"
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI/ML Scientist",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Applied AI/ML Scientist at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/200906926-applied-ai-ml-scientist",
+    "id": "aijobs-applied-ai-ml-scientist-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Market Researcher",
+    "job_title": "Research Engineer, Applied Robotics",
     "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Market Researcher at Redmond, WA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/203585961-market-researcher",
-    "id": "aijobs-market-researcher-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Core Network Development Engineer - xAI Networking",
-    "job_city": "CA",
-    "job_state": "Palo Alto",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Core Network Development Engineer - xAI Networking at Palo Alto, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/203492321-core-network-development-engineer-xai-networking",
-    "id": "aijobs-core-network-development-engineer-xai-networking-ca"
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Research Engineer, Applied Robotics at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/203589147-research-engineer-applied-robotics",
+    "id": "aijobs-research-engineer-applied-robotics-us"
   }
 ]
