@@ -1,22 +1,322 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, International Growth- ChatGPT",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Full Stack Software Engineer, International Growth- ChatGPT at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094290-full-stack-software-engineer-international-growth-chatgpt",
-    "id": "aijobs-full-stack-software-engineer-international-growth-chatgpt-united-states"
+    "employer_name": "ABB",
+    "job_title": "Global Automation Measurement and Analytics Division Data Analytics and AI Domain Architect",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Global Automation Measurement and Analytics Division Data Analytics and AI Domain Architect at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022221/Global-Automation-Measurement-and-Analytics-Division-Data-Analytics-and-AI-Domain-Architect",
+    "id": "abb-global-automation-measurement-and-analytics-division-data-analytics-and-ai-domain-architect-krakow"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)",
+    "job_title": "Data Scientist - Product",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "25min ago",
+    "job_description": "data science job for the role Data Scientist - Product at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525077-data-scientist-product",
+    "id": "aijobs-data-scientist-product-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Growth Product Manager — Conversion",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "25min ago",
+    "job_description": "data science job for the role Growth Product Manager — Conversion at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525071-growth-product-manager-conversion",
+    "id": "aijobs-growth-product-manager-conversion-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Supervisor, Safety",
+    "job_city": "TX",
+    "job_state": "Bastrop",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Supervisor, Safety at Bastrop, TX",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492316-supervisor-safety",
+    "id": "aijobs-supervisor-safety-tx"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer - Mobile (San Francisco, Palo Alto, New York, Belgrade, London)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Backend Software Engineer - Mobile (San Francisco, Palo Alto, New York, Belgrade, London) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525028-backend-software-engineer-mobile-san-francisco-palo-alto-new-york-belgrade-london",
+    "id": "aijobs-backend-software-engineer-mobile-san-francisco-palo-alto-new-york-belgrade-london-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of Technical Staff - AI Experts",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Member of Technical Staff - AI Experts at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520961-member-of-technical-staff-ai-experts",
+    "id": "aijobs-member-of-technical-staff-ai-experts-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Growth",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "25min ago",
+    "job_description": "data science job for the role Data Scientist - Growth at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525079-data-scientist-growth",
+    "id": "aijobs-data-scientist-growth-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Senior Data Engineer at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535619-senior-data-engineer",
+    "id": "aijobs-data-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer - Monitoring",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "25min ago",
+    "job_description": "data science job for the role Site Reliability Engineer - Monitoring at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203521001-site-reliability-engineer-monitoring",
+    "id": "aijobs-site-reliability-engineer-monitoring-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Applied ML",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role AI Engineer, Applied ML at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525046-ai-engineer-applied-ml",
+    "id": "aijobs-ai-engineer-applied-ml-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role System Software Engineer at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520979-system-software-engineer",
+    "id": "aijobs-system-software-engineer-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Model Behavior Architect",
     "job_city": "United States",
     "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/203094292-software-engineer-internship-co-op-applied-emerging-talent-fall-2026",
-    "id": "aijobs-software-engineer-internship-co-op-applied-emerging-talent-fall-2026-united-states"
+    "job_description": "data science job for the role Model Behavior Architect at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525056-model-behavior-architect",
+    "id": "aijobs-model-behavior-architect-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Legal Operations",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Software Engineer, Legal Operations at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203521004-software-engineer-legal-operations",
+    "id": "aijobs-software-engineer-legal-operations-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Project Manager, Compute & Business Operations",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Project Manager, Compute & Business Operations at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535606-project-manager-compute-business-operations",
+    "id": "aijobs-project-manager-compute-business-operations-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Research Lead",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "25min ago",
+    "job_description": "data science job for the role AI Research Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525062-ai-research-lead",
+    "id": "aijobs-ai-research-lead-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Development Engineer (Ops&Deploy) -xAI Networking",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Network Development Engineer (Ops&Deploy) -xAI Networking at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520983-network-development-engineer-ops-deploy-xai-networking",
+    "id": "aijobs-network-development-engineer-ops-deploy-xai-networking-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Network Development Engineer (Ops&Deploy)",
+    "job_city": "WA",
+    "job_state": "Seattle",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Network Development Engineer (Ops&Deploy) at Seattle, WA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492361-network-development-engineer-ops-deploy",
+    "id": "aijobs-network-development-engineer-ops-deploy-wa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer - Hardware",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Site Reliability Engineer - Hardware at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203520999-site-reliability-engineer-hardware",
+    "id": "aijobs-site-reliability-engineer-hardware-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Reliability",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "20min ago",
+    "job_description": "data science job for the role Software Engineer - Reliability at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545608-software-engineer-reliability",
+    "id": "aijobs-software-engineer-reliability-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Android Engineer - Comet (San Franscisco, Palo Alto, New York, London, Belgrade)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Android Engineer - Comet (San Franscisco, Palo Alto, New York, London, Belgrade) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525047-android-engineer-comet-san-franscisco-palo-alto-new-york-london-belgrade",
+    "id": "aijobs-android-engineer-comet-san-franscisco-palo-alto-new-york-london-belgrade-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Researcher, Core ML",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role AI Researcher, Core ML at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535593-ai-researcher-core-ml",
+    "id": "aijobs-ai-researcher-core-ml-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Technical Lead Manager (TLM) - Enterprise",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Engineering Technical Lead Manager (TLM) - Enterprise at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492323-engineering-technical-lead-manager-tlm-enterprise",
+    "id": "aijobs-engineering-technical-lead-manager-tlm-enterprise-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Technical Lead Manager (TLM) - Enterprise",
+    "job_city": "Palo Alto",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Engineering Technical Lead Manager (TLM) - Enterprise at Palo Alto",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492322-engineering-technical-lead-manager-tlm-enterprise",
+    "id": "aijobs-engineering-technical-lead-manager-tlm-enterprise-palo-alto"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "27min ago",
+    "job_description": "data science job for the role Backend Software Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/203525016-backend-software-engineer",
+    "id": "aijobs-backend-software-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Together Cloud Platform",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Senior Software Engineer - Together Cloud Platform at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535596-senior-software-engineer-together-cloud-platform",
+    "id": "aijobs-software-engineer-together-cloud-platform-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer - Commerce",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Senior Backend Engineer - Commerce at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535616-senior-backend-engineer-commerce",
+    "id": "aijobs-backend-engineer-commerce-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer, Distributed Storage and HPC & AI Infrastructure",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Staff Engineer, Distributed Storage and HPC & AI Infrastructure at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535591-staff-engineer-distributed-storage-and-hpc-ai-infrastructure",
+    "id": "aijobs-engineer-distributed-storage-and-hpc-ai-infrastructure-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of Technical Staff - Reasoning Post-training",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "20min ago",
+    "job_description": "data science job for the role Member of Technical Staff - Reasoning Post-training at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545628-member-of-technical-staff-reasoning-post-training",
+    "id": "aijobs-member-of-technical-staff-reasoning-post-training-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer, Inference Platform",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "22min ago",
+    "job_description": "data science job for the role Senior Backend Engineer, Inference Platform at San Francisco",
+    "job_apply_link": "https://www.aijobs.com/jobs/203535617-senior-backend-engineer-inference-platform",
+    "id": "aijobs-backend-engineer-inference-platform-san-francisco"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Reliability Engineer - Storage",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "26min ago",
+    "job_description": "data science job for the role Site Reliability Engineer - Storage at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203521002-site-reliability-engineer-storage",
+    "id": "aijobs-site-reliability-engineer-storage-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "IT Systems Technician",
+    "job_city": "TN",
+    "job_state": "Memphis",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role IT Systems Technician at Memphis, TN",
+    "job_apply_link": "https://www.aijobs.com/jobs/203492357-it-systems-technician",
+    "id": "aijobs-it-systems-technician-tn"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of Technical Staff - Infrastructure Reliability",
+    "job_city": "CA",
+    "job_state": "Palo Alto",
+    "job_posted_at": "21min ago",
+    "job_description": "data science job for the role Member of Technical Staff - Infrastructure Reliability at Palo Alto, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/203545599-member-of-technical-staff-infrastructure-reliability",
+    "id": "aijobs-member-of-technical-staff-infrastructure-reliability-ca"
   }
 ]
