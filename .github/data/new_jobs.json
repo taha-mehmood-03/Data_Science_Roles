@@ -1,44 +1,12 @@
 [
   {
-    "job_title": "Hardware Development Engineer, Quantum Engineering, Fabrication, AWS CQC",
-    "employer_name": "Amazon",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Hardware Development Engineer, Quantum Engineering, Fabrication, AWS CQC at Pasadena, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3160552/hardware-development-engineer-quantum-engineering-fabrication-aws-cqc",
-    "job_posted_at": "2026-01-15T22:16:52.083Z",
-    "job_posted_at_datetime_utc": "2026-01-15T22:16:52.083Z",
-    "id": "amazon-hardware-development-engineer-quantum-engineering-fabrication-aws-cqc-pasadena"
-  },
-  {
-    "job_title": "Product Marketing Manager, Amazon Payments Products",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Product Marketing Manager, Amazon Payments Products at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3142802/product-marketing-manager-amazon-payments-products",
-    "job_posted_at": "2026-01-14T23:16:52.083Z",
-    "job_posted_at_datetime_utc": "2026-01-14T23:16:52.083Z",
-    "id": "amazon-product-marketing-manager-amazon-payments-products-seattle"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Site Reliability Engineering Professional",
-    "job_city": "Austin",
+    "employer_name": "AiJobs",
+    "job_title": "Backend AI Engineer",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Site Reliability Engineering Professional at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86170&source=WEB_Search_NA",
-    "id": "ibm-site-reliability-engineering-professional-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Analyst Intern - Summer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Quality Analyst Intern - Summer 2026 at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021817/Quality-Analyst-Intern-Summer-2026",
-    "id": "abb-quality-analyst-intern-summer-houston"
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Backend AI Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/201828057-senior-backend-ai-engineer",
+    "id": "aijobs-backend-ai-engineer-unknown"
   }
 ]
