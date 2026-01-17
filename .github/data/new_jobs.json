@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, Software Engineering - AV Frameworks",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Manager, Software Engineering - AV Frameworks at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487291-manager-software-engineering-av-frameworks",
+    "id": "aijobs-manager-software-engineering-av-frameworks-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Performance Engineer - AV Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Performance Engineer - AV Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/205487292-senior-software-performance-engineer-av-platform",
+    "id": "aijobs-software-performance-engineer-av-platform-santa-clara"
+  }
+]
