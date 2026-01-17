@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Intern, Signal Integrity Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Intern, Signal Integrity Engineer at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-signal-integrity-engineer/33099/90676541136",
-    "id": "arm-intern-signal-integrity-engineer-san-jose"
+    "employer_name": "MARVELL",
+    "job_title": "DDI Network Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role DDI Network Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/DDI-Network-Engineer_2600004?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ddi-network-engineer-santa-clara"
   }
 ]
