@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Strategy Consultant Intern 2026 - Enterprise Strategy",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Strategy Consultant Intern 2026 - Enterprise Strategy at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87621&source=WEB_Search_NA",
+    "id": "ibm-associate-strategy-consultant-intern-2026-enterprise-strategy-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Experience Consultant Intern- 2026 Customer and Enterprise Experience Design iX at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87622&source=WEB_Search_NA",
+    "id": "ibm-experience-consultant-intern-2026-customer-and-enterprise-experience-design-ix-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant  2026 - Cyber Threat Management",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Security Consultant  2026 - Cyber Threat Management at Entry LevelChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87231&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-2026-cyber-threat-management-chicago"
+  }
+]
