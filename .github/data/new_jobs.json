@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Applied Scientist II, Amazon Stores Finance Science",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist II, Amazon Stores Finance Science at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3161808/applied-scientist-ii-amazon-stores-finance-science",
+    "job_posted_at": "2026-01-19T16:20:38.341Z",
+    "job_posted_at_datetime_utc": "2026-01-19T16:20:38.341Z",
+    "id": "amazon-applied-scientist-ii-amazon-stores-finance-science-bellevue"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Generative Mechanical Design Research Intern",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Generative Mechanical Design Research Intern at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Generative-Mechanical-Design-Research-Intern_R256357?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-generative-mechanical-design-research-intern-us"
+  }
+]
