@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Architecture Engineer",
-    "job_city": "Cambridge",
+    "job_title": "Algorithm Engineer (ML and Graphics)",
+    "job_city": "Manchester",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Architecture Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/architecture-engineer/33099/90771852512",
-    "id": "arm-architecture-engineer-cambridge"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Research Science Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Research Science Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Research-Science-Engineering_R257958-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-research-science-engineering-us"
+    "job_description": "Data Science job for the role Algorithm Engineer (ML and Graphics) at Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/algorithm-engineer-ml-and-graphics/33099/86799823584",
+    "id": "arm-algorithm-engineer-ml-and-graphics-manchester"
   }
 ]
