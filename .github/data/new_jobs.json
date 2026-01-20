@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Director, People Business Partner",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, People Business Partner at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-people-business-partner/33099/71419038352",
+    "id": "arm-director-people-business-partner-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineering Manager - Functional Safety Toolchain",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Engineering Manager - Functional Safety Toolchain at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/engineering-manager-functional-safety-toolchain/33099/90796340576",
+    "id": "arm-engineering-manager-functional-safety-toolchain-cambridge"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "SAP SAC Developer",
+    "job_title": "Intern - Advanced Packaging TD Procurement",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Senior SAP SAC Developer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39647549",
-    "id": "micron-sap-sac-developer-boise"
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "Data Science job for the role Intern - Advanced Packaging TD Procurement at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39687859",
+    "id": "micron-intern-advanced-packaging-td-procurement-boise"
   }
 ]
