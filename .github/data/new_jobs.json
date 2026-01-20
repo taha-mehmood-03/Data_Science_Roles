@@ -1,42 +1,23 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Developer Technology",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Manager, Developer Technology at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/212863481-manager-developer-technology",
-    "id": "aijobs-manager-developer-technology-santa-clara"
+    "job_title": "Digital Marketing Manager",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Digital Marketing Manager at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3162289/digital-marketing-manager",
+    "job_posted_at": "2026-01-20T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z",
+    "id": "amazon-digital-marketing-manager-new-york"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software DevOps Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Software DevOps Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/212863492-software-devops-engineer",
-    "id": "aijobs-software-devops-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Physical Design Methodology Engineer, PPA Fusion Compiler",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Senior Physical Design Methodology Engineer, PPA Fusion Compiler at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/212863487-senior-physical-design-methodology-engineer-ppa-fusion-compiler",
-    "id": "aijobs-physical-design-methodology-engineer-ppa-fusion-compiler-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Workflow DSL and Orchestration",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "14h ago",
-    "job_description": "data science job for the role Principal Software Engineer - Workflow DSL and Orchestration at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/212863488-principal-software-engineer-workflow-dsl-and-orchestration",
-    "id": "aijobs-software-engineer-workflow-dsl-and-orchestration-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Deployed Data Scientist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Deployed Data Scientist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87628&source=WEB_Search_NA",
+    "id": "ibm-deployed-data-scientist-multiple-cities"
   }
 ]
