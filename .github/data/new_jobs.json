@@ -1,12 +1,203 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "System Service Representative - Monroe, LA",
-    "job_city": "Administration & TechnicianMONROE",
+    "job_title": "Business Intelligence Engineer II, Central Strategy, Operations and GTM",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Business Intelligence Engineer II, Central Strategy, Operations and GTM at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3163407/business-intelligence-engineer-ii-central-strategy-operations-and-gtm",
+    "job_posted_at": "2026-01-21T15:36:29.351Z",
+    "job_posted_at_datetime_utc": "2026-01-21T15:36:29.351Z",
+    "id": "amazon-business-intelligence-engineer-ii-central-strategy-operations-and-gtm-new-york"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Material Planner",
+    "job_city": "La Louvière",
+    "job_state": "Hainaut",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Material Planner at La Louvière, Hainaut, Belgium",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017690/Material-Planner",
+    "id": "abb-material-planner-la-louvi-re"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - ID Graph",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Service Representative - Monroe, LA at Administration & TechnicianMONROE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86493&source=WEB_Search_NA",
-    "id": "ibm-system-service-representative-monroe-la-administration-technicianmonroe"
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Staff Software Engineer - ID Graph at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985254-staff-software-engineer-id-graph",
+    "id": "aijobs-software-engineer-id-graph-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer – AI/ML Platform",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Senior Software Engineer – AI/ML Platform at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985260-senior-software-engineer-ai-ml-platform",
+    "id": "aijobs-software-engineer-ai-ml-platform-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Head of Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/215987278-head-of-operations",
+    "id": "aijobs-head-of-operations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "iOS Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Senior iOS Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985265-senior-ios-engineer",
+    "id": "aijobs-ios-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Fullstack Engineer - DocV",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Staff Fullstack Engineer - DocV at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985255-staff-fullstack-engineer-docv",
+    "id": "aijobs-fullstack-engineer-docv-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer -",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Software Engineer - II at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985258-software-engineer-ii",
+    "id": "aijobs-software-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Agency Data Analyst",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "33min ago",
+    "job_description": "data science job for the role Senior Agency Data Analyst at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215980241-senior-agency-data-analyst",
+    "id": "aijobs-agency-data-analyst-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager - DocV",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Senior Engineering Manager - DocV at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985271-senior-engineering-manager-docv",
+    "id": "aijobs-engineering-manager-docv-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Product Engineering",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Head of Product Engineering at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985272-head-of-product-engineering",
+    "id": "aijobs-head-of-product-engineering-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Full Stack",
+    "job_city": "USA",
+    "job_state": "New York",
+    "job_posted_at": "38min ago",
+    "job_description": "data science job for the role Staff Software Engineer, Full Stack at New York, New York, USA",
+    "job_apply_link": "https://www.aijobs.com/jobs/215967016-staff-software-engineer-full-stack",
+    "id": "aijobs-software-engineer-full-stack-usa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Backend",
+    "job_city": "USA",
+    "job_state": "New York",
+    "job_posted_at": "39min ago",
+    "job_description": "data science job for the role Staff Software Engineer, Backend at New York, New York, USA",
+    "job_apply_link": "https://www.aijobs.com/jobs/215967009-staff-software-engineer-backend",
+    "id": "aijobs-software-engineer-backend-usa"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product UX/UI Designer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "6d ago",
+    "job_description": "data science job for the role Senior Product UX/UI Designer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985262-senior-product-ux-ui-designer",
+    "id": "aijobs-product-ux-ui-designer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Engineering – Agentic Workflows and Internal Tools",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Head of Engineering – Agentic Workflows and Internal Tools at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985269-head-of-engineering-agentic-workflows-and-internal-tools",
+    "id": "aijobs-head-of-engineering-agentic-workflows-and-internal-tools-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of New Product Engineering – AI Incubation",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "31min ago",
+    "job_description": "data science job for the role Head of New Product Engineering – AI Incubation at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215985270-head-of-new-product-engineering-ai-incubation",
+    "id": "aijobs-head-of-new-product-engineering-ai-incubation-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Frontend",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "38min ago",
+    "job_description": "data science job for the role Staff Software Engineer, Frontend at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215967015-staff-software-engineer-frontend",
+    "id": "aijobs-software-engineer-frontend-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Backend",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "39min ago",
+    "job_description": "data science job for the role Staff Software Engineer, Backend at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215967010-staff-software-engineer-backend",
+    "id": "aijobs-software-engineer-backend-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Software Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "32min ago",
+    "job_description": "data science job for the role Senior Backend Software Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215980249-senior-backend-software-engineer",
+    "id": "aijobs-backend-software-engineer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist - Applied AI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Research Scientist - Applied AI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/215973561-research-scientist-applied-ai",
+    "id": "aijobs-research-scientist-applied-ai-unknown"
   }
 ]
