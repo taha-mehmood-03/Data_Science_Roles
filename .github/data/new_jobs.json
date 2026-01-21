@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "CRM SAP Data Lead",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CRM SAP Data Lead at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72373&source=WEB_Search_NA",
+    "id": "ibm-crm-sap-data-lead-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level HR Operations Focal",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level HR Operations Focal at Entry LevelArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87842&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hr-operations-focal-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer – Vault, Radar, Boundary",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer – Vault, Radar, Boundary at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87287&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-vault-radar-boundary-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern – IBM Social Media & Influencer Marketing",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern – IBM Social Media & Influencer Marketing at InternshipAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86972&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-ibm-social-media-influencer-marketing-austin"
+  }
+]
