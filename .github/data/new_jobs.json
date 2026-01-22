@@ -1,73 +1,13 @@
 [
   {
-    "job_title": "Applied Scientist II, CLS - Technology",
+    "job_title": "Data Engineer, AWS Health & Safety",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist II, CLS - Technology at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3139297/applied-scientist-ii-cls-technology",
-    "job_posted_at": "2026-01-16T01:19:15.793Z",
-    "job_posted_at_datetime_utc": "2026-01-16T01:19:15.793Z",
-    "id": "amazon-applied-scientist-ii-cls-technology-bellevue"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Manufacturing Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Manufacturing Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39688083",
-    "id": "micron-manufacturing-engineer-id1-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Shift Process Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Shift Process Engineer ID1 at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39688071",
-    "id": "micron-shift-process-engineer-id1-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager Intern Lowell MA",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Manager Intern Lowell MA 2026 at InternshipLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86993&source=WEB_Search_NA",
-    "id": "ibm-product-manager-intern-lowell-ma-lowell"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist - NYC",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Data Scientist - NYC at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/216842348-data-scientist-nyc",
-    "id": "aijobs-data-scientist-nyc-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ML Data Scientist - Business Analytics",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "5d ago",
-    "job_description": "data science job for the role ML Data Scientist - Business Analytics at Austin, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/216842341-ml-data-scientist-business-analytics",
-    "id": "aijobs-ml-data-scientist-business-analytics-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Development Lead",
-    "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Development Lead at Tampa, FL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/216842331-ai-development-lead",
-    "id": "aijobs-ai-development-lead-us"
+    "job_description": "Data Science job for the role Data Engineer, AWS Health & Safety at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3163441/data-engineer-aws-health-safety",
+    "job_posted_at": "2026-01-21T15:44:03.417Z",
+    "job_posted_at_datetime_utc": "2026-01-21T15:44:03.417Z",
+    "id": "amazon-data-engineer-aws-health-safety-seattle"
   }
 ]
