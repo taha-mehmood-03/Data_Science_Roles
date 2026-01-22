@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Program Manager - Environmental Engineering & Remediation",
-    "job_city": "Herndon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Program Manager - Environmental Engineering & Remediation at ProfessionalHerndon, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87268&source=WEB_Search_NA",
-    "id": "ibm-program-manager-environmental-engineering-remediation-herndon"
+    "job_title": "Software Development Engineer - 2026 (US)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer - 2026 (US) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3165140/software-development-engineer-2026-us",
+    "job_posted_at": "2026-01-22T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-2026-us-seattle"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "QA/Test Developer (Performance Engineering)",
-    "job_city": "San Jose",
+    "employer_name": "AiJobs",
+    "job_title": "Backend Engineer, Medical Device & Cloud Platform",
+    "job_city": "United States",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role QA/Test Developer (Performance Engineering) at ProfessionalSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87331&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-performance-engineering-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative",
-    "job_city": "DURHAM",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Development Representative at ProfessionalDURHAM, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86515&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-durham"
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Staff Backend Engineer, Medical Device & Cloud Platform at United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/219419910-staff-backend-engineer-medical-device-cloud-platform",
+    "id": "aijobs-backend-engineer-medical-device-cloud-platform-united-states"
   }
 ]
