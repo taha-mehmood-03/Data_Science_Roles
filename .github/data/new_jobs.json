@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Lab Technician (Apprentice Conversion)",
-    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lab Technician (Apprentice Conversion) at Administration & TechnicianPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87866&source=WEB_Search_NA",
-    "id": "ibm-lab-technician-apprentice-conversion-administration-technicianpoughkeepsie"
-  },
-  {
     "employer_name": "AiJobs",
-    "job_title": "Research Economist, Economic Research",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Research Economist, Economic Research at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/218475371-research-economist-economic-research",
-    "id": "aijobs-research-economist-economic-research-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Scientist, Societal Impacts",
-    "job_city": "CA",
-    "job_state": "San Francisco",
+    "job_title": "Systems Software Engineer, AV Infrastructure - Validation and Distributed Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Research Scientist, Societal Impacts at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/218475372-research-scientist-societal-impacts",
-    "id": "aijobs-research-scientist-societal-impacts-ca"
+    "job_description": "data science job for the role Senior Systems Software Engineer, AV Infrastructure - Validation and Distributed Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/218565727-senior-systems-software-engineer-av-infrastructure-validation-and-distributed-systems",
+    "id": "aijobs-systems-software-engineer-av-infrastructure-validation-and-distributed-systems-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Production Application Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Production Application Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/218565732-production-application-engineer",
+    "id": "aijobs-production-application-engineer-unknown"
   }
 ]
