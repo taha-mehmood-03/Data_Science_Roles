@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Quantum Hardware Test Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "EDA Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum Hardware Test Engineer at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86973&source=WEB_Search_NA",
-    "id": "ibm-quantum-hardware-test-engineer-poughkeepsie"
+    "job_description": "Data Science job for the role EDA Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/eda-manager/33099/89303332176",
+    "id": "arm-eda-manager-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Data Analyst (TS/SCI)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "New College Graduate - Data Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Analyst (TS/SCI) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86971&source=WEB_Search_NA",
-    "id": "ibm-data-analyst-ts-sci-multiple-cities"
+    "job_description": "Data Science job for the role New College Graduate - Data Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008814/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-new-college-graduate-data-engineer-"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Software Engineer - Backend",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Data Analysis & Engineering",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Software Engineer - Backend at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=83098&source=WEB_Search_NA",
-    "id": "ibm-sr-software-engineer-backend-multiple-cities"
+    "job_description": "Data Science job for the role Data Analysis & Engineering at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008821/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-data-analysis-engineering-dallas"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Tax Advisor",
-    "job_city": "Armonk",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "New College Graduate - Control Systems Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Tax Advisor at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87232&source=WEB_Search_NA",
-    "id": "ibm-tax-advisor-armonk"
+    "job_description": "Data Science job for the role New College Graduate - Control Systems Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008813/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-new-college-graduate-control-systems-engineer-"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer (TS/SCI)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "New College Graduate - IT - Software Development Engineer Development Program",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Full Stack Developer (TS/SCI) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88159&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-ts-sci-multiple-cities"
+    "job_description": "Data Science job for the role New College Graduate - IT - Software Development Engineer Development Program at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008815/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-new-college-graduate-it-software-development-engineer-development-program-dallas"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Control Systems Engineering Intern",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Control Systems Engineering Intern at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25008820/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-control-systems-engineering-intern-dallas"
   }
 ]
