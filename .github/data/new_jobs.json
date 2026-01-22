@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Internship in Mechanical/Thermal Engineering (80-100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Internship in Mechanical/Thermal Engineering (80-100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022738/Internship-in-Mechanical-Thermal-Engineering-80-100",
-    "id": "abb-internship-in-mechanical-thermal-engineering-80-100-baden-daettwil"
+    "employer_name": "IBM",
+    "job_title": "Lab Technician (Apprentice Conversion)",
+    "job_city": "Administration & TechnicianPOUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Lab Technician (Apprentice Conversion) at Administration & TechnicianPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87866&source=WEB_Search_NA",
+    "id": "ibm-lab-technician-apprentice-conversion-administration-technicianpoughkeepsie"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Engineer, AI & Data Platforms (AiDP)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "5d ago",
-    "job_description": "data science job for the role AI Engineer, AI & Data Platforms (AiDP) at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/217909387-ai-engineer-ai-data-platforms-aidp",
-    "id": "aijobs-ai-engineer-ai-data-platforms-aidp-us"
+    "job_title": "Research Economist, Economic Research",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Research Economist, Economic Research at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/218475371-research-economist-economic-research",
+    "id": "aijobs-research-economist-economic-research-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, Societal Impacts",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Research Scientist, Societal Impacts at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/218475372-research-scientist-societal-impacts",
+    "id": "aijobs-research-scientist-societal-impacts-ca"
   }
 ]
