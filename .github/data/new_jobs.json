@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Application Manager Product Configurator - Analytical technology (m/f/d)",
-    "job_city": "Frankfurt am Main",
-    "job_state": "Germany",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
-    "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Business Growth (ChatGPT)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Engineering Manager, Business Growth (ChatGPT) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/221058552-engineering-manager-business-growth-chatgpt",
+    "id": "aijobs-engineering-manager-business-growth-chatgpt-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - Tegra and Product Diag",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Program Manager - Tegra and Product Diag at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/220998544-technical-program-manager-tegra-and-product-diag",
-    "id": "aijobs-technical-program-manager-tegra-and-product-diag-santa-clara"
+    "job_title": "Research Engineer/Scientist - Generative UI, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Research Engineer/Scientist - Generative UI, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/221058550-research-engineer-scientist-generative-ui-consumer-products",
+    "id": "aijobs-research-engineer-scientist-generative-ui-consumer-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer/Scientist - Edge, Consumer Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Research Engineer/Scientist - Edge, Consumer Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/221058549-senior-research-engineer-scientist-edge-consumer-products",
+    "id": "aijobs-research-engineer-scientist-edge-consumer-products-united-states"
   }
 ]
