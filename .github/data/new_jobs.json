@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "ABB",
+    "job_title": "Application Manager Product Configurator - Analytical technology (m/f/d)",
+    "job_city": "Frankfurt am Main",
+    "job_state": "Germany",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
+    "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "Production Application Engineer",
-    "job_city": "Remote",
-    "job_state": "TX",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Production Application Engineer at US, TX, Remote",
-    "job_apply_link": "https://www.aijobs.com/jobs/218565732-production-application-engineer",
-    "id": "aijobs-production-application-engineer-remote"
+    "job_title": "Technical Program Manager - Tegra and Product Diag",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Technical Program Manager - Tegra and Product Diag at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/220998544-technical-program-manager-tegra-and-product-diag",
+    "id": "aijobs-technical-program-manager-tegra-and-product-diag-santa-clara"
   }
 ]
