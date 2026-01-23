@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Silicon Validation Engineer",
-    "job_city": "US-NY - Hudson Valley",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Silicon Validation Engineer at US-NY - Hudson Valley",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-NY---Hudson-Valley/Senior-Staff-Silicon-Validation-Engineer_2503960?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-silicon-validation-engineer-us-ny-hudson-valley"
+    "employer_name": "ABB",
+    "job_title": "Security Region Manager, Americas",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Security Region Manager, Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019839/Security-Region-Manager-Americas",
+    "id": "abb-security-region-manager-americas-multiple"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Validation Engineering IP Program Manager,  Principal",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "MEMS Process Development Intern",
+    "job_city": "US",
+    "job_state": "MA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Validation Engineering IP Program Manager,  Principal at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Engineering-IP-Program-Manager---Sr-Principal_2503182?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-validation-engineering-ip-program-manager-principal-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer - Embedded Firmware Development - CXL / PCIe / Memory",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Engineer - Embedded Firmware Development - CXL / PCIe / Memory at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Staff-Engineer---Embedded-Firmware-Development---CXL---PCIe---Memory_2600112?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-embedded-firmware-development-cxl-pcie-memory-santa-clara"
+    "job_description": "Data Science job for the role MEMS Process Development Intern at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/MEMS-Process-Development-Intern_R260064?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-mems-process-development-intern-us"
   }
 ]
