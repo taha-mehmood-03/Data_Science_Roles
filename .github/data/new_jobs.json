@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "People & Culture Lead, Gemini (12 months Fixed-Term Contract)",
-    "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role People & Culture Lead, Gemini (12 months Fixed-Term Contract) at Mountain View, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/221402380-people-culture-lead-gemini-12-months-fixed-term-contract",
-    "id": "aijobs-people-culture-lead-gemini-12-months-fixed-term-contract-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Compiler Engineer",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role Compiler Engineer at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/221412210-compiler-engineer",
-    "id": "aijobs-compiler-engineer-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Frontier Policy Lead",
-    "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Frontier Policy Lead at Mountain View, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/221402381-frontier-policy-lead",
-    "id": "aijobs-frontier-policy-lead-us"
+    "employer_name": "Arm",
+    "job_title": "Hardware Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Hardware Emulation Engineer at Austin, Texas, San Diego, California, San Jose, California, Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-hardware-emulation-engineer/33099/88794276368",
+    "id": "arm-hardware-emulation-engineer-austin"
   }
 ]
