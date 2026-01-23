@@ -1,23 +1,42 @@
 [
   {
-    "job_title": "Software Development Engineer - 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Software Development Engineer - 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3165140/software-development-engineer-2026-us",
-    "job_posted_at": "2026-01-22T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-22T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-2026-us-seattle"
+    "employer_name": "Arm",
+    "job_title": "SoC Floorplan CAD Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff SoC Floorplan CAD Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-floorplan-cad-engineer/33099/88536804336",
+    "id": "arm-soc-floorplan-cad-engineer-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Backend Engineer, Medical Device & Cloud Platform",
-    "job_city": "United States",
-    "job_state": "US",
-    "job_posted_at": "23h ago",
-    "job_description": "data science job for the role Staff Backend Engineer, Medical Device & Cloud Platform at United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/219419910-staff-backend-engineer-medical-device-cloud-platform",
-    "id": "aijobs-backend-engineer-medical-device-cloud-platform-united-states"
+    "job_title": "(USA) Senior, Data Scientist",
+    "job_city": "US",
+    "job_state": "AR",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role (USA) Senior, Data Scientist at Bentonville, AR, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/219421083-usa-senior-data-scientist",
+    "id": "aijobs-usa-senior-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "(USA) Senior, Data Scientist - Ecommerce",
+    "job_city": "US",
+    "job_state": "AR",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role (USA) Senior, Data Scientist - Ecommerce at Bentonville, AR, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/219421082-usa-senior-data-scientist-ecommerce",
+    "id": "aijobs-usa-senior-data-scientist-ecommerce-us"
   }
 ]
