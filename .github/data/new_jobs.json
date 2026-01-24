@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Visual Designer - IBM Quantum",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Visual Designer - IBM Quantum at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88271&source=WEB_Search_NA",
-    "id": "ibm-visual-designer-ibm-quantum-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Workday Complex Project Manager",
+    "job_title": "Expert Lab Seller",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Workday Complex Project Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=85907&source=WEB_Search_NA",
-    "id": "ibm-workday-complex-project-manager-multiple-cities"
+    "job_description": "Data Science job for the role Expert Lab Seller at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88977&source=WEB_Search_NA",
+    "id": "ibm-expert-lab-seller-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud Financials Senior Principal Functional Consultant (GL/AR)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Oracle Cloud Financials Senior Principal Functional Consultant (GL/AR) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87905&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-financials-senior-principal-functional-consultant-gl-ar-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Strategic Data Solutions",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1w ago",
+    "job_description": "data science job for the role Data Scientist - Strategic Data Solutions at Austin, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222013352-data-scientist-strategic-data-solutions",
+    "id": "aijobs-data-scientist-strategic-data-solutions-us"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Business Value Services - HashiCorp",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Value Services - HashiCorp at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88575&source=WEB_Search_NA",
-    "id": "ibm-business-value-services-hashicorp-multiple-cities"
+    "employer_name": "AiJobs",
+    "job_title": "decision scientist, Coffeehouse Development Platforms & Insights",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "20h ago",
+    "job_description": "data science job for the role decision scientist, Coffeehouse Development Platforms & Insights at Seattle, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/222013353-decision-scientist-coffeehouse-development-platforms-insights",
+    "id": "aijobs-decision-scientist-coffeehouse-development-platforms-insights-us"
   }
 ]
