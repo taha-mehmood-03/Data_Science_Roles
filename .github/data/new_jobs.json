@@ -1,52 +1,192 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr Data Scientist, TPG",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Sr Data Scientist, TPG at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/39463180",
-    "id": "micron-sr-data-scientist-tpg-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Sr RDA Equipment Applications Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Sr RDA Equipment Applications Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39625673",
-    "id": "micron-sr-rda-equipment-applications-engineer-manassas"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Ecosystem Digital Transformation – Data Science / Data Analytics Intern",
-    "job_city": "Armonk",
+    "job_title": "Expert Lab Seller - Select",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Ecosystem Digital Transformation – Data Science / Data Analytics Intern at InternshipArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88227&source=WEB_Search_NA",
-    "id": "ibm-ecosystem-digital-transformation-data-science-data-analytics-intern-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineering Intern – Agentic AI & Workflow Automation",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Intern – Agentic AI & Workflow Automation at InternshipArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88256&source=WEB_Search_NA",
-    "id": "ibm-software-engineering-intern-agentic-ai-workflow-automation-armonk"
+    "job_description": "Data Science job for the role Expert Lab Seller - Select at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88977&source=WEB_Search_NA",
+    "id": "ibm-expert-lab-seller-select-multiple-cities"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Ethics and Safety Policy Researcher",
-    "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "35min ago",
-    "job_description": "data science job for the role AI Ethics and Safety Policy Researcher at Mountain View, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/229372027-ai-ethics-and-safety-policy-researcher",
-    "id": "aijobs-ai-ethics-and-safety-policy-researcher-us"
+    "job_title": "Product Manager, Contributor (CB) Pay & Incentives",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Product Manager, Contributor (CB) Pay & Incentives at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464445-product-manager-contributor-cb-pay-incentives",
+    "id": "aijobs-product-manager-contributor-cb-pay-incentives-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Deep Research Agent Tech Lead",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Deep Research Agent Tech Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464476-deep-research-agent-tech-lead",
+    "id": "aijobs-deep-research-agent-tech-lead-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Robotics Product Manager",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Robotics Product Manager at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464463-robotics-product-manager",
+    "id": "aijobs-robotics-product-manager-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Product Manager",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "15min ago",
+    "job_description": "data science job for the role AI Product Manager at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/229451401-ai-product-manager",
+    "id": "aijobs-ai-product-manager-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Product Management, GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Director of Product Management, GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464442-director-of-product-management-genai",
+    "id": "aijobs-director-of-product-management-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Research Engineer, GenAI Applied ML",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "15min ago",
+    "job_description": "data science job for the role Machine Learning Research Engineer, GenAI Applied ML at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229451396-machine-learning-research-engineer-genai-applied-ml",
+    "id": "aijobs-machine-learning-research-engineer-genai-applied-ml-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Strategic Projects Lead, Generative AI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "16min ago",
+    "job_description": "data science job for the role Strategic Projects Lead, Generative AI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229451392-strategic-projects-lead-generative-ai",
+    "id": "aijobs-strategic-projects-lead-generative-ai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464483-machine-learning-research-engineer-agent-data-foundation-enterprise-genai",
+    "id": "aijobs-machine-learning-research-engineer-agent-data-foundation-enterprise-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Research Engineer, Enterprise Evaluations",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role AI Research Engineer, Enterprise Evaluations at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464462-ai-research-engineer-enterprise-evaluations",
+    "id": "aijobs-ai-research-engineer-enterprise-evaluations-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineer, Enterprise GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Applied AI Engineer, Enterprise GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464475-applied-ai-engineer-enterprise-genai",
+    "id": "aijobs-applied-ai-engineer-enterprise-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Engineer - Robotics",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Solutions Engineer - Robotics at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464468-solutions-engineer-robotics",
+    "id": "aijobs-solutions-engineer-robotics-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Applied AI Engineering Manager, Enterprise",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Applied AI Engineering Manager, Enterprise at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464477-applied-ai-engineering-manager-enterprise",
+    "id": "aijobs-applied-ai-engineering-manager-enterprise-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer, Computer Vision - Robotics",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Senior Machine Learning Engineer, Computer Vision - Robotics at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464465-senior-machine-learning-engineer-computer-vision-robotics",
+    "id": "aijobs-machine-learning-engineer-computer-vision-robotics-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464485-machine-learning-systems-research-engineer-agent-post-training-enterprise-genai",
+    "id": "aijobs-machine-learning-systems-research-engineer-agent-post-training-enterprise-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Machine Learning Research Engineer, Agents - Enterprise GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464484-machine-learning-research-engineer-agents-enterprise-genai",
+    "id": "aijobs-machine-learning-research-engineer-agents-enterprise-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "11min ago",
+    "job_description": "data science job for the role Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464439-staff-machine-learning-research-engineer-agent-post-training-enterprise-genai",
+    "id": "aijobs-machine-learning-research-engineer-agent-post-training-enterprise-genai-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Gen AI Platform",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "11min ago",
+    "job_description": "data science job for the role Product Manager, Gen AI Platform at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464448-product-manager-gen-ai-platform",
+    "id": "aijobs-product-manager-gen-ai-platform-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "10min ago",
+    "job_description": "data science job for the role Distinguished Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229464478-distinguished-engineer",
+    "id": "aijobs-distinguished-engineer-unknown"
   }
 ]
