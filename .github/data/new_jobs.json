@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Senior UX Research Manager",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Senior Business Data Scientist",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "40 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior UX Research Manager, Consumer Shopping",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104444259280528070-senior-ux-research-manager-consumer-shopping?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-senior-ux-research-manager-new-york"
+    "job_description": "34 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Business Data Scientist, Ads and Commerce Finance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119732417903633094-senior-business-data-scientist-ads-and-commerce-finance?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-business-data-scientist-mountain-view"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Hardware Engineer",
+    "job_title": "Machine Learning Hardware Verification Intern",
     "job_city": "Lund",
     "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Hardware Engineer at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/senior-hardware-engineer/33099/81161101824",
-    "id": "arm-hardware-engineer-lund"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Staff/Principal Software Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff/Principal Software Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-software-engineer/33099/90984609200",
-    "id": "arm-staff-principal-software-engineer-bengaluru"
+    "job_description": "Data Science job for the role Machine Learning Hardware Verification Intern at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/machine-learning-hardware-verification-intern/33099/91087788880",
+    "id": "arm-machine-learning-hardware-verification-intern-lund"
   }
 ]
