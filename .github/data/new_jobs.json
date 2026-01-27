@@ -1,13 +1,72 @@
 [
   {
-    "job_title": "Senior Data Solutions Lead, Data Collection Excellence",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Senior Data Solutions Lead, Data Collection Excellence at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3168001/senior-data-solutions-lead-data-collection-excellence",
-    "job_posted_at": "2026-01-27T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-01-27T00:00:00.000Z",
-    "id": "amazon-senior-data-solutions-lead-data-collection-excellence-boston"
+    "employer_name": "IBM",
+    "job_title": "Data Analyst",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Data Analyst at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88923&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo MAS Developer/Data & Integration",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo MAS Developer/Data & Integration at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88922&source=WEB_Search_NA",
+    "id": "ibm-maximo-mas-developer-data-integration-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Sales & Delivery Leader",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Sales & Delivery Leader at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88970&source=WEB_Search_NA",
+    "id": "ibm-business-sales-delivery-leader-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Air Force IMSC Operations Research & Analytics Services.",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Air Force IMSC Operations Research & Analytics Services. at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89178&source=WEB_Search_NA",
+    "id": "ibm-air-force-imsc-operations-research-analytics-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo Report Developer",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo Report Developer at ProfessionalRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88920&source=WEB_Search_NA",
+    "id": "ibm-maximo-report-developer-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative Chicago, Illinois",
+    "job_city": "Administration & TechnicianChicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Representative Chicago, Illinois at Administration & TechnicianChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=72364&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-chicago-illinois-administration-technicianchicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IT Lab Tech - Thermal Apprentice",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IT Lab Tech - Thermal Apprentice at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86951&source=WEB_Search_NA",
+    "id": "ibm-it-lab-tech-thermal-apprentice-poughkeepsie"
   }
 ]
