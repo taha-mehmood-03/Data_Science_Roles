@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Navigation Systems Architect (PN&T)",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal Navigation Systems Architect (PN&T) at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Principal-Navigation-Systems-Architect--PN-T-_R260123?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-navigation-systems-architect-pn-t-2-locations"
+    "employer_name": "Google",
+    "job_title": "Senior UX Research Manager",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "40 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior UX Research Manager, Consumer Shopping",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104444259280528070-senior-ux-research-manager-consumer-shopping?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-ux-research-manager-new-york"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Hardware Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Hardware Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/senior-hardware-engineer/33099/81161101824",
+    "id": "arm-hardware-engineer-lund"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Software Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff/Principal Software Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-principal-software-engineer/33099/90984609200",
+    "id": "arm-staff-principal-software-engineer-bengaluru"
   }
 ]
