@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Vil du være med på å gå opp veien til autonome industrielle prosesser?",
-    "job_city": "Fornebu",
-    "job_state": "Norway",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Vil du være med på å gå opp veien til autonome industrielle prosesser? at Fornebu, Norway",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018077/Vil-du-være-med-på-å-gå-opp-veien-til-autonome-industrielle-prosesser",
-    "id": "abb-vil-du-v-re-med-p-g-opp-veien-til-autonome-industrielle-prosesser-fornebu"
+    "employer_name": "Micron",
+    "job_title": "Sr Data Scientist, TPG",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Sr Data Scientist, TPG at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39463180",
+    "id": "micron-sr-data-scientist-tpg-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr RDA Equipment Applications Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Sr RDA Equipment Applications Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39625673",
+    "id": "micron-sr-rda-equipment-applications-engineer-manassas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Ecosystem Digital Transformation – Data Science / Data Analytics Intern",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Ecosystem Digital Transformation – Data Science / Data Analytics Intern at InternshipArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88227&source=WEB_Search_NA",
+    "id": "ibm-ecosystem-digital-transformation-data-science-data-analytics-intern-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Intern – Agentic AI & Workflow Automation",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering Intern – Agentic AI & Workflow Automation at InternshipArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88256&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-agentic-ai-workflow-automation-armonk"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Ethics and Safety Policy Researcher",
+    "job_city": "US",
+    "job_state": "California",
+    "job_posted_at": "35min ago",
+    "job_description": "data science job for the role AI Ethics and Safety Policy Researcher at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/229372027-ai-ethics-and-safety-policy-researcher",
+    "id": "aijobs-ai-ethics-and-safety-policy-researcher-us"
   }
 ]
