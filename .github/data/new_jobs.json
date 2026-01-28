@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Process Delivery Specilist",
-    "job_city": "Administration & TechnicianHUNTSVILLE",
+    "job_title": "Network Administrator",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Process Delivery Specilist at Administration & TechnicianHUNTSVILLE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=88273&source=WEB_Search_NA",
-    "id": "ibm-process-delivery-specilist-administration-technicianhuntsville"
+    "job_description": "Data Science job for the role Network Administrator at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73029&source=WEB_Search_NA",
+    "id": "ibm-network-administrator-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "System Service Rrepresentative Boston North",
-    "job_city": "Administration & TechnicianBoston",
+    "job_title": "Software Engineer – HashiCorp Secure Products",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Service Rrepresentative Boston North at Administration & TechnicianBoston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89163&source=WEB_Search_NA",
-    "id": "ibm-system-service-rrepresentative-boston-north-administration-technicianboston"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Innovation Program Associate",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Innovation Program Associate at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Innovation-Program-Manager_R255770?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-innovation-program-associate-2-locations"
+    "job_description": "Data Science job for the role Software Engineer – HashiCorp Secure Products at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89180&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-hashicorp-secure-products-multiple-cities"
   }
 ]
