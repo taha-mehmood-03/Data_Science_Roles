@@ -1,12 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "DevOps / Infrastructure Engineer – On-Prem Linux & CI (CPU Development Team)",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Senior Staff Product Data Science Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior DevOps / Infrastructure Engineer – On-Prem Linux & CI (CPU Development Team) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-infrastructure-engineer-on-prem-linux-and-ci-cpu-development-team/33099/90612349888",
-    "id": "arm-devops-infrastructure-engineer-on-prem-linux-ci-cpu-development-team-cambridge"
+    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Product Data Science Manager, Monetization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/79069712754844358-senior-staff-product-data-science-manager-monetization?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-staff-product-data-science-manager-sunnyvale"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-stack Software Engineer – Verification Data Platform",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Full-stack Software Engineer – Verification Data Platform at US, NC, Durham",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661575-senior-full-stack-software-engineer-verification-data-platform",
+    "id": "aijobs-full-stack-software-engineer-verification-data-platform-durham"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Manufacturing & Factory",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Principal Software Engineer - Manufacturing & Factory at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661572-principal-software-engineer-manufacturing-factory",
+    "id": "aijobs-software-engineer-manufacturing-factory-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Systems Integration Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Systems Integration Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661570-senior-systems-integration-engineer",
+    "id": "aijobs-systems-integration-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Embedded Controller",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior System Software Engineer - Embedded Controller at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661579-senior-system-software-engineer-embedded-controller",
+    "id": "aijobs-system-software-engineer-embedded-controller-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager - EDA Cluster Builds and Decoms",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Technical Program Manager - EDA Cluster Builds and Decoms at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/231661573-senior-technical-program-manager-eda-cluster-builds-and-decoms",
+    "id": "aijobs-technical-program-manager-eda-cluster-builds-and-decoms-santa-clara"
   }
 ]
