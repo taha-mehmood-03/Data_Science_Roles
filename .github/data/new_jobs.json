@@ -1,33 +1,42 @@
 [
   {
-    "job_title": "Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning",
-    "employer_name": "Amazon",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "Data Science job for the role Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning at Denver, CO, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3169655/infrastructure-edge-planning-data-engineer-edge-strategy-and-planning",
-    "job_posted_at": "2026-01-29T16:34:40.233Z",
-    "job_posted_at_datetime_utc": "2026-01-29T16:34:40.233Z",
-    "id": "amazon-infrastructure-edge-planning-data-engineer-edge-strategy-and-planning-denver"
+    "employer_name": "Arm",
+    "job_title": "SAP Sales EMS Support Analyst",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior SAP Sales EMS Support Analyst at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-sap-sales-ems-support-analyst/33099/58542077616",
+    "id": "arm-sap-sales-ems-support-analyst-bengaluru"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Sales Development Representative Automation",
-    "job_city": "Austin",
+    "job_title": "Entry Level Hardware and Systems Engineer",
+    "job_city": "HOPEWELL JUNCTION",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Development Representative Automation at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89447&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-automation-austin"
+    "job_description": "Data Science job for the role Entry Level Hardware and Systems Engineer at Entry LevelHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89140&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-and-systems-engineer-hopewell-junction"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Backend (DocV)",
+    "job_title": "Forward Deployed Engineer (AI Agent)",
     "job_city": "Unknown",
     "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Forward Deployed Engineer (AI Agent) at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/229372064-forward-deployed-engineer-ai-agent",
+    "id": "aijobs-forward-deployed-engineer-ai-agent-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Media Integrity",
+    "job_city": "US; San Francisco",
+    "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer - Backend (DocV) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/231746031-senior-software-engineer-backend-docv",
-    "id": "aijobs-software-engineer-backend-docv-unknown"
+    "job_description": "data science job for the role Research Engineer, Media Integrity at Mountain View, California, US; San Francisco, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/231815225-research-engineer-media-integrity",
+    "id": "aijobs-research-engineer-media-integrity-us-san-francisco"
   }
 ]
