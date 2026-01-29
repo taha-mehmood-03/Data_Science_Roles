@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Research Scientist, GES NA Ops Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Research Scientist, GES NA Ops Engineering at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3169377/research-scientist-ges-na-ops-engineering",
+    "job_posted_at": "2026-01-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-29T00:00:00.000Z",
+    "id": "amazon-research-scientist-ges-na-ops-engineering-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "FPGA Design/RTL Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal FPGA Design/RTL Engineer at Austin, Texas, San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-fpga-design-rtl-engineer/33099/88648836080",
+    "id": "arm-fpga-design-rtl-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineer- Physical Verification & PD",
+    "job_city": "Noida",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Engineer- Physical Verification & PD at Noida, India",
+    "job_apply_link": "https://careers.arm.com/job/noida/staff-engineer-physical-verification-and-pd/33099/84770916400",
+    "id": "arm-engineer-physical-verification-pd-noida"
+  }
+]
