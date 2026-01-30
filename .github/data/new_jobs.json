@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Quality Specialist",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quality Specialist at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/quality-specialist/33099/87328936112",
+    "id": "arm-quality-specialist-cambridge"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer, Monetization",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Research Engineer, Monetization at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/232584272-research-engineer-monetization",
+    "id": "aijobs-research-engineer-monetization-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Applied Research",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Technical Program Manager, Applied Research at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/232584268-technical-program-manager-applied-research",
+    "id": "aijobs-technical-program-manager-applied-research-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager – NVIDIA Marketplace",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Technical Program Manager – NVIDIA Marketplace at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/232577274-technical-program-manager-nvidia-marketplace",
+    "id": "aijobs-technical-program-manager-nvidia-marketplace-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Rack Scale Software Architecture",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Director, Rack Scale Software Architecture at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/232577272-director-rack-scale-software-architecture",
+    "id": "aijobs-director-rack-scale-software-architecture-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer - Rack Scale Architecture",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Distinguished Engineer - Rack Scale Architecture at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/232577284-distinguished-engineer-rack-scale-architecture",
+    "id": "aijobs-distinguished-engineer-rack-scale-architecture-santa-clara"
+  }
+]
