@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Machine Learning Engineer, WWPS ProServe Data and Machine Learning",
+    "employer_name": "Amazon",
+    "job_city": "Jessup",
+    "job_state": "MD",
+    "job_description": "Data Science job for the role Machine Learning Engineer, WWPS ProServe Data and Machine Learning at Jessup, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170862/machine-learning-engineer-wwps-proserve-data-and-machine-learning",
+    "job_posted_at": "2026-01-30T19:24:39.352Z",
+    "job_posted_at_datetime_utc": "2026-01-30T19:24:39.352Z",
+    "id": "amazon-machine-learning-engineer-wwps-proserve-data-and-machine-learning-jessup"
+  },
+  {
+    "job_title": "Data Scientist, Selling Partner Trust and Store Integrity",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, Selling Partner Trust and Store Integrity at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170934/data-scientist-selling-partner-trust-and-store-integrity",
+    "job_posted_at": "2026-01-30T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-01-30T00:00:00.000Z",
+    "id": "amazon-data-scientist-selling-partner-trust-and-store-integrity-seattle"
+  }
+]
