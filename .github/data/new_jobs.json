@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Adobe Workfront Architect",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Adobe Workfront Architect at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87897&source=WEB_Search_NA",
+    "id": "ibm-adobe-workfront-architect-no-city"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sensor Engineer (Tactile Sensing)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Sensor Engineer (Tactile Sensing) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Robotic-Sensor-Engineer_R257968?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sensor-engineer-tactile-sensing-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Analyst - TMT/Data",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior Research Analyst - TMT/Data at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/232652127-senior-research-analyst-tmt-data",
+    "id": "aijobs-research-analyst-tmt-data-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manager, AI Platform Engineering",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Senior Manager, AI Platform Engineering at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/232659698-senior-manager-ai-platform-engineering",
+    "id": "aijobs-manager-ai-platform-engineering-unknown"
+  }
+]
