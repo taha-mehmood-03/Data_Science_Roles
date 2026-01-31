@@ -1,22 +1,43 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
+    "job_title": "Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering",
+    "job_posted_at": "2026-01-31T00:26:03.005Z",
+    "job_posted_at_datetime_utc": "2026-01-31T00:26:03.005Z",
+    "id": "amazon-data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering-bellevue"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "VP of Business Development, BioSim",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Data Scientist",
+    "job_city": "TUCSON",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role VP of Business Development, BioSim at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/232880940-vp-of-business-development-biosim",
-    "id": "aijobs-vp-of-business-development-biosim-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Data Scientist at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90173&source=WEB_Search_NA",
+    "id": "ibm-entry-level-data-scientist-tucson"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Finance Data Product Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Finance Data Product Engineer at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Finance-Data-Product-Engineer_R260555?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-finance-data-product-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Manager of Analytics, GO&T",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Manager of Analytics, GO&T at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manager-of-Analytics--GO-T_R260481?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-manager-of-analytics-go-t-2-locations"
   }
 ]
