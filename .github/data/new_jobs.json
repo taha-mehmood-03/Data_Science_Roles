@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Full Stack Software Engineer, Reinforcement Learning",
-    "job_city": "CA",
-    "job_state": "San Francisco",
+    "job_title": "I/O Subsystem Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Full Stack Software Engineer, Reinforcement Learning at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/233332610-full-stack-software-engineer-reinforcement-learning",
-    "id": "aijobs-full-stack-software-engineer-reinforcement-learning-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Education Platform Engineering Lead",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Education Platform Engineering Lead at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/233332609-education-platform-engineering-lead",
-    "id": "aijobs-education-platform-engineering-lead-ca"
+    "job_description": "data science job for the role Senior I/O Subsystem Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/233356751-senior-i-o-subsystem-architect",
+    "id": "aijobs-i-o-subsystem-architect-santa-clara"
   }
 ]
