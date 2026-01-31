@@ -1,43 +1,52 @@
 [
   {
-    "job_title": "Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, LM Simulations Engineering, AMZL Simulations & Analytics Engineering at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3171109/data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering",
-    "job_posted_at": "2026-01-31T00:26:03.005Z",
-    "job_posted_at_datetime_utc": "2026-01-31T00:26:03.005Z",
-    "id": "amazon-data-scientist-lm-simulations-engineering-amzl-simulations-analytics-engineering-bellevue"
+    "employer_name": "Micron",
+    "job_title": "Energy Strategy and Utility Manager",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 days ago",
+    "job_description": "Data Science job for the role Principal Energy Strategy and Utility Manager at Boise, Idaho, United States of America + 5 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39460314",
+    "id": "micron-energy-strategy-and-utility-manager-boise"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level Data Scientist",
-    "job_city": "TUCSON",
+    "job_title": "Associate Business Transformation Consultant 2026 – Adobe",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Data Scientist at Entry LevelTUCSON, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90173&source=WEB_Search_NA",
-    "id": "ibm-entry-level-data-scientist-tucson"
+    "job_description": "Data Science job for the role Associate Business Transformation Consultant 2026 – Adobe at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90499&source=WEB_Search_NA",
+    "id": "ibm-associate-business-transformation-consultant-2026-adobe-multiple-cities"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Finance Data Product Engineer",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Finance Data Product Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Finance-Data-Product-Engineer_R260555?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-finance-data-product-engineer-us"
+    "employer_name": "IBM",
+    "job_title": "Qualification and Failure Analysis Lab Technician",
+    "job_city": "Administration & TechnicianROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Qualification and Failure Analysis Lab Technician at Administration & TechnicianROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90205&source=WEB_Search_NA",
+    "id": "ibm-qualification-and-failure-analysis-lab-technician-administration-technicianrochester"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manager of Analytics, GO&T",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Manager of Analytics, GO&T at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manager-of-Analytics--GO-T_R260481?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manager-of-analytics-go-t-2-locations"
+    "employer_name": "IBM",
+    "job_title": "Executive Researcher",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Executive Researcher at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89443&source=WEB_Search_NA",
+    "id": "ibm-executive-researcher-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Tier 1 Helpdesk Analyst",
+    "job_city": "Administration & TechnicianRocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Tier 1 Helpdesk Analyst at Administration & TechnicianRocket Center, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90253&source=WEB_Search_NA",
+    "id": "ibm-tier-1-helpdesk-analyst-administration-technicianrocket-center"
   }
 ]
