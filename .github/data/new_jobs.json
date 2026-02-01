@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Product Manger",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Product Manger at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=86252&source=WEB_Search_NA",
+    "id": "ibm-technical-product-manger-austin"
+  }
+]
