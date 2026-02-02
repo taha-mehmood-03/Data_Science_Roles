@@ -1,32 +1,52 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Formal Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Intern, Cloud AI Software Ecosystem Development",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Formal Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-formal-verification-engineer/33099/91306556352",
-    "id": "arm-formal-verification-engineer-cambridge"
+    "job_description": "Data Science job for the role Intern, Cloud AI Software Ecosystem Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-cloud-ai-software-ecosystem-development/33099/91308955872",
+    "id": "arm-intern-cloud-ai-software-ecosystem-development-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Financial Strategic Planning Analyst",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Intern Financial Strategic Planning Analyst at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-financial-strategic-planning-analyst/33099/91308955616",
+    "id": "arm-intern-financial-strategic-planning-analyst-san-jose"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Investment Director Venture Capital",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 19 hours ago",
-    "job_description": "Data Science job for the role Investment Director Venture Capital at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39759187",
-    "id": "micron-investment-director-venture-capital-san-jose"
+    "job_title": "Manager, AI Enablement",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior Manager, AI Enablement at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/39914960",
+    "id": "micron-manager-ai-enablement-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Operations Improvement Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior Operations Improvement Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39740812",
+    "id": "micron-operations-improvement-engineer-boise"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Research Scientist, Sound and Audio",
-    "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Research Scientist, Sound and Audio at Mountain View, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/238429960-research-scientist-sound-and-audio",
-    "id": "aijobs-research-scientist-sound-and-audio-us"
+    "job_title": "Robotics Engineer",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role Robotics Engineer at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/238615635-robotics-engineer",
+    "id": "aijobs-robotics-engineer-ca"
   }
 ]
