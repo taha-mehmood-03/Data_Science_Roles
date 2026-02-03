@@ -1,13 +1,62 @@
 [
   {
-    "job_title": "Data Scientist",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Data Scientist at San Francisco, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3172450/data-scientist",
-    "job_posted_at": "2026-02-03T02:11:34.709Z",
-    "job_posted_at_datetime_utc": "2026-02-03T02:11:34.709Z",
-    "id": "amazon-data-scientist-san-francisco"
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Sales Specialist - Select - Data & AI (Offer)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Brand Technical Sales Specialist - Select - Data & AI (Offer) at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90524&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-sales-specialist-select-data-ai-offer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Services Professional",
+    "job_city": "Administration & TechnicianAustin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Services Professional at Administration & TechnicianAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89804&source=WEB_Search_NA",
+    "id": "ibm-technical-services-professional-administration-technicianaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Adobe Workfront Fusion Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Adobe Workfront Fusion Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89816&source=WEB_Search_NA",
+    "id": "ibm-adobe-workfront-fusion-consultant-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Storage ISV Partner Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Storage ISV Partner Engineer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90207&source=WEB_Search_NA",
+    "id": "ibm-storage-isv-partner-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant SAP WAM / EAM Plant Maintenance",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant SAP WAM / EAM Plant Maintenance at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90252&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-sap-wam-eam-plant-maintenance-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Sales Specialist - Select - Automation",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Brand Technical Sales Specialist - Select - Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90523&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-sales-specialist-select-automation-austin"
   }
 ]
