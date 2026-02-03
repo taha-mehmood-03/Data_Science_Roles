@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Senior/Staff Implant Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Senior/Staff Implant Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39942751",
+    "id": "micron-senior-staff-implant-equipment-engineer-boise"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "System Engineering Coop - Fall",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role System Engineering Coop - Fall 2026 at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026",
+    "id": "abb-system-engineering-coop-fall-cleveland"
+  }
+]
