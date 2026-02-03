@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Low Power & Power Analysis Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC Low Power & Power Analysis Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-low-power-and-power-analysis-engineer/33099/87112637216",
-    "id": "arm-soc-low-power-power-analysis-engineer-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Financial Crime Data Scientist",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Financial Crime Data Scientist at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/239088959-financial-crime-data-scientist",
-    "id": "aijobs-financial-crime-data-scientist-us"
+    "job_title": "Data Scientist",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Scientist at San Francisco, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3172450/data-scientist",
+    "job_posted_at": "2026-02-03T02:11:34.709Z",
+    "job_posted_at_datetime_utc": "2026-02-03T02:11:34.709Z",
+    "id": "amazon-data-scientist-san-francisco"
   }
 ]
