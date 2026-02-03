@@ -1,32 +1,13 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Science Manager, Integrity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Data Science Manager, Integrity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804569-data-science-manager-integrity",
-    "id": "aijobs-data-science-manager-integrity-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Software Engineer, ChatGPT Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Backend Software Engineer, ChatGPT Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804572-backend-software-engineer-chatgpt-engineering",
-    "id": "aijobs-backend-software-engineer-chatgpt-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - DPU Platform",
-    "job_city": "Westford",
-    "job_state": "MA",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Senior Software Engineer - DPU Platform at US, MA, Westford",
-    "job_apply_link": "https://www.aijobs.com/jobs/240804265-senior-software-engineer-dpu-platform",
-    "id": "aijobs-software-engineer-dpu-platform-westford"
+    "job_title": "Software Dev Engineer, GenAI, Product Knowledge",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Software Dev Engineer, GenAI, Product Knowledge at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3172837/software-dev-engineer-genai-product-knowledge",
+    "job_posted_at": "2026-02-03T15:46:03.301Z",
+    "job_posted_at_datetime_utc": "2026-02-03T15:46:03.301Z",
+    "id": "amazon-software-dev-engineer-genai-product-knowledge-new-york"
   }
 ]
