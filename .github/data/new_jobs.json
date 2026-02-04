@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Research Data Scientist",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "Systems Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "29 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Research Data Scientist, Core Compute Analytics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117547495831020230-senior-research-data-scientist-core-compute-analytics?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-research-data-scientist-new-york"
+    "job_description": "Data Science job for the role Principal Systems Architect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-architect/33099/91369585280",
+    "id": "arm-systems-architect-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Coordinator",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Field Service Coordinator at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022914/Field-Service-Coordinator",
+    "id": "abb-field-service-coordinator-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solutions and Process Development Specialist",
+    "job_city": "Vaasa",
+    "job_state": "Pohjanmaa",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Digital Solutions and Process Development Specialist at Vaasa, Pohjanmaa, Finland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020920/Digital-Solutions-and-Process-Development-Specialist",
+    "id": "abb-digital-solutions-and-process-development-specialist-vaasa"
   }
 ]
