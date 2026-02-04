@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern  - Design Architecture, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Intern  - Design Architecture, HBM at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39917008",
+    "id": "micron-intern-design-architecture-hbm-richardson"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, Human AI Interaction",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Research Scientist, Human AI Interaction at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/243683931-research-scientist-human-ai-interaction",
+    "id": "aijobs-research-scientist-human-ai-interaction-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "– Computer Graphics & Computer Vision (Global Research-to-Product Role)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Lead – Computer Graphics & Computer Vision (Global Research-to-Product Role) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/243683911-lead-computer-graphics-computer-vision-global-research-to-product-role",
+    "id": "aijobs-computer-graphics-computer-vision-global-research-to-product-role-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "User Researcher AI Tech Wearables",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role User Researcher AI Tech Wearables at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/243683934-user-researcher-ai-tech-wearables",
+    "id": "aijobs-user-researcher-ai-tech-wearables-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision Software Engineer - University Graduate",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "20h ago",
+    "job_description": "data science job for the role Computer Vision Software Engineer - University Graduate 2026 at San Mateo, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/243683912-computer-vision-software-engineer-university-graduate-2026",
+    "id": "aijobs-computer-vision-software-engineer-university-graduate-us"
+  }
+]
