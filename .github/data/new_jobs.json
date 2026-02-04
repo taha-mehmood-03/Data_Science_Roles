@@ -1,24 +1,22 @@
 [
   {
-    "job_title": "Actuarial Analyst, Amazon One Medical Actuary, Amazon One Medical Actuary",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Actuarial Analyst, Amazon One Medical Actuary, Amazon One Medical Actuary at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3102759/actuarial-analyst-amazon-one-medical-actuary-amazon-one-medical-actuary",
-    "job_posted_at": "2026-02-04T19:29:16.112Z",
-    "job_posted_at_datetime_utc": "2026-02-04T19:29:16.112Z",
-    "id": "amazon-actuarial-analyst-amazon-one-medical-actuary-amazon-one-medical-actuary-boston"
+    "employer_name": "MARVELL",
+    "job_title": "Design Verification Engineer",
+    "job_city": "US-CA - Santa Clara",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Principal Design Verification Engineer at US-CA - Santa Clara",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---Santa-Clara/Principal-Design-Verification-Engineer_2600144?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-design-verification-engineer-us-ca-santa-clara"
   },
   {
-    "job_title": "Last Mile Integration Engineer, Amazon Center for Quantum Computing",
-    "employer_name": "Amazon",
-    "job_city": "Pasadena",
+    "employer_name": "MARVELL",
+    "job_title": "AI Systems Engineer – Analog Design",
+    "job_city": "Irvine",
     "job_state": "CA",
-    "job_description": "Data Science job for the role Last Mile Integration Engineer, Amazon Center for Quantum Computing at Pasadena, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3174217/last-mile-integration-engineer-amazon-center-for-quantum-computing",
-    "job_posted_at": "2026-02-04T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "id": "amazon-last-mile-integration-engineer-amazon-center-for-quantum-computing-pasadena"
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Principal AI Systems Engineer – Analog Design at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-AI-Systems-Engineer---Analog-Design_2600158-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-ai-systems-engineer-analog-design-irvine"
   }
 ]
