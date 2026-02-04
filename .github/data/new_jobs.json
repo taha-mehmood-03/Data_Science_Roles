@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "Quality Insights Manager, Ring Blink Customer Support Quality Assurance (CSQA) team",
-    "employer_name": "Amazon",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Quality Insights Manager, Ring Blink Customer Support Quality Assurance (CSQA) team at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3174327/quality-insights-manager-ring-blink-customer-support-quality-assurance-csqa-team",
-    "job_posted_at": "2026-02-04T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "id": "amazon-quality-insights-manager-ring-blink-customer-support-quality-assurance-csqa-team-hawthorne"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SR Systems Engineer  TS/SCI W/FSP",
-    "job_city": "Chantilly",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SR Systems Engineer  TS/SCI W/FSP at ProfessionalChantilly, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90184&source=WEB_Search_NA",
-    "id": "ibm-sr-systems-engineer-ts-sci-w-fsp-chantilly"
+    "employer_name": "Micron",
+    "job_title": "Implant Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior Implant Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39949431",
+    "id": "micron-implant-equipment-engineer-boise"
   }
 ]
