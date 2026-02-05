@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Location Analyst, WWGS Growth & Development",
+    "job_title": "Data Scientist, WWPS ProServe Data and Machine Learning",
     "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Location Analyst, WWGS Growth & Development at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3169654/location-analyst-wwgs-growth-development",
-    "job_posted_at": "2026-02-05T17:41:38.228Z",
-    "job_posted_at_datetime_utc": "2026-02-05T17:41:38.228Z",
-    "id": "amazon-location-analyst-wwgs-growth-development-austin"
-  },
-  {
-    "job_title": "Data Scientist II - AMZ9658237",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Data Scientist II - AMZ9658237 at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170628/data-scientist-ii-amz9658237",
-    "job_posted_at": "2026-02-05T01:41:38.229Z",
-    "job_posted_at_datetime_utc": "2026-02-05T01:41:38.229Z",
-    "id": "amazon-data-scientist-ii-amz9658237-new-york"
+    "job_city": "Jessup",
+    "job_state": "MD",
+    "job_description": "Data Science job for the role Data Scientist, WWPS ProServe Data and Machine Learning at Jessup, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170862/data-scientist-wwps-proserve-data-and-machine-learning",
+    "job_posted_at": "2026-02-05T18:35:03.707Z",
+    "job_posted_at_datetime_utc": "2026-02-05T18:35:03.707Z",
+    "id": "amazon-data-scientist-wwps-proserve-data-and-machine-learning-jessup"
   }
 ]
