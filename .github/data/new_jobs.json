@@ -1,12 +1,112 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Implant Equipment Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Senior Implant Equipment Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39949431",
-    "id": "micron-implant-equipment-engineer-boise"
+    "employer_name": "Google",
+    "job_title": "Staff UX Quantitative Researcher",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "41 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff UX Quantitative Researcher, Search",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82190466056889030-staff-ux-quantitative-researcher-search?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-staff-ux-quantitative-researcher-mountain-view"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Business Transformation Consultant 2026 – ServiceNow",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Business Transformation Consultant 2026 – ServiceNow at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91686&source=WEB_Search_NA",
+    "id": "ibm-associate-business-transformation-consultant-2026-servicenow-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Systems Architect",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manufacturing Systems Architect at ProfessionalPARAMUS, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91247&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-systems-architect-paramus"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Proposal Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Proposal Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017236/Proposal-Engineer",
+    "id": "abb-proposal-engineer-mebane"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Head of Artificial Intelligence and Data Science",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Head of Artificial Intelligence and Data Science at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/244729202-head-of-artificial-intelligence-and-data-science",
+    "id": "aijobs-head-of-artificial-intelligence-and-data-science-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "People Data Scientist",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role People Data Scientist at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/244729207-people-data-scientist",
+    "id": "aijobs-people-data-scientist-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (Associate or Experienced)",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist (Associate or Experienced) at Everett, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/244729208-data-scientist-associate-or-experienced",
+    "id": "aijobs-data-scientist-associate-or-experienced-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Research Scientist",
+    "job_city": "US",
+    "job_state": "IL",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI Research Scientist at Darien, IL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/244729200-ai-research-scientist",
+    "id": "aijobs-ai-research-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Algorithms",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist, Algorithms at Seattle, WA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/244729209-data-scientist-algorithms",
+    "id": "aijobs-data-scientist-algorithms-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Activation & Growth",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Product Manager, Activation & Growth at Redwood City, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/244733496-product-manager-activation-growth",
+    "id": "aijobs-product-manager-activation-growth-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Core Product",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Product Manager, Core Product at Redwood City, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/244733495-product-manager-core-product",
+    "id": "aijobs-product-manager-core-product-united-states"
   }
 ]
