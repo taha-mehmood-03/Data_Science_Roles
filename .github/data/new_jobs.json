@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Events Manager (Contract)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Events Manager (Contract) at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-events-manager-contract/33099/91405931408",
+    "id": "arm-events-manager-contract-san-jose"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director, Project Management Office",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Senior Director, Project Management Office at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/246438575-senior-director-project-management-office",
+    "id": "aijobs-director-project-management-office-santa-clara"
+  }
+]
