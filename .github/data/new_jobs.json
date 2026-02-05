@@ -1,13 +1,92 @@
 [
   {
-    "job_title": "Data Scientist, WWPS ProServe Data and Machine Learning",
-    "employer_name": "Amazon",
-    "job_city": "Jessup",
-    "job_state": "MD",
-    "job_description": "Data Science job for the role Data Scientist, WWPS ProServe Data and Machine Learning at Jessup, MD, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3170862/data-scientist-wwps-proserve-data-and-machine-learning",
-    "job_posted_at": "2026-02-05T18:35:03.707Z",
-    "job_posted_at_datetime_utc": "2026-02-05T18:35:03.707Z",
-    "id": "amazon-data-scientist-wwps-proserve-data-and-machine-learning-jessup"
+    "employer_name": "IBM",
+    "job_title": "ServiceNow - Application Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role ServiceNow - Application Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91009&source=WEB_Search_NA",
+    "id": "ibm-servicenow-application-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ServiceNow - Application Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role ServiceNow - Application Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91010&source=WEB_Search_NA",
+    "id": "ibm-servicenow-application-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Adobe AEP Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Adobe AEP Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91688&source=WEB_Search_NA",
+    "id": "ibm-adobe-aep-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant - HR Transformation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant - HR Transformation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=79162&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-hr-transformation-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer ELH 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91689&source=WEB_Search_NA",
+    "id": "ibm-software-developer-elh-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "数字化架构及方案研发主任工程师",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
+    "id": "abb--beijing"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Scientist – Advanced Sensing Technologies",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Scientist – Advanced Sensing Technologies at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principal-Scientist---Advanced-Sensing-Technologies_R258734?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-scientist-advanced-sensing-technologies-us"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Substrate Staff Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Substrate Staff Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Substrate-Staff-Engineer_2600316?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-substrate-staff-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer, Product Security - SW/HW/Encryption/Authentication/Audits/Threat Modeling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Principal Engineer, Product Security - SW/HW/Encryption/Authentication/Audits/Threat Modeling at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Product-Security_2502105?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-product-security-sw-hw-encryption-authentication-audits-threat-modeling-santa-clara"
   }
 ]
