@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Product Management ELH",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Management ELH 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
-    "id": "ibm-product-management-elh-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Research Scientist in Machine Perception (80 -100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Research Scientist in Machine Perception (80 -100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023796/Research-Scientist-in-Machine-Perception-80-100",
-    "id": "abb-research-scientist-in-machine-perception-80-100-baden-daettwil"
+    "employer_name": "AiJobs",
+    "job_title": "Data & Research Intern",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data & Research Intern at San Mateo, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/246608036-data-research-intern",
+    "id": "aijobs-data-research-intern-us"
   }
 ]
