@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "SubK C Senior Microsoft Windows Administrator",
-    "job_city": "Hampton",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SubK C Senior Microsoft Windows Administrator at ProfessionalHampton, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91692&source=WEB_Search_NA",
-    "id": "ibm-subk-c-senior-microsoft-windows-administrator-hampton"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
     "job_city": "Cary",
@@ -78,35 +68,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Marketing Lead, ChatGPT",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Product Marketing Lead, ChatGPT at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/249358342-product-marketing-lead-chatgpt",
-    "id": "aijobs-product-marketing-lead-chatgpt-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Marketing Manager, Privacy",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Product Marketing Manager, Privacy at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/249358340-product-marketing-manager-privacy",
-    "id": "aijobs-product-marketing-manager-privacy-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Monetization Product Marketing Manager, Advertising",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Monetization Product Marketing Manager, Advertising at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/249358343-monetization-product-marketing-manager-advertising",
-    "id": "aijobs-monetization-product-marketing-manager-advertising-united-states"
   }
 ]
