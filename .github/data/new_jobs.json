@@ -11,6 +11,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "销售工程师（盘厂渠道）",
     "job_city": "Zhengzhou",
     "job_state": "Henan",
@@ -41,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -58,25 +58,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer Level",
-    "job_city": "US",
-    "job_state": "DC",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role AI Engineer Level I at Washington, DC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/248762618-ai-engineer-level-i",
-    "id": "aijobs-ai-engineer-level-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Engineer (Azure)",
-    "job_city": "US",
-    "job_state": "MD",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Senior AI/ML Engineer (Azure) at Bethesda, MD, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/248762613-senior-ai-ml-engineer-azure",
-    "id": "aijobs-ai-ml-engineer-azure-us"
   }
 ]
