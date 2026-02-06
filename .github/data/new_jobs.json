@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager, Data Center Projects",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Program Manager, Data Center Projects at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/technical-program-manager-data-center-projects/33099/91178892192",
+    "id": "arm-technical-program-manager-data-center-projects-san-jose"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "ENGINEER, ID1 ME - DE OPERATIONS",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted an hour ago",
+    "job_description": "Data Science job for the role ENGINEER, ID1 ME - DE OPERATIONS at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39759186",
+    "id": "micron-engineer-id1-me-de-operations-boise"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Active Distribution System Control and Protection Intern- Summer",
     "job_city": "Raleigh",
@@ -34,9 +54,19 @@
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Semiconductor Functional Safety Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Semiconductor Functional Safety Design Engineer at 2 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-VT-Colchester/Functional-Safety-Design-Engineer_R260664?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-semiconductor-functional-safety-design-engineer-2-locations"
   }
 ]
