@@ -1,113 +1,23 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Market Development Manager - SpiritIT  flowcomputers",
-    "job_city": "Eindhoven",
-    "job_state": "North Brabant",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Market Development Manager - SpiritIT  flowcomputers at Eindhoven, North Brabant, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/96691151/Market-Development-Manager-SpiritIT -flowcomputers",
-    "id": "abb-market-development-manager-spiritit-flowcomputers-eindhoven"
+    "employer_name": "IBM",
+    "job_title": "X-Force Senior Incident Response Consultant North America",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role X-Force Senior Incident Response Consultant North America at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90217&source=WEB_Search_NA",
+    "id": "ibm-x-force-senior-incident-response-consultant-north-america-no-city"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Pricing System Developer",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Pricing System Developer at Available in one of 14 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017749/Pricing-System-Developer",
-    "id": "abb-pricing-system-developer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Sales Manager Shore Power",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Global Sales Manager Shore Power at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/96970326/Global-Sales-Manager-Shore-Power",
-    "id": "abb-global-sales-manager-shore-power-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist Motion Service",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist Motion Service at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018791/Sales-Specialist-Motion-Service",
-    "id": "abb-sales-specialist-motion-service-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer Middenspanning",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Engineer Middenspanning at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006196/Field-Service-Engineer-Middenspanning",
-    "id": "abb-field-service-engineer-middenspanning-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Engineer Process Automation & Drive Control Systems",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Engineer Process Automation & Drive Control Systems at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009842/Field-Service-Engineer-Process-Automation-Drive-Control-Systems",
-    "id": "abb-field-service-engineer-process-automation-drive-control-systems-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager Distribution Automation ELDS Nederland",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Account Manager Distribution Automation ELDS Nederland at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007444/Account-Manager-Distribution-Automation-ELDS-Nederland",
-    "id": "abb-account-manager-distribution-automation-elds-nederland-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "QCS Product Manager",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role QCS Product Manager at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017804/QCS-Product-Manager",
-    "id": "abb-qcs-product-manager-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Engineer Marine & Ports",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Project Engineer Marine & Ports at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/94622195/Project-Engineer-Marine-Ports",
-    "id": "abb-project-engineer-marine-ports-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Field Service Engineer",
-    "job_city": "Rotterdam",
-    "job_state": "South Holland",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Automation Field Service Engineer at Rotterdam, South Holland, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/95302561/Automation-Field-Service-Engineer",
-    "id": "abb-automation-field-service-engineer-rotterdam"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Specialist",
-    "job_city": "Frosinone",
-    "job_state": "Frosinone",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role AI Specialist at Frosinone, Frosinone, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014341/AI-Specialist",
-    "id": "abb-ai-specialist-frosinone"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +31,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Manager Product Configurator - Analytical technology (m/f/d)",
+    "job_city": "Frankfurt am Main",
+    "job_state": "Germany",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
+    "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "销售工程师（盘厂渠道）",
     "job_city": "Zhengzhou",
     "job_state": "Henan",
@@ -128,6 +58,16 @@
     "job_description": "Data Science job for the role 销售工程师（盘厂渠道） at Zhengzhou, Henan, China",
     "job_apply_link": "https://careers.abb/global/en/job/94819545/销售工程师（盘厂渠道）",
     "id": "abb--zhengzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Specialist",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role AI Specialist at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014341/AI-Specialist",
+    "id": "abb-ai-specialist-frosinone"
   },
   {
     "employer_name": "ABB",
@@ -158,16 +98,6 @@
     "job_description": "Data Science job for the role Automation Junior Service Engineer Temporary at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014241/Automation-Junior-Service-Engineer-Temporary",
     "id": "abb-automation-junior-service-engineer-temporary-genova"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
   },
   {
     "employer_name": "ABB",
