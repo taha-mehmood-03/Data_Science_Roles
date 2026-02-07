@@ -1,23 +1,13 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Area Sales Manager - Central Region - Building Automation",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Area Sales Manager - Central Region - Building Automation at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010882/Area-Sales-Manager-Central-Region-Building-Automation",
-    "id": "abb-area-sales-manager-central-region-building-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015894/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
@@ -101,82 +91,12 @@
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Applied Machine Learning Engineer - VLSI Design",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Applied Machine Learning Engineer - VLSI Design at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219607-applied-machine-learning-engineer-vlsi-design",
-    "id": "aijobs-applied-machine-learning-engineer-vlsi-design-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Scientific Machine Learning Engineer – Earth-2",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Scientific Machine Learning Engineer – Earth-2 at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219595-senior-scientific-machine-learning-engineer-earth-2",
-    "id": "aijobs-scientific-machine-learning-engineer-earth-2-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Project Manager, Recruiting Operations",
+    "job_title": "Product Manager - Comet Mobile",
     "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Project Manager, Recruiting Operations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/252232703-project-manager-recruiting-operations",
-    "id": "aijobs-project-manager-recruiting-operations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Software Engineering - Libraries Devops and Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Manager, Software Engineering - Libraries Devops and Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219609-senior-manager-software-engineering-libraries-devops-and-infrastructure",
-    "id": "aijobs-manager-software-engineering-libraries-devops-and-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Sourcer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Technical Sourcer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/252232705-technical-sourcer",
-    "id": "aijobs-technical-sourcer-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Datacenter Performance Model Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Datacenter Performance Model Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219605-senior-datacenter-performance-model-engineer",
-    "id": "aijobs-datacenter-performance-model-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Platform Architecture Engineer, GeForce NOW",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Platform Architecture Engineer, GeForce NOW at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219594-platform-architecture-engineer-geforce-now",
-    "id": "aijobs-platform-architecture-engineer-geforce-now-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director, Software Engineering - NIM Factory",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Director, Software Engineering - NIM Factory at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/252219608-director-software-engineering-nim-factory",
-    "id": "aijobs-director-software-engineering-nim-factory-santa-clara"
+    "job_posted_at": "17h ago",
+    "job_description": "data science job for the role Product Manager - Comet Mobile at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/252261637-product-manager-comet-mobile",
+    "id": "aijobs-product-manager-comet-mobile-united-states"
   }
 ]
