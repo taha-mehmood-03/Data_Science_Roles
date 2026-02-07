@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
     "job_city": "Cary",
     "job_state": "North Carolina",
@@ -88,15 +98,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Firmware Engineer - Embedded SW/Microcontroller/Bare-Metal Drivers",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Firmware Engineer - Embedded SW/Microcontroller/Bare-Metal Drivers at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Firmware-Engineer---Embedded-SW-Microcontroller-Bare-Metal-Drivers_2600356?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-firmware-engineer-embedded-sw-microcontroller-bare-metal-drivers-santa-clara"
   }
 ]
