@@ -1,23 +1,33 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Technical Package Product Manager & Member of Technical Staff",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Technical Package Product Manager & Member of Technical Staff at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/40097336",
-    "id": "micron-technical-package-product-manager-member-of-technical-staff-boise"
+    "employer_name": "IBM",
+    "job_title": "Product Manager 2026 ELH",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager 2026 ELH at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
+    "id": "ibm-product-manager-2026-elh-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
-    "id": "abb-category-manager-mebane"
+    "employer_name": "IBM",
+    "job_title": "Concur Customer Success Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Concur Customer Success Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92452&source=WEB_Search_NA",
+    "id": "ibm-concur-customer-success-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ELH Site Reliability Engineer Lowell, SVL, Austin",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role ELH Site Reliability Engineer Lowell, SVL, Austin at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=65792&source=WEB_Search_NA",
+    "id": "ibm-elh-site-reliability-engineer-lowell-svl-austin-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +81,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -78,25 +98,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Psychologist or Sociologist  - AI Psychology & Safety, ReDI - US, MTV - 12 month FTC",
-    "job_city": "US",
-    "job_state": "California",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role Psychologist or Sociologist  - AI Psychology & Safety, ReDI - US, MTV - 12 month FTC at Mountain View, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/258844552-psychologist-or-sociologist-ai-psychology-safety-redi-us-mtv-12-month-ftc",
-    "id": "aijobs-psychologist-or-sociologist-ai-psychology-safety-redi-us-mtv-12-month-ftc-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Scientist, Information Quality",
-    "job_city": "US; San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "data science job for the role Research Scientist, Information Quality at Mountain View, California, US; San Francisco, California, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/258844550-research-scientist-information-quality",
-    "id": "aijobs-research-scientist-information-quality-us-san-francisco"
   }
 ]
