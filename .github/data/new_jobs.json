@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Senior Growth Consultant",
-    "job_city": "San Francisco",
-    "job_state": "CA",
+    "job_title": "Senior Product Quantitative Researcher",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "20 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Growth Consultant, AppDev, Google Customer Solutions",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123744135059251910-senior-growth-consultant-appdev-google-customer-solutions?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-growth-consultant-san-francisco"
+    "job_description": "29 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Quantitative Researcher, Cloud Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125684197556658886-senior-product-quantitative-researcher-cloud-security?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-product-quantitative-researcher-new-york"
   },
   {
     "employer_name": "ABB",
@@ -68,16 +68,6 @@
     "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
     "id": "abb--beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Testing & Lab Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role R&D Testing & Lab Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022924/R-D-Testing-Lab-Specialist",
-    "id": "abb-r-d-testing-lab-specialist-hangzhou"
   },
   {
     "employer_name": "ABB",
