@@ -1,5 +1,35 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Level 6 Software Engineer Apprentice, Digital Technology Solutions",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Level 6 Software Engineer Apprentice, Digital Technology Solutions at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/level-6-software-engineer-apprentice-digital-technology-solutions/33099/91537670304",
+    "id": "arm-level-6-software-engineer-apprentice-digital-technology-solutions-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Level 4 Software Engineering Apprenticeship (Development or DevOps Pathway)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Level 4 Software Engineering Apprenticeship (Development or DevOps Pathway) at Cambridge, United Kingdom, Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/level-4-software-engineering-apprenticeship-development-or-devops-pathway/33099/91537670016",
+    "id": "arm-level-4-software-engineering-apprenticeship-development-or-devops-pathway-cambridge"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
     "job_city": "Cary",
@@ -8,16 +38,6 @@
     "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
     "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
   },
   {
     "employer_name": "ABB",
@@ -68,6 +88,16 @@
     "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
     "id": "abb--beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
   },
   {
     "employer_name": "ABB",
