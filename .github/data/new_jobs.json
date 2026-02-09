@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer – Builds and Releases",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Engineer – Builds and Releases at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-builds-and-releases/33099/91547075424",
+    "id": "arm-software-engineer-builds-and-releases-cambridge"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Data Scientist, Agentic Platform",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Principal Data Scientist, Agentic Platform at Boise, Idaho, United States of America + 3 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40081557",
+    "id": "micron-data-scientist-agentic-platform-boise"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Application Manager Product Configurator - Analytical technology (m/f/d)",
     "job_city": "Frankfurt am Main",
@@ -38,6 +58,16 @@
     "job_description": "Data Science job for the role Automation Service Engineer - Internship at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00009568/Automation-Service-Engineer-Internship",
     "id": "abb-automation-service-engineer-internship-genova"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Summer Job at ABB Corporate Research – Master students in Materials Science, Electrical Machine Design or related subjects",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Summer Job at ABB Corporate Research – Master students in Materials Science, Electrical Machine Design or related subjects at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023863/Summer-Job-at-ABB-Corporate-Research-Master-students-in-Materials-Science-Electrical-Machine-Design-or-related-subjects",
+    "id": "abb-summer-job-at-abb-corporate-research-master-students-in-materials-science-electrical-machine-design-or-related-subjects-vaesteras"
   },
   {
     "employer_name": "ABB",
