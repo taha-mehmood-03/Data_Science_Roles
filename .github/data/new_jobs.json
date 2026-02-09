@@ -1,44 +1,23 @@
 [
   {
-    "job_title": "Data Scientist, Special Projects",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Special Projects at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3177032/data-scientist-special-projects",
-    "job_posted_at": "2026-02-09T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "id": "amazon-data-scientist-special-projects-seattle"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Dry Etch Process Development Engineer",
+    "job_title": "Technical Package Product Manager & Member of Technical Staff",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Dry Etch Process Development Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/39786293",
-    "id": "micron-dry-etch-process-development-engineer-boise"
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "Data Science job for the role Technical Package Product Manager & Member of Technical Staff at Boise, Idaho, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40097336",
+    "id": "micron-technical-package-product-manager-member-of-technical-staff-boise"
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
+    "job_title": "Category Manager",
+    "job_city": "Mebane",
     "job_state": "North Carolina",
     "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
+    "id": "abb-category-manager-mebane"
   },
   {
     "employer_name": "ABB",
@@ -102,12 +81,22 @@
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Research Scientist, Market Algorithms, Google Research",
+    "job_title": "Psychologist or Sociologist  - AI Psychology & Safety, ReDI - US, MTV - 12 month FTC",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "6d ago",
-    "job_description": "data science job for the role Research Scientist, Market Algorithms, Google Research at Mountain View, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/258670902-research-scientist-market-algorithms-google-research",
-    "id": "aijobs-research-scientist-market-algorithms-google-research-us"
+    "job_state": "California",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Psychologist or Sociologist  - AI Psychology & Safety, ReDI - US, MTV - 12 month FTC at Mountain View, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/258844552-psychologist-or-sociologist-ai-psychology-safety-redi-us-mtv-12-month-ftc",
+    "id": "aijobs-psychologist-or-sociologist-ai-psychology-safety-redi-us-mtv-12-month-ftc-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist, Information Quality",
+    "job_city": "US; San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Research Scientist, Information Quality at Mountain View, California, US; San Francisco, California, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/258844550-research-scientist-information-quality",
+    "id": "aijobs-research-scientist-information-quality-us-san-francisco"
   }
 ]
