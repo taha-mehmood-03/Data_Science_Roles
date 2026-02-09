@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Product Manager 2026 ELH",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Manager 2026 ELH at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91272&source=WEB_Search_NA",
-    "id": "ibm-product-manager-2026-elh-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Concur Customer Success Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Concur Customer Success Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92452&source=WEB_Search_NA",
-    "id": "ibm-concur-customer-success-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "ELH Site Reliability Engineer Lowell, SVL, Austin",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role ELH Site Reliability Engineer Lowell, SVL, Austin at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=65792&source=WEB_Search_NA",
-    "id": "ibm-elh-site-reliability-engineer-lowell-svl-austin-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
   },
   {
     "employer_name": "ABB",
@@ -88,6 +68,16 @@
     "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
     "id": "abb-continuous-improvement-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
   },
   {
     "employer_name": "ABB",
