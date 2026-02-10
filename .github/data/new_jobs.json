@@ -1,24 +1,54 @@
 [
   {
-    "job_title": "Data Engineer II , GTMO DATA",
+    "job_title": "Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Safety & Compliance",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II , GTMO DATA at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3177897/data-engineer-ii-gtmo-data",
-    "job_posted_at": "2026-02-10T16:57:43.145Z",
-    "job_posted_at_datetime_utc": "2026-02-10T16:57:43.145Z",
-    "id": "amazon-data-engineer-ii-gtmo-data-seattle"
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Safety & Compliance at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3178057/software-development-engineer-amazon-fulfillment-technologies-aft-safety-compliance",
+    "job_posted_at": "2026-02-10T18:02:57.546Z",
+    "job_posted_at_datetime_utc": "2026-02-10T18:02:57.546Z",
+    "id": "amazon-software-development-engineer-amazon-fulfillment-technologies-aft-safety-compliance-austin"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "SR DATA SCIENTIST, SMART MFG & AI",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role SR DATA SCIENTIST, SMART MFG & AI at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/38742085",
-    "id": "micron-sr-data-scientist-smart-mfg-ai-boise"
+    "employer_name": "Arm",
+    "job_title": "IP EDA & Automation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IP EDA & Automation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/ip-eda-and-automation-engineer/33099/88831460496",
+    "id": "arm-ip-eda-automation-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Analyst Relations Manager - Data & AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Analyst Relations Manager - Data & AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90550&source=WEB_Search_NA",
+    "id": "ibm-analyst-relations-manager-data-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Automation & Test Development Intern or Co-op",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Automation & Test Development Intern or Co-op 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=73102&source=WEB_Search_NA",
+    "id": "ibm-automation-test-development-intern-or-co-op-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Forward Deployed Engineer - Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Forward Deployed Engineer - Intern at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93233&source=WEB_Search_NA",
+    "id": "ibm-forward-deployed-engineer-intern-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -32,13 +62,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015894/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager - Central Region - Building Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Area Sales Manager - Central Region - Building Automation at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010882/Area-Sales-Manager-Central-Region-Building-Automation",
+    "id": "abb-area-sales-manager-central-region-building-automation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data & Analytics Intern- Summer",
     "job_city": "Cary",
     "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data & Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026",
+    "id": "abb-data-analytics-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
   },
   {
     "employer_name": "ABB",
@@ -49,6 +109,16 @@
     "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
     "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Shenzhen",
+    "job_state": "Guangdong",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-shenzhen"
   },
   {
     "employer_name": "ABB",
@@ -82,13 +152,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data & Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data & Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026",
-    "id": "abb-data-analytics-intern-summer-cary"
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022105/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-frosinone"
   },
   {
     "employer_name": "ABB",
@@ -112,13 +182,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "7 months ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -132,142 +202,22 @@
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Education Engineer, Fullstack",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1min ago",
-    "job_description": "data science job for the role Education Engineer, Fullstack at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261229419-education-engineer-fullstack",
-    "id": "aijobs-education-engineer-fullstack-united-states"
+    "job_title": "MLOps Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role MLOps Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/261239445-mlops-engineer",
+    "id": "aijobs-mlops-engineer-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Education Engineer, Machine Learning",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1min ago",
-    "job_description": "data science job for the role Education Engineer, Machine Learning at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261229418-education-engineer-machine-learning",
-    "id": "aijobs-education-engineer-machine-learning-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Data Engineer",
-    "job_city": "US",
-    "job_state": "CO",
-    "job_posted_at": "3d ago",
-    "job_description": "data science job for the role Computer Vision Data Engineer at Longmont, CO, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/261146888-computer-vision-data-engineer",
-    "id": "aijobs-computer-vision-data-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Frontend Software Engineer, LiveOps",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Frontend Software Engineer, LiveOps at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179452-frontend-software-engineer-liveops",
-    "id": "aijobs-frontend-software-engineer-liveops-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Electrical Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Electrical Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179448-electrical-engineer",
-    "id": "aijobs-electrical-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Software Engineer, LiveOps",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Backend Software Engineer, LiveOps at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179450-backend-software-engineer-liveops",
-    "id": "aijobs-backend-software-engineer-liveops-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Fullstack Software Engineer, LiveOps",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Fullstack Software Engineer, LiveOps at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179453-fullstack-software-engineer-liveops",
-    "id": "aijobs-fullstack-software-engineer-liveops-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Embedded",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Software Engineer, Embedded at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179455-software-engineer-embedded",
-    "id": "aijobs-software-engineer-embedded-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Controls",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Autonomy Engineer, Controls at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179444-autonomy-engineer-controls",
-    "id": "aijobs-autonomy-engineer-controls-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical Engineer",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Mechanical Engineer at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179449-mechanical-engineer",
-    "id": "aijobs-mechanical-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Computer Vision",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Autonomy Engineer, Computer Vision at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179451-autonomy-engineer-computer-vision",
-    "id": "aijobs-autonomy-engineer-computer-vision-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Autonomy Engineer, Navigation & Sensing",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Autonomy Engineer, Navigation & Sensing at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179445-autonomy-engineer-navigation-sensing",
-    "id": "aijobs-autonomy-engineer-navigation-sensing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Software Engineering, Web Platform",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "5d ago",
-    "job_description": "data science job for the role Director of Software Engineering, Web Platform at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179443-director-of-software-engineering-web-platform",
-    "id": "aijobs-director-of-software-engineering-web-platform-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Engineering, Autonomy",
-    "job_city": "United States",
-    "job_state": "WA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Director of Engineering, Autonomy at Seattle, WA, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/261179446-director-of-engineering-autonomy",
-    "id": "aijobs-director-of-engineering-autonomy-united-states"
+    "job_title": "MLOps Team Lead",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "6d ago",
+    "job_description": "data science job for the role MLOps Team Lead at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/261239446-mlops-team-lead",
+    "id": "aijobs-mlops-team-lead-unknown"
   }
 ]
