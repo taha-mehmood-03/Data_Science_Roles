@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Designer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Designer 2026 at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93271&source=WEB_Search_NA",
-    "id": "ibm-entry-level-designer-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Ventures Investment Team",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Ventures Investment Team at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=91282&source=WEB_Search_NA",
-    "id": "ibm-ibm-ventures-investment-team-san-francisco"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
@@ -74,7 +54,7 @@
     "job_title": "Digital Solutions and Process Development Specialist",
     "job_city": "Vaasa",
     "job_state": "Pohjanmaa",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Digital Solutions and Process Development Specialist at Vaasa, Pohjanmaa, Finland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020920/Digital-Solutions-and-Process-Development-Specialist",
     "id": "abb-digital-solutions-and-process-development-specialist-vaasa"
@@ -88,6 +68,16 @@
     "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
     "id": "abb-digital-sales-specialist-pb-shenzhen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "EL Sales Specialist - PB",
+    "job_city": "Dongguan",
+    "job_state": "Guangdong",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role EL Sales Specialist - PB at Dongguan, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023569/EL-Sales-Specialist-PB",
+    "id": "abb-el-sales-specialist-pb-dongguan"
   },
   {
     "employer_name": "ABB",
@@ -168,5 +158,45 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Decisions, Lyft Urban Solutions",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "4d ago",
+    "job_description": "data science job for the role Data Scientist - Decisions, Lyft Urban Solutions at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/262022182-data-scientist-decisions-lyft-urban-solutions",
+    "id": "aijobs-data-scientist-decisions-lyft-urban-solutions-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Reliability Engineer",
+    "job_city": "CO",
+    "job_state": "Denver",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Forward Deployed Reliability Engineer at Denver, CO",
+    "job_apply_link": "https://www.aijobs.com/jobs/262134756-forward-deployed-reliability-engineer",
+    "id": "aijobs-forward-deployed-reliability-engineer-co"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Reliability Engineer",
+    "job_city": "NY",
+    "job_state": "New York",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Forward Deployed Reliability Engineer at New York, NY",
+    "job_apply_link": "https://www.aijobs.com/jobs/262134757-forward-deployed-reliability-engineer",
+    "id": "aijobs-forward-deployed-reliability-engineer-ny"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Forward Deployed Reliability Engineer",
+    "job_city": "D.C.",
+    "job_state": "Washington",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Forward Deployed Reliability Engineer at Washington, D.C.",
+    "job_apply_link": "https://www.aijobs.com/jobs/262134755-forward-deployed-reliability-engineer",
+    "id": "aijobs-forward-deployed-reliability-engineer-d-c"
   }
 ]
