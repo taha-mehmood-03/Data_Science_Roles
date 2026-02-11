@@ -1,53 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Developer Relations Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Software Performance Engineer - Team Lead",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "67 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Developer Relations Engineer, Conversational AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/75862735836848838-senior-developer-relations-engineer-conversational-ai?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-senior-developer-relations-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Policy and Governance Strategy Analyst (2)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Policy and Governance Strategy Analyst (2) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93256&source=WEB_Search_NA",
-    "id": "ibm-policy-and-governance-strategy-analyst-2-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr Managing SAP Security Lead - GRC",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr Managing SAP Security Lead - GRC at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92167&source=WEB_Search_NA",
-    "id": "ibm-sr-managing-sap-security-lead-grc-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IT Lab Tech - Physical Failure Analysis, Reliability Testing, and Characterization  Apprentice",
-    "job_city": "ROCHESTER",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IT Lab Tech - Physical Failure Analysis, Reliability Testing, and Characterization  Apprentice at InternshipROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93604&source=WEB_Search_NA",
-    "id": "ibm-it-lab-tech-physical-failure-analysis-reliability-testing-and-characterization-apprentice-rochester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP PLM Lead",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP PLM Lead at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92052&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-plm-lead-no-city"
+    "job_description": "Data Science job for the role Staff Software Performance Engineer - Team Lead at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-performance-engineer-team-lead/33099/74720022336",
+    "id": "arm-software-performance-engineer-team-lead-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -71,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
+    "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -181,16 +141,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Automation Service Engineer - Internship",
-    "job_city": "Genova",
-    "job_state": "Genova",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Automation Service Engineer - Internship at Genova, Genova, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009568/Automation-Service-Engineer-Internship",
-    "id": "abb-automation-service-engineer-internship-genova"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
@@ -238,25 +188,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Product Engineering",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Engineering Manager, Product Engineering at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/264120446-engineering-manager-product-engineering",
-    "id": "aijobs-engineering-manager-product-engineering-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Full Stack",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Staff Software Engineer, Full Stack at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/264120445-staff-software-engineer-full-stack",
-    "id": "aijobs-software-engineer-full-stack-unknown"
   }
 ]
