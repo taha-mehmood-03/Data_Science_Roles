@@ -1,5 +1,37 @@
 [
   {
+    "job_title": "Business Analyst , Production Planning, PLEX-PPT",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Business Analyst , Production Planning, PLEX-PPT at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3178628/business-analyst-production-planning-plex-ppt",
+    "job_posted_at": "2026-02-11T11:57:47.844Z",
+    "job_posted_at_datetime_utc": "2026-02-11T11:57:47.844Z",
+    "id": "amazon-business-analyst-production-planning-plex-ppt-arlington"
+  },
+  {
+    "job_title": "Business Analyst, PLEX-PPT",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Analyst, PLEX-PPT at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3178620/business-analyst-plex-ppt",
+    "job_posted_at": "2026-02-11T11:57:47.844Z",
+    "job_posted_at_datetime_utc": "2026-02-11T11:57:47.844Z",
+    "id": "amazon-business-analyst-plex-ppt-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Project Manager Apprentice",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Project Manager Apprentice at InternshipDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90972&source=WEB_Search_NA",
+    "id": "ibm-associate-project-manager-apprentice-durham"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
