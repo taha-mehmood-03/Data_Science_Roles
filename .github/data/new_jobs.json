@@ -1,13 +1,144 @@
 [
   {
+    "job_title": "Software Development Engineer, Weblab Amplified Learning",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Software Development Engineer, Weblab Amplified Learning at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180288/software-development-engineer-weblab-amplified-learning",
+    "job_posted_at": "2026-02-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-weblab-amplified-learning-seattle"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "Software Engineer (Apprentice Conversion)",
-    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_title": "2026-2027 Herman Goldstine Postdoctoral Fellowship in Mathematics of Computation",
+    "job_city": "Yorktown Heights",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer (Apprentice Conversion) at ProfessionalRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90206&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-apprentice-conversion-research-triangle-park"
+    "job_description": "Data Science job for the role 2026-2027 Herman Goldstine Postdoctoral Fellowship in Mathematics of Computation at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92599&source=WEB_Search_NA",
+    "id": "ibm-2026-2027-herman-goldstine-postdoctoral-fellowship-in-mathematics-of-computation-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Oracle Cloud Test Automation Architect/Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Oracle Cloud Test Automation Architect/Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93742&source=WEB_Search_NA",
+    "id": "ibm-oracle-cloud-test-automation-architect-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Network Engineer (TS/SCI)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Network Engineer (TS/SCI) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94081&source=WEB_Search_NA",
+    "id": "ibm-network-engineer-ts-sci-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sterling Connect:Direct Integration Engineer (DoD TS)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sterling Connect:Direct Integration Engineer (DoD TS) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92884&source=WEB_Search_NA",
+    "id": "ibm-sterling-connect-direct-integration-engineer-dod-ts-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - Newburgh Free Academy P-TECH (Newburgh, NY)",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - Newburgh Free Academy P-TECH (Newburgh, NY) at InternshipPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93753&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-newburgh-free-academy-p-tech-newburgh-ny-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH 535 (Rochester, MN)",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH 535 (Rochester, MN) at InternshipROCHESTER, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93745&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-p-tech-535-rochester-mn-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - JP Navarro High School (Austin, TX)",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - JP Navarro High School (Austin, TX) at InternshipAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93707&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-jp-navarro-high-school-austin-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH Norwalk (Norwalk, CT)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH Norwalk (Norwalk, CT) at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93509&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-p-tech-norwalk-norwalk-ct-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - Cy-Tech Academy (Baton Rouge, LA)",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - Cy-Tech Academy (Baton Rouge, LA) at InternshipBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93306&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-cy-tech-academy-baton-rouge-la-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - WH Adamson High School (Dallas, TX)",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - WH Adamson High School (Dallas, TX) at InternshipDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93502&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-wh-adamson-high-school-dallas-tx-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - Durham School of Tech (Durham, NC)",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - Durham School of Tech (Durham, NC) at InternshipDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93323&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-durham-school-of-tech-durham-nc-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH Brooklyn (Brooklyn, NY)",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH Brooklyn (Brooklyn, NY) at InternshipNew York, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93737&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-p-tech-brooklyn-brooklyn-ny-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH at Panther (Paterson, NJ)",
+    "job_city": "PARAMUS",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role P-TECH at IBM Summer Intern 2026 - Level 1 - P-TECH at Panther (Paterson, NJ) at InternshipPARAMUS, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93713&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-summer-intern-2026-level-1-p-tech-at-panther-paterson-nj-paramus"
   },
   {
     "employer_name": "ABB",
@@ -21,6 +152,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Customs Product Classification Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,33 +172,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician (CA)",
-    "job_city": "West Sacramento",
-    "job_state": "California",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Field Service Technician (CA) at West Sacramento, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021844/Field-Service-Technician-CA",
-    "id": "abb-field-service-technician-ca-west-sacramento"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
+    "job_title": "Environmental-Sustainability Intern- Summer",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
+    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
+    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Operations & Logistics Intern- Summer",
+    "job_city": "Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Digital Operations & Logistics Intern- Summer 2026 at Senatobia, Mississippi, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
+    "id": "abb-digital-operations-logistics-intern-summer-senatobia"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Master Data Intern- Summer",
+    "job_city": "Fort Smith",
+    "job_state": "Arkansas",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Master Data Intern- Summer 2026 at Fort Smith, Arkansas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024189/Master-Data-Intern-Summer-2026",
+    "id": "abb-master-data-intern-summer-fort-smith"
   },
   {
     "employer_name": "ABB",
@@ -171,16 +312,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Continuous Improvement Specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -198,36 +329,6 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Analyst",
-    "job_city": "Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
-    "id": "abb-data-analyst-florence"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Environmental-Sustainability Intern- Summer",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
-    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
   },
   {
     "employer_name": "ABB",
