@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
+    "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -11,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "empower Business Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
+    "id": "abb-empower-business-functional-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,26 +38,6 @@
     "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
     "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -238,5 +238,15 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Human–AI Systems",
+    "job_city": "US",
+    "job_state": "OH",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Senior AI Engineer, Human–AI Systems at Fairborn, OH, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/266587534-senior-ai-engineer-human-ai-systems",
+    "id": "aijobs-ai-engineer-human-ai-systems-us"
   }
 ]
