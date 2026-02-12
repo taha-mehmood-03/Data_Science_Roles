@@ -1,33 +1,14 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC RAS Architect",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SoC RAS Architect at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-ras-architect/33099/80327386912",
-    "id": "arm-soc-ras-architect-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer (Productization)",
-    "job_city": "Munich",
-    "job_state": "Germany",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Software Engineer (Productization) at Munich, Germany",
-    "job_apply_link": "https://careers.arm.com/job/munich/principal-software-engineer-productization/33099/89196349088",
-    "id": "arm-software-engineer-productization-munich"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_title": "Data Scientist II, ADSP Product Operations & Analytics",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist II, ADSP Product Operations & Analytics at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3180118/data-scientist-ii-adsp-product-operations-analytics",
+    "job_posted_at": "2026-02-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "id": "amazon-data-scientist-ii-adsp-product-operations-analytics-new-york"
   },
   {
     "employer_name": "ABB",
@@ -41,23 +22,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Area Sales Manager - Central Region - Building Automation",
+    "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Area Sales Manager - Central Region - Building Automation at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010882/Area-Sales-Manager-Central-Region-Building-Automation",
-    "id": "abb-area-sales-manager-central-region-building-automation-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Customs Product Classification Specialist",
+    "job_title": "Field Service Technician (CA)",
+    "job_city": "West Sacramento",
+    "job_state": "California",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Field Service Technician (CA) at West Sacramento, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021844/Field-Service-Technician-CA",
+    "id": "abb-field-service-technician-ca-west-sacramento"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
-    "id": "abb-customs-product-classification-specialist-multiple"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -68,46 +59,6 @@
     "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
     "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Analyst",
-    "job_city": "Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
-    "id": "abb-data-analyst-florence"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Environmental-Sustainability Intern- Summer",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
-    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
   },
   {
     "employer_name": "ABB",
@@ -221,6 +172,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Continuous Improvement Specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -238,6 +199,36 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Analyst",
+    "job_city": "Florence",
+    "job_state": "South Carolina",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
+    "id": "abb-data-analyst-florence"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Environmental-Sustainability Intern- Summer",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
+    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
   },
   {
     "employer_name": "ABB",
