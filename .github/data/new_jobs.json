@@ -1,13 +1,24 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Talent Management Professional",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
+    "job_title": "Software Development Engineer Apprentice - Military Veterans",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Software Development Engineer Apprentice - Military Veterans at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179833/software-development-engineer-apprentice-military-veterans",
+    "job_posted_at": "2026-02-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-apprentice-military-veterans-arlington"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Scientist/Analyst",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Talent Management Professional at Entry LevelRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93255&source=WEB_Search_NA",
-    "id": "ibm-entry-level-talent-management-professional-research-triangle-park"
+    "job_description": "5 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Scientist/Analyst, Corporate Financial Planning and Analysis",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133361249734795974-data-scientistanalyst-corporate-financial-planning-and-analysis?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-data-scientist-analyst-sunnyvale"
   },
   {
     "employer_name": "ABB",
@@ -21,33 +32,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Customs Product Classification Specialist",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
-    "id": "abb-customs-product-classification-specialist-multiple"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015894/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Analyst",
-    "job_city": "Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
-    "id": "abb-data-analyst-florence"
+    "job_title": "Business Development Manager - Collaborative Robotics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Business Development Manager - Collaborative Robotics at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013710/Business-Development-Manager-Collaborative-Robotics",
+    "id": "abb-business-development-manager-collaborative-robotics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,16 +72,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data & Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data & Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026",
-    "id": "abb-data-analytics-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Active Distribution System Control and Protection Intern- Summer",
     "job_city": "Raleigh",
     "job_state": "North Carolina",
@@ -81,6 +82,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Analyst",
+    "job_city": "Florence",
+    "job_state": "South Carolina",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
+    "id": "abb-data-analyst-florence"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Factory Digital Twin Specialist",
     "job_city": "Pinetops",
     "job_state": "North Carolina",
@@ -88,6 +99,16 @@
     "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
     "id": "abb-factory-digital-twin-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Environmental-Sustainability Intern- Summer",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
+    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
   },
   {
     "employer_name": "ABB",
@@ -221,16 +242,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Environmental-Sustainability Intern- Summer",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
-    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -238,5 +249,15 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer Neural Reconstruction",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "16h ago",
+    "job_description": "data science job for the role Senior Research Engineer Neural Reconstruction at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/266919066-senior-research-engineer-neural-reconstruction",
+    "id": "aijobs-research-engineer-neural-reconstruction-santa-clara"
   }
 ]
