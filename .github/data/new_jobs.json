@@ -1,13 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Workflow Optimization & Tools Leader",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Workflow Optimization & Tools Leader at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94181&source=WEB_Search_NA",
-    "id": "ibm-workflow-optimization-tools-leader-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Materials Planning Engineer - Front End US Expansion",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Materials Planning Engineer - Front End US Expansion at Boise, Idaho, United States of America + 1 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/40100303",
+    "id": "micron-materials-planning-engineer-front-end-us-expansion-boise"
   },
   {
     "employer_name": "ABB",
@@ -21,83 +21,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
+    "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Area Sales Manager - Central Region - Building Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Area Sales Manager - Central Region - Building Automation at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010882/Area-Sales-Manager-Central-Region-Building-Automation",
-    "id": "abb-area-sales-manager-central-region-building-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Full Stack Developer Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Full Stack Developer Intern- Summer 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00015585/Full-Stack-Developer-Intern-Summer-2026",
-    "id": "abb-full-stack-developer-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
+    "job_title": "Category Manager",
+    "job_city": "Mebane",
     "job_state": "North Carolina",
     "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Analyst",
-    "job_city": "Florence",
-    "job_state": "South Carolina",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
-    "id": "abb-data-analyst-florence"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
+    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
+    "id": "abb-category-manager-mebane"
   },
   {
     "employer_name": "ABB",
@@ -108,6 +48,16 @@
     "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
     "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Operations & Logistics Intern- Summer",
+    "job_city": "Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Digital Operations & Logistics Intern- Summer 2026 at Senatobia, Mississippi, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
+    "id": "abb-digital-operations-logistics-intern-summer-senatobia"
   },
   {
     "employer_name": "ABB",
