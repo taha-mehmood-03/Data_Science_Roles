@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,6 +8,16 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Service Site Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Collaborative Robotics",
+    "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Business Development Manager - Collaborative Robotics at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013710/Business-Development-Manager-Collaborative-Robotics",
-    "id": "abb-business-development-manager-collaborative-robotics-multiple"
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
   },
   {
     "employer_name": "ABB",
