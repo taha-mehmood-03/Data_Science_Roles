@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,23 +21,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
+    "job_title": "Account Manager - C&I",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Analyst",
-    "job_city": "Florence",
-    "job_state": "South Carolina",
+    "job_title": "Digital Automation & Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
-    "id": "abb-data-analyst-florence"
+    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
+    "id": "abb-digital-automation-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +68,16 @@
     "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
     "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Analyst",
+    "job_city": "Florence",
+    "job_state": "South Carolina",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
+    "id": "abb-data-analyst-florence"
   },
   {
     "employer_name": "ABB",
@@ -248,5 +248,25 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Test Engineering Intern",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Test Engineering Intern at US, AZ, Chandler, East Elliot",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-AZ-Chandler-East-Elliot/Test-Engineering-Intern_R257447?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-test-engineering-intern-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Staff Analyst, Procure to Pay Systems",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior Staff Analyst, Procure to Pay Systems at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Staff-Analyst--Procure-to-Pay-Systems_R260805?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-staff-analyst-procure-to-pay-systems-us"
   }
 ]
