@@ -1,45 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Hardware Developer",
-    "job_city": "HOPEWELL JUNCTION",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Hardware Developer at ProfessionalHOPEWELL JUNCTION, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93263&source=WEB_Search_NA",
-    "id": "ibm-hardware-developer-hopewell-junction"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Plant Maintenance/EAM Lead",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing Plant Maintenance/EAM Lead at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94281&source=WEB_Search_NA",
-    "id": "ibm-managing-plant-maintenance-eam-lead-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Strategy & Transformation Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Managing Strategy & Transformation Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92858&source=WEB_Search_NA",
-    "id": "ibm-managing-strategy-transformation-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Plant Maintenance SAP Consultant",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Managing Plant Maintenance SAP Consultant at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94274&source=WEB_Search_NA",
-    "id": "ibm-managing-plant-maintenance-sap-consultant-dallas"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -78,16 +38,6 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Controller",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Project Controller at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024600/Project-Controller",
-    "id": "abb-project-controller-multiple"
   },
   {
     "employer_name": "ABB",
@@ -138,6 +88,16 @@
     "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
     "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "HR Information Systems Manager (80-100%)",
+    "job_city": "Baden",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role HR Information Systems Manager (80-100%) at Baden, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020143/HR-Information-Systems-Manager-80-100",
+    "id": "abb-hr-information-systems-manager-80-100-baden"
   },
   {
     "employer_name": "ABB",
