@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Manager",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "67 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager, Third Party Identity, Developer Experiences",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134181906315911878-product-manager-third-party-identity-developer-experiences?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-product-manager-san-jose"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
@@ -18,16 +8,6 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,23 +21,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Environmental-Sustainability Intern- Summer",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
-    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Operations & Logistics Intern- Summer",
-    "job_city": "Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Digital Operations & Logistics Intern- Summer 2026 at Senatobia, Mississippi, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
-    "id": "abb-digital-operations-logistics-intern-summer-senatobia"
+    "job_title": "Data Analyst",
+    "job_city": "Florence",
+    "job_state": "South Carolina",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Data Analyst at Florence, South Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023488/Data-Analyst",
+    "id": "abb-data-analyst-florence"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Full Stack Developer Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015585/Full-Stack-Developer-Intern-Summer-2026",
+    "id": "abb-full-stack-developer-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -78,6 +98,16 @@
     "job_description": "Data Science job for the role Application Manager Product Configurator - Analytical technology (m/f/d) at Frankfurt am Main, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002962/Application-Manager-Product-Configurator-Analytical-technology-m-f-d",
     "id": "abb-application-manager-product-configurator-analytical-technology-m-f-d-frankfurt-am-main"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sommarjobb / Summer job at ABB Corporate Research Center for User Experience and Interface Design",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Sommarjobb / Summer job at ABB Corporate Research Center for User Experience and Interface Design at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025526/Sommarjobb-Summer-job-at-ABB-Corporate-Research-Center-for-User-Experience-and-Interface-Design",
+    "id": "abb-sommarjobb-summer-job-at-abb-corporate-research-center-for-user-experience-and-interface-design-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +151,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "IS Business Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role IS Business Analyst at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023707/IS-Business-Analyst",
+    "id": "abb-is-business-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "销售工程师（盘厂渠道）",
     "job_city": "Zhengzhou",
     "job_state": "Henan",
@@ -148,6 +188,16 @@
     "job_description": "Data Science job for the role ELSB Sr. Software Developer - IOT at Suzhou, Jiangsu, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021440/ELSB-Sr-Software-Developer-IOT",
     "id": "abb-elsb-sr-software-developer-iot-suzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Embedded Test Engineer (f/m/d)",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role R&D Embedded Test Engineer (f/m/d) at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023377/R-D-Embedded-Test-Engineer-f-m-d",
+    "id": "abb-r-d-embedded-test-engineer-f-m-d-heidelberg"
   },
   {
     "employer_name": "ABB",
@@ -201,6 +251,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Environmental-Sustainability Intern- Summer",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
+    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -208,5 +268,15 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Engineer, Reliability",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Principal Engineer, Reliability at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Engineer--Reliability_2600385?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-engineer-reliability-santa-clara"
   }
 ]
