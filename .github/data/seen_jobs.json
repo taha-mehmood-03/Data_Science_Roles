@@ -1,6 +1,4 @@
 [
-  "abb-industry-sales-manager-multiple",
-  "abb-industry-sales-specialist-multiple",
   "abb-industry-segment-sales-manager-infrastructure-multiple",
   "abb-industry-segment-specialist-m-f-d-drive-technology-heating-ventilation-air-conditioning-hvac-not-specific",
   "abb-industry-solutions-architect-life-sciences-automation-multiple",
@@ -2578,6 +2576,7 @@
   "amazon-data-engineer-amazon-business-flywheel-inputs-seattle",
   "amazon-data-engineer-amazon-last-mile-amazon-last-mile-routing-and-planning-de-bellevue",
   "amazon-data-engineer-amazon-music-disco-san-francisco",
+  "amazon-data-engineer-amazon-peopleinsights-experience-apix-seattle",
   "amazon-data-engineer-amazon-photos-seattle",
   "amazon-data-engineer-applied-ai-solutions-seattle",
   "amazon-data-engineer-austin",
@@ -2623,6 +2622,7 @@
   "amazon-data-engineer-p2-science-data-and-insights-seattle",
   "amazon-data-engineer-people-experience-and-technology-pxt-central-science-austin",
   "amazon-data-engineer-pxt-central-science-arlington",
+  "amazon-data-engineer-pxt-peopleinsight-seattle",
   "amazon-data-engineer-san-francisco",
   "amazon-data-engineer-seattle",
   "amazon-data-engineer-speed-products-science-and-analytics-bellevue",
