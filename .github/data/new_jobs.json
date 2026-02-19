@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "Engineering Analyst Manager",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "51 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Engineering Analyst Manager, YouTube Trust and Safety",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84926314053542598-engineering-analyst-manager-youtube-trust-and-safety?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-engineering-analyst-manager-san-bruno"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Customer and Partner Solutions Engineer",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "72 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer and Partner Solutions Engineer, gUP, Access, Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107982110815331014-customer-and-partner-solutions-engineer-gup-access-security?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-customer-and-partner-solutions-engineer-boulder"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -301,6 +321,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
+    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -308,45 +338,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Product Manager - IP Product Manager / Custom Cloud Solutions Silicon/Semiconductor - drive internal IP roadmap strategy",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal Product Manager - IP Product Manager / Custom Cloud Solutions Silicon/Semiconductor - drive internal IP roadmap strategy at 4 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-ID---Boise/Principal-Product-Manager-Custom-Cloud-Solutions-Silicon-Semiconductor-IP-Product-Manager_2503560-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-product-manager-ip-product-manager-custom-cloud-solutions-silicon-semiconductor-drive-internal-ip-roadmap-strategy-4-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "2.5D/3D Process Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role 2.5D/3D Process Development Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/XMLNAME-25D-3D-Process-Development-Engineer_2600350?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-2-5d-3d-process-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Vulnerability Management Professional",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Vulnerability Management Professional at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Vulnerability-Management-Professional_2600305-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-vulnerability-management-professional-santa-clara"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Manager, ASIC Design",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted 3 Days Ago",
-    "job_description": "Data Science job for the role Senior Manager, ASIC Design at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Manager--ASIC-Design_2600353?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-manager-asic-design-santa-clara"
   }
 ]
