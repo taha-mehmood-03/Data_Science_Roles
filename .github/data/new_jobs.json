@@ -1,43 +1,95 @@
 [
   {
+    "job_title": "Data Scientist, AWS Infrastructure Services Science",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Scientist, AWS Infrastructure Services Science at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3181348/data-scientist-aws-infrastructure-services-science",
+    "job_posted_at": "2026-02-16T23:26:04.301Z",
+    "job_posted_at_datetime_utc": "2026-02-16T23:26:04.301Z",
+    "id": "amazon-data-scientist-aws-infrastructure-services-science-herndon"
+  },
+  {
+    "job_title": "Robotics - Data Science Intern / Co-op - 2026",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Robotics - Data Science Intern / Co-op - 2026 at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3137707/robotics-data-science-intern-co-op-2026",
+    "job_posted_at": "2026-02-13T23:26:04.300Z",
+    "job_posted_at_datetime_utc": "2026-02-13T23:26:04.301Z",
+    "id": "amazon-robotics-data-science-intern-co-op-2026-bellevue"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Automation Engineer",
+    "job_title": "Product Owner",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Senior Automation Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40328443",
-    "id": "micron-automation-engineer-boise"
+    "job_description": "Data Science job for the role Senior Product Owner at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/39720396",
+    "id": "micron-product-owner-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Human-in-the-Loop Analyst",
+    "job_city": "Administration & TechnicianRocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Human-in-the-Loop Analyst at Administration & TechnicianRocket Center, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95511&source=WEB_Search_NA",
+    "id": "ibm-human-in-the-loop-analyst-administration-technicianrocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Technical Specialist - Rocket Center, West Virginia",
+    "job_city": "Rocket Center",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Technical Specialist - Rocket Center, West Virginia at Entry LevelRocket Center, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92874&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-technical-specialist-rocket-center-west-virginia-rocket-center"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level TA Global Delivery Network Project Specialist",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level TA Global Delivery Network Project Specialist at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94914&source=WEB_Search_NA",
+    "id": "ibm-entry-level-ta-global-delivery-network-project-specialist-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full Stack Developer (TS)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Full Stack Developer (TS) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95562&source=WEB_Search_NA",
+    "id": "ibm-full-stack-developer-ts-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader - Financial Services - US",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader - Financial Services - US at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95306&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-financial-services-us-multiple-cities"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Agentic AI Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
-    "id": "abb-agentic-ai-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cloud and Edge Solutions Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
-    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "HSE Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role HSE Specialist at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020197/HSE-Specialist",
+    "id": "abb-hse-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,6 +103,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Customs Product Classification Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,13 +133,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017090/Internship-m-f-d-Health-Monitoring-and-Anomaly-Detection-of-Switchgears",
-    "id": "abb-internship-m-f-d-health-monitoring-and-anomaly-detection-of-switchgears-mannheim"
+    "job_title": "Automation Engineer Intern - Summer",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Automation Engineer Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025216/Automation-Engineer-Intern-Summer-2026",
+    "id": "abb-automation-engineer-intern-summer-new-berlin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
+    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,16 +163,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS Sales Master Data Analyst",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
-    "id": "abb-elds-sales-master-data-analyst-xiamen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Full Stack Developer Intern- Summer",
     "job_city": "Cary",
     "job_state": "North Carolina",
@@ -98,6 +170,46 @@
     "job_description": "Data Science job for the role Full Stack Developer Intern- Summer 2026 at Cary, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015585/Full-Stack-Developer-Intern-Summer-2026",
     "id": "abb-full-stack-developer-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017090/Internship-m-f-d-Health-Monitoring-and-Anomaly-Detection-of-Switchgears",
+    "id": "abb-internship-m-f-d-health-monitoring-and-anomaly-detection-of-switchgears-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Sales Master Data Analyst",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
+    "id": "abb-elds-sales-master-data-analyst-xiamen"
   },
   {
     "employer_name": "ABB",
@@ -241,16 +353,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Continuous Improvement Specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -291,16 +393,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Active Distribution System Control and Protection Intern- Summer",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
-    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Environmental-Sustainability Intern- Summer",
     "job_city": "Bloomfield",
     "job_state": "Connecticut",
@@ -311,16 +403,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -328,5 +410,35 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "AI/ML Applications Engineer - Product Validation & Test",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff AI/ML Applications Engineer - Product Validation & Test at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-AI-ML-Applications-Engineer---Product-Validation---Test_R260874?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ai-ml-applications-engineer-product-validation-test-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Assistant Project Manager (Automotive)",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Assistant Project Manager (Automotive) at 3 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Assistant-Project-Manager--Automotive-_R260798?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-assistant-project-manager-automotive-3-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Advanced Package Yield and Data Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Advanced Package Yield and Data Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Advanced-Package-Yield-and-Data-Engineer_2600360?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-advanced-package-yield-and-data-engineer-santa-clara"
   }
 ]
