@@ -1,13 +1,93 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
-    "id": "abb-industry-sales-specialist-multiple"
+    "employer_name": "IBM",
+    "job_title": "Maximo Senior Data Analyst",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo Senior Data Analyst at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95211&source=WEB_Search_NA",
+    "id": "ibm-maximo-senior-data-analyst-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Technical Support Engineer - Austin, Lowell, San Jose,Durham",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Technical Support Engineer - Austin, Lowell, San Jose,Durham at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96191&source=WEB_Search_NA",
+    "id": "ibm-entry-level-technical-support-engineer-austin-lowell-san-jose-durham-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Commercial Attorney",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Commercial Attorney at ProfessionalDURHAM, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92485&source=WEB_Search_NA",
+    "id": "ibm-commercial-attorney-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo Report Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo Report Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95212&source=WEB_Search_NA",
+    "id": "ibm-maximo-report-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader -  Minneapolis",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader -  Minneapolis at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95537&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-minneapolis-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader - Chicago",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader - Chicago at ProfessionalChicago, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95287&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-chicago-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Consultant Co-op 2026 - Financial Services",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Package Consultant Co-op 2026 - Financial Services at InternshipNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=64446&source=WEB_Search_NA",
+    "id": "ibm-associate-package-consultant-co-op-2026-financial-services-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Supply Chain Operations Professional",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Supply Chain Operations Professional at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96240&source=WEB_Search_NA",
+    "id": "ibm-supply-chain-operations-professional-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion: Front-End Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern Conversion: Front-End Developer at Entry LevelTUCSON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96120&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-front-end-developer-tucson"
   },
   {
     "employer_name": "ABB",
@@ -31,43 +111,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Maintenance/Manufacturing Engineer",
-    "job_city": "Selmer",
-    "job_state": "Tennessee",
+    "job_title": "Health Environmental & Safety Intern - Summer",
+    "job_city": "Fort Smith",
+    "job_state": "Arkansas",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Maintenance/Manufacturing Engineer at Selmer, Tennessee, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022464/Maintenance-Manufacturing-Engineer",
-    "id": "abb-maintenance-manufacturing-engineer-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+    "job_description": "Data Science job for the role Health Environmental & Safety Intern - Summer 2026 at Fort Smith, Arkansas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023908/Health-Environmental-Safety-Intern-Summer-2026",
+    "id": "abb-health-environmental-safety-intern-summer-fort-smith"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +168,16 @@
     "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
     "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -271,16 +331,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -288,6 +338,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
