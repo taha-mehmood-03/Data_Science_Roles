@@ -1,6 +1,4 @@
 [
-  "abb-lead-business-analytics-specialist-not-specific",
-  "abb-lead-electrical-engineer-multiple",
   "abb-lead-electrical-engineer-not-specific",
   "abb-lead-engineer-multiple",
   "abb-lead-sales-engineer-remote",
@@ -4422,6 +4420,7 @@
   "arm-technical-author-seattle",
   "arm-technical-authoring-multiple",
   "arm-technical-program-manager-bengaluru",
+  "arm-technical-program-manager-data-center-bengaluru",
   "arm-technical-program-manager-data-center-post-silicon-bengaluru",
   "arm-technical-program-manager-data-center-post-silicon-san-jose",
   "arm-technical-program-manager-data-center-projects-san-jose",
@@ -5869,6 +5868,7 @@
   "google-technical-program-manager-ii-austin",
   "google-technical-program-manager-ii-mountain-view",
   "google-technical-program-manager-ii-san-diego",
+  "google-technical-program-manager-ii-san-francisco",
   "google-technical-program-manager-ii-san-jose",
   "google-technical-program-manager-ii-sunnyvale",
   "google-technical-program-manager-ii-thornton",
