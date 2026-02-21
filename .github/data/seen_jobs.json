@@ -1,6 +1,4 @@
 [
-  "abb-mv-final-production-operator-casters-3rd-shift-not-specific",
-  "abb-mv-final-production-operator-hcep-casting-2nd-shift-not-specific",
   "abb-nam-channel-sales-manager-excitation-systems-remote",
   "abb-network-solution-architect-not-specific",
   "abb-oem-account-manager-multiple",
@@ -5930,6 +5928,7 @@
   "ibm-999er-program-manufacturing-professional-fixed-term-poughkeepsie",
   "ibm-account-technical-leader-armonk",
   "ibm-account-technical-leader-atl-federal-market-washington",
+  "ibm-account-technical-leader-atl-no-city",
   "ibm-account-technical-leader-chicago-chicago",
   "ibm-account-technical-leader-federal-systems-integrators-multiple-cities",
   "ibm-account-technical-leader-financial-services-us-multiple-cities",
@@ -5991,6 +5990,7 @@
   "ibm-analyst-global-strategic-initiatives-multiple-cities",
   "ibm-analyst-relations-manager-consulting-multiple-cities",
   "ibm-analyst-relations-manager-data-ai-multiple-cities",
+  "ibm-apache-iceberg-developer-san-jose",
   "ibm-appian-developer-multiple-cities",
   "ibm-application-architect-armonk",
   "ibm-application-architect-bellevue",

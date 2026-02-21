@@ -1,95 +1,23 @@
 [
   {
-    "job_title": "Data Engineer II, UTR PLanning Tech",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Data Engineer II, UTR PLanning Tech at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186428/data-engineer-ii-utr-planning-tech",
-    "job_posted_at": "2026-02-21T00:27:57.194Z",
-    "job_posted_at_datetime_utc": "2026-02-21T00:27:57.194Z",
-    "id": "amazon-data-engineer-ii-utr-planning-tech-austin"
-  },
-  {
-    "job_title": "Data Engineer I, UTR PLanning Tech",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Data Engineer I, UTR PLanning Tech at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3186421/data-engineer-i-utr-planning-tech",
-    "job_posted_at": "2026-02-21T00:27:57.194Z",
-    "job_posted_at_datetime_utc": "2026-02-21T00:27:57.194Z",
-    "id": "amazon-data-engineer-i-utr-planning-tech-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Field Application Engineer – Datacenter",
+    "employer_name": "IBM",
+    "job_title": "Apache Iceberg Developer",
     "job_city": "San Jose",
-    "job_state": "California",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Field Application Engineer – Datacenter at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-field-application-engineer-datacenter/33099/91958992272",
-    "id": "arm-field-application-engineer-datacenter-san-jose"
+    "job_description": "Data Science job for the role Senior Apache Iceberg Developer at ProfessionalSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=87299&source=WEB_Search_NA",
+    "id": "ibm-apache-iceberg-developer-san-jose"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Data Engineer Co-op 2026 - Data Services - Financial Services",
-    "job_city": "University Park",
+    "job_title": "Account Technical Leader (ATL)",
+    "job_city": "No City",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Engineer Co-op 2026 - Data Services - Financial Services at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96264&source=WEB_Search_NA",
-    "id": "ibm-data-engineer-co-op-2026-data-services-financial-services-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Data Scientist Co-op 2026 – Advanced Analytics – Financial Services",
-    "job_city": "University Park",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Scientist Co-op 2026 – Advanced Analytics – Financial Services at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96261&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-co-op-2026-advanced-analytics-financial-services-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategy & Analytics Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Strategy & Analytics Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=93369&source=WEB_Search_NA",
-    "id": "ibm-strategy-analytics-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services",
-    "job_city": "University Park",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consultant Co-op 2026 - Security Strategy, Risk & Compliance Services - Financial Services at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96258&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-co-op-2026-security-strategy-risk-compliance-services-financial-services-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant Co-op 2026 - CyberDefend - Financial Services",
-    "job_city": "University Park",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consultant Co-op 2026 - CyberDefend - Financial Services at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96248&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-co-op-2026-cyberdefend-financial-services-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Venture Investment Team",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Venture Investment Team at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=92902&source=WEB_Search_NA",
-    "id": "ibm-ibm-venture-investment-team-multiple-cities"
+    "job_description": "Data Science job for the role Account Technical Leader (ATL) at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=95599&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-atl-no-city"
   },
   {
     "employer_name": "ABB",
@@ -263,6 +191,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Material Planner",
+    "job_city": "La Louvière",
+    "job_state": "Hainaut",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Material Planner at La Louvière, Hainaut, Belgium",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017690/Material-Planner",
+    "id": "abb-material-planner-la-louvi-re"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "EL Sales Specialist - PB",
     "job_city": "Dongguan",
     "job_state": "Guangdong",
@@ -270,6 +208,16 @@
     "job_description": "Data Science job for the role EL Sales Specialist - PB at Dongguan, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023569/EL-Sales-Specialist-PB",
     "id": "abb-el-sales-specialist-pb-dongguan"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Masterarbeit (m/w/d) mit dem Themenschwerpunkt Datenanalyse mit KI in der Qualität",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Masterarbeit (m/w/d) mit dem Themenschwerpunkt Datenanalyse mit KI in der Qualität at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019568/Masterarbeit-m-w-d-mit-dem-Themenschwerpunkt-Datenanalyse-mit-KI-in-der-Qualität",
+    "id": "abb-masterarbeit-m-w-d-mit-dem-themenschwerpunkt-datenanalyse-mit-ki-in-der-qualit-t-heidelberg"
   },
   {
     "employer_name": "ABB",
@@ -333,16 +281,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -350,6 +288,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
