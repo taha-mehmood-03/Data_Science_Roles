@@ -21,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,6 +28,16 @@
     "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
     "id": "abb-customs-product-classification-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
