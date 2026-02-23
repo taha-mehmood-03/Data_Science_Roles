@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,6 +8,16 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -151,6 +151,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Digital Solutions and Process Development Specialist",
+    "job_city": "Vaasa",
+    "job_state": "Pohjanmaa",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Digital Solutions and Process Development Specialist at Vaasa, Pohjanmaa, Finland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020920/Digital-Solutions-and-Process-Development-Specialist",
+    "id": "abb-digital-solutions-and-process-development-specialist-vaasa"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "IS Machine Learning Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -238,6 +248,16 @@
     "job_description": "Data Science job for the role AI Specialist at Frosinone, Frosinone, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014341/AI-Specialist",
     "id": "abb-ai-specialist-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Application Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
+    "id": "abb-is-application-specialist-multiple"
   },
   {
     "employer_name": "ABB",
