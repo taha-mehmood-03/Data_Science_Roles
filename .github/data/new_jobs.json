@@ -231,16 +231,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Summer intern at Force Measurement R&D",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Summer intern at Force Measurement R&D at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025509/Summer-intern-at-Force-Measurement-R-D",
-    "id": "abb-summer-intern-at-force-measurement-r-d-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "AI Specialist",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
@@ -291,16 +281,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -308,6 +288,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -351,16 +341,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
-    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -368,5 +348,15 @@
     "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
+    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
   }
 ]
