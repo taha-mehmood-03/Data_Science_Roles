@@ -1,43 +1,44 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Territory Sales Specialist (TSS) Select T Co-op – Sales Fall Co-Op Program",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Territory Sales Specialist (TSS) Select T Co-op – Sales Fall Co-Op Program 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96267&source=WEB_Search_NA",
-    "id": "ibm-territory-sales-specialist-tss-select-t-co-op-sales-fall-co-op-program-multiple-cities"
+    "job_title": "Data Engineer II, Ring/Blink Customer Service Engineering and Insights",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Engineer II, Ring/Blink Customer Service Engineering and Insights at Hawthorne, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3188513/data-engineer-ii-ring-blink-customer-service-engineering-and-insights",
+    "job_posted_at": "2026-02-24T19:30:30.226Z",
+    "job_posted_at_datetime_utc": "2026-02-24T19:30:30.226Z",
+    "id": "amazon-data-engineer-ii-ring-blink-customer-service-engineering-and-insights-hawthorne"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "AI Application Architect - Managing Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Application Architect - Managing Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=77594&source=WEB_Search_NA",
-    "id": "ibm-ai-application-architect-managing-consultant-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Agentic AI Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
+    "id": "abb-agentic-ai-intern-summer-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "AI Architect - Managing Consultant",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Architect - Managing Consultant at ProfessionalNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=81992&source=WEB_Search_NA",
-    "id": "ibm-ai-architect-managing-consultant-new-york"
+    "employer_name": "ABB",
+    "job_title": "Cloud and Edge Solutions Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
+    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Digital Asset Sales",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Digital Asset Sales at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=94896&source=WEB_Search_NA",
-    "id": "ibm-digital-asset-sales-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -71,23 +72,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Category Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
-    "id": "abb-category-manager-mebane"
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "West Sacramento",
+    "job_state": "California",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Service Manager, Digital Automation and Control at West Sacramento, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-west-sacramento"
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS Fabrication Warehouse Internal Logistics Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
+    "job_title": "Automation Engineer Intern - Summer",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role ELDS Fabrication Warehouse Internal Logistics Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024975/ELDS-Fabrication-Warehouse-Internal-Logistics-Operator-1st-shift",
-    "id": "abb-elds-fabrication-warehouse-internal-logistics-operator-1st-shift-mebane"
+    "job_description": "Data Science job for the role Automation Engineer Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025216/Automation-Engineer-Intern-Summer-2026",
+    "id": "abb-automation-engineer-intern-summer-new-berlin"
   },
   {
     "employer_name": "ABB",
@@ -98,56 +99,6 @@
     "job_description": "Data Science job for the role Maintenance/Manufacturing Engineer at Selmer, Tennessee, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022464/Maintenance-Manufacturing-Engineer",
     "id": "abb-maintenance-manufacturing-engineer-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Operations & Logistics Intern- Summer",
-    "job_city": "Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Digital Operations & Logistics Intern- Summer 2026 at Senatobia, Mississippi, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
-    "id": "abb-digital-operations-logistics-intern-summer-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer Intern - Summer",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Automation Engineer Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025215/Automation-Engineer-Intern-Summer-2026",
-    "id": "abb-automation-engineer-intern-summer-new-berlin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Master Data Intern- Summer",
-    "job_city": "Fort Smith",
-    "job_state": "Arkansas",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Master Data Intern- Summer 2026 at Fort Smith, Arkansas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024189/Master-Data-Intern-Summer-2026",
-    "id": "abb-master-data-intern-summer-fort-smith"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Health Environmental & Safety Intern - Summer",
-    "job_city": "Fort Smith",
-    "job_state": "Arkansas",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Health Environmental & Safety Intern - Summer 2026 at Fort Smith, Arkansas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023908/Health-Environmental-Safety-Intern-Summer-2026",
-    "id": "abb-health-environmental-safety-intern-summer-fort-smith"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "HRXP AI Solution Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role HRXP AI Solution Lead at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022533/HRXP-AI-Solution-Lead",
-    "id": "abb-hrxp-ai-solution-lead-multiple"
   },
   {
     "employer_name": "ABB",
@@ -171,13 +122,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
   },
   {
     "employer_name": "ABB",
@@ -188,6 +139,16 @@
     "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
     "id": "abb-elds-sales-master-data-analyst-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Full Stack Developer Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015585/Full-Stack-Developer-Intern-Summer-2026",
+    "id": "abb-full-stack-developer-intern-summer-cary"
   },
   {
     "employer_name": "ABB",
@@ -341,13 +302,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -358,6 +319,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -378,5 +349,25 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Active Distribution System Control and Protection Intern- Summer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
+    "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Environmental-Sustainability Intern- Summer",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
+    "id": "abb-environmental-sustainability-intern-summer-bloomfield"
   }
 ]
