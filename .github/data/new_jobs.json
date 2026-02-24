@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Architect",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Software Architect at Trondheim, Norway, Cambridge, United Kingdom, Lund, Sweden, Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/principal-software-architect/33099/87282170128",
-    "id": "arm-software-architect-trondheim"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
@@ -21,13 +11,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
+    "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Customs Product Classification Specialist",
+    "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
-    "id": "abb-customs-product-classification-specialist-multiple"
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -281,16 +271,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -298,6 +278,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
