@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technology Solution Engineer - RedHat",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Solution Engineer - RedHat at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96737&source=WEB_Search_NA",
-    "id": "ibm-technology-solution-engineer-redhat-austin"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -68,6 +58,16 @@
     "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
     "id": "abb-key-account-manager-digital-automation-controls-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Proposals Specialist – Industrial / EPC / Data Center",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Proposals Specialist – Industrial / EPC / Data Center at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00016229/Proposals-Specialist-Industrial-EPC-Data-Center",
+    "id": "abb-proposals-specialist-industrial-epc-data-center-multiple"
   },
   {
     "employer_name": "ABB",
