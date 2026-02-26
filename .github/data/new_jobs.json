@@ -1,64 +1,23 @@
 [
   {
-    "job_title": "Business Intelligence Engineer II, Optimal Inventory Health",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer II, Optimal Inventory Health at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3189808/business-intelligence-engineer-ii-optimal-inventory-health",
-    "job_posted_at": "2026-02-25T22:24:48.860Z",
-    "job_posted_at_datetime_utc": "2026-02-25T22:24:48.860Z",
-    "id": "amazon-business-intelligence-engineer-ii-optimal-inventory-health-bellevue"
+    "employer_name": "ABB",
+    "job_title": "Maker Checker",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Maker Checker at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025673/Maker-Checker",
+    "id": "abb-maker-checker-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Specialist",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
-    "id": "abb-industry-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Segment Sales Manager – Infrastructure",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
-    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -72,13 +31,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Project Manager at Available in one of 36 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
+    "id": "abb-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Management & Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
+    "id": "abb-project-management-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health Environmental & Safety Intern - Summer",
+    "job_city": "Fort Smith",
+    "job_state": "Arkansas",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Health Environmental & Safety Intern - Summer 2026 at Fort Smith, Arkansas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023908/Health-Environmental-Safety-Intern-Summer-2026",
+    "id": "abb-health-environmental-safety-intern-summer-fort-smith"
   },
   {
     "employer_name": "ABB",
@@ -105,7 +94,7 @@
     "job_title": "Active Distribution System Control and Protection Intern- Summer",
     "job_city": "Raleigh",
     "job_state": "North Carolina",
-    "job_posted_at": "6 weeks ago",
+    "job_posted_at": "7 weeks ago",
     "job_description": "Data Science job for the role Active Distribution System Control and Protection Intern- Summer 2026 at Raleigh, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019272/Active-Distribution-System-Control-and-Protection-Intern-Summer-2026",
     "id": "abb-active-distribution-system-control-and-protection-intern-summer-raleigh"
@@ -135,7 +124,7 @@
     "job_title": "HRXP AI Solution Lead",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role HRXP AI Solution Lead at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022533/HRXP-AI-Solution-Lead",
     "id": "abb-hrxp-ai-solution-lead-multiple"
@@ -155,7 +144,7 @@
     "job_title": "Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%)",
     "job_city": "Baden-Daettwil",
     "job_state": "Aargau",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "Data Science job for the role Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026201/Internship-in-Domain-Adaptation-for-Time-Series-Using-Deep-Learning-80-100",
     "id": "abb-internship-in-domain-adaptation-for-time-series-using-deep-learning-80-100-baden-daettwil"
@@ -265,7 +254,7 @@
     "job_title": "销售工程师（盘厂渠道）",
     "job_city": "Zhengzhou",
     "job_state": "Henan",
-    "job_posted_at": "4 weeks ago",
+    "job_posted_at": "5 weeks ago",
     "job_description": "Data Science job for the role 销售工程师（盘厂渠道） at Zhengzhou, Henan, China",
     "job_apply_link": "https://careers.abb/global/en/job/94819545/销售工程师（盘厂渠道）",
     "id": "abb--zhengzhou"
@@ -305,7 +294,7 @@
     "job_title": "IS Application Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
     "id": "abb-is-application-specialist-multiple"
@@ -332,6 +321,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Ostrava",
+    "job_state": "Moravskoslezský kraj",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-ostrava"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Continuous Improvement Specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -342,20 +341,10 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Ostrava",
-    "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-ostrava"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Cyber Security Technical Advisor",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
     "id": "abb-cyber-security-technical-advisor-multiple"
