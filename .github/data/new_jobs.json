@@ -1,5 +1,46 @@
 [
   {
+    "job_title": "Delivery Consultant – SAP GenAI/ML, Professional Services, SAP",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Delivery Consultant – SAP GenAI/ML, Professional Services, SAP at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3190343/delivery-consultant-sap-genai-ml-professional-services-sap",
+    "job_posted_at": "2026-02-26T13:50:20.369Z",
+    "job_posted_at_datetime_utc": "2026-02-26T13:50:20.369Z",
+    "id": "amazon-delivery-consultant-sap-genai-ml-professional-services-sap-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "67 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Engineer, Machine Learning, Google Customer Solutions",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142665041177387718-data-engineer-machine-learning-google-customer-solutions?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-data-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Information Developer / Technical Writer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Information Developer / Technical Writer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-information-developer-technical-writer/33099/90588504128",
+    "id": "arm-information-developer-technical-writer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SOC Design Engineer",
+    "job_city": "Sheffield",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SOC Design Engineer at Sheffield, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/soc-design-engineer/33099/92159278144",
+    "id": "arm-soc-design-engineer-sheffield"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "HSE Specialist",
     "job_city": "Multiple",
@@ -8,6 +49,16 @@
     "job_description": "Data Science job for the role HSE Specialist at Available in one of 4 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020197/HSE-Specialist",
     "id": "abb-hse-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager - West Region - Building Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Area Sales Manager - West Region - Building Automation at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025363/Area-Sales-Manager-West-Region-Building-Automation",
+    "id": "abb-area-sales-manager-west-region-building-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +72,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Area Sales Manager - West Region - Building Automation",
+    "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Area Sales Manager - West Region - Building Automation at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025363/Area-Sales-Manager-West-Region-Building-Automation",
-    "id": "abb-area-sales-manager-west-region-building-automation-multiple"
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -48,16 +99,6 @@
     "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
     "id": "abb-digital-automation-control-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -301,16 +342,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Ostrava",
-    "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-ostrava"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Continuous Improvement Specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -318,6 +349,16 @@
     "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
     "id": "abb-continuous-improvement-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Ostrava",
+    "job_state": "Moravskoslezský kraj",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-ostrava"
   },
   {
     "employer_name": "ABB",
