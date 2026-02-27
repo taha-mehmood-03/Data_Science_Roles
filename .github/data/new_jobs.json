@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Information Developer/Technical Writer - Tech Comms System IP",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Information Developer/Technical Writer - Tech Comms System IP at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-information-developer-technical-writer-tech-comms-system-ip/33099/92155533200",
-    "id": "arm-information-developer-technical-writer-tech-comms-system-ip-cambridge"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Industry Sales Specialist",
     "job_city": "Multiple",
@@ -41,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Segment Sales Manager – Infrastructure",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
-    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Account Manager - C&I",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
+    "job_title": "Industry Segment Sales Manager – Infrastructure",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
+    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
   },
   {
     "employer_name": "ABB",
