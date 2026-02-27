@@ -1,27 +1,5 @@
 [
   {
-    "job_title": "Data Engineer II, AWS Commerce Platform-ADC",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Data Engineer II, AWS Commerce Platform-ADC at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3191228/data-engineer-ii-aws-commerce-platform-adc",
-    "job_posted_at": "2026-02-27T02:09:52.380Z",
-    "job_posted_at_datetime_utc": "2026-02-27T02:09:52.380Z",
-    "id": "amazon-data-engineer-ii-aws-commerce-platform-adc-arlington"
-  },
-  {
-    "job_title": "Data Engineer II, Amazon Payment Products",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, Amazon Payment Products at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3191226/data-engineer-ii-amazon-payment-products",
-    "job_posted_at": "2026-02-27T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
-    "id": "amazon-data-engineer-ii-amazon-payment-products-seattle"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Maker Checker",
     "job_city": "Remote",
@@ -30,16 +8,6 @@
     "job_description": "Data Science job for the role Maker Checker at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025673/Maker-Checker",
     "id": "abb-maker-checker-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -53,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Project Management & Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -73,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Manager",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Project Manager at Available in one of 36 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
-    "id": "abb-project-manager-multiple"
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -383,6 +341,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Continuous Improvement Specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
+    "id": "abb-continuous-improvement-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -393,22 +361,12 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Continuous Improvement Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/ABB1GLOBALJR00021839EXTERNALENGLOBAL/Continuous-Improvement-Specialist",
-    "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Cyber Security Technical Advisor",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/ABB1GLOBALJR00024784EXTERNALENGLOBAL/Cyber-Security-Technical-Advisor",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
     "id": "abb-cyber-security-technical-advisor-multiple"
   },
   {
