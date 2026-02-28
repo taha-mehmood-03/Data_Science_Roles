@@ -1,5 +1,25 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Data/AI Sales Specialist - Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data/AI Sales Specialist - Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97060&source=WEB_Search_NA",
+    "id": "ibm-data-ai-sales-specialist-industry-market-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full Stack Software Engineer – IBM Quantum",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Full Stack Software Engineer – IBM Quantum at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96630&source=WEB_Search_NA",
+    "id": "ibm-full-stack-software-engineer-ibm-quantum-yorktown-heights"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
@@ -8,6 +28,26 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Customs Product Classification Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Proposals Specialist – Industrial / EPC / Data Center",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Proposals Specialist – Industrial / EPC / Data Center at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00016229/Proposals-Specialist-Industrial-EPC-Data-Center",
-    "id": "abb-proposals-specialist-industrial-epc-data-center-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Key Account Manager - Digital Automation & Controls",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -41,46 +71,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Project Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role R&D Project Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019593/R-D-Project-Manager",
-    "id": "abb-r-d-project-manager-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
-    "id": "abb-category-manager-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS Fabrication Warehouse Internal Logistics Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role ELDS Fabrication Warehouse Internal Logistics Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024975/ELDS-Fabrication-Warehouse-Internal-Logistics-Operator-1st-shift",
-    "id": "abb-elds-fabrication-warehouse-internal-logistics-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Production Operator 2nd shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026193/ELDS-MV-SWGR-Production-Operator-2nd-shift",
-    "id": "abb-elds-mv-swgr-production-operator-2nd-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Environmental-Sustainability Intern- Summer",
     "job_city": "Bloomfield",
     "job_state": "Connecticut",
@@ -88,6 +78,16 @@
     "job_description": "Data Science job for the role Environmental-Sustainability Intern- Summer 2026 at Bloomfield, Connecticut, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022890/Environmental-Sustainability-Intern-Summer-2026",
     "id": "abb-environmental-sustainability-intern-summer-bloomfield"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Automation Engineer Intern - Summer",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Automation Engineer Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025215/Automation-Engineer-Intern-Summer-2026",
+    "id": "abb-automation-engineer-intern-summer-new-berlin"
   },
   {
     "employer_name": "ABB",
@@ -108,16 +108,6 @@
     "job_description": "Data Science job for the role Digital Operations & Logistics Intern- Summer 2026 at Senatobia, Mississippi, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026",
     "id": "abb-digital-operations-logistics-intern-summer-senatobia"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer Intern - Summer",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Automation Engineer Intern - Summer 2026 at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025215/Automation-Engineer-Intern-Summer-2026",
-    "id": "abb-automation-engineer-intern-summer-new-berlin"
   },
   {
     "employer_name": "ABB",
@@ -398,15 +388,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI Engineer, Demand Forecasting",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal AI Engineer, Demand Forecasting at US, CA, San Jose, Rio Robles",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Principal-AI-Engineer--Intelligent-Sensors_R255778?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-engineer-demand-forecasting-us"
   }
 ]
