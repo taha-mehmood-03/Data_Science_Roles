@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Research Scientist I, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Research Scientist I, Amazon Leo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193181/research-scientist-i-amazon-leo",
-    "job_posted_at": "2026-03-02T18:34:23.622Z",
-    "job_posted_at_datetime_utc": "2026-03-02T18:34:23.622Z",
-    "id": "amazon-research-scientist-i-amazon-leo-bellevue"
-  },
-  {
-    "job_title": "Software Development Engineer, IDEAS",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Software Development Engineer, IDEAS at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193218/software-development-engineer-ideas",
-    "job_posted_at": "2026-03-02T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ideas-seattle"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Realtime Defect Analysis Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 20 hours ago",
-    "job_description": "Data Science job for the role Realtime Defect Analysis Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40610637",
-    "id": "micron-realtime-defect-analysis-engineer-boise"
+    "job_title": "Intern - Design Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern - Design Engineer at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40484554",
+    "id": "micron-intern-design-engineer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -83,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Digital Automation & Controls",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
-    "id": "abb-key-account-manager-digital-automation-controls-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Proposals Specialist – Industrial / EPC / Data Center",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -100,6 +68,16 @@
     "job_description": "Data Science job for the role Proposals Specialist – Industrial / EPC / Data Center at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00016229/Proposals-Specialist-Industrial-EPC-Data-Center",
     "id": "abb-proposals-specialist-industrial-epc-data-center-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
@@ -323,6 +301,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Research Scientist in Machine Perception (80 -100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Research Scientist in Machine Perception (80 -100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023796/Research-Scientist-in-Machine-Perception-80-100",
+    "id": "abb-research-scientist-in-machine-perception-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "IS Application Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -470,5 +458,25 @@
     "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00010050/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Early Career - Data Solutions Architect",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Early Career - Data Solutions Architect at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009362/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-early-career-data-solutions-architect-dallas"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Early Career - Software Development Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Early Career - Software Development Engineer at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009361/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-early-career-software-development-engineer-dallas"
   }
 ]
