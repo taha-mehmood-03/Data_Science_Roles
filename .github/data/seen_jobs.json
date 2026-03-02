@@ -1,6 +1,4 @@
 [
-  "abb-regional-sales-manager-hvac-south-central-not-specific",
-  "abb-regional-sales-manager-large-motors-multiple",
   "abb-regional-sales-manager-multiple",
   "abb-regional-sales-manager-remote",
   "abb-research-department-manager-energy-technologies-80-100-baden-daettwil",
@@ -6670,6 +6668,7 @@
   "ibm-managing-sap-security-lead-grc-ac-dallas",
   "ibm-managing-sap-security-lead-multiple-cities",
   "ibm-managing-sap-sf-employee-central-lead-dallas",
+  "ibm-managing-sap-snp-lead-no-city",
   "ibm-managing-strategy-transformation-consultant-multiple-cities",
   "ibm-manufacturing-production-operator-poughkeepsie",
   "ibm-manufacturing-production-technician-poughkeepsie",
@@ -7404,6 +7403,7 @@
   "ibm-visiting-scientist-ai-foundations-research-cambridge",
   "ibm-visual-design-multiple-cities",
   "ibm-visual-designer-ibm-quantum-austin",
+  "ibm-visual-designer-ibv-philadelphia",
   "ibm-warehouse-operator-administration-technicianpoughkeepsie",
   "ibm-warehouse-production-operator-poughkeepsie",
   "ibm-warehousing-implementation-lead-wms-multiple-cities",
