@@ -1,6 +1,4 @@
 [
-  "abb-sales-specialist-multiple",
-  "abb-sales-specialist-not-specific",
   "abb-sales-specialist-oem-not-specific",
   "abb-sales-specialist-oem-talent-pool-80-100-not-specific",
   "abb-sales-specialist-oem-west-sacramento",
@@ -2351,6 +2349,7 @@
   "amazon-data-engineer-ii-intelligent-talent-acquisition-bellevue",
   "amazon-data-engineer-ii-managed-operations-data-science-mods-arlington",
   "amazon-data-engineer-ii-perfect-order-experience-detroit",
+  "amazon-data-engineer-ii-pricing-eligibility-services-seattle",
   "amazon-data-engineer-ii-ring-blink-customer-service-engineering-and-insights-hawthorne",
   "amazon-data-engineer-ii-ring-blink-customer-service-engineering-services-hawthorne",
   "amazon-data-engineer-ii-utr-planning-tech-austin",
@@ -5319,6 +5318,7 @@
   "google-engineering-analyst-sunnyvale",
   "google-engineering-manager-ii-seattle",
   "google-engineering-manager-new-york",
+  "google-engineering-manager-san-bruno",
   "google-engineering-manager-seattle",
   "google-engineering-manager-sunnyvale",
   "google-equity-accountant-chicago",
