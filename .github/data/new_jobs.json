@@ -1,14 +1,33 @@
 [
   {
-    "job_title": "SDE- Leo Network Services",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role SDE- Leo Network Services at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193644/sde-leo-network-services",
-    "job_posted_at": "2026-03-02T23:45:41.471Z",
-    "job_posted_at_datetime_utc": "2026-03-02T23:45:41.471Z",
-    "id": "amazon-sde-leo-network-services-sunnyvale"
+    "employer_name": "IBM",
+    "job_title": "Associate Application Developer 2026 – Adobe",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Application Developer 2026 – Adobe at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=90518&source=WEB_Search_NA",
+    "id": "ibm-associate-application-developer-2026-adobe-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Channel Director",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Regional Channel Director at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021994/Regional-Channel-Director",
+    "id": "abb-regional-channel-director-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
+    "id": "abb-digital-automation-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -29,16 +48,6 @@
     "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
     "id": "abb-project-management-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Channel Director",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Regional Channel Director at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021994/Regional-Channel-Director",
-    "id": "abb-regional-channel-director-multiple"
   },
   {
     "employer_name": "ABB",
