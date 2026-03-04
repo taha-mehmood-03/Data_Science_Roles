@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Senior Field Service Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior Field Service Engineer at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018261/Senior-Field-Service-Engineer",
-    "id": "abb-senior-field-service-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,13 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
+    "job_title": "Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Project Manager at Available in one of 36 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
+    "id": "abb-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Manager",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Project Manager at Available in one of 36 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
-    "id": "abb-project-manager-multiple"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -311,6 +301,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96066033/Sales-Specialist",
+    "id": "abb-sales-specialist-xiamen"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Junior Project Trainee",
     "job_city": "Rotterdam",
     "job_state": "South Holland",
@@ -478,35 +478,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Field Applications Engineer (FAE) – Aerospace, Defense & Communications",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Field Applications Engineer (FAE) – Aerospace, Defense & Communications at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-Home-Office/Field-Applications-Engineer--FAE----Aerospace--Defense---Communications_R260541?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-applications-engineer-fae-aerospace-defense-communications-3-locations"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sales & Marketing Manager",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Sales & Marketing Manager at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sales---Marketing-Manager_R260017?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sales-marketing-manager-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manager, Manufacturing Engineering",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Manager, Manufacturing Engineering at US, MA, Chelmsford, Alpha",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Manager--Manufacturing-Engineering_R260663?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manager-manufacturing-engineering-us"
   }
 ]
