@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Staff Data Scientist",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "15 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Data Scientist, Product",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82520361421152966-senior-staff-data-scientist-product?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-staff-data-scientist-kirkland"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY)",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry-Level Hire Technical Support Engineer (Poughkeepsie, NY) at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99684&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hire-technical-support-engineer-poughkeepsie-ny-poughkeepsie"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -51,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,6 +38,16 @@
     "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
     "id": "abb-digital-automation-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -472,6 +452,16 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
     "job_city": "Remote",
     "job_state": "China",
     "job_posted_at": "5 weeks ago",
@@ -481,13 +471,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Ostrava",
+    "job_state": "Moravskoslezský kraj",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-ostrava"
   },
   {
     "employer_name": "ABB",
@@ -508,16 +498,6 @@
     "job_description": "Data Science job for the role Continuous Improvement Specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021839/Continuous-Improvement-Specialist",
     "id": "abb-continuous-improvement-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Ostrava",
-    "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-ostrava"
   },
   {
     "employer_name": "ABB",
@@ -621,16 +601,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
-    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -640,13 +610,13 @@
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Software Engineer, Embedded Tools",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Staff Software Engineer, Embedded Tools at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Software-Engineer--Embedded-Tools_R261415?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-software-engineer-embedded-tools-us"
+    "employer_name": "ABB",
+    "job_title": "2026 Campus Hiring--Production Engineering Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
+    "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
   }
 ]
