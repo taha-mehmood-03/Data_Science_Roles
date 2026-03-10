@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Program Director, AI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Program Director, AI at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/technical-program-director-ai/33099/92588524944",
-    "id": "arm-technical-program-director-ai-san-jose"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Partner Engagement Specialist",
-    "job_city": "Austin",
+    "job_title": "Techology Sales Leader - General Services Administration",
+    "job_city": "WASHINGTON",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Partner Engagement Specialist at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99650&source=WEB_Search_NA",
-    "id": "ibm-partner-engagement-specialist-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Partner Engagement Specialist",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Partner Engagement Specialist at Entry LevelAustin, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=99649&source=WEB_Search_NA",
-    "id": "ibm-associate-partner-engagement-specialist-austin"
+    "job_description": "Data Science job for the role Techology Sales Leader - General Services Administration at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97907&source=WEB_Search_NA",
+    "id": "ibm-techology-sales-leader-general-services-administration-washington"
   }
 ]
