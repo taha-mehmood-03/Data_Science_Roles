@@ -1,54 +1,22 @@
 [
   {
-    "job_title": "Data Scientist, Amazon Leo Global Planning, Amazon Leo",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Amazon Leo Global Planning, Amazon Leo at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3202656/data-scientist-amazon-leo-global-planning-amazon-leo",
-    "job_posted_at": "2026-03-11T21:10:17.273Z",
-    "job_posted_at_datetime_utc": "2026-03-11T21:10:17.273Z",
-    "id": "amazon-data-scientist-amazon-leo-global-planning-amazon-leo-bellevue"
-  },
-  {
-    "job_title": "Machine Learning Scientist - GenAI, AWS Support",
-    "employer_name": "Amazon",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Machine Learning Scientist - GenAI, AWS Support at Mountain View, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3202612/machine-learning-scientist-genai-aws-support",
-    "job_posted_at": "2026-03-11T20:10:17.273Z",
-    "job_posted_at_datetime_utc": "2026-03-11T20:10:17.273Z",
-    "id": "amazon-machine-learning-scientist-genai-aws-support-mountain-view"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Software Engineer - Velox Operators for GPU",
-    "job_city": "San Jose",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer - Velox Operators for GPU at ProfessionalSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101290&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-velox-operators-for-gpu-san-jose"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle CX Service/Field Service Consultant",
+    "job_title": "Customer Success Engineer Co-op Fall",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Oracle CX Service/Field Service Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102138&source=WEB_Search_NA",
-    "id": "ibm-oracle-cx-service-field-service-consultant-multiple-cities"
+    "job_description": "Data Science job for the role Customer Success Engineer Co-op Fall 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96251&source=WEB_Search_NA",
+    "id": "ibm-customer-success-engineer-co-op-fall-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Software Engineer - Presto C++ Core",
-    "job_city": "San Jose",
+    "job_title": "Technical Sales Specialist Co-op Fall",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer - Presto C++ Core at ProfessionalSan Jose, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=101852&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-presto-c-core-san-jose"
+    "job_description": "Data Science job for the role Technical Sales Specialist Co-op Fall 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=96268&source=WEB_Search_NA",
+    "id": "ibm-technical-sales-specialist-co-op-fall-multiple-cities"
   }
 ]
