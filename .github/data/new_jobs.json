@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Paid Media Manager, Global Paid Media",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Paid Media Manager, Global Paid Media at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3204568/paid-media-manager-global-paid-media",
-    "job_posted_at": "2026-03-13T18:28:48.432Z",
-    "job_posted_at_datetime_utc": "2026-03-13T18:28:48.432Z",
-    "id": "amazon-paid-media-manager-global-paid-media-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Field Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Field Application Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/staff-field-application-engineer/33099/92735368528",
-    "id": "arm-field-application-engineer-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Senior/Staff Android Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior/Staff Android Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-staff-android-engineer/33099/88843444304",
-    "id": "arm-senior-staff-android-engineer-cambridge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Client Executive",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Enterprise Client Executive at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103325&source=WEB_Search_NA",
-    "id": "ibm-enterprise-client-executive-multiple-cities"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Engineering (Manufacturing)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Product Engineering (Manufacturing) at US, CA, San Jose, Rio Robles",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Product-Engineering--Prod-Dev-_R258684?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-engineering-manufacturing-us"
   }
 ]
