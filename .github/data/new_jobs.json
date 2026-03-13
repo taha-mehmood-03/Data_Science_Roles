@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "job_title": "Applied Scientist I, CLS - Technology, Central Learning Solutions - Technology",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist I, CLS - Technology, Central Learning Solutions - Technology at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3204326/applied-scientist-i-cls-technology-central-learning-solutions-technology",
+    "job_posted_at": "2026-03-13T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-03-13T00:00:00.000Z",
+    "id": "amazon-applied-scientist-i-cls-technology-central-learning-solutions-technology-bellevue"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "SM Factory Controls Engineer (APC)",
+    "job_city": "Sherman",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SM Factory Controls Engineer (APC) at Sherman, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25009697/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-sm-factory-controls-engineer-apc-sherman"
+  }
+]
