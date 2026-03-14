@@ -1,6 +1,4 @@
 [
-  "aijobs-ai-engineer-casera-us",
-  "aijobs-ai-engineer-data-science-us",
   "aijobs-ai-engineer-data-scientist-us",
   "aijobs-ai-engineer-design-innovation-us",
   "aijobs-ai-engineer-dpx-us",
@@ -3855,6 +3853,7 @@
   "arm-reward-manager-cambridge",
   "arm-rtl-design-engineer-cpu-team-cambridge",
   "arm-rtl-engineer-austin",
+  "arm-rtl-integration-engineer-austin",
   "arm-safety-engineer-grasbrunn",
   "arm-safety-engineer-sophia-antipolis",
   "arm-safety-security-engineer-automotive-cambridge",
@@ -3942,6 +3941,7 @@
   "arm-soc-principal-technical-program-manager-austin",
   "arm-soc-ras-architect-austin",
   "arm-soc-ras-architect-san-jose",
+  "arm-soc-rtl-integration-and-emulation-engineer-austin",
   "arm-soc-rtl-integration-and-performance-engineer-austin",
   "arm-soc-rtl-integration-emulation-engineer-sheffield",
   "arm-soc-rtl-performance-analysis-engineer-austin",
