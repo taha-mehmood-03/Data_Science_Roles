@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graduate AI/ML Hardware Verification Engineer",
-    "job_city": "Raanana",
-    "job_state": "Israel",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate AI/ML Hardware Verification Engineer at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/graduate-ai-ml-hardware-verification-engineer/33099/92851393296",
-    "id": "arm-graduate-ai-ml-hardware-verification-engineer-raanana"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Power Architecture and Analysis",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graduate Power Architecture and Analysis at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-power-architecture-and-analysis/33099/92713442384",
-    "id": "arm-graduate-power-architecture-and-analysis-san-diego"
+    "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
+    "id": "abb-digital-automation-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,13 +41,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
+    "job_title": "Customs Product Classification Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,26 +88,6 @@
     "job_description": "Data Science job for the role Regional Sales Manager - Drives at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019863/Regional-Sales-Manager-Drives",
     "id": "abb-regional-sales-manager-drives-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Customs Product Classification Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
-    "id": "abb-customs-product-classification-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -501,6 +481,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Full Stack Developer",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Full Stack Developer at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027122/Full-Stack-Developer",
+    "id": "abb-full-stack-developer-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "firmware intern",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -531,22 +521,12 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Full Stack Developer",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Full Stack Developer at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027122/Full-Stack-Developer",
-    "id": "abb-full-stack-developer-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales engineer（EU）",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027044/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
   },
   {
@@ -582,16 +562,6 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Remote",
-    "job_state": "China",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist at Remote, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022406/Sales-Specialist",
-    "id": "abb-sales-specialist-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Hangzhou",
     "job_state": "Zhejiang",
     "job_posted_at": "7 weeks ago",
@@ -601,13 +571,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global R&D Infrastructure Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
-    "id": "abb-global-r-d-infrastructure-lead-multiple"
+    "job_title": "Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "China",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Remote, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022406/Sales-Specialist",
+    "id": "abb-sales-specialist-remote"
   },
   {
     "employer_name": "ABB",
@@ -631,13 +601,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Architect HR & HSE",
+    "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role IS Architect HR & HSE at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026520/IS-Architect-HR-HSE",
-    "id": "abb-is-architect-hr-hse-multiple"
+    "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
+    "id": "abb-global-r-d-infrastructure-lead-multiple"
   },
   {
     "employer_name": "ABB",
@@ -648,6 +618,16 @@
     "job_description": "Data Science job for the role Software Integrity Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00011670/Software-Integrity-Manager-80-100",
     "id": "abb-software-integrity-manager-80-100-untersiggenthal"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Architect HR & HSE",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role IS Architect HR & HSE at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026520/IS-Architect-HR-HSE",
+    "id": "abb-is-architect-hr-hse-multiple"
   },
   {
     "employer_name": "ABB",
