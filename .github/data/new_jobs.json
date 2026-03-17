@@ -1,23 +1,24 @@
 [
   {
-    "job_title": "AI Platform Data Engineer II, Ring Decision Science",
+    "job_title": "Software Engineer, iOS, eero, eero Software Services",
     "employer_name": "Amazon",
-    "job_city": "Hawthorne",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Data Science job for the role AI Platform Data Engineer II, Ring Decision Science at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206072/ai-platform-data-engineer-ii-ring-decision-science",
-    "job_posted_at": "2026-03-16T22:28:10.645Z",
-    "job_posted_at_datetime_utc": "2026-03-16T22:28:10.645Z",
-    "id": "amazon-ai-platform-data-engineer-ii-ring-decision-science-hawthorne"
+    "job_description": "Data Science job for the role Software Engineer, iOS, eero, eero Software Services at San Francisco, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206157/software-engineer-ios-eero-eero-software-services",
+    "job_posted_at": "2026-03-17T00:44:12.664Z",
+    "job_posted_at_datetime_utc": "2026-03-17T00:44:12.664Z",
+    "id": "amazon-software-engineer-ios-eero-eero-software-services-san-francisco"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "SR DATA SCIENTIST, SMAI OI",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role SR DATA SCIENTIST, SMAI OI at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40879654",
-    "id": "micron-sr-data-scientist-smai-oi-boise"
+    "job_title": "Applied Scientist II, Sponsored Products Marketplace Intelligence",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist II, Sponsored Products Marketplace Intelligence at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3206128/applied-scientist-ii-sponsored-products-marketplace-intelligence",
+    "job_posted_at": "2026-03-16T23:44:12.664Z",
+    "job_posted_at_datetime_utc": "2026-03-16T23:44:12.664Z",
+    "id": "amazon-applied-scientist-ii-sponsored-products-marketplace-intelligence-seattle"
   }
 ]
