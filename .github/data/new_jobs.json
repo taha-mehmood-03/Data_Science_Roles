@@ -1,32 +1,22 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Manager, Tax",
-    "job_city": "San Jose",
+    "job_title": "Graduate Engineer, Design Automation, Front-End & AI Driven Methodologies",
+    "job_city": "San Diego",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, Tax at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-tax/33099/91071107856",
-    "id": "arm-manager-tax-san-jose"
+    "job_description": "Data Science job for the role Graduate Engineer, Design Automation, Front-End & AI Driven Methodologies at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/graduate-engineer-design-automation-front-end-and-ai-driven-methodologies/33099/92890266176",
+    "id": "arm-graduate-engineer-design-automation-front-end-ai-driven-methodologies-san-diego"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "IBM Quantum Sales Executive - Americas",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Hardware Verification Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Quantum Sales Executive - Americas at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=100873&source=WEB_Search_NA",
-    "id": "ibm-ibm-quantum-sales-executive-americas-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBV Visual Designer",
-    "job_city": "Philadelphia",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBV Visual Designer at ProfessionalPhiladelphia, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102012&source=WEB_Search_NA",
-    "id": "ibm-ibv-visual-designer-philadelphia"
+    "job_description": "Data Science job for the role Graduate GPU Hardware Verification Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-gpu-hardware-verification-engineer/33099/88144979280",
+    "id": "arm-graduate-gpu-hardware-verification-engineer-lund"
   }
 ]
