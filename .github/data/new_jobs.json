@@ -1,43 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr Sourcing Professional - Corporate Services",
-    "job_city": "Raleigh",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr Sourcing Professional - Corporate Services at ProfessionalRaleigh, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102622&source=WEB_Search_NA",
-    "id": "ibm-sr-sourcing-professional-corporate-services-raleigh"
+    "employer_name": "Micron",
+    "job_title": "Thin Films Process Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Thin Films Process Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40821886",
+    "id": "micron-thin-films-process-technician-manassas"
   },
   {
     "employer_name": "IBM",
-    "job_title": "System Administrators - Journeyman",
-    "job_city": "Denver",
+    "job_title": "Workday Payroll, Absence, Time Consultant",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Administrators - Journeyman at ProfessionalDenver, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103036&source=WEB_Search_NA",
-    "id": "ibm-system-administrators-journeyman-denver"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018752/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
+    "job_description": "Data Science job for the role Workday Payroll, Absence, Time Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104033&source=WEB_Search_NA",
+    "id": "ibm-workday-payroll-absence-time-consultant-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -51,63 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "US Government Contract & Compliance Attorney",
+    "job_title": "Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role US Government Contract & Compliance Attorney at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney",
-    "id": "abb-us-government-contract-compliance-attorney-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Product Marketing Specialist LV/MV North Region",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Utility Product Marketing Specialist LV/MV North Region at Available in one of 22 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024855/Utility-Product-Marketing-Specialist-LV-MV-North-Region",
-    "id": "abb-utility-product-marketing-specialist-lv-mv-north-region-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Project Manager at Available in one of 36 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019045/Project-Manager",
-    "id": "abb-project-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Technical Support Specialist at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024076/Technical-Support-Specialist",
+    "id": "abb-technical-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +51,106 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
+    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager - Drives",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Drives at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019863/Regional-Sales-Manager-Drives",
+    "id": "abb-regional-sales-manager-drives-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Customs Product Classification Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Customs Product Classification Specialist at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020202/Customs-Product-Classification-Specialist",
+    "id": "abb-customs-product-classification-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "System Engineering Coop - Fall",
+    "job_city": "Cleveland",
+    "job_state": "Ohio",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role System Engineering Coop - Fall 2026 at Cleveland, Ohio, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026",
+    "id": "abb-system-engineering-coop-fall-cleveland"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Product Manager",
+    "job_city": "Oakville",
+    "job_state": "Ontario",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Software Product Manager at Oakville, Ontario, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024046/Software-Product-Manager",
+    "id": "abb-software-product-manager-oakville"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role AI Developer for Supply Chain Optimization & Data Analytics Intern- Summer 2026 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020645/AI-Developer-for-Supply-Chain-Optimization-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-developer-for-supply-chain-optimization-data-analytics-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Factory Digital Twin Specialist",
     "job_city": "Pinetops",
     "job_state": "North Carolina",
@@ -128,36 +158,6 @@
     "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
     "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Systems Engineer",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Senior Systems Engineer at Houston, Texas, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019007/Senior-Systems-Engineer",
-    "id": "abb-senior-systems-engineer-houston"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Information Security Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Information Security Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013095/Information-Security-Analyst",
-    "id": "abb-information-security-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
