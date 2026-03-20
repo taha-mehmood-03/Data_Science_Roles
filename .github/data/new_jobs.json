@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Micron",
-    "job_title": "DMTS - DRAM Process Development Quality",
+    "job_title": "Engineer, Advanced Packaging",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role DMTS - DRAM Process Development Quality at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40794248",
-    "id": "micron-dmts-dram-process-development-quality-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Intern - Computer Engineer, AI/ML/LLM at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/40962778",
-    "id": "micron-intern-computer-engineer-ai-ml-llm-boise"
+    "job_description": "Data Science job for the role Principal Engineer, Advanced Packaging at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/40709807",
+    "id": "micron-engineer-advanced-packaging-boise"
   }
 ]
