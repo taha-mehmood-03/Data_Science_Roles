@@ -1,254 +1,73 @@
 [
   {
-    "job_title": "Specialist Solutions Architect, GenAI/ML, AGS Specialist Solutions Architects",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Specialist Solutions Architect, GenAI/ML, AGS Specialist Solutions Architects at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3207818/specialist-solutions-architect-genai-ml-ags-specialist-solutions-architects",
-    "job_posted_at": "2026-03-18T21:32:01.354Z",
-    "job_posted_at_datetime_utc": "2026-03-18T21:32:01.354Z",
-    "id": "amazon-specialist-solutions-architect-genai-ml-ags-specialist-solutions-architects-arlington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist  Intern 2026- SAP HANA SCM SD",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist  Intern 2026- SAP HANA SCM SD at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89763&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-intern-2026-sap-hana-scm-sd-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist  Intern 2026- SAP HANA SCM MM",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist  Intern 2026- SAP HANA SCM MM at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89762&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-intern-2026-sap-hana-scm-mm-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Consultant 2026 - Azure Cloud",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Consultant 2026 - Azure Cloud at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89830&source=WEB_Search_NA",
-    "id": "ibm-application-consultant-2026-azure-cloud-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "\"Application Developer\t Intern 2026- Oracle Middleware",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role \"Application Developer\t Intern 2026- Oracle Middleware at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89833&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-oracle-middleware-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Asset Management",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer Intern 2026- Asset Management at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89823&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-asset-management-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Azure Cloud Migration",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer Intern 2026- Azure Cloud Migration at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89826&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-azure-cloud-migration-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026 - Salesforce",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer Intern 2026 - Salesforce at InternshipBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89729&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-salesforce-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer\t2026- Asset Management",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer\t2026- Asset Management at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89813&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-asset-management-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Oracle Middleware",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer 2026- Oracle Middleware at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-oracle-middleware-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer Intern 2026- Azure Cloud Migration",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer Intern 2026- Azure Cloud Migration at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89769&source=WEB_Search_NA",
-    "id": "ibm-application-developer-intern-2026-azure-cloud-migration-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026 - Azure Cloud Migration",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer 2026 - Azure Cloud Migration at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89841&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-azure-cloud-migration-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026 - Adobe Marketing & Analytics",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer 2026 - Adobe Marketing & Analytics at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89839&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-adobe-marketing-analytics-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Consultant  Intern 2026- Azure Cloud",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Consultant  Intern 2026- Azure Cloud at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89758&source=WEB_Search_NA",
-    "id": "ibm-application-consultant-intern-2026-azure-cloud-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Salesforce",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer 2026- Salesforce at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89793&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-salesforce-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Consultant Intern 2026- Microsoft Dynamics 365 Finance & Operations at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89803&source=WEB_Search_NA",
-    "id": "ibm-package-consultant-intern-2026-microsoft-dynamics-365-finance-operations-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist 2026- SAP SCM SD",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist 2026- SAP SCM SD at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89807&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-2026-sap-scm-sd-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist 2026- SAP HANA SCM MM",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist 2026- SAP HANA SCM MM at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89800&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-2026-sap-hana-scm-mm-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist 2026- SAP HANA FIN FI",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist 2026- SAP HANA FIN FI at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89794&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-2026-sap-hana-fin-fi-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Consultant 2026 - Workday HCM & Compensation - PSU",
-    "job_city": "New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Consultant 2026 - Workday HCM & Compensation - PSU at Entry LevelNew York, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=103006&source=WEB_Search_NA",
-    "id": "ibm-package-consultant-2026-workday-hcm-compensation-psu-new-york"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Agentic AI Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
-    "id": "abb-agentic-ai-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cloud and Edge Solutions Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
-    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Solutions & Applications Engineer, Autonomous Manipulative Mobile Robotics (AMMR)",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Solutions & Applications Engineer, Autonomous Manipulative Mobile Robotics (AMMR) at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028232/Solutions-Applications-Engineer-Autonomous-Manipulative-Mobile-Robotics-AMMR",
-    "id": "abb-solutions-applications-engineer-autonomous-manipulative-mobile-robotics-ammr-multiple"
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Specialist, Autonomous Manipulative Mobile Robotics (AMMR)",
+    "job_title": "Project Specialist, Data Center Services COE",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Product Specialist, Autonomous Manipulative Mobile Robotics (AMMR) at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028227/Product-Specialist-Autonomous-Manipulative-Mobile-Robotics-AMMR",
-    "id": "abb-product-specialist-autonomous-manipulative-mobile-robotics-ammr-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Project Specialist, Data Center Services COE at Available in one of 53 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027000/Project-Specialist-Data-Center-Services-COE",
+    "id": "abb-project-specialist-data-center-services-coe-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "Technical Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Technical Support Specialist at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024076/Technical-Support-Specialist",
+    "id": "abb-technical-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "US Government Contract & Compliance Attorney",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role US Government Contract & Compliance Attorney at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney",
+    "id": "abb-us-government-contract-compliance-attorney-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Engineer at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018261/Senior-Field-Service-Engineer",
+    "id": "abb-senior-field-service-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Management & Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
+    "id": "abb-project-management-operations-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -272,33 +91,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_title": "Education Segment Manager, US",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
-    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
+    "id": "abb-education-segment-manager-us-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_title": "Information Security Analyst",
     "job_city": "Multiple",
     "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Information Security Analyst at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013095/Information-Security-Analyst",
+    "id": "abb-information-security-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
     "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
-    "id": "abb-key-account-manager-digital-automation-controls-multiple"
+    "job_description": "Data Science job for the role Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017090/Internship-m-f-d-Health-Monitoring-and-Anomaly-Detection-of-Switchgears",
+    "id": "abb-internship-m-f-d-health-monitoring-and-anomaly-detection-of-switchgears-mannheim"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028259/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
+    "job_title": "Sales Technical  Support Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "Data Science job for the role Sales Technical  Support Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020224/Sales-Technical-Support-Specialist",
+    "id": "abb-sales-technical-support-specialist-xiamen"
   },
   {
     "employer_name": "ABB",
@@ -562,6 +401,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "(80 - 100 %) Scrum Master",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
+    "id": "abb-80-100-scrum-master-quartino"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Full Stack Developer",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -569,16 +418,6 @@
     "job_description": "Data Science job for the role Full Stack Developer at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027122/Full-Stack-Developer",
     "id": "abb-full-stack-developer-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Application Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
-    "id": "abb-is-application-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -592,13 +431,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "(80 - 100 %) Scrum Master",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
-    "id": "abb-80-100-scrum-master-quartino"
+    "job_title": "IS Application Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
+    "id": "abb-is-application-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -607,7 +446,7 @@
     "job_state": "Various",
     "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027044/Sales-engineer（EU）",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
   },
   {
@@ -632,23 +471,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022498/Sales-Specialist",
+    "id": "abb-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -662,13 +491,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Team Manager – Industrial Software Research (80 - 100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Team Manager – Industrial Software Research (80 - 100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026436/Team-Manager-Industrial-Software-Research-80-100",
-    "id": "abb-team-manager-industrial-software-research-80-100-baden-daettwil"
+    "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Ostrava",
+    "job_state": "Moravskoslezský kraj",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-ostrava"
   },
   {
     "employer_name": "ABB",
@@ -682,13 +521,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Ostrava",
-    "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-ostrava"
+    "job_title": "Team Manager – Industrial Software Research (80 - 100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Team Manager – Industrial Software Research (80 - 100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026436/Team-Manager-Industrial-Software-Research-80-100",
+    "id": "abb-team-manager-industrial-software-research-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
+    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
   },
   {
     "employer_name": "ABB",
@@ -712,16 +561,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
-    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sr . R&D Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
@@ -742,16 +581,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Product Manager Renewable Power",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
-    "id": "abb-service-product-manager-renewable-power-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Manager",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -762,13 +591,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Functional Analyst",
+    "job_title": "Service Product Manager Renewable Power",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Senior Functional Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007894/Senior-Functional-Analyst",
-    "id": "abb-senior-functional-analyst-multiple"
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
+    "id": "abb-service-product-manager-renewable-power-multiple"
   },
   {
     "employer_name": "ABB",
@@ -779,36 +608,6 @@
     "job_description": "Data Science job for the role SAP PP Solution Architect at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014889/SAP-PP-Solution-Architect",
     "id": "abb-sap-pp-solution-architect-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Engineer (Front-End Focused)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Software Engineer (Front-End Focused) at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024657/Software-Engineer-Front-End-Focused",
-    "id": "abb-software-engineer-front-end-focused-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Product Manager",
-    "job_city": "Oakville",
-    "job_state": "Ontario",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Software Product Manager at Oakville, Ontario, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024046/Software-Product-Manager",
-    "id": "abb-software-product-manager-oakville"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "System Engineering Coop - Fall",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role System Engineering Coop - Fall 2026 at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026",
-    "id": "abb-system-engineering-coop-fall-cleveland"
   },
   {
     "employer_name": "ABB",
