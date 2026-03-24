@@ -381,16 +381,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Jinghu District",
-    "job_state": "Anhui",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
-    "id": "abb-sales-specialist-jinghu-district"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Senior Embedded Developer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -468,6 +458,16 @@
     "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
     "id": "abb-80-100-scrum-master-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinghu District",
+    "job_state": "Anhui",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
+    "id": "abb-sales-specialist-jinghu-district"
   },
   {
     "employer_name": "ABB",
@@ -611,16 +611,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Manager",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "9 months ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
-    "id": "abb-digital-solution-engineering-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Service Product Manager Renewable Power",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -628,6 +618,16 @@
     "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
     "id": "abb-service-product-manager-renewable-power-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "9 months ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-shanghai"
   },
   {
     "employer_name": "ABB",
