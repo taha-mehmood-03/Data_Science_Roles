@@ -1,5 +1,36 @@
 [
   {
+    "job_title": "Data Scientist, AppStar Data Analytics & Engineering",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist, AppStar Data Analytics & Engineering at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10374272/data-scientist-appstar-data-analytics-engineering",
+    "job_posted_at": "2026-03-23T23:30:07.114Z",
+    "job_posted_at_datetime_utc": "2026-03-23T23:30:07.114Z",
+    "id": "amazon-data-scientist-appstar-data-analytics-engineering-new-york"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Specialist, Data Center Services COE",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Project Specialist, Data Center Services COE at Available in one of 53 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027000/Project-Specialist-Data-Center-Services-COE",
+    "id": "abb-project-specialist-data-center-services-coe-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
+    "id": "abb-industry-sales-specialist-multiple"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
@@ -8,26 +39,6 @@
     "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
     "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Specialist, Data Center Services COE",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Project Specialist, Data Center Services COE at Available in one of 53 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027000/Project-Specialist-Data-Center-Services-COE",
-    "id": "abb-project-specialist-data-center-services-coe-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Technical Support Specialist at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024076/Technical-Support-Specialist",
-    "id": "abb-technical-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,33 +52,53 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "US Government Contract & Compliance Attorney",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role US Government Contract & Compliance Attorney at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney",
-    "id": "abb-us-government-contract-compliance-attorney-multiple"
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Field Service Engineer",
+    "job_title": "Industry Segment Sales Manager – Infrastructure",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
+    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr. Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Field Service Engineer at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018261/Senior-Field-Service-Engineer",
-    "id": "abb-senior-field-service-engineer-multiple"
+    "job_description": "Data Science job for the role Sr. Project Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
+    "id": "abb-sr-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
+    "job_title": "Technical Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Technical Support Specialist at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024076/Technical-Support-Specialist",
+    "id": "abb-technical-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,30 +112,10 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Engineer at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024854/Digital-Automation-Control-Engineer",
-    "id": "abb-digital-automation-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Education Segment Manager, US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
-    "id": "abb-education-segment-manager-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Information Security Analyst",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Information Security Analyst at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013095/Information-Security-Analyst",
     "id": "abb-information-security-analyst-multiple"
@@ -124,7 +135,7 @@
     "job_title": "Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Internship (m/f/d) - Health Monitoring and Anomaly Detection of Switchgears at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017090/Internship-m-f-d-Health-Monitoring-and-Anomaly-Detection-of-Switchgears",
     "id": "abb-internship-m-f-d-health-monitoring-and-anomaly-detection-of-switchgears-mannheim"
@@ -134,7 +145,7 @@
     "job_title": "Sales Technical  Support Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Sales Technical  Support Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020224/Sales-Technical-Support-Specialist",
     "id": "abb-sales-technical-support-specialist-xiamen"
@@ -144,7 +155,7 @@
     "job_title": "R&D Associate Engineer - Embedded Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role R&D Associate Engineer - Embedded Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027679/R-D-Associate-Engineer-Embedded-Engineer",
     "id": "abb-r-d-associate-engineer-embedded-engineer-krakow"
@@ -154,7 +165,7 @@
     "job_title": "AI Commercial Excellence Lead",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role AI Commercial Excellence Lead at Available in one of 17 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028981/AI-Commercial-Excellence-Lead",
     "id": "abb-ai-commercial-excellence-lead-multiple"
@@ -194,7 +205,7 @@
     "job_title": "R&D software engineer",
     "job_city": "Xiamen",
     "job_state": "Fujian",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role R&D software engineer at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014784/R-D-software-engineer",
     "id": "abb-r-d-software-engineer-xiamen"
@@ -204,7 +215,7 @@
     "job_title": "RnD Associate Engineer (AI)",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role RnD Associate Engineer (AI) at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00015962/RnD-Associate-Engineer-AI",
     "id": "abb-rnd-associate-engineer-ai-shanghai"
@@ -214,7 +225,7 @@
     "job_title": "Digital Sales Specialist(PB)",
     "job_city": "Shenzhen",
     "job_state": "Guangdong",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
     "id": "abb-digital-sales-specialist-pb-shenzhen"
@@ -224,7 +235,7 @@
     "job_title": "Material Planner",
     "job_city": "La Louvière",
     "job_state": "Hainaut",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Material Planner at La Louvière, Hainaut, Belgium",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017690/Material-Planner",
     "id": "abb-material-planner-la-louvi-re"
@@ -234,7 +245,7 @@
     "job_title": "EL Sales Specialist - PB",
     "job_city": "Dongguan",
     "job_state": "Guangdong",
-    "job_posted_at": "6 weeks ago",
+    "job_posted_at": "7 weeks ago",
     "job_description": "Data Science job for the role EL Sales Specialist - PB at Dongguan, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023569/EL-Sales-Specialist-PB",
     "id": "abb-el-sales-specialist-pb-dongguan"
@@ -254,7 +265,7 @@
     "job_title": "Senior Computer Vision AI & ML Engineer",
     "job_city": "Beersel",
     "job_state": "Flemish Brabant",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Senior Computer Vision AI & ML Engineer at Beersel, Flemish Brabant, Belgium",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001409/Senior-Computer-Vision-AI-ML-Engineer",
     "id": "abb-senior-computer-vision-ai-ml-engineer-beersel"
@@ -274,7 +285,7 @@
     "job_title": "R&D Senior Engineer Firmware (80 -100%)",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "4 weeks ago",
+    "job_posted_at": "5 weeks ago",
     "job_description": "Data Science job for the role R&D Senior Engineer Firmware (80 -100%) at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024261/R-D-Senior-Engineer-Firmware-80-100",
     "id": "abb-r-d-senior-engineer-firmware-80-100-quartino"
@@ -284,7 +295,7 @@
     "job_title": "Intern",
     "job_city": "Hangzhou",
     "job_state": "Zhejiang",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Intern at Hangzhou, Zhejiang, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029490/Intern",
     "id": "abb-intern-hangzhou"
@@ -294,7 +305,7 @@
     "job_title": "Business Functional Analyst",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role Business Functional Analyst at Available in one of 7 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00012620/Business-Functional-Analyst",
     "id": "abb-business-functional-analyst-multiple"
@@ -314,7 +325,7 @@
     "job_title": "CCDP Service Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
     "id": "abb-ccdp-service-manager-multiple"
@@ -324,7 +335,7 @@
     "job_title": "Warehouse/Internal Logistics Specialist",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
     "id": "abb-warehouse-internal-logistics-specialist-beijing"
@@ -334,7 +345,7 @@
     "job_title": "Sales Specialist",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00003523/Sales-Specialist",
     "id": "abb-sales-specialist-beijing"
@@ -374,7 +385,7 @@
     "job_title": "ELSB Sr. Software Developer - IOT",
     "job_city": "Suzhou",
     "job_state": "Jiangsu",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role ELSB Sr. Software Developer - IOT at Suzhou, Jiangsu, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021440/ELSB-Sr-Software-Developer-IOT",
     "id": "abb-elsb-sr-software-developer-iot-suzhou"
@@ -394,7 +405,7 @@
     "job_title": "Snr. R&D Engineer - Robotics Application Software",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Snr. R&D Engineer - Robotics Application Software at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00011054/Snr-R-D-Engineer-Robotics-Application-Software",
     "id": "abb-snr-r-d-engineer-robotics-application-software-shanghai"
@@ -404,7 +415,7 @@
     "job_title": "(80 - 100 %) Scrum Master",
     "job_city": "Quartino",
     "job_state": "Ticino",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
     "id": "abb-80-100-scrum-master-quartino"
@@ -424,7 +435,7 @@
     "job_title": "IS Architect Operations and R&D",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role IS Architect Operations and R&D at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027129/IS-Architect-Operations-and-R-D",
     "id": "abb-is-architect-operations-and-r-d-multiple"
@@ -434,7 +445,7 @@
     "job_title": "IS Application Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
     "id": "abb-is-application-specialist-multiple"
@@ -444,7 +455,7 @@
     "job_title": "Sales engineer（EU）",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
@@ -464,7 +475,7 @@
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
@@ -504,7 +515,7 @@
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
@@ -524,7 +535,7 @@
     "job_title": "Team Manager – Industrial Software Research (80 - 100%)",
     "job_city": "Baden-Daettwil",
     "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
+    "job_posted_at": "3 weeks ago",
     "job_description": "Data Science job for the role Team Manager – Industrial Software Research (80 - 100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026436/Team-Manager-Industrial-Software-Research-80-100",
     "id": "abb-team-manager-industrial-software-research-80-100-baden-daettwil"
@@ -534,7 +545,7 @@
     "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
     "job_city": "Baden-Daettwil",
     "job_state": "Aargau",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
     "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
@@ -544,7 +555,7 @@
     "job_title": "IS Architect HR & HSE",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role IS Architect HR & HSE at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026520/IS-Architect-HR-HSE",
     "id": "abb-is-architect-hr-hse-multiple"
@@ -554,7 +565,7 @@
     "job_title": "Software Integrity Manager (80-100%)",
     "job_city": "Untersiggenthal",
     "job_state": "Aargau",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Software Integrity Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00011670/Software-Integrity-Manager-80-100",
     "id": "abb-software-integrity-manager-80-100-untersiggenthal"
@@ -564,7 +575,7 @@
     "job_title": "Sr . R&D Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role Sr . R&D Engineer at Not Specific",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020705/Sr-R-D-Engineer",
     "id": "abb-sr-r-d-engineer-not-specific"
@@ -584,7 +595,7 @@
     "job_title": "Digital Solution Engineering Manager",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "8 months ago",
+    "job_posted_at": "9 months ago",
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
@@ -594,7 +605,7 @@
     "job_title": "Service Product Manager Renewable Power",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
     "id": "abb-service-product-manager-renewable-power-multiple"
@@ -614,7 +625,7 @@
     "job_title": "Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
@@ -624,7 +635,7 @@
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
-    "job_posted_at": "8 weeks ago",
+    "job_posted_at": "2 months ago",
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
