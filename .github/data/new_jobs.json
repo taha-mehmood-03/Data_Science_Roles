@@ -1,23 +1,23 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Data Scientist: Biomedical AI & Algorithms",
-    "job_city": "Yorktown Heights",
+    "job_title": "Offering Manager - Application Migration & Modernization",
+    "job_city": "Dallas",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Scientist: Biomedical AI & Algorithms at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106521&source=WEB_Search_NA",
-    "id": "ibm-data-scientist-biomedical-ai-algorithms-yorktown-heights"
+    "job_description": "Data Science job for the role Offering Manager - Application Migration & Modernization at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104589&source=WEB_Search_NA",
+    "id": "ibm-offering-manager-application-migration-modernization-dallas"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Digital Adoption Platform (DAP) Expert (WalkMe)",
-    "job_city": "Multiple Cities",
+    "job_title": "Managing SAP SuccessFactors Employee Central Lead",
+    "job_city": "Dallas",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Adoption Platform (DAP) Expert (WalkMe) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105882&source=WEB_Search_NA",
-    "id": "ibm-digital-adoption-platform-dap-expert-walkme-multiple-cities"
+    "job_description": "Data Science job for the role Senior Managing SAP SuccessFactors Employee Central Lead at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104585&source=WEB_Search_NA",
+    "id": "ibm-managing-sap-successfactors-employee-central-lead-dallas"
   },
   {
     "employer_name": "ABB",
@@ -61,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sr. Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,6 +78,16 @@
     "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
     "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
   },
   {
     "employer_name": "ABB",
@@ -431,6 +431,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "(80 - 100 %) Scrum Master",
+    "job_city": "Quartino",
+    "job_state": "Ticino",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
+    "id": "abb-80-100-scrum-master-quartino"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Full Stack Developer",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -448,16 +458,6 @@
     "job_description": "Data Science job for the role IS Application Specialist at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025330/IS-Application-Specialist",
     "id": "abb-is-application-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "(80 - 100 %) Scrum Master",
-    "job_city": "Quartino",
-    "job_state": "Ticino",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role (80 - 100 %) Scrum Master at Quartino, Ticino, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023735/-80-100-Scrum-Master",
-    "id": "abb-80-100-scrum-master-quartino"
   },
   {
     "employer_name": "ABB",
@@ -486,7 +486,7 @@
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027044/Sales-engineer（EU）",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
   },
   {
@@ -522,16 +522,6 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Remote",
     "job_state": "China",
     "job_posted_at": "2 months ago",
@@ -541,13 +531,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Team Manager – Industrial Software Research (80 - 100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Team Manager – Industrial Software Research (80 - 100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026436/Team-Manager-Industrial-Software-Research-80-100",
-    "id": "abb-team-manager-industrial-software-research-80-100-baden-daettwil"
+    "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Ostrava",
+    "job_state": "Moravskoslezský kraj",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-ostrava"
   },
   {
     "employer_name": "ABB",
@@ -561,13 +561,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Specialist",
-    "job_city": "Ostrava",
-    "job_state": "Moravskoslezský kraj",
+    "job_title": "Team Manager – Industrial Software Research (80 - 100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Team Manager – Industrial Software Research (80 - 100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026436/Team-Manager-Industrial-Software-Research-80-100",
+    "id": "abb-team-manager-industrial-software-research-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
-    "id": "abb-digital-solution-engineering-specialist-ostrava"
+    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
+    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
   },
   {
     "employer_name": "ABB",
@@ -591,16 +601,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
-    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sr . R&D Engineer",
     "job_city": "Not Specific",
     "job_state": "Not Specific",
@@ -621,16 +621,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Product Manager Renewable Power",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
-    "id": "abb-service-product-manager-renewable-power-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Manager",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -638,6 +628,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Product Manager Renewable Power",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Service Product Manager Renewable Power at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025116/Service-Product-Manager-Renewable-Power",
+    "id": "abb-service-product-manager-renewable-power-multiple"
   },
   {
     "employer_name": "ABB",
