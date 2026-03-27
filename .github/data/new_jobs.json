@@ -1,33 +1,23 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Offering Manager - Application Migration & Modernization",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Offering Manager - Application Migration & Modernization at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104589&source=WEB_Search_NA",
-    "id": "ibm-offering-manager-application-migration-modernization-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP SuccessFactors Employee Central Lead",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP SuccessFactors Employee Central Lead at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=104585&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-successfactors-employee-central-lead-dallas"
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Specialist",
+    "job_title": "Senior Field Service Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
-    "id": "abb-industry-sales-specialist-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Engineer at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018261/Senior-Field-Service-Engineer",
+    "id": "abb-senior-field-service-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,53 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_title": "US Government Contract & Compliance Attorney",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Sr. Project Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
-    "id": "abb-sr-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Segment Sales Manager – Infrastructure",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
-    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role US Government Contract & Compliance Attorney at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00014463/US-Government-Contract-Compliance-Attorney",
+    "id": "abb-us-government-contract-compliance-attorney-multiple"
   },
   {
     "employer_name": "ABB",
@@ -111,13 +61,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
+    "job_title": "Project Management & Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
+    "id": "abb-project-management-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Education Segment Manager, US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
+    "id": "abb-education-segment-manager-us-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "empower Business Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
+    "id": "abb-empower-business-functional-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Inside Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Technical Inside Sales Specialist at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027436/Technical-Inside-Sales-Specialist",
+    "id": "abb-technical-inside-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
