@@ -31,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,6 +38,16 @@
     "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
   },
   {
     "employer_name": "ABB",
