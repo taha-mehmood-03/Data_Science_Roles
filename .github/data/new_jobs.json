@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Project Manager - IBM Quantum Computing Data Center",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Project Manager - IBM Quantum Computing Data Center at ProfessionalPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106190&source=WEB_Search_NA",
-    "id": "ibm-technical-project-manager-ibm-quantum-computing-data-center-poughkeepsie"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-phoenix"
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,73 +31,83 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Receiving Clerk",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Receiving Clerk at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029433/Receiving-Clerk",
-    "id": "abb-receiving-clerk-phoenix"
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Test Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Senior Test Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022163/Senior-Test-Engineer",
+    "id": "abb-senior-test-engineer-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Production Operator Paint Line 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELDS Production Operator Paint Line 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028665/ELDS-Production-Operator-Paint-Line-1st-Shift",
+    "id": "abb-elds-production-operator-paint-line-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Associate Project Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029346/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Production Operator-Smart Power 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Manufacturing Production Operator-Smart Power 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00015624/Manufacturing-Production-Operator-Smart-Power-2nd-shift",
+    "id": "abb-manufacturing-production-operator-smart-power-2nd-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Information Security Analyst",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
-    "id": "abb-junior-consultant-energy-carbon-services-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
-    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse Inventory Quality Technician",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
-    "id": "abb-warehouse-inventory-quality-technician-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "9 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96925641/Sales-Specialist",
-    "id": "abb-sales-specialist-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
+    "job_description": "Data Science job for the role Information Security Analyst at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013095/Information-Security-Analyst",
+    "id": "abb-information-security-analyst-multiple"
   },
   {
     "employer_name": "ABB",
@@ -178,6 +168,16 @@
     "job_description": "Data Science job for the role AI Commercial Excellence Lead at Available in one of 17 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028981/AI-Commercial-Excellence-Lead",
     "id": "abb-ai-commercial-excellence-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -671,16 +671,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Team Lead",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
-    "id": "abb-r-d-team-lead-bloomfield"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "2026 Campus Hiring--Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -688,15 +678,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Engineering Insights Analyst - Power BI / SQL / Databricks / Semiconductor Industry",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Engineering Insights Analyst - Power BI / SQL / Databricks / Semiconductor Industry at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Engineering-Insights-Analyst---Power-BI---SQL---Databricks---Semiconductor-Industry_2600829?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineering-insights-analyst-power-bi-sql-databricks-semiconductor-industry-santa-clara"
   }
 ]
