@@ -1,33 +1,23 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Head of Data Science",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Head of Data Science, Google Cloud Marketing",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99749383821501126-head-of-data-science-google-cloud-marketing?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-head-of-data-science-kirkland"
+    "employer_name": "Micron",
+    "job_title": "Sr. Engineer, RDA DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Sr. Engineer, RDA DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41139977",
+    "id": "micron-sr-engineer-rda-dram-boise"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
+    "employer_name": "Micron",
+    "job_title": "Sr. Engineer – CMP/Bond Equipment Development",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Sr. Engineer – CMP/Bond Equipment Development at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41139981",
+    "id": "micron-sr-engineer-cmp-bond-equipment-development-boise"
   },
   {
     "employer_name": "ABB",
@@ -41,13 +31,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
+    "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
+    "id": "abb-industry-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,26 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -111,23 +101,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Information Security Analyst",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Information Security Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013095/Information-Security-Analyst",
-    "id": "abb-information-security-analyst-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Team Lead",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
+    "id": "abb-r-d-team-lead-bloomfield"
   },
   {
     "employer_name": "ABB",
