@@ -1,13 +1,35 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
+    "job_title": "Business Intelligence Engineer, ADSP Product Operations & Analytics",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, ADSP Product Operations & Analytics at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3187491/business-intelligence-engineer-adsp-product-operations-analytics",
+    "job_posted_at": "2026-03-31T18:53:47.973Z",
+    "job_posted_at_datetime_utc": "2026-03-31T18:53:47.973Z",
+    "id": "amazon-business-intelligence-engineer-adsp-product-operations-analytics-new-york"
+  },
+  {
+    "job_title": "Data Engineer II , UTR PLanning Tech",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II , UTR PLanning Tech at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10380595/data-engineer-ii-utr-planning-tech",
+    "job_posted_at": "2026-03-31T18:53:47.972Z",
+    "job_posted_at_datetime_utc": "2026-03-31T18:53:47.972Z",
+    "id": "amazon-data-engineer-ii-utr-planning-tech-bellevue"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Engineer, Developer Platforms & AI Services",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate Software Engineer, Developer Platforms & AI Services at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/graduate-software-engineer-developer-platforms-and-ai-services/33099/93428434880",
+    "id": "arm-graduate-software-engineer-developer-platforms-ai-services-seattle"
   },
   {
     "employer_name": "ABB",
@@ -41,6 +63,56 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Segment Sales Manager – Infrastructure",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
+    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr. Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Sr. Project Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
+    "id": "abb-sr-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Services Inside Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -58,46 +130,6 @@
     "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
     "id": "abb-utility-inside-sales-parts-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Segment Sales Manager – Infrastructure",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
-    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager, Laboratory Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Account Manager, Laboratory Automation at Available in one of 6 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026229/Account-Manager-Laboratory-Automation",
-    "id": "abb-account-manager-laboratory-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -638,25 +670,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Compensation Partner – Sales & Software",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Lead Compensation Partner – Sales & Software at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Lead-Compensation-Partner---Sales---Software_R260047?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-compensation-partner-sales-software-us"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI/ML Researcher Intern - Co-op",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role AI/ML Researcher Intern - Co-op at 2 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-ML-Researcher-Intern_R257656?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-ml-researcher-intern-co-op-2-locations"
   }
 ]
