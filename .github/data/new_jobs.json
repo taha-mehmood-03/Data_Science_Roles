@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Utility Inside Sales - Parts",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,46 +38,6 @@
     "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
     "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Key Account Manager - Digital Automation & Controls",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
-    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,6 +51,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Associate Channel Director",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -98,6 +78,26 @@
     "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
     "id": "abb-associate-channel-director-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
@@ -658,35 +658,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Design Verification Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Principal Design Verification Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Principal-Design-Verification-Engineer_2601014?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-design-verification-engineer-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Design Verification Engineer",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Staff Design Verification Engineer at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Austin-TX/Senior-Staff-Design-Verification-Engineer_2601015?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-design-verification-engineer-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director, Enterprise Security Architecture & Strategy",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Director, Enterprise Security Architecture & Strategy at 4 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director--Enterprise-Security-Architecture---Strategy_2600985?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-enterprise-security-architecture-strategy-4-locations"
   }
 ]
