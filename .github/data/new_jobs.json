@@ -1,36 +1,5 @@
 [
   {
-    "job_title": "Amazon Core Search Organization - Language Engineer, Core Search",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Amazon Core Search Organization - Language Engineer, Core Search at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10372821/amazon-core-search-organization-language-engineer-core-search",
-    "job_posted_at": "2026-04-01T16:39:51.546Z",
-    "job_posted_at_datetime_utc": "2026-04-01T16:39:51.546Z",
-    "id": "amazon-amazon-core-search-organization-language-engineer-core-search-seattle"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AECC 2.0 - Platform Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AECC 2.0 - Platform Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107630&source=WEB_Search_NA",
-    "id": "ibm-aecc-2-0-platform-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Vault Safety + Quality Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Vault Safety + Quality Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107024&source=WEB_Search_NA",
-    "id": "ibm-vault-safety-quality-consultant-multiple-cities"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -62,73 +31,73 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
+    "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
+    "job_title": "Key Account Manager - Digital Automation & Controls",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist",
+    "job_title": "Associate Channel Director",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Technical Inside Sales Specialist at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027436/Technical-Inside-Sales-Specialist",
-    "id": "abb-technical-inside-sales-specialist-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
+    "id": "abb-associate-channel-director-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_title": "Service Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Education Segment Manager, US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
-    "id": "abb-education-segment-manager-us-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -189,6 +158,16 @@
     "job_description": "Data Science job for the role Intern at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030700/Intern",
     "id": "abb-intern-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
