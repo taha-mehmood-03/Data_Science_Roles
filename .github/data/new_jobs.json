@@ -1,43 +1,13 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
+    "job_title": "Industry Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
+    "id": "abb-industry-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,43 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Education Segment Manager, US",
+    "job_title": "Data Center COE Service Site Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
-    "id": "abb-education-segment-manager-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Technical Inside Sales Specialist at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027436/Technical-Inside-Sales-Specialist",
-    "id": "abb-technical-inside-sales-specialist-multiple"
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -98,6 +38,66 @@
     "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
     "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Segment Sales Manager – Infrastructure",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
+    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr. Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Sr. Project Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
+    "id": "abb-sr-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Account Manager - C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
+    "id": "abb-account-manager-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Services Inside Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
