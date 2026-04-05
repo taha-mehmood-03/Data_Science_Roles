@@ -1,26 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Industry Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -51,6 +31,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Services Inside Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,23 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
+    "job_title": "Account Manager, Laboratory Automation",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sr. Project Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013698/Sr-Project-Engineer",
-    "id": "abb-sr-project-engineer-multiple"
+    "job_description": "Data Science job for the role Account Manager, Laboratory Automation at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026229/Account-Manager-Laboratory-Automation",
+    "id": "abb-account-manager-laboratory-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -98,6 +88,16 @@
     "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
     "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -301,16 +301,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Enterprise Architecture Practice & Governance Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
-    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Senior Engineer Firmware (80 -100%)",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -328,6 +318,16 @@
     "job_description": "Data Science job for the role Intern at Hangzhou, Zhejiang, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029490/Intern",
     "id": "abb-intern-hangzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Enterprise Architecture Practice & Governance Lead",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
+    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
   },
   {
     "employer_name": "ABB",
