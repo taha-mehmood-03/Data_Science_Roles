@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -21,6 +21,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Receiving Clerk",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Receiving Clerk at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029433/Receiving-Clerk",
+    "id": "abb-receiving-clerk-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
+    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,73 +71,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_title": "Warehouse Inventory Quality Technician",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
+    "id": "abb-warehouse-inventory-quality-technician-phoenix"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Contracts Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Warehouse/Internal Logistics Team Lead",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
     "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Service Contracts Manager at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029815/Service-Contracts-Manager",
-    "id": "abb-service-contracts-manager-multiple"
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Team Lead at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030668/Warehouse-Internal-Logistics-Team-Lead",
+    "id": "abb-warehouse-internal-logistics-team-lead-phoenix"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Channel Director",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
-    "id": "abb-associate-channel-director-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
+    "job_title": "Sales Specialist",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "9 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96925641/Sales-Specialist",
+    "id": "abb-sales-specialist-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -148,16 +148,6 @@
     "job_description": "Data Science job for the role Intern at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030700/Intern",
     "id": "abb-intern-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -351,13 +341,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Machine Learning Engineer",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role IS Machine Learning Engineer at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/95209309/IS-Machine-Learning-Engineer",
-    "id": "abb-is-machine-learning-engineer-krakow"
+    "job_title": "CCDP Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
+    "id": "abb-ccdp-service-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -371,13 +361,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "CCDP Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
-    "id": "abb-ccdp-service-manager-multiple"
+    "job_title": "IS Machine Learning Engineer",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role IS Machine Learning Engineer at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/95209309/IS-Machine-Learning-Engineer",
+    "id": "abb-is-machine-learning-engineer-krakow"
   },
   {
     "employer_name": "ABB",
@@ -628,6 +618,16 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Team Lead",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
+    "id": "abb-r-d-team-lead-bloomfield"
   },
   {
     "employer_name": "ABB",
