@@ -1,43 +1,13 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Package Consultant  Intern 2026- SuccessFactors Core HR",
-    "job_city": "Multiple Cities",
+    "job_title": "Account Technical Leader - Northeast - Retail",
+    "job_city": "New York",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Consultant  Intern 2026- SuccessFactors Core HR at InternshipMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89744&source=WEB_Search_NA",
-    "id": "ibm-package-consultant-intern-2026-successfactors-core-hr-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP MDG Consultant",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP MDG Consultant at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107772&source=WEB_Search_NA",
-    "id": "ibm-sap-mdg-consultant-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "AI Search and Digital Content Experience Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Search and Digital Content Experience Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108475&source=WEB_Search_NA",
-    "id": "ibm-ai-search-and-digital-content-experience-consultant-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Payment Fraud Delivery Consultant - IBM Safer Payments",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Payment Fraud Delivery Consultant - IBM Safer Payments at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107966&source=WEB_Search_NA",
-    "id": "ibm-payment-fraud-delivery-consultant-ibm-safer-payments-multiple-cities"
+    "job_description": "Data Science job for the role Account Technical Leader - Northeast - Retail at ProfessionalNew York, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107368&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-northeast-retail-new-york"
   },
   {
     "employer_name": "ABB",
@@ -51,53 +21,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Specialist",
+    "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
-    "id": "abb-industry-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Segment Sales Manager – Infrastructure",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Segment Sales Manager – Infrastructure at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019035/Industry-Segment-Sales-Manager-Infrastructure",
-    "id": "abb-industry-segment-sales-manager-infrastructure-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024357/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -111,13 +41,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
+    "job_title": "Project Management & Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
+    "id": "abb-project-management-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "empower Business Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
+    "id": "abb-empower-business-functional-analyst-multiple"
   },
   {
     "employer_name": "ABB",
@@ -128,6 +88,16 @@
     "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
     "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Education Segment Manager, US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
+    "id": "abb-education-segment-manager-us-multiple"
   },
   {
     "employer_name": "ABB",
@@ -391,16 +361,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Machine Learning Engineer",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role IS Machine Learning Engineer at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/95209309/IS-Machine-Learning-Engineer",
-    "id": "abb-is-machine-learning-engineer-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "CCDP Service Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -408,6 +368,16 @@
     "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
     "id": "abb-ccdp-service-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Machine Learning Engineer",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role IS Machine Learning Engineer at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/95209309/IS-Machine-Learning-Engineer",
+    "id": "abb-is-machine-learning-engineer-krakow"
   },
   {
     "employer_name": "ABB",
@@ -688,15 +658,5 @@
     "job_description": "Data Science job for the role 2026 Campus Hiring--Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014064/2026-Campus-Hiring-Production-Engineering-Specialist",
     "id": "abb-2026-campus-hiring-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Staff Analyst, Procure to Pay Systems (GEP)",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Analyst, Procure to Pay Systems (GEP) at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Staff-Analyst--Procure-to-Pay-Systems_R260805?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-staff-analyst-procure-to-pay-systems-gep-us"
   }
 ]
