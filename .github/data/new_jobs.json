@@ -1,43 +1,75 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Security Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Security Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/software-security-engineer/33099/93717066544",
-    "id": "arm-software-security-engineer-cambridge"
+    "job_title": "Data Engineer, Central Learning Solutions - Data Engineering Team",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, Central Learning Solutions - Data Engineering Team at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385981/data-engineer-central-learning-solutions-data-engineering-team",
+    "job_posted_at": "2026-04-08T13:05:43.616Z",
+    "job_posted_at_datetime_utc": "2026-04-08T13:05:43.616Z",
+    "id": "amazon-data-engineer-central-learning-solutions-data-engineering-team-bellevue"
+  },
+  {
+    "job_title": "Data Scientist III - AMZ9674163",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role Data Scientist III - AMZ9674163 at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10383987/data-scientist-iii-amz9674163",
+    "job_posted_at": "2026-04-07T18:05:43.616Z",
+    "job_posted_at_datetime_utc": "2026-04-07T18:05:43.616Z",
+    "id": "amazon-data-scientist-iii-amz9674163-boston"
   },
   {
     "employer_name": "Arm",
-    "job_title": "CMDB Product Owner",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "job_title": "Firmware Developer",
+    "job_city": "Munich",
+    "job_state": "Germany",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role CMDB Product Owner at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/cmdb-product-owner/33099/93146358928",
-    "id": "arm-cmdb-product-owner-cambridge"
+    "job_description": "Data Science job for the role Senior Firmware Developer at Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/munich/senior-firmware-developer/33099/78612045584",
+    "id": "arm-firmware-developer-munich"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
+    "employer_name": "IBM",
+    "job_title": "Data Center Engineer Technician - IBM Quantum Computing",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Center Engineer Technician - IBM Quantum Computing at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=105468&source=WEB_Search_NA",
+    "id": "ibm-data-center-engineer-technician-ibm-quantum-computing-poughkeepsie"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Utility Inside Sales - Parts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
-    "id": "abb-utility-inside-sales-parts-multiple"
+    "employer_name": "IBM",
+    "job_title": "Technical Services Professional",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Services Professional at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89804&source=WEB_Search_NA",
+    "id": "ibm-technical-services-professional-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Second Shift x86 Server Technician",
+    "job_city": "Columbus",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Second Shift x86 Server Technician at ProfessionalColumbus, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107963&source=WEB_Search_NA",
+    "id": "ibm-second-shift-x86-server-technician-columbus"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Represenative for Colorado Springs",
+    "job_city": "Denver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Services Represenative for Colorado Springs at ProfessionalDenver, US",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=97437&source=WEB_Search_NA",
+    "id": "ibm-system-services-represenative-for-colorado-springs-denver"
   },
   {
     "employer_name": "ABB",
@@ -61,6 +93,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Utility Inside Sales - Parts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Utility Inside Sales - Parts at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029050/Utility-Inside-Sales-Parts",
+    "id": "abb-utility-inside-sales-parts-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Project Management & Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,13 +113,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Education Segment Manager, US",
+    "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
-    "id": "abb-education-segment-manager-us-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,6 +133,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -101,6 +153,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Education Segment Manager, US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
+    "id": "abb-education-segment-manager-us-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -108,16 +170,6 @@
     "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
     "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
