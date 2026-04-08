@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Spark Product Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Spark Product Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=106902&source=WEB_Search_NA",
-    "id": "ibm-spark-product-manager-multiple-cities"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-phoenix"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Utility Inside Sales - Parts",
     "job_city": "Multiple",
@@ -41,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Receiving Clerk",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Receiving Clerk at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029433/Receiving-Clerk",
-    "id": "abb-receiving-clerk-phoenix"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -58,26 +28,6 @@
     "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
     "id": "abb-digital-automation-control-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Junior Consultant - Energy & Carbon Services",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
-    "id": "abb-junior-consultant-energy-carbon-services-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
-    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,23 +41,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Team Lead",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Team Lead at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030668/Warehouse-Internal-Logistics-Team-Lead",
-    "id": "abb-warehouse-internal-logistics-team-lead-phoenix"
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Warehouse Inventory Quality Technician",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
-    "id": "abb-warehouse-inventory-quality-technician-phoenix"
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Channel Director",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
+    "id": "abb-associate-channel-director-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Contracts Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Service Contracts Manager at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029815/Service-Contracts-Manager",
+    "id": "abb-service-contracts-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -148,6 +138,16 @@
     "job_description": "Data Science job for the role Intern at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030700/Intern",
     "id": "abb-intern-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -541,16 +541,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
-    "job_city": "Baden-Daettwil",
-    "job_state": "Aargau",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
-    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Software Integrity Manager (80-100%)",
     "job_city": "Untersiggenthal",
     "job_state": "Aargau",
@@ -558,6 +548,16 @@
     "job_description": "Data Science job for the role Software Integrity Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00011670/Software-Integrity-Manager-80-100",
     "id": "abb-software-integrity-manager-80-100-untersiggenthal"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
+    "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
   },
   {
     "employer_name": "ABB",
@@ -638,16 +638,6 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Team Lead",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
-    "id": "abb-r-d-team-lead-bloomfield"
   },
   {
     "employer_name": "ABB",
