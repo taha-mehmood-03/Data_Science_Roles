@@ -1,23 +1,22 @@
 [
   {
-    "job_title": "Business Analyst, WWGS Business and Customer Analytics",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Business Analyst, WWGS Business and Customer Analytics at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10387920/business-analyst-wwgs-business-and-customer-analytics",
-    "job_posted_at": "2026-04-09T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "id": "amazon-business-analyst-wwgs-business-and-customer-analytics-austin"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Thin Films Process Sustaining Engineer",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Thin Films Process Sustaining Engineer at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Thin-Films-Process-Sustaining-Engineer_R261668?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-thin-films-process-sustaining-engineer-us"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Research Data Scientist",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Data Scientist, Operations Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97953329430045382-research-data-scientist-operations-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-research-data-scientist-austin"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "CMP Process Sustaining Engineer",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role CMP Process Sustaining Engineer at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Process-Sustaining-Engineer_R260500?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-cmp-process-sustaining-engineer-us"
   }
 ]
