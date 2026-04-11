@@ -41,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Education Segment Manager, US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
-    "id": "abb-education-segment-manager-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "VFD Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -98,6 +88,16 @@
     "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
     "id": "abb-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Education Segment Manager, US",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Education Segment Manager, US at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00012754/Education-Segment-Manager-US",
+    "id": "abb-education-segment-manager-us-multiple"
   },
   {
     "employer_name": "ABB",
