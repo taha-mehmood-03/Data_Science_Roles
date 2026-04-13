@@ -1,44 +1,13 @@
 [
   {
-    "job_title": "Applied Scientist",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10384094/applied-scientist",
-    "job_posted_at": "2026-04-09T11:14:14.939Z",
-    "job_posted_at_datetime_utc": "2026-04-09T11:14:14.939Z",
-    "id": "amazon-applied-scientist-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Services Inside Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
-    "id": "abb-services-inside-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Management & Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
-    "id": "abb-project-management-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 months ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
+    "employer_name": "Arm",
+    "job_title": "Graphics Performance Engineer",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graphics Performance Engineer at Manchester, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/graphics-performance-engineer/33099/80144718528",
+    "id": "arm-graphics-performance-engineer-manchester"
   },
   {
     "employer_name": "ABB",
@@ -52,6 +21,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Service Site Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 months ago",
+    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010696/Data-Center-COE-Service-Site-Manager",
+    "id": "abb-data-center-coe-service-site-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Management & Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Project Management & Operations Leader at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024694/Project-Management-Operations-Leader",
+    "id": "abb-project-management-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Services Inside Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
+    "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Education Segment Manager, US",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -62,13 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
+    "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -82,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -102,13 +91,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
+    "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00018258/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -239,6 +238,16 @@
     "job_description": "Data Science job for the role R&D software engineer at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014784/R-D-software-engineer",
     "id": "abb-r-d-software-engineer-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Logistics Data Analytics & BI Specialist - Temporary",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Logistics Data Analytics & BI Specialist - Temporary at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031391/Logistics-Data-Analytics-BI-Specialist-Temporary",
+    "id": "abb-logistics-data-analytics-bi-specialist-temporary-frosinone"
   },
   {
     "employer_name": "ABB",
