@@ -1,43 +1,13 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Unit Process Engineer (Wets Process)",
-    "job_city": "Albany",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Unit Process Engineer (Wets Process) at ProfessionalAlbany, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109770&source=WEB_Search_NA",
-    "id": "ibm-unit-process-engineer-wets-process-albany"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer 2026- Oracle",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer 2026- Oracle at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=89836&source=WEB_Search_NA",
-    "id": "ibm-application-developer-2026-oracle-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Global Portfolio Leader – Payroll Technology (SuccessFactors)",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Global Portfolio Leader – Payroll Technology (SuccessFactors) at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=107776&source=WEB_Search_NA",
-    "id": "ibm-global-portfolio-leader-payroll-technology-successfactors-armonk"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "External Relations Professional - Analyst Relations, IBM Automation",
+    "job_title": "Procurement Sourcing Professional",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role External Relations Professional - Analyst Relations, IBM Automation at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109774&source=WEB_Search_NA",
-    "id": "ibm-external-relations-professional-analyst-relations-ibm-automation-multiple-cities"
+    "job_description": "Data Science job for the role Procurement Sourcing Professional at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108020&source=WEB_Search_NA",
+    "id": "ibm-procurement-sourcing-professional-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +51,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -118,16 +98,6 @@
     "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
     "id": "abb-associate-channel-director-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
