@@ -1,16 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Operator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
-    "id": "abb-warehouse-internal-logistics-operator-phoenix"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,56 +8,6 @@
     "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
     "id": "abb-services-inside-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse Coordinator",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Warehouse Coordinator at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031564/Warehouse-Coordinator",
-    "id": "abb-warehouse-coordinator-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Leader – EPC & Named End User Accounts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
-    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Junior Consultant - Energy & Carbon Services",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
-    "id": "abb-junior-consultant-energy-carbon-services-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
-    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,33 +21,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Warehouse Inventory Quality Technician",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
-    "id": "abb-warehouse-inventory-quality-technician-phoenix"
+    "job_title": "Digital Automation & Control Project Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "9 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/96925641/Sales-Specialist",
-    "id": "abb-sales-specialist-phoenix"
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Channel Director",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
+    "id": "abb-associate-channel-director-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Contracts Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Contracts Manager at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029815/Service-Contracts-Manager",
+    "id": "abb-service-contracts-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Systems Engineer",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Senior Systems Engineer at Houston, Texas, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019007/Senior-Systems-Engineer",
+    "id": "abb-senior-systems-engineer-houston"
   },
   {
     "employer_name": "ABB",
@@ -141,10 +141,20 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "8 weeks ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Supply Chain Data Expert",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Supply Chain Data Expert at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026627/Supply-Chain-Data-Expert",
     "id": "abb-supply-chain-data-expert-multiple"
@@ -184,7 +194,7 @@
     "job_title": "IS Data Analyst Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
     "id": "abb-is-data-analyst-engineer-krakow"
@@ -234,7 +244,7 @@
     "job_title": "Logistics Data Analytics & BI Specialist - Temporary",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Logistics Data Analytics & BI Specialist - Temporary at Frosinone, Frosinone, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031391/Logistics-Data-Analytics-BI-Specialist-Temporary",
     "id": "abb-logistics-data-analytics-bi-specialist-temporary-frosinone"
@@ -264,7 +274,7 @@
     "job_title": "Global IS Department Manager for Vendor & Asset Management",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Global IS Department Manager for Vendor & Asset Management at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029694/Global-IS-Department-Manager-for-Vendor-Asset-Management",
     "id": "abb-global-is-department-manager-for-vendor-asset-management-multiple"
@@ -311,16 +321,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Enterprise Architecture Practice & Governance Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
-    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Senior Engineer Firmware (80 -100%)",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -341,6 +341,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Enterprise Architecture Practice & Governance Lead",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
+    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Salesforce Service Owner for Service",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -348,26 +358,6 @@
     "job_description": "Data Science job for the role Salesforce Service Owner for Service at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025929/Salesforce-Service-Owner-for-Service",
     "id": "abb-salesforce-service-owner-for-service-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "CCDP Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
-    "id": "abb-ccdp-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Specialist",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
-    "id": "abb-warehouse-internal-logistics-specialist-beijing"
   },
   {
     "employer_name": "ABB",
@@ -384,10 +374,30 @@
     "job_title": "Internship - R&D Embedded Software Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Internship - R&D Embedded Software Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00006470/Internship-R-D-Embedded-Software-Engineer",
     "id": "abb-internship-r-d-embedded-software-engineer-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Specialist",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
+    "id": "abb-warehouse-internal-logistics-specialist-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CCDP Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role CCDP Service Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021934/CCDP-Service-Manager",
+    "id": "abb-ccdp-service-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -424,7 +434,7 @@
     "job_title": "R&D Senior Embedded Developer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role R&D Senior Embedded Developer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026257/R-D-Senior-Embedded-Developer",
     "id": "abb-r-d-senior-embedded-developer-krakow"
@@ -434,7 +444,7 @@
     "job_title": "IS Solution Architect (m/f/d)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role IS Solution Architect (m/f/d) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023729/IS-Solution-Architect-m-f-d",
     "id": "abb-is-solution-architect-m-f-d-multiple"
@@ -444,7 +454,7 @@
     "job_title": "Robotics Data Platform Engineer",
     "job_city": "Sant Quirze del Valles",
     "job_state": "Barcelona",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Robotics Data Platform Engineer at Sant Quirze del Valles, Barcelona, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029311/Robotics-Data-Platform-Engineer",
     "id": "abb-robotics-data-platform-engineer-sant-quirze-del-valles"
@@ -491,16 +501,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Occupational health & Environment specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
-    "id": "abb-occupational-health-environment-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales engineer（EU）",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -508,6 +508,16 @@
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Occupational health & Environment specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
+    "id": "abb-occupational-health-environment-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -554,7 +564,7 @@
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
-    "job_posted_at": "6 days ago",
+    "job_posted_at": "1 week ago",
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
@@ -604,7 +614,7 @@
     "job_title": "Cyber Security Technical Advisor",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "7 weeks ago",
+    "job_posted_at": "8 weeks ago",
     "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
     "id": "abb-cyber-security-technical-advisor-multiple"
@@ -614,7 +624,7 @@
     "job_title": "Documentation Specialist",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Documentation Specialist at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031313/Documentation-Specialist",
     "id": "abb-documentation-specialist-vaesteras"
@@ -624,7 +634,7 @@
     "job_title": "Global IS Network Solutions Architect",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Global IS Network Solutions Architect at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002098/Global-IS-Network-Solutions-Architect",
     "id": "abb-global-is-network-solutions-architect-multiple"
@@ -668,15 +678,5 @@
     "job_description": "Data Science job for the role Senior R&D Engineer - Tech Development & Management at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027494/Senior-R-D-Engineer-Tech-Development-Management",
     "id": "abb-senior-r-d-engineer-tech-development-management-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Team Lead",
-    "job_city": "Bloomfield",
-    "job_state": "Connecticut",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
-    "id": "abb-r-d-team-lead-bloomfield"
   }
 ]
