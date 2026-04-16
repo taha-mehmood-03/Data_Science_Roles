@@ -1,55 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "MAS Mobile Developer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role MAS Mobile Developer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110056&source=WEB_Search_NA",
-    "id": "ibm-mas-mobile-developer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business System Administrator - Workday",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business System Administrator - Workday at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=108287&source=WEB_Search_NA",
-    "id": "ibm-business-system-administrator-workday-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist 2026- Oracle Business Analytics Cloud",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist 2026- Oracle Business Analytics Cloud at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109846&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-2026-oracle-business-analytics-cloud-baton-rouge"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Package Specialist – Strategy & Transformation",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Package Specialist – Strategy & Transformation at Entry LevelMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=110311&source=WEB_Search_NA",
-    "id": "ibm-associate-package-specialist-strategy-transformation-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Package Specialist 2026- Oracle Cloud HCM Time & Absence",
-    "job_city": "BATON ROUGE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Package Specialist 2026- Oracle Cloud HCM Time & Absence at Entry LevelBATON ROUGE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109852&source=WEB_Search_NA",
-    "id": "ibm-package-specialist-2026-oracle-cloud-hcm-time-absence-baton-rouge"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Field Service Engineer – L&W Laboratory Testing Equipment",
     "job_city": "Multiple",
@@ -61,16 +11,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Tender Manager",
-    "job_city": "Etten-Leur",
-    "job_state": "Netherlands",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Tender Manager at Etten-Leur, Netherlands",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023155/Tender-Manager",
-    "id": "abb-tender-manager-etten-leur"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist - Digital",
     "job_city": "Etten-Leur",
     "job_state": "Netherlands",
@@ -78,6 +18,16 @@
     "job_description": "Data Science job for the role Sales Specialist - Digital at Etten-Leur, Netherlands",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028842/Sales-Specialist-Digital",
     "id": "abb-sales-specialist-digital-etten-leur"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Tender Manager",
+    "job_city": "Etten-Leur",
+    "job_state": "Netherlands",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Tender Manager at Etten-Leur, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023155/Tender-Manager",
+    "id": "abb-tender-manager-etten-leur"
   },
   {
     "employer_name": "ABB",
@@ -131,13 +81,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Route Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Field Service Engineer Middenspanning",
+    "job_city": "Rotterdam",
+    "job_state": "South Holland",
     "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Route Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028562/Route-Analyst",
-    "id": "abb-route-analyst-multiple"
+    "job_description": "Data Science job for the role Field Service Engineer Middenspanning at Rotterdam, South Holland, Netherlands",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006196/Field-Service-Engineer-Middenspanning",
+    "id": "abb-field-service-engineer-middenspanning-rotterdam"
   },
   {
     "employer_name": "ABB",
@@ -461,6 +411,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Facility Security Architect and Operation Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Facility Security Architect and Operation Specialist at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032016/Facility-Security-Architect-and-Operation-Specialist",
+    "id": "abb-facility-security-architect-and-operation-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Electrical Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -541,16 +501,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales engineer（EU）",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
-    "id": "abb-sales-engineer-eu-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Occupational health & Environment specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -558,6 +508,16 @@
     "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
     "id": "abb-occupational-health-environment-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales engineer（EU）",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
+    "id": "abb-sales-engineer-eu-multiple"
   },
   {
     "employer_name": "ABB",
