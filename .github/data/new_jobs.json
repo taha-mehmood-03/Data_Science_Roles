@@ -21,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Leader – EPC & Named End User Accounts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
-    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,6 +38,16 @@
     "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
     "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
   },
   {
     "employer_name": "ABB",
@@ -331,16 +331,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Enterprise Architecture Practice & Governance Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
-    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Senior Engineer Firmware (80 -100%)",
     "job_city": "Quartino",
     "job_state": "Ticino",
@@ -348,6 +338,16 @@
     "job_description": "Data Science job for the role R&D Senior Engineer Firmware (80 -100%) at Quartino, Ticino, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024261/R-D-Senior-Engineer-Firmware-80-100",
     "id": "abb-r-d-senior-engineer-firmware-80-100-quartino"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Facility Security Architect and Operation Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Facility Security Architect and Operation Specialist at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032016/Facility-Security-Architect-and-Operation-Specialist",
+    "id": "abb-facility-security-architect-and-operation-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -361,13 +361,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Facility Security Architect and Operation Specialist",
+    "job_title": "Enterprise Architecture Practice & Governance Lead",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Facility Security Architect and Operation Specialist at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032016/Facility-Security-Architect-and-Operation-Specialist",
-    "id": "abb-facility-security-architect-and-operation-specialist-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Enterprise Architecture Practice & Governance Lead at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025988/Enterprise-Architecture-Practice-Governance-Lead",
+    "id": "abb-enterprise-architecture-practice-governance-lead-multiple"
   },
   {
     "employer_name": "ABB",
@@ -521,16 +521,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Occupational health & Environment specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
-    "id": "abb-occupational-health-environment-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales engineer（EU）",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -538,6 +528,16 @@
     "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
     "id": "abb-sales-engineer-eu-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Occupational health & Environment specialist",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
+    "id": "abb-occupational-health-environment-specialist-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -591,16 +591,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Software Integrity Manager (80-100%)",
-    "job_city": "Untersiggenthal",
-    "job_state": "Aargau",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Software Integrity Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011670/Software-Integrity-Manager-80-100",
-    "id": "abb-software-integrity-manager-80-100-untersiggenthal"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Architect HR & HSE",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -608,6 +598,16 @@
     "job_description": "Data Science job for the role IS Architect HR & HSE at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026520/IS-Architect-HR-HSE",
     "id": "abb-is-architect-hr-hse-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Integrity Manager (80-100%)",
+    "job_city": "Untersiggenthal",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Software Integrity Manager (80-100%) at Untersiggenthal, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011670/Software-Integrity-Manager-80-100",
+    "id": "abb-software-integrity-manager-80-100-untersiggenthal"
   },
   {
     "employer_name": "ABB",
@@ -621,16 +621,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Documentation Specialist",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Documentation Specialist at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031313/Documentation-Specialist",
-    "id": "abb-documentation-specialist-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Cyber Security Technical Advisor",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -638,6 +628,16 @@
     "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
     "id": "abb-cyber-security-technical-advisor-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Documentation Specialist",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Documentation Specialist at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031313/Documentation-Specialist",
+    "id": "abb-documentation-specialist-vaesteras"
   },
   {
     "employer_name": "ABB",
