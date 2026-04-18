@@ -41,16 +41,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Leader – EPC & Named End User Accounts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
-    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -58,6 +48,16 @@
     "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
     "id": "abb-digital-automation-control-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
   },
   {
     "employer_name": "ABB",
