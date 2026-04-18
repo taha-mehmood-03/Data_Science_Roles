@@ -1,36 +1,6 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Agentic AI Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
-    "id": "abb-agentic-ai-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cloud and Edge Solutions Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
-    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Services Inside Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -41,13 +11,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Automation & Control Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
-    "id": "abb-digital-automation-control-project-manager-multiple"
+    "job_title": "Warehouse Coordinator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Warehouse Coordinator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031564/Warehouse-Coordinator",
+    "id": "abb-warehouse-coordinator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -61,43 +31,123 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
+    "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "7 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008062/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
+    "id": "abb-digital-automation-control-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Named Account Manager - PG&E",
+    "job_title": "Industry Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
+    "id": "abb-industry-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Named Account Manager - PG&E at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029802/Named-Account-Manager-PG-E",
-    "id": "abb-named-account-manager-pg-e-multiple"
+    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
+    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist, OEM",
-    "job_city": "West Sacramento",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sales Specialist, OEM at West Sacramento, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022901/Sales-Specialist-OEM",
-    "id": "abb-sales-specialist-oem-west-sacramento"
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director",
-    "job_city": "Remote",
-    "job_state": "United States of America",
+    "job_title": "Warehouse Inventory Quality Technician",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
+    "id": "abb-warehouse-inventory-quality-technician-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "9 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96925641/Sales-Specialist",
+    "id": "abb-sales-specialist-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Coordinator",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Field Service Coordinator at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022914/Field-Service-Coordinator",
+    "id": "abb-field-service-coordinator-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%)",
+    "job_city": "Baden-Daettwil",
+    "job_state": "Aargau",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%) at Baden-Daettwil, Aargau, Switzerland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026201/Internship-in-Domain-Adaptation-for-Time-Series-Using-Deep-Learning-80-100",
+    "id": "abb-internship-in-domain-adaptation-for-time-series-using-deep-learning-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship / Master Thesis (m/f/d) - Physics-Informed AI on Complex Thermal Processes",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Internship / Master Thesis (m/f/d) - Physics-Informed AI on Complex Thermal Processes at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028868/Internship-Master-Thesis-m-f-d-Physics-Informed-AI-on-Complex-Thermal-Processes",
+    "id": "abb-internship-master-thesis-m-f-d-physics-informed-ai-on-complex-thermal-processes-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Technical  Support Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Sales Technical  Support Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020224/Sales-Technical-Support-Specialist",
+    "id": "abb-sales-technical-support-specialist-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Supply Chain Data Expert",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Channel Director at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director",
-    "id": "abb-channel-director-remote"
+    "job_description": "Data Science job for the role Supply Chain Data Expert at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026627/Supply-Chain-Data-Expert",
+    "id": "abb-supply-chain-data-expert-multiple"
   },
   {
     "employer_name": "ABB",
@@ -321,16 +371,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Salesforce Service Owner for Service",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -521,16 +561,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Factory Digital Twin Specialist",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
-    "id": "abb-factory-digital-twin-specialist-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Hangzhou",
     "job_state": "Zhejiang",
@@ -578,16 +608,6 @@
     "job_description": "Data Science job for the role IS Architect HR & HSE at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026520/IS-Architect-HR-HSE",
     "id": "abb-is-architect-hr-hse-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Research Bachelors Intern- Summer",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Robotics Research Bachelors Intern- Summer 2026 at Auburn Hills, Michigan, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027431/Robotics-Research-Bachelors-Intern-Summer-2026",
-    "id": "abb-robotics-research-bachelors-intern-summer-auburn-hills"
   },
   {
     "employer_name": "ABB",
@@ -641,16 +661,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Software Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Software Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024657/Software-Engineer",
-    "id": "abb-software-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Engineer - Product SW Development",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -681,26 +691,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Senior Functional Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007894/Senior-Functional-Analyst",
-    "id": "abb-senior-functional-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "System Engineering Coop - Fall",
-    "job_city": "Cleveland",
-    "job_state": "Ohio",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role System Engineering Coop - Fall 2026 at Cleveland, Ohio, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021833/System-Engineering-Coop-Fall-2026",
-    "id": "abb-system-engineering-coop-fall-cleveland"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Team Lead",
     "job_city": "Bloomfield",
     "job_state": "Connecticut",
@@ -718,25 +708,5 @@
     "job_description": "Data Science job for the role IS Operations Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032114/IS-Operations-Manager",
     "id": "abb-is-operations-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Research Intern - Summer",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Robotics Research Intern - Summer 2026 at Auburn Hills, Michigan, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024858/Robotics-Research-Intern-Summer-2026",
-    "id": "abb-robotics-research-intern-summer-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
