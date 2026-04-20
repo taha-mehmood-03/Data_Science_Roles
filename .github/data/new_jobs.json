@@ -1,24 +1,25 @@
 [
   {
-    "job_title": "HR Business Partner, Relay Operations Center (ROC) PxT",
+    "job_title": "Data Engineer, Content And Data Platform",
     "employer_name": "Amazon",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_description": "Data Science job for the role HR Business Partner, Relay Operations Center (ROC) PxT at Tempe, AZ, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10385349/hr-business-partner-relay-operations-center-roc-pxt",
-    "job_posted_at": "2026-04-20T17:01:46.539Z",
-    "job_posted_at_datetime_utc": "2026-04-20T17:01:46.539Z",
-    "id": "amazon-hr-business-partner-relay-operations-center-roc-pxt-tempe"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, Content And Data Platform at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10396738/data-engineer-content-and-data-platform",
+    "job_posted_at": "2026-04-20T18:19:40.755Z",
+    "job_posted_at_datetime_utc": "2026-04-20T18:19:40.755Z",
+    "id": "amazon-data-engineer-content-and-data-platform-seattle"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "IT Software Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted a month ago",
-    "job_description": "Data Science job for the role IT Software Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41076733",
-    "id": "micron-it-software-engineer-manassas"
+    "job_title": "Energy Operations Manager - AMER, Energy Portfolio Operations",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Energy Operations Manager - AMER, Energy Portfolio Operations at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10396779/energy-operations-manager-amer-energy-portfolio-operations",
+    "job_posted_at": "2026-04-20T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
+    "id": "amazon-energy-operations-manager-amer-energy-portfolio-operations-seattle"
   },
   {
     "employer_name": "ABB",
@@ -29,6 +30,16 @@
     "job_description": "Data Science job for the role Services Inside Sales Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030097/Services-Inside-Sales-Manager",
     "id": "abb-services-inside-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse Coordinator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Warehouse Coordinator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031564/Warehouse-Coordinator",
+    "id": "abb-warehouse-coordinator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -62,6 +73,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Junior Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Junior Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Junior-Consultant-Energy-Carbon-Services",
+    "id": "abb-junior-consultant-energy-carbon-services-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO)",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Service Account Manager - Electrical Services (Power Systems, AF, Infrared, & LOTO) at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027581/Service-Account-Manager-Electrical-Services-Power-Systems-AF-Infrared-LOTO",
+    "id": "abb-service-account-manager-electrical-services-power-systems-af-infrared-loto-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse Inventory Quality Technician",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Warehouse Inventory Quality Technician at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025671/Warehouse-Inventory-Quality-Technician",
+    "id": "abb-warehouse-inventory-quality-technician-phoenix"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Associate Channel Director",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -69,16 +110,6 @@
     "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
     "id": "abb-associate-channel-director-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -92,53 +123,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Factory Digital Twin Specialist",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Maintenance/Manufacturing Engineer",
-    "job_city": "Selmer",
-    "job_state": "Tennessee",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Maintenance/Manufacturing Engineer at Selmer, Tennessee, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022464/Maintenance-Manufacturing-Engineer",
-    "id": "abb-maintenance-manufacturing-engineer-selmer"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Specialist",
-    "job_city": "Senatobia",
-    "job_state": "Mississippi",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Quality Specialist at Senatobia, Mississippi, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031417/Quality-Specialist",
-    "id": "abb-quality-specialist-senatobia"
+    "job_description": "Data Science job for the role Factory Digital Twin Specialist at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022021/Factory-Digital-Twin-Specialist",
+    "id": "abb-factory-digital-twin-specialist-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -149,16 +140,6 @@
     "job_description": "Data Science job for the role Sales Technical  Support Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020224/Sales-Technical-Support-Specialist",
     "id": "abb-sales-technical-support-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -362,6 +343,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Facility Security Architect and Operation Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Facility Security Architect and Operation Specialist at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032016/Facility-Security-Architect-and-Operation-Specialist",
+    "id": "abb-facility-security-architect-and-operation-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Salesforce Service Owner for Service",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -422,16 +413,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Robotics Data Platform Engineer",
-    "job_city": "Sant Quirze del Valles",
-    "job_state": "Barcelona",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Robotics Data Platform Engineer at Sant Quirze del Valles, Barcelona, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029311/Robotics-Data-Platform-Engineer",
-    "id": "abb-robotics-data-platform-engineer-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "ELSB Sr. Software Developer - IOT",
     "job_city": "Suzhou",
     "job_state": "Jiangsu",
@@ -459,6 +440,16 @@
     "job_description": "Data Science job for the role IS Solution Architect (m/f/d) at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023729/IS-Solution-Architect-m-f-d",
     "id": "abb-is-solution-architect-m-f-d-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Data Platform Engineer",
+    "job_city": "Sant Quirze del Valles",
+    "job_state": "Barcelona",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Robotics Data Platform Engineer at Sant Quirze del Valles, Barcelona, Spain",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029311/Robotics-Data-Platform-Engineer",
+    "id": "abb-robotics-data-platform-engineer-sant-quirze-del-valles"
   },
   {
     "employer_name": "ABB",
@@ -629,6 +620,16 @@
     "job_description": "Data Science job for the role Senior R&D Engineer - Tech Development & Management at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027494/Senior-R-D-Engineer-Tech-Development-Management",
     "id": "abb-senior-r-d-engineer-tech-development-management-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Team Lead",
+    "job_city": "Bloomfield",
+    "job_state": "Connecticut",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role R&D Team Lead at Bloomfield, Connecticut, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029155/R-D-Team-Lead",
+    "id": "abb-r-d-team-lead-bloomfield"
   },
   {
     "employer_name": "ABB",
