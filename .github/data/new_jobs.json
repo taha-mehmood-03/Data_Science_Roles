@@ -1,63 +1,23 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Photolithography Advanced DRAM Process Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role Photolithography Advanced DRAM Process Development at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41554969",
-    "id": "micron-photolithography-advanced-dram-process-development-boise"
+    "employer_name": "Arm",
+    "job_title": "Regional Major Incident  Specialist",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Regional Major Incident  Specialist at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/regional-major-incident-specialist/33099/92348218944",
+    "id": "arm-regional-major-incident-specialist-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
-    "id": "abb-industry-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
+    "employer_name": "Arm",
+    "job_title": "Product Manager, AI Infrastructure",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager, AI Infrastructure at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/product-manager-ai-infrastructure/33099/94299729856",
+    "id": "arm-product-manager-ai-infrastructure-austin"
   },
   {
     "employer_name": "ABB",
@@ -81,53 +41,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
+    "job_title": "Senior Test Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Senior Test Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022163/Senior-Test-Engineer",
+    "id": "abb-senior-test-engineer-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Channel Director",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
-    "id": "abb-associate-channel-director-multiple"
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
+    "job_title": "Fabrication Quality Specialist",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Fabrication Quality Specialist at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031703/Fabrication-Quality-Specialist",
+    "id": "abb-fabrication-quality-specialist-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "White Glove OEM Account Manager-1",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
+    "job_description": "Data Science job for the role White Glove OEM Account Manager-1 at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030228/White-Glove-OEM-Account-Manager-1",
+    "id": "abb-white-glove-oem-account-manager-1-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-multiple"
+    "job_title": "Associate Mechanical Design Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
+    "id": "abb-associate-mechanical-design-engineer-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Facility Security Architect and Operation Specialist",
+    "job_title": "Category Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
+    "id": "abb-category-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Technician - Inspector",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Quality Control Technician - Inspector at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006077/Quality-Control-Technician-Inspector",
+    "id": "abb-quality-control-technician-inspector-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Production Operator Paint Line- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role ELDS Production Operator Paint Line- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030358/ELDS-Production-Operator-Paint-Line-1st-shift",
+    "id": "abb-elds-production-operator-paint-line-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Leadership Learning & Technology Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Facility Security Architect and Operation Specialist at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032016/Facility-Security-Architect-and-Operation-Specialist",
-    "id": "abb-facility-security-architect-and-operation-specialist-multiple"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Leadership Learning & Technology Specialist at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031241/Leadership-Learning-Technology-Specialist",
+    "id": "abb-leadership-learning-technology-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -138,6 +138,16 @@
     "job_description": "Data Science job for the role Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026201/Internship-in-Domain-Adaptation-for-Time-Series-Using-Deep-Learning-80-100",
     "id": "abb-internship-in-domain-adaptation-for-time-series-using-deep-learning-80-100-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -461,16 +471,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales engineer（EU）",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
-    "id": "abb-sales-engineer-eu-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Occupational health & Environment specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -478,6 +478,16 @@
     "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
     "id": "abb-occupational-health-environment-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales engineer（EU）",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
+    "id": "abb-sales-engineer-eu-multiple"
   },
   {
     "employer_name": "ABB",
@@ -551,16 +561,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Cyber Security Technical Advisor",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
-    "id": "abb-cyber-security-technical-advisor-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Documentation Specialist",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -568,6 +568,16 @@
     "job_description": "Data Science job for the role Documentation Specialist at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031313/Documentation-Specialist",
     "id": "abb-documentation-specialist-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Cyber Security Technical Advisor",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
+    "id": "abb-cyber-security-technical-advisor-multiple"
   },
   {
     "employer_name": "ABB",
