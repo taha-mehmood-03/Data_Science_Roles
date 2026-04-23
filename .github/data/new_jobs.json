@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Graphics Performance Engineer",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Graphics Performance Engineer at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/manchester/graphics-performance-engineer/33099/80144718528",
-    "id": "arm-graphics-performance-engineer-multiple"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Performance Engineer - Team Lead",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Performance Engineer - Team Lead at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-performance-engineer-team-lead/33099/74720022336",
-    "id": "arm-software-performance-engineer-team-lead-multiple"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
+    "job_title": "Service Project Manager - Mining and Materials",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,13 +21,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
+    "job_title": "Site Commissioning Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,26 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Industry Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -101,6 +71,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "VFD Support Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
+    "id": "abb-vfd-support-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Channel Director",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
+    "id": "abb-associate-channel-director-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Service Contracts Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -108,16 +98,6 @@
     "job_description": "Data Science job for the role Service Contracts Manager at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00029815/Service-Contracts-Manager",
     "id": "abb-service-contracts-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Principal Software Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
-    "id": "abb-principal-software-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -638,15 +618,5 @@
     "job_description": "Data Science job for the role IS Operations Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032114/IS-Operations-Manager",
     "id": "abb-is-operations-manager-multiple"
-  },
-  {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "RET/OPC BEOL Validation Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role RET/OPC BEOL Validation Engineer at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010360/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-ret-opc-beol-validation-engineer-dallas"
   }
 ]
