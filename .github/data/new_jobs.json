@@ -31,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Leader – EPC & Named End User Accounts",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
-    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Automation & Control Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,6 +38,16 @@
     "job_description": "Data Science job for the role Digital Automation & Control Project Manager at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024862/Digital-Automation-Control-Project-Manager",
     "id": "abb-digital-automation-control-project-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
   },
   {
     "employer_name": "ABB",
@@ -648,5 +648,15 @@
     "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Digital Delivery & BIM/VDC Facilities Manager",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Delivery & BIM/VDC Facilities Manager at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010346/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-digital-delivery-bim-vdc-facilities-manager-dallas"
   }
 ]
