@@ -1,33 +1,13 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Senior Data Engineer",
-    "job_city": "San Bruno",
+    "job_title": "Senior Research Data Scientist",
+    "job_city": "San Francisco",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "2 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Data Engineer, YouTube Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91741946652828358-senior-data-engineer-youtube-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-engineer-san-bruno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Staff Software Engineer",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "29 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Staff Software Engineer, YouTube Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138593236623991494-staff-software-engineer-youtube-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-staff-software-engineer-san-bruno"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer – ML Developer Tools",
-    "job_city": "Galway",
-    "job_state": "Ireland",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer – ML Developer Tools at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/software-engineer-ml-developer-tools/33099/94434994480",
-    "id": "arm-software-engineer-ml-developer-tools-galway"
+    "job_description": "2 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Research Data Scientist, Core Safety Data Science",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124829550067491526-senior-research-data-scientist-core-safety-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-research-data-scientist-san-francisco"
   },
   {
     "employer_name": "ABB",
@@ -41,93 +21,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Industry Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Senior Test Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Industry Sales Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00019033/Industry-Sales-Manager",
-    "id": "abb-industry-sales-manager-multiple"
+    "job_description": "Data Science job for the role Senior Test Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022163/Senior-Test-Engineer",
+    "id": "abb-senior-test-engineer-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Contracts Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Service Contracts Manager at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029815/Service-Contracts-Manager",
-    "id": "abb-service-contracts-manager-multiple"
+    "job_title": "Associate Mechanical Design Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
+    "id": "abb-associate-mechanical-design-engineer-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Channel Director",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Associate Channel Director at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021998/Associate-Channel-Director",
-    "id": "abb-associate-channel-director-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
+    "job_title": "White Glove OEM Account Manager-1",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
+    "job_description": "Data Science job for the role White Glove OEM Account Manager-1 at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030228/White-Glove-OEM-Account-Manager-1",
+    "id": "abb-white-glove-oem-account-manager-1-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "ELDS MV SWGR Production Operator- 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator- 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024653/ELDS-MV-SWGR-Production-Operator-1st-shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Category Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Category Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00019317/Category-Manager",
+    "id": "abb-category-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Technician - Inspector",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Quality Control Technician - Inspector at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006077/Quality-Control-Technician-Inspector",
+    "id": "abb-quality-control-technician-inspector-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Production Operator Paint Line 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELDS Production Operator Paint Line 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028665/ELDS-Production-Operator-Paint-Line-1st-Shift",
+    "id": "abb-elds-production-operator-paint-line-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Team Leader - BABA",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role ELSP Team Leader - BABA at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032156/ELSP-Team-Leader-BABA",
+    "id": "abb-elsp-team-leader-baba-mebane"
   },
   {
     "employer_name": "ABB",
