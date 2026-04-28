@@ -1,74 +1,33 @@
 [
   {
-    "job_title": "Applied Scientist I, Customer Delivery Excellence Science",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist I, Customer Delivery Excellence Science at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10405738/applied-scientist-i-customer-delivery-excellence-science",
-    "job_posted_at": "2026-04-28T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
-    "id": "amazon-applied-scientist-i-customer-delivery-excellence-science-bellevue"
+    "employer_name": "Arm",
+    "job_title": "Director, Strategic Sales – Cloud AI & Datacenter",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Strategic Sales – Cloud AI & Datacenter at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-strategic-sales-cloud-ai-and-datacenter/33099/94488911584",
+    "id": "arm-director-strategic-sales-cloud-ai-datacenter-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "IDMS Mainframe Consultant",
-    "job_city": "No City",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "GRC Risk Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IDMS Mainframe Consultant at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111468&source=WEB_Search_NA",
-    "id": "ibm-idms-mainframe-consultant-no-city"
+    "job_description": "Data Science job for the role GRC Risk Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/grc-risk-manager/33099/94488909088",
+    "id": "arm-grc-risk-manager-austin"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Cloud FinOps Product Owner",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cloud FinOps Product Owner at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=111241&source=WEB_Search_NA",
-    "id": "ibm-cloud-finops-product-owner-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Back End Developer Intern:",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Back End Developer Intern: 2026 at InternshipPOUGHKEEPSIE, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=62028&source=WEB_Search_NA",
-    "id": "ibm-back-end-developer-intern-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Designer Co-op 2026 - Financial Services",
-    "job_city": "University Park",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Designer Co-op 2026 - Financial Services at InternshipUniversity Park, US",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=102093&source=WEB_Search_NA",
-    "id": "ibm-associate-designer-co-op-2026-financial-services-university-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer - Platform & Connector Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer - Platform & Connector Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109015&source=WEB_Search_NA",
-    "id": "ibm-engineer-platform-connector-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Account Technology Leader - Washington, DC",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Account Technology Leader - Washington, DC at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/careers/JobDetail?jobId=109268&source=WEB_Search_NA",
-    "id": "ibm-account-technology-leader-washington-dc-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Sr Product Owner (I4.0 Analyst), SMART MFG & AI",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Sr Product Owner (I4.0 Analyst), SMART MFG & AI at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41730204",
+    "id": "micron-sr-product-owner-i4-0-analyst-smart-mfg-ai-boise"
   },
   {
     "employer_name": "ABB",
@@ -709,35 +668,5 @@
     "job_description": "Data Science job for the role IS Operations Manager at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032114/IS-Operations-Manager",
     "id": "abb-is-operations-manager-multiple"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director – Supply Chain – Foundry and OSAT Procurement",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Director – Supply Chain – Foundry and OSAT Procurement at 3 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director---Supply-Chain---Foundry-and-OSAT-Procurement_2601523?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-supply-chain-foundry-and-osat-procurement-3-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director – Supply Chain – Gross Margin Program Management",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Director – Supply Chain – Gross Margin Program Management at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director---Supply-Chain---Gross-Margin-Program-Management_2601524?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-supply-chain-gross-margin-program-management-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Director, Design Verification - MEM/PCIE COE",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Director, Design Verification - MEM/PCIE COE at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Director--Design-Verification---MEM-PCIE-COE_2601560?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-director-design-verification-mem-pcie-coe-santa-clara"
   }
 ]
