@@ -1,15 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Regional Account Manager/Hyperscale Account Sales Lead",
-    "job_city": "Shanghai",
-    "job_state": "China",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Regional Account Manager/Hyperscale Account Sales Lead at Shanghai, China",
-    "job_apply_link": "https://careers.arm.com/job/shanghai/regional-account-manager-hyperscale-account-sales-lead/33099/94549393328",
-    "id": "arm-regional-account-manager-hyperscale-account-sales-lead-shanghai"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Agentic AI Intern- Summer",
     "job_city": "San Jose",
@@ -620,23 +610,113 @@
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manager, Semi Packaging Engineering",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "MARVELL",
+    "job_title": "Digital Design Engineer",
+    "job_city": "US-CA - San Diego",
+    "job_state": "",
     "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Manager, Semi Packaging Engineering at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Manager--Semi-Packaging-Engineering_R262119-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manager-semi-packaging-engineering-us"
+    "job_description": "Data Science job for the role Staff Digital Design Engineer at US-CA - San Diego",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---San-Diego/Staff-Digital-Design-Engineer_2601646?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-digital-design-engineer-us-ca-san-diego"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Manager, Reliability Operations",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "MARVELL",
+    "job_title": "Sr Principal Digital Design Engineer",
+    "job_city": "US-CA - San Diego",
+    "job_state": "",
     "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Manager, Reliability Operations at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manager--Reliability-Operations_R261971?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-manager-reliability-operations-us"
+    "job_description": "Data Science job for the role Sr Principal Digital Design Engineer at US-CA - San Diego",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---San-Diego/Sr-Principal-Digital-Design-Engineer_2601643?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-digital-design-engineer-us-ca-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr Staff Digital Design Engineer",
+    "job_city": "US-CA - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Sr Staff Digital Design Engineer at US-CA - San Diego",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---San-Diego/Sr-Staff-Digital-Design-Engineer_2601645?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-digital-design-engineer-us-ca-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Distinguished Engineer - Digital Design",
+    "job_city": "US-CA - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Distinguished Engineer - Digital Design at US-CA - San Diego",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-CA---San-Diego/Distinguished-Engineer---Digital-Design_2601642?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-distinguished-engineer-digital-design-us-ca-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr Principal SoC Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Sr Principal SoC Verification Engineer at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Sr-Principal-SoC-Verification-Engineer_2601615?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-principal-soc-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Sr Staff SoC Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Sr Staff SoC Verification Engineer at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Sr-Staff-SoC-Verification-Engineer_2601623?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-sr-staff-soc-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "SoC Verification",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Principal SoC Verification at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Principal-SoC-Verification_2601617?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-soc-verification-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "SoC Design Verification Manager",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior SoC Design Verification Manager at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Senior-SoC-Design-Verification-Manager_2601579?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-soc-design-verification-manager-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "SoC Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Staff SoC Verification Engineer at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Staff-SoC-Verification-Engineer_2601636?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-soc-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Distinguished Engineer - SoC Verification",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Distinguished Engineer - SoC Verification at San Diego, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/San-Diego-CA/Distinguished-Engineer---SoC-Verification_2601614?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-distinguished-engineer-soc-verification-san-diego"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "FP&A Systems Principal Professional / Solution Architect",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role FP&A Systems Principal Professional / Solution Architect at 2 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/FP-A-Systems-Principal-Professional---Solution-Architect_2601573?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-fp-a-systems-principal-professional-solution-architect-2-locations"
   }
 ]
