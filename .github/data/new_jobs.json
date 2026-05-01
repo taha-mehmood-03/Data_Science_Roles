@@ -1,24 +1,14 @@
 [
   {
-    "job_title": "Data Scientist II, SCOT OSS - Sourcing Execution & Performance",
+    "job_title": "Data Engineer II , UTR Data Engineering",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist II, SCOT OSS - Sourcing Execution & Performance at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408893/data-scientist-ii-scot-oss-sourcing-execution-performance",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Engineer II , UTR Data Engineering at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10408987/data-engineer-ii-utr-data-engineering",
     "job_posted_at": "2026-05-01T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "id": "amazon-data-scientist-ii-scot-oss-sourcing-execution-performance-bellevue"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "id": "amazon-data-engineer-ii-utr-data-engineering-austin"
   },
   {
     "employer_name": "ABB",
@@ -32,6 +22,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Industry Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -39,16 +49,6 @@
     "job_description": "Data Science job for the role Industry Sales Specialist at Available in one of 16 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019032/Industry-Sales-Specialist",
     "id": "abb-industry-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -62,23 +62,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Principal Software Engineer",
+    "job_title": "VFD Support Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
-    "id": "abb-principal-software-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
+    "id": "abb-vfd-support-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -99,6 +89,16 @@
     "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
     "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Software Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
+    "id": "abb-principal-software-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -362,16 +362,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales engineer（EU）",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
-    "id": "abb-sales-engineer-eu-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Occupational health & Environment specialist",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -379,6 +369,16 @@
     "job_description": "Data Science job for the role Occupational health & Environment specialist at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031295/Occupational-health-Environment-specialist",
     "id": "abb-occupational-health-environment-specialist-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales engineer（EU）",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Sales engineer（EU） at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022281/Sales-engineer（EU）",
+    "id": "abb-sales-engineer-eu-multiple"
   },
   {
     "employer_name": "ABB",
@@ -422,16 +422,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -439,6 +429,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -502,16 +502,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Manager",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "10 months ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
-    "id": "abb-digital-solution-engineering-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -529,6 +519,16 @@
     "job_description": "Data Science job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
     "id": "abb-r-d-quality-assurance-specialist-officer-genova"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "10 months ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-shanghai"
   },
   {
     "employer_name": "ABB",
