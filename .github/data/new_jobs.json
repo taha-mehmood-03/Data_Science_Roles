@@ -1,55 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer",
-    "job_city": "Irvine",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer at ProfessionalIrvine, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113361&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-irvine"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "System Services Representative - Wisconsin (Milwaukee - Madison)",
-    "job_city": "MILWAUKEE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role System Services Representative - Wisconsin (Milwaukee - Madison) at ProfessionalMILWAUKEE, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=102097&source=WEB_Search_NA",
-    "id": "ibm-system-services-representative-wisconsin-milwaukee-madison-milwaukee"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer-Intermediate (TS)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Full Stack Developer-Intermediate (TS) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113240&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-intermediate-ts-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Finance Director",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP Finance Director at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113283&source=WEB_Search_NA",
-    "id": "ibm-sap-finance-director-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM Brand Sales Specialist-MaaS360 Telco",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IBM Brand Sales Specialist-MaaS360 Telco at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113275&source=WEB_Search_NA",
-    "id": "ibm-ibm-brand-sales-specialist-maas360-telco-austin"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Field Service Technician",
     "job_city": "Remote",
@@ -71,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Site Commissioning Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -78,16 +38,6 @@
     "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
     "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -114,30 +64,30 @@
     "job_title": "Resident Field Service Technician (Gary, IN)",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
     "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Proposal Engineer",
+    "job_title": "Sales Leader – EPC & Named End User Accounts",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Proposal Engineer at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028517/Proposal-Engineer",
-    "id": "abb-proposal-engineer-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Sales Leader – EPC & Named End User Accounts at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028426/Sales-Leader-EPC-Named-End-User-Accounts",
+    "id": "abb-sales-leader-epc-named-end-user-accounts-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "VFD Support Specialist",
+    "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role VFD Support Specialist II at Available in one of 43 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029728/VFD-Support-Specialist-II",
-    "id": "abb-vfd-support-specialist-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
   },
   {
     "employer_name": "ABB",
@@ -174,7 +124,7 @@
     "job_title": "Intern",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role Intern at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032847/Intern",
     "id": "abb-intern-shanghai"
@@ -374,7 +324,7 @@
     "job_title": "Principal Domain Architect - Identity and Access Security",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Principal Domain Architect - Identity and Access Security at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014152/Principal-Domain-Architect-Identity-and-Access-Security",
     "id": "abb-principal-domain-architect-identity-and-access-security-multiple"
@@ -454,7 +404,7 @@
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
@@ -464,7 +414,7 @@
     "job_title": "Summer Worker: Production Engineer, ABB Robotics",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role Summer Worker: Production Engineer, ABB Robotics at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030349/Summer-Worker-Production-Engineer-ABB-Robotics",
     "id": "abb-summer-worker-production-engineer-abb-robotics-vaesteras"
@@ -514,7 +464,7 @@
     "job_title": "R&D Engineer - Product SW Development",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role R&D Engineer - Product SW Development at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025927/R-D-Engineer-Product-SW-Development",
     "id": "abb-r-d-engineer-product-sw-development-multiple"
@@ -534,7 +484,7 @@
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
@@ -544,7 +494,7 @@
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
     "id": "abb-r-d-quality-assurance-specialist-officer-genova"
@@ -568,15 +518,5 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Principal, Design Verification Engineer, UAL and PCIe Subsystems",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal, Design Verification Engineer, UAL and PCIe Subsystems at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal--Design-Verification-Engineer--UAL-and-PCIe-Subsystems_2601316?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-principal-design-verification-engineer-ual-and-pcie-subsystems-santa-clara"
   }
 ]
