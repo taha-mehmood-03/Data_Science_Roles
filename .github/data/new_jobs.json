@@ -1,36 +1,5 @@
 [
   {
-    "job_title": "Software Development Engineer Internship - Fall 2026 (US)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Software Development Engineer Internship - Fall 2026 (US) at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-fall-2026-us",
-    "job_posted_at": "2026-05-06T20:44:43.447Z",
-    "job_posted_at_datetime_utc": "2026-05-06T20:44:43.447Z",
-    "id": "amazon-software-development-engineer-internship-fall-2026-us-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
@@ -52,43 +21,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032038/Field-Service-Technician",
-    "id": "abb-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030653/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_title": "Data Center COE Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Data Center COE Project Manager at Available in one of 14 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "empower Business Functional Analyst",
+    "job_title": "Data Center COE Project Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role empower Business Functional Analyst at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023480/empower-Business-Functional-Analyst",
-    "id": "abb-empower-business-functional-analyst-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -99,6 +48,56 @@
     "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
     "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Software Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
+    "id": "abb-principal-software-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
   },
   {
     "employer_name": "ABB",
@@ -382,16 +381,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -399,6 +388,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -462,16 +461,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Manager",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -479,6 +468,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "High Performance Computing System administrators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
+    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -499,5 +498,25 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Vulnerability Management Professional",
+    "job_city": "US-TX - Austin",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Vulnerability Management Professional at US-TX - Austin",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-TX---Austin/Vulnerability-Management-Professional_2601540?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-vulnerability-management-professional-us-tx-austin"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Analog and Mixed-Signal IC Design Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal  Analog and Mixed-Signal IC Design Engineer at Irvine, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal--Analog-and-Mixed-Signal-IC-Design-Engineer_2601604?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-analog-and-mixed-signal-ic-design-engineer-irvine"
   }
 ]
