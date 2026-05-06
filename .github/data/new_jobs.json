@@ -1,206 +1,5 @@
 [
   {
-    "job_title": "Data Scientist, AWS Security",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Data Scientist, AWS Security at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10411974/data-scientist-aws-security",
-    "job_posted_at": "2026-05-05T23:15:05.727Z",
-    "job_posted_at_datetime_utc": "2026-05-05T23:15:05.727Z",
-    "id": "amazon-data-scientist-aws-security-arlington"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Finance Data Analyst",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Finance Data Analyst at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-finance-data-analyst/33099/94754450512",
-    "id": "arm-finance-data-analyst-san-jose"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "/ Staff Reliability Engineer – Statistics & Data Science",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Principal / Staff Reliability Engineer – Statistics & Data Science at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41806388",
-    "id": "micron-staff-reliability-engineer-statistics-data-science-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Technical Sales Engineer - Apptio",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Technical Sales Engineer - Apptio at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113365&source=WEB_Search_NA",
-    "id": "ibm-sr-technical-sales-engineer-apptio-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP Consultant MDG",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP Consultant MDG at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112189&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-consultant-mdg-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Oracle Cloud FIN Tech Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Oracle Cloud FIN Tech Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=111989&source=WEB_Search_NA",
-    "id": "ibm-oracle-cloud-fin-tech-lead-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing SAP Consultant Security",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing SAP Consultant Security at ProfessionalDallas, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112194&source=WEB_Search_NA",
-    "id": "ibm-managing-sap-consultant-security-dallas"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Analytics Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing Analytics Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112468&source=WEB_Search_NA",
-    "id": "ibm-managing-analytics-lead-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer-SAP ABAP HANA",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer-SAP ABAP HANA at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112741&source=WEB_Search_NA",
-    "id": "ibm-application-developer-sap-abap-hana-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Application Developer-SAP ABAP HANA",
-    "job_city": "PARAMUS",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Developer-SAP ABAP HANA at ProfessionalPARAMUS, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112743&source=WEB_Search_NA",
-    "id": "ibm-application-developer-sap-abap-hana-paramus"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Managing Consultant - ABAP  HANA",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP Managing Consultant - ABAP  HANA at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113027&source=WEB_Search_NA",
-    "id": "ibm-sap-managing-consultant-abap-hana-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cloud Technical Account Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cloud Technical Account Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=112764&source=WEB_Search_NA",
-    "id": "ibm-cloud-technical-account-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Solutions Sales Engineer - Confluent",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Solutions Sales Engineer - Confluent at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113568&source=WEB_Search_NA",
-    "id": "ibm-solutions-sales-engineer-confluent-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Specialist - Fusion Storage",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Specialist - Fusion Storage at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113390&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-specialist-fusion-storage-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "GTM Systems Operations Program Manager - Confluent",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GTM Systems Operations Program Manager - Confluent at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113565&source=WEB_Search_NA",
-    "id": "ibm-gtm-systems-operations-program-manager-confluent-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Account Technical Leader for Visa",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Account Technical Leader for Visa at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113293&source=WEB_Search_NA",
-    "id": "ibm-account-technical-leader-for-visa-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SSR - System Service Representative",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SSR - System Service Representative at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113009&source=WEB_Search_NA",
-    "id": "ibm-ssr-system-service-representative-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "SAP Basis Consultant",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role SAP Basis Consultant at ProfessionalNo City, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113024&source=WEB_Search_NA",
-    "id": "ibm-sap-basis-consultant-no-city"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Strategic Account Manager - Confluent (Life Sciences)",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Strategic Account Manager - Confluent (Life Sciences) at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113545&source=WEB_Search_NA",
-    "id": "ibm-strategic-account-manager-confluent-life-sciences-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum Control Systems Engineer (Hardware & Embedded Systems)",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum Control Systems Engineer (Hardware & Embedded Systems) at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=109558&source=WEB_Search_NA",
-    "id": "ibm-quantum-control-systems-engineer-hardware-embedded-systems-yorktown-heights"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -212,33 +11,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Key Account Manager - Digital Automation & Controls",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
-    "id": "abb-key-account-manager-digital-automation-controls-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
+    "job_title": "Data Center COE Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
+    "job_description": "Data Science job for the role Data Center COE Project Manager at Available in one of 14 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033743/Data-Center-COE-Project-Manager",
+    "id": "abb-data-center-coe-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -282,6 +61,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Key Account Manager - Digital Automation & Controls",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Key Account Manager - Digital Automation & Controls at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022997/Key-Account-Manager-Digital-Automation-Controls",
+    "id": "abb-key-account-manager-digital-automation-controls-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Principal Software Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -289,6 +78,16 @@
     "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
     "id": "abb-principal-software-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -309,16 +108,6 @@
     "job_description": "Data Science job for the role Internship in Domain Adaptation for Time-Series Using Deep-Learning (80-100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026201/Internship-in-Domain-Adaptation-for-Time-Series-Using-Deep-Learning-80-100",
     "id": "abb-internship-in-domain-adaptation-for-time-series-using-deep-learning-80-100-baden-daettwil"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -602,16 +391,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -619,6 +398,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -672,16 +461,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Engineer - Product SW Development",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role R&D Engineer - Product SW Development at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025927/R-D-Engineer-Product-SW-Development",
-    "id": "abb-r-d-engineer-product-sw-development-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
@@ -692,16 +471,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Manager",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -709,6 +478,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "High Performance Computing System administrators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
+    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
