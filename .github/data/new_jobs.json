@@ -1,47 +1,23 @@
 [
   {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413142/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-05-07T03:57:45.866Z",
-    "job_posted_at_datetime_utc": "2026-05-07T03:57:45.866Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-seattle"
+    "employer_name": "Arm",
+    "job_title": "Director Applications Engineering Silicon",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director Applications Engineering Silicon at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-applications-engineering-silicon/33099/94462870928",
+    "id": "arm-director-applications-engineering-silicon-multiple"
   },
   {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413156/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-05-07T03:57:45.866Z",
-    "job_posted_at_datetime_utc": "2026-05-07T03:57:45.866Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413150/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-05-07T03:57:45.866Z",
-    "job_posted_at_datetime_utc": "2026-05-07T03:57:45.866Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10413173/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-05-07T03:57:45.866Z",
-    "job_posted_at_datetime_utc": "2026-05-07T03:57:45.866Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-santa-clara"
+    "employer_name": "Arm",
+    "job_title": "Customer Success Manager",
+    "job_city": "Taipei",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager at Taipei, Taiwan, Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/taipei/customer-success-manager/33099/94799831168",
+    "id": "arm-customer-success-manager-taipei"
   },
   {
     "employer_name": "ABB",
@@ -55,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Site Commissioning Operations Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -72,6 +38,16 @@
     "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
     "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -115,16 +91,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Proposal Engineer at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028517/Proposal-Engineer",
-    "id": "abb-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Resident Field Service Technician (Gary, IN)",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -132,6 +98,16 @@
     "job_description": "Data Science job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
     "id": "abb-resident-field-service-technician-gary-in-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Data Center COE Project Specialist at Available in one of 11 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
+    "id": "abb-data-center-coe-project-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -542,5 +518,15 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "System Architect",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Principal System Architect at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-System-Architect_2600581?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-system-architect-santa-clara"
   }
 ]
