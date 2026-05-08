@@ -1,25 +1,63 @@
 [
   {
-    "job_title": "Data Scientist II, Long Term Planning and Forecasting",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist II, Long Term Planning and Forecasting at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10414902/data-scientist-ii-long-term-planning-and-forecasting",
-    "job_posted_at": "2026-05-08T15:52:44.761Z",
-    "job_posted_at_datetime_utc": "2026-05-08T15:52:44.761Z",
-    "id": "amazon-data-scientist-ii-long-term-planning-and-forecasting-bellevue"
+    "employer_name": "Micron",
+    "job_title": "AI/ML Engineer, DRAM Technology Modeling",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior AI/ML Engineer, DRAM Technology Modeling at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41851862",
+    "id": "micron-ai-ml-engineer-dram-technology-modeling-boise"
   },
   {
-    "job_title": "Data Engineer, Compensation, CPSA",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, Compensation, CPSA at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10414395/data-engineer-compensation-cpsa",
-    "job_posted_at": "2026-05-08T03:52:44.762Z",
-    "job_posted_at_datetime_utc": "2026-05-08T03:52:44.762Z",
-    "id": "amazon-data-engineer-compensation-cpsa-seattle"
+    "employer_name": "Micron",
+    "job_title": "PCVD Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Senior PCVD Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41862477",
+    "id": "micron-pcvd-equipment-engineer-boise"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum algorithm theorist",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantum algorithm theorist at ProfessionalCambridge, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114034&source=WEB_Search_NA",
+    "id": "ibm-quantum-algorithm-theorist-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cybersecurity Compliance Analyst Apprentice",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cybersecurity Compliance Analyst Apprentice at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114373&source=WEB_Search_NA",
+    "id": "ibm-cybersecurity-compliance-analyst-apprentice-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP S/4HANA Indirect Tax Implementation Associate Consultant",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP S/4HANA Indirect Tax Implementation Associate Consultant at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=114323&source=WEB_Search_NA",
+    "id": "ibm-sap-s-4hana-indirect-tax-implementation-associate-consultant-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Apprentice",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer Apprentice at InternshipMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113738&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-apprentice-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -43,83 +81,63 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "ELDS LV SWGR Team Leader 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
+    "job_description": "Data Science job for the role ELDS LV SWGR Team Leader 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033970/ELDS-LV-SWGR-Team-Leader-1st-Shift",
+    "id": "abb-elds-lv-swgr-team-leader-1st-shift-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "Category Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Category Manager at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025542/Category-Manager",
+    "id": "abb-category-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Site Commissioning Operations Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
-    "id": "abb-site-commissioning-operations-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager - Data Center Cooling",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
-    "id": "abb-business-development-manager-data-center-cooling-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrification Services Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
-    "id": "abb-electrification-services-application-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "ELDS MV SWGR Production Operator 1st Shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator 1st Shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026149/ELDS-MV-SWGR-Production-Operator-1st-Shift",
+    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Principal Software Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
-    "id": "abb-principal-software-engineer-multiple"
+    "job_title": "Machine Operator - ELSP",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Machine Operator - ELSP at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033401/Machine-Operator-ELSP",
+    "id": "abb-machine-operator-elsp-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Mechanical Design Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
+    "id": "abb-associate-mechanical-design-engineer-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Team Leader - BABA",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role ELSP Team Leader - BABA at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032156/ELSP-Team-Leader-BABA",
+    "id": "abb-elsp-team-leader-baba-mebane"
   },
   {
     "employer_name": "ABB",
@@ -520,5 +538,25 @@
     "job_description": "Data Science job for the role Production Engineering Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022386/Production-Engineering-Specialist",
     "id": "abb-production-engineering-specialist-xiamen"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Digital Healthcare GAM",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Digital Healthcare GAM at 4 Locations",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MN-Home-Office/Digital-Healthcare-GAM_R262489?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-digital-healthcare-gam-4-locations"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Research Scientist, Machine Learning",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Research Scientist, Machine Learning at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Research-Scientist--Machine-Learning_R262487?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-research-scientist-machine-learning-us"
   }
 ]
