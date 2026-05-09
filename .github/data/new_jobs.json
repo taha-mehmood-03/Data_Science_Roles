@@ -21,63 +21,83 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS LV SWGR Team Leader 1st Shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role ELDS LV SWGR Team Leader 1st Shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033970/ELDS-LV-SWGR-Team-Leader-1st-Shift",
-    "id": "abb-elds-lv-swgr-team-leader-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Category Manager",
+    "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Category Manager at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025542/Category-Manager",
-    "id": "abb-category-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS MV SWGR Production Operator 1st Shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator 1st Shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026149/ELDS-MV-SWGR-Production-Operator-1st-Shift",
-    "id": "abb-elds-mv-swgr-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Machine Operator - ELSP",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Machine Operator - ELSP at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033401/Machine-Operator-ELSP",
-    "id": "abb-machine-operator-elsp-mebane"
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Associate Mechanical Design Engineer",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Associate Mechanical Design Engineer at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028215/Associate-Mechanical-Design-Engineer",
-    "id": "abb-associate-mechanical-design-engineer-mebane"
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELSP Team Leader - BABA",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role ELSP Team Leader - BABA at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032156/ELSP-Team-Leader-BABA",
-    "id": "abb-elsp-team-leader-baba-mebane"
+    "job_title": "Site Commissioning Operations Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Site Commissioning Operations Leader at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00021686/Site-Commissioning-Operations-Leader",
+    "id": "abb-site-commissioning-operations-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Data Center Cooling",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
+    "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Electrification Services Application Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
+    "id": "abb-electrification-services-application-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Software Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
+    "id": "abb-principal-software-engineer-multiple"
   },
   {
     "employer_name": "ABB",
