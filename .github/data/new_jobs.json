@@ -21,16 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -41,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,6 +51,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Development Manager - Data Center Cooling",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,6 +68,16 @@
     "job_description": "Data Science job for the role Business Development Manager - Data Center Cooling at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00017931/Business-Development-Manager-Data-Center-Cooling",
     "id": "abb-business-development-manager-data-center-cooling-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -88,16 +98,6 @@
     "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
     "id": "abb-principal-software-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -311,16 +311,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Snr. R&D Engineer - Robotics Application Software",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Snr. R&D Engineer - Robotics Application Software at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011054/Snr-R-D-Engineer-Robotics-Application-Software",
-    "id": "abb-snr-r-d-engineer-robotics-application-software-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sales Specialist",
     "job_city": "Jinghu District",
     "job_state": "Anhui",
@@ -338,6 +328,16 @@
     "job_description": "Data Science job for the role Principal Domain Architect - Identity and Access Security at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00014152/Principal-Domain-Architect-Identity-and-Access-Security",
     "id": "abb-principal-domain-architect-identity-and-access-security-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Snr. R&D Engineer - Robotics Application Software",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Snr. R&D Engineer - Robotics Application Software at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00011054/Snr-R-D-Engineer-Robotics-Application-Software",
+    "id": "abb-snr-r-d-engineer-robotics-application-software-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -371,16 +371,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -388,6 +378,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -431,16 +431,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
@@ -458,6 +448,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "High Performance Computing System administrators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
+    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
