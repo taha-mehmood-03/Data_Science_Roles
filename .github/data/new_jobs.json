@@ -1,5 +1,15 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Manager Business Development",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager Business Development at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-manager-business-development/33099/84516812672",
+    "id": "arm-manager-business-development-san-jose"
+  },
+  {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
@@ -71,6 +81,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Electrification Services Application Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
+    "id": "abb-electrification-services-application-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,16 +108,6 @@
     "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
     "id": "abb-principal-software-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Electrification Services Application Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
-    "id": "abb-electrification-services-application-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -366,18 +376,8 @@
     "job_state": "Zhejiang",
     "job_posted_at": "3 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -388,6 +388,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -431,16 +441,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
@@ -458,6 +458,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "High Performance Computing System administrators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
+    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
