@@ -1,13 +1,23 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "GPU Verification Engineer",
-    "job_city": "Raanana",
-    "job_state": "Israel",
+    "job_title": "Applications Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior GPU Verification Engineer at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/senior-gpu-verification-engineer/33099/92956824784",
-    "id": "arm-gpu-verification-engineer-raanana"
+    "job_description": "Data Science job for the role Applications Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/applications-engineer/33099/94222456880",
+    "id": "arm-applications-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "HPC Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role HPC Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/hpc-engineer/33099/94961820400",
+    "id": "arm-hpc-engineer-austin"
   },
   {
     "employer_name": "ABB",
@@ -351,16 +361,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "数字化架构及方案研发主任工程师",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "8 months ago",
-    "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
-    "id": "abb--beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -368,6 +368,16 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "数字化架构及方案研发主任工程师",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "8 months ago",
+    "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
+    "id": "abb--beijing"
   },
   {
     "employer_name": "ABB",
@@ -381,16 +391,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Intern software engineer / mathematics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
-    "id": "abb-intern-software-engineer-mathematics-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Global R&D Infrastructure Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -398,6 +398,16 @@
     "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
     "id": "abb-global-r-d-infrastructure-lead-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern software engineer / mathematics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
+    "id": "abb-intern-software-engineer-mathematics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -441,16 +451,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
@@ -468,6 +468,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
     "id": "abb-digital-solution-engineering-manager-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "High Performance Computing System administrators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
+    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
