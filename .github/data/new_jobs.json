@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Security Business Analyst",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Business Analyst at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/security-business-analyst/33099/95043880928",
-    "id": "arm-security-business-analyst-cambridge"
+    "job_title": "Software Development Engineer Fall Intern - Military Veteran",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Software Development Engineer Fall Intern - Military Veteran at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
+    "job_posted_at": "2026-05-13T15:13:21.933Z",
+    "job_posted_at_datetime_utc": "2026-05-13T15:13:21.933Z",
+    "id": "amazon-software-development-engineer-fall-intern-military-veteran-arlington"
   }
 ]
