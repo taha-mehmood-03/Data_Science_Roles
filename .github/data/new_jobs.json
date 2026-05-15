@@ -1,23 +1,13 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineering Manager",
-    "job_city": "San Francisco",
+    "job_title": "Machine Learning Software Engineer",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "59 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineering Manager, Agentic AI Systems, Cloud Security",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/75180795425104582-software-engineering-manager-agentic-ai-systems-cloud-security?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-software-engineering-manager-san-francisco"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "System Level Product Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal System Level Product Engineer at San Diego, California",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-system-level-product-engineer/33099/85702733840",
-    "id": "arm-system-level-product-engineer-san-diego"
+    "job_description": "55 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Machine Learning Software Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99351668776149702-machine-learning-software-engineer?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-machine-learning-software-engineer-mountain-view"
   },
   {
     "employer_name": "ABB",
@@ -71,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,6 +68,16 @@
     "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -201,16 +191,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Sales Specialist(PB)",
-    "job_city": "Shenzhen",
-    "job_state": "Guangdong",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
-    "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Test Engineer Intern (OptiLab)",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -218,6 +198,16 @@
     "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
     "id": "abb-test-engineer-intern-optilab-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Shenzhen",
+    "job_state": "Guangdong",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-shenzhen"
   },
   {
     "employer_name": "ABB",
@@ -431,16 +421,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global R&D Infrastructure Lead",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
-    "id": "abb-global-r-d-infrastructure-lead-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Intern software engineer / mathematics",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -448,6 +428,16 @@
     "job_description": "Data Science job for the role Intern software engineer / mathematics at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030746/Intern-software-engineer-mathematics",
     "id": "abb-intern-software-engineer-mathematics-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global R&D Infrastructure Lead",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Global R&D Infrastructure Lead at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026224/Global-R-D-Infrastructure-Lead",
+    "id": "abb-global-r-d-infrastructure-lead-multiple"
   },
   {
     "employer_name": "ABB",
@@ -491,16 +481,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Manager",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "10 months ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
-    "id": "abb-digital-solution-engineering-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -508,6 +488,16 @@
     "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "10 months ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-shanghai"
   },
   {
     "employer_name": "ABB",
