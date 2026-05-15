@@ -1,74 +1,43 @@
 [
   {
-    "job_title": "Robotics - Software Development Engineer Test Intern (Fall)",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Robotics - Software Development Engineer Test Intern (Fall) at Sunnyvale, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10419265/robotics-software-development-engineer-test-intern-fall",
-    "job_posted_at": "2026-05-15T14:49:50.404Z",
-    "job_posted_at_datetime_utc": "2026-05-15T14:49:50.404Z",
-    "id": "amazon-robotics-software-development-engineer-test-intern-fall-sunnyvale"
+    "employer_name": "Arm",
+    "job_title": "Test Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Test Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/staff-test-engineer/33099/92899969040",
+    "id": "arm-test-engineer-chandler"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Specialist, Global Facilities Operations Systems",
+    "job_title": "Software Development Engineer - Operations Improvement",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "Data Science job for the role Specialist, Global Facilities Operations Systems at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41943252",
-    "id": "micron-specialist-global-facilities-operations-systems-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "First Line Manager, AI Productivity Data Platform",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role First Line Manager, AI Productivity Data Platform at ProfessionalAustin, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=113534&source=WEB_Search_NA",
-    "id": "ibm-first-line-manager-ai-productivity-data-platform-austin"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Program Manager",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Program Manager at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115525&source=WEB_Search_NA",
-    "id": "ibm-program-manager-armonk"
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "Data Science job for the role Software Development Engineer - Operations Improvement at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/41954224",
+    "id": "micron-software-development-engineer-operations-improvement-boise"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Agentic AI Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Agentic AI Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024219/Agentic-AI-Intern-Summer-2026",
-    "id": "abb-agentic-ai-intern-summer-san-jose"
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Cloud and Edge Solutions Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Cloud and Edge Solutions Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024381/Cloud-and-Edge-Solutions-Intern-Summer-2026",
-    "id": "abb-cloud-and-edge-solutions-intern-summer-san-jose"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -82,13 +51,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
+    "job_title": "Sales Specialist, Channel",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Sales Specialist, Channel at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033550/Sales-Specialist-Channel",
+    "id": "abb-sales-specialist-channel-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, East Region, Robotics",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager, East Region, Robotics at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029603/Business-Development-Manager-East-Region-Robotics",
+    "id": "abb-business-development-manager-east-region-robotics-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager - OEM - Northeast",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
+    "job_description": "Data Science job for the role Area Sales Manager - OEM - Northeast at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033735/Area-Sales-Manager-OEM-Northeast",
+    "id": "abb-area-sales-manager-oem-northeast-multiple"
   },
   {
     "employer_name": "ABB",
@@ -112,6 +101,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician at Available in one of 9 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00023573/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -122,23 +121,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "8 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008062/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
+    "job_title": "AI Data Analytics Intern- Summer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
+    "id": "abb-ai-data-analytics-intern-summer-san-jose"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Named Account Manager - PG&E",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Named Account Manager - PG&E at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029802/Named-Account-Manager-PG-E",
-    "id": "abb-named-account-manager-pg-e-multiple"
+    "job_title": "Quality Intern",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Quality Intern at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034997/Quality-Intern",
+    "id": "abb-quality-intern-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -302,16 +301,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Engineer",
-    "job_city": "Pinetops",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role R&D Senior Engineer at Pinetops, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033397/R-D-Senior-Engineer",
-    "id": "abb-r-d-senior-engineer-pinetops"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Machine Learning Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -409,6 +398,16 @@
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027105/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022498/Sales-Specialist",
+    "id": "abb-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -529,16 +528,6 @@
     "job_description": "Data Science job for the role Senior R&D Engineer - Tech Development & Management at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027494/Senior-R-D-Engineer-Tech-Development-Management",
     "id": "abb-senior-r-d-engineer-tech-development-management-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Functional Analyst",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 months ago",
-    "job_description": "Data Science job for the role Senior Functional Analyst at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00007894/Senior-Functional-Analyst",
-    "id": "abb-senior-functional-analyst-multiple"
   },
   {
     "employer_name": "ABB",
