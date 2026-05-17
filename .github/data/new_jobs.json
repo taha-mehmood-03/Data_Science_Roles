@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -21,6 +21,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Inventory Control Associate",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
+    "id": "abb-inventory-control-associate-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Controller, Distribution Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Controller, Distribution Centers at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033198/Business-Controller-Distribution-Centers",
+    "id": "abb-business-controller-distribution-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -28,6 +58,16 @@
     "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Consultant - Energy & Carbon Services",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Consultant - Energy & Carbon Services at Available in one of 8 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028466/Consultant-Energy-Carbon-Services",
+    "id": "abb-consultant-energy-carbon-services-multiple"
   },
   {
     "employer_name": "ABB",
@@ -41,73 +81,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_title": "Sales Specialist",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "10 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/96925641/Sales-Specialist",
+    "id": "abb-sales-specialist-phoenix"
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024347/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Principal Software Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Principal Software Engineer at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031230/Principal-Software-Engineer",
-    "id": "abb-principal-software-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Data Analytics Intern- Summer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role AI Data Analytics Intern- Summer 2026 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024382/AI-Data-Analytics-Intern-Summer-2026",
-    "id": "abb-ai-data-analytics-intern-summer-san-jose"
+    "job_description": "Data Science job for the role R&D Senior Engineer at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033397/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -181,16 +181,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Sales Specialist(PB)",
-    "job_city": "Shenzhen",
-    "job_state": "Guangdong",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
-    "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Test Engineer Intern (OptiLab)",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -198,6 +188,16 @@
     "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
     "id": "abb-test-engineer-intern-optilab-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Shenzhen",
+    "job_state": "Guangdong",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-shenzhen"
   },
   {
     "employer_name": "ABB",
