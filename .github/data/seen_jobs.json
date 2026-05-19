@@ -1,6 +1,4 @@
 [
-  "aijobs-research-engineer-cbrn-us",
-  "aijobs-research-engineer-codex-united-states",
   "aijobs-research-engineer-focused-bets-united-states",
   "aijobs-research-engineer-genmedia-3d-us",
   "aijobs-research-engineer-human-centered-ai-united-states",
@@ -2533,6 +2531,7 @@
   "arm-engineer-fp-bengaluru",
   "arm-engineer-fp-noida",
   "arm-engineer-fpga-engineer-bengaluru",
+  "arm-engineer-fusa-toolchain-cambridge",
   "arm-engineer-hardware-methodology-cambridge",
   "arm-engineer-hardware-methodology-trondheim",
   "arm-engineer-low-power-sign-off-bengaluru",
@@ -8145,6 +8144,7 @@
   "micron-engineer-cmp-process-development-r-d-boise",
   "micron-engineer-device-integration-boise",
   "micron-engineer-dram-design-rule-boise",
+  "micron-engineer-dram-pi-boise",
   "micron-engineer-electrical-design-fpga-asic-boise",
   "micron-engineer-equipment-boise",
   "micron-engineer-firmware-test-engineering-longmont",
