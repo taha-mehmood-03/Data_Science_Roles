@@ -1,23 +1,13 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Verification Engineer (IP verification)",
-    "job_city": "Manchester",
+    "job_title": "Runtimes Automation Engineer",
+    "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Verification Engineer (IP verification) at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/staff-verification-engineer-ip-verification/33099/95280024992",
-    "id": "arm-verification-engineer-ip-verification-manchester"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "GENAI/Infra Consultant",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GENAI/Infra Consultant at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115851&source=WEB_Search_NA",
-    "id": "ibm-genai-infra-consultant-multiple-cities"
+    "job_description": "Data Science job for the role Runtimes Automation Engineer at Cambridge, United Kingdom, Manchester, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/runtimes-automation-engineer/33099/92129592112",
+    "id": "arm-runtimes-automation-engineer-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -41,16 +31,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -61,33 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -101,6 +61,36 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -111,13 +101,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Field Service Technician",
+    "job_title": "Electrification Services Application Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
+    "id": "abb-electrification-services-application-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -211,16 +201,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Sales Specialist(PB)",
-    "job_city": "Shenzhen",
-    "job_state": "Guangdong",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
-    "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Test Engineer Intern (OptiLab)",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -228,6 +208,16 @@
     "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
     "id": "abb-test-engineer-intern-optilab-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Shenzhen",
+    "job_state": "Guangdong",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-shenzhen"
   },
   {
     "employer_name": "ABB",
@@ -491,16 +481,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineering Manager",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "10 months ago",
-    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
-    "id": "abb-digital-solution-engineering-manager-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "High Performance Computing System administrators",
     "job_city": "Vaesteras",
     "job_state": "Vastmanland County",
@@ -508,6 +488,16 @@
     "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "10 months ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-shanghai"
   },
   {
     "employer_name": "ABB",
