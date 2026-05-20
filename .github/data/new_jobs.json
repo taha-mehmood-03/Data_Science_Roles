@@ -1,43 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "GenAI/Infra Consultant",
-    "job_city": "PARAMUS",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GenAI/Infra Consultant at ProfessionalPARAMUS, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116397&source=WEB_Search_NA",
-    "id": "ibm-genai-infra-consultant-paramus"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Americas Demand Strategist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Americas Demand Strategist at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115326&source=WEB_Search_NA",
-    "id": "ibm-americas-demand-strategist-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Quantum System Performance Senior Scientist",
-    "job_city": "Yorktown Heights",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quantum System Performance Senior Scientist at ProfessionalYorktown Heights, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115979&source=WEB_Search_NA",
-    "id": "ibm-quantum-system-performance-senior-scientist-yorktown-heights"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Managing Penetration Testing Consultant - X-Force Red",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Managing Penetration Testing Consultant - X-Force Red at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=115131&source=WEB_Search_NA",
-    "id": "ibm-managing-penetration-testing-consultant-x-force-red-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,26 +21,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -81,23 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,6 +61,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -131,13 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Electrification Services Application Engineer",
+    "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Electrification Services Application Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034140/Electrification-Services-Application-Engineer",
-    "id": "abb-electrification-services-application-engineer-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -401,16 +361,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "数字化架构及方案研发主任工程师",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -418,6 +368,16 @@
     "job_description": "Data Science job for the role 数字化架构及方案研发主任工程师 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00007367/数字化架构及方案研发主任工程师",
     "id": "abb--beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-beijing"
   },
   {
     "employer_name": "ABB",
@@ -598,5 +558,15 @@
     "job_description": "Data Science job for the role Senior IS Solution Architect for IS Security at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035419/Senior-IS-Solution-Architect-for-IS-Security",
     "id": "abb-senior-is-solution-architect-for-is-security-multiple"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Post-Silicon Validation (AI-Enabled Workflows)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff Engineer, Post-Silicon Validation (AI-Enabled Workflows) at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-AI-ML-Applications-Engineer---Product-Validation---Test_R260874?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-post-silicon-validation-ai-enabled-workflows-us"
   }
 ]
