@@ -1,13 +1,13 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
+    "id": "abb-regional-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,33 +21,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
+    "job_title": "Strategic Marketing Manager, Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
+    "id": "abb-strategic-marketing-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
-    "id": "abb-regional-sales-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,23 +61,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "OEM Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Marketing Manager, Data Centers",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
-    "id": "abb-strategic-marketing-manager-data-centers-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -468,16 +478,6 @@
     "job_description": "Data Science job for the role Global IS Network Solutions Architect at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002098/Global-IS-Network-Solutions-Architect",
     "id": "abb-global-is-network-solutions-architect-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "High Performance Computing System administrators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
-    "id": "abb-high-performance-computing-system-administrators-vaesteras"
   },
   {
     "employer_name": "ABB",
