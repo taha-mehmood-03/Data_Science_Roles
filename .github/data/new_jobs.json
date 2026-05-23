@@ -1,6 +1,16 @@
 [
   {
     "employer_name": "ABB",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -11,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -18,6 +38,16 @@
     "job_description": "Data Science job for the role Regional Sales Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033922/Regional-Sales-Manager",
     "id": "abb-regional-sales-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -58,46 +88,6 @@
     "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
     "id": "abb-strategic-marketing-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00029185/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
