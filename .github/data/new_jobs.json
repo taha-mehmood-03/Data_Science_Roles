@@ -21,6 +21,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Strategic Marketing Manager, Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -31,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +61,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Vice President Sales, C&I",
+    "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
-    "id": "abb-vice-president-sales-c-i-multiple"
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -78,26 +98,6 @@
     "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
     "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -191,16 +191,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Test Engineer Intern (OptiLab)",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
-    "id": "abb-test-engineer-intern-optilab-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Sales Specialist(PB)",
     "job_city": "Shenzhen",
     "job_state": "Guangdong",
@@ -208,6 +198,16 @@
     "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
     "id": "abb-digital-sales-specialist-pb-shenzhen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Test Engineer Intern (OptiLab)",
+    "job_city": "Shanghai",
+    "job_state": "Shanghai",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
+    "id": "abb-test-engineer-intern-optilab-shanghai"
   },
   {
     "employer_name": "ABB",
