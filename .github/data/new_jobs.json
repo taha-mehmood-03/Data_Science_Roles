@@ -1,38 +1,5 @@
 [
   {
-    "job_title": "Sr. Data Scientist, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Sr. Data Scientist, Field Engineering at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10407408/sr-data-scientist-field-engineering",
-    "job_posted_at": "2026-05-20T22:54:07.781Z",
-    "job_posted_at_datetime_utc": "2026-05-20T22:54:07.781Z",
-    "id": "amazon-sr-data-scientist-field-engineering-seattle"
-  },
-  {
-    "job_title": "Sr Data Scientist, WWSO Bedrock",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Sr Data Scientist, WWSO Bedrock at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10422870/sr-data-scientist-wwso-bedrock",
-    "job_posted_at": "2026-05-20T22:54:07.781Z",
-    "job_posted_at_datetime_utc": "2026-05-20T22:54:07.781Z",
-    "id": "amazon-sr-data-scientist-wwso-bedrock-seattle"
-  },
-  {
-    "job_title": "Senior Applied Scientist, AWS GameTech Cortex",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Senior Applied Scientist, AWS GameTech Cortex at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10406856/senior-applied-scientist-aws-gametech-cortex",
-    "job_posted_at": "2026-05-19T22:54:07.781Z",
-    "job_posted_at_datetime_utc": "2026-05-19T22:54:07.781Z",
-    "id": "amazon-senior-applied-scientist-aws-gametech-cortex-seattle"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Service Project Manager - Mining and Materials",
     "job_city": "Multiple",
