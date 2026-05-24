@@ -24,20 +24,10 @@
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Strategic Marketing Manager, Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
-    "id": "abb-strategic-marketing-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,6 +51,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic Marketing Manager, Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
+    "id": "abb-strategic-marketing-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Business Process Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,13 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,13 +91,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -134,7 +134,7 @@
     "job_title": "Data analytics Expert",
     "job_city": "Beijing",
     "job_state": "Beijing",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "Data Science job for the role Data analytics Expert at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024739/Data-analytics-Expert",
     "id": "abb-data-analytics-expert-beijing"
@@ -164,7 +164,7 @@
     "job_title": "测试软件实习生-过程自动化",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role 测试软件实习生-过程自动化 at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034827/测试软件实习生-过程自动化",
     "id": "abb--shanghai"
@@ -191,16 +191,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Sales Specialist(PB)",
-    "job_city": "Shenzhen",
-    "job_state": "Guangdong",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
-    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
-    "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Test Engineer Intern (OptiLab)",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -208,6 +198,16 @@
     "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
     "id": "abb-test-engineer-intern-optilab-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Shenzhen",
+    "job_state": "Guangdong",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-shenzhen"
   },
   {
     "employer_name": "ABB",
@@ -341,20 +341,10 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "firmware intern",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role firmware intern at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035375/firmware-intern",
     "id": "abb-firmware-intern-shanghai"
@@ -368,6 +358,16 @@
     "job_description": "Data Science job for the role Snr. R&D Engineer - Robotics Application Software at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00011054/Snr-R-D-Engineer-Robotics-Application-Software",
     "id": "abb-snr-r-d-engineer-robotics-application-software-shanghai"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-beijing"
   },
   {
     "employer_name": "ABB",
@@ -414,7 +414,7 @@
     "job_title": "Scrum Master Chapter Lead Power Distribution",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Scrum Master Chapter Lead Power Distribution at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033833/Scrum-Master-Chapter-Lead-Power-Distribution",
     "id": "abb-scrum-master-chapter-lead-power-distribution-multiple"
@@ -434,7 +434,7 @@
     "job_title": "SAP Authorization / User Access Manager f/m/d (80-100%)",
     "job_city": "Baden-Daettwil",
     "job_state": "Aargau",
-    "job_posted_at": "5 days ago",
+    "job_posted_at": "6 days ago",
     "job_description": "Data Science job for the role SAP Authorization / User Access Manager f/m/d (80-100%) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025145/SAP-Authorization-User-Access-Manager-f-m-d-80-100",
     "id": "abb-sap-authorization-user-access-manager-f-m-d-80-100-baden-daettwil"
@@ -474,7 +474,7 @@
     "job_title": "Global IS Network Solutions Architect",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role Global IS Network Solutions Architect at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00002098/Global-IS-Network-Solutions-Architect",
     "id": "abb-global-is-network-solutions-architect-multiple"
@@ -544,7 +544,7 @@
     "job_title": "Senior IS Solution Architect for IS Security",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Senior IS Solution Architect for IS Security at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035419/Senior-IS-Solution-Architect-for-IS-Security",
     "id": "abb-senior-is-solution-architect-for-is-security-multiple"
