@@ -1,13 +1,63 @@
 [
   {
+    "employer_name": "Micron",
+    "job_title": "IT Enterprise Architect",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 3 days ago",
+    "job_description": "Data Science job for the role IT Enterprise Architect at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/42086387",
+    "id": "micron-it-enterprise-architect-boise"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "UX Designer",
+    "job_title": "Data Engineer - AI & Analytics Infrastructure",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role UX Designer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116625&source=WEB_Search_NA",
-    "id": "ibm-ux-designer-multiple-cities"
+    "job_description": "Data Science job for the role Senior Data Engineer - AI & Analytics Infrastructure at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116568&source=WEB_Search_NA",
+    "id": "ibm-data-engineer-ai-analytics-infrastructure-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Architect – Azure & Cloud AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior AI Architect – Azure & Cloud AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116574&source=WEB_Search_NA",
+    "id": "ibm-ai-architect-azure-cloud-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Engineer - Agentic Systems",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior AI Engineer - Agentic Systems at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116572&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-agentic-systems-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Ceph Performance Engineer",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Ceph Performance Engineer at Entry LevelSan Jose, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118130&source=WEB_Search_NA",
+    "id": "ibm-ceph-performance-engineer-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Austin Tx. System Services Representative",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Austin Tx. System Services Representative at ProfessionalAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118279&source=WEB_Search_NA",
+    "id": "ibm-austin-tx-system-services-representative-austin"
   },
   {
     "employer_name": "ABB",
@@ -31,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic KAM - eOEM",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
-    "id": "abb-strategic-kam-eoem-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -48,16 +88,6 @@
     "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
     "id": "abb-vice-president-sales-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +101,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic KAM - eOEM",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
+    "id": "abb-strategic-kam-eoem-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -81,16 +131,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -98,6 +138,16 @@
     "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -478,15 +528,5 @@
     "job_description": "Data Science job for the role Robotics QA Software & AI/AMR Validation at Castanares, A Coruna, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035719/Robotics-QA-Software-AI-AMR-Validation",
     "id": "abb-robotics-qa-software-ai-amr-validation-castanares"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Principal Mixed-Signal Design Engineer",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Principal Mixed-Signal Design Engineer at 5 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Principal-Mixed-Signal-Design-Engineer_R262463?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-principal-mixed-signal-design-engineer-5-locations"
   }
 ]
