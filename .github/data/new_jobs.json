@@ -11,30 +11,10 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
+    "job_posted_at": "4 weeks ago",
     "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
@@ -64,20 +44,60 @@
     "job_title": "Strategic KAM - eOEM",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
     "id": "abb-strategic-kam-eoem-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Vice President Sales, C&I",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
+    "id": "abb-manufacturing-quality-tester-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Control Technician - Inspector",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 months ago",
+    "job_description": "Data Science job for the role Quality Control Technician - Inspector at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006077/Quality-Control-Technician-Inspector",
+    "id": "abb-quality-control-technician-inspector-mebane"
   },
   {
     "employer_name": "ABB",
@@ -94,7 +114,7 @@
     "job_title": "测试软件实习生-过程自动化",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "1 week ago",
+    "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role 测试软件实习生-过程自动化 at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034827/测试软件实习生-过程自动化",
     "id": "abb--shanghai"
@@ -124,7 +144,7 @@
     "job_title": "Sen. Digital Solution Engineer. Special.",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Sen. Digital Solution Engineer. Special. at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030386/Sen-Digital-Solution-Engineer-Special",
     "id": "abb-sen-digital-solution-engineer-special-shanghai"
@@ -231,6 +251,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinghu District",
+    "job_state": "Anhui",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
+    "id": "abb-sales-specialist-jinghu-district"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Warehouse/Internal Logistics Specialist",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -238,16 +268,6 @@
     "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
     "id": "abb-warehouse-internal-logistics-specialist-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Jinghu District",
-    "job_state": "Anhui",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
-    "id": "abb-sales-specialist-jinghu-district"
   },
   {
     "employer_name": "ABB",
@@ -274,7 +294,7 @@
     "job_title": "Salesforce Solution Architect for Marketing & Sales",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
     "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
@@ -364,7 +384,7 @@
     "job_title": "R&D Quality Assurance Specialist/Officer",
     "job_city": "Genova",
     "job_state": "Genova",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role R&D Quality Assurance Specialist/Officer at Genova, Genova, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032341/R-D-Quality-Assurance-Specialist-Officer",
     "id": "abb-r-d-quality-assurance-specialist-officer-genova"
@@ -414,7 +434,7 @@
     "job_title": "Robotics QA Software & AI/AMR Validation",
     "job_city": "Castanares",
     "job_state": "A Coruna",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Robotics QA Software & AI/AMR Validation at Castanares, A Coruna, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035719/Robotics-QA-Software-AI-AMR-Validation",
     "id": "abb-robotics-qa-software-ai-amr-validation-castanares"
