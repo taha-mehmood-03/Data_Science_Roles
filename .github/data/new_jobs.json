@@ -1,14 +1,23 @@
 [
   {
-    "job_title": "Data Engineer, Prime Video Global Brand & Marketing Insights",
-    "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Data Engineer, Prime Video Global Brand & Marketing Insights at Culver City, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439765/data-engineer-prime-video-global-brand-marketing-insights",
-    "job_posted_at": "2026-06-04T13:45:35.462Z",
-    "job_posted_at_datetime_utc": "2026-06-04T13:45:35.462Z",
-    "id": "amazon-data-engineer-prime-video-global-brand-marketing-insights-culver-city"
+    "employer_name": "IBM",
+    "job_title": "Red Hat Architect, Hybrid Cloud and Data, IBM Consulting Federal",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Red Hat Architect, Hybrid Cloud and Data, IBM Consulting Federal at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=116148&source=WEB_Search_NA",
+    "id": "ibm-red-hat-architect-hybrid-cloud-and-data-ibm-consulting-federal-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "International Trade Counsel",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role International Trade Counsel at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118005&source=WEB_Search_NA",
+    "id": "ibm-international-trade-counsel-washington"
   },
   {
     "employer_name": "ABB",
@@ -22,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic KAM - eOEM",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
-    "id": "abb-strategic-kam-eoem-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -42,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Strategic Marketing Manager, Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -62,33 +61,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager",
+    "job_title": "Strategic KAM - eOEM",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
-    "id": "abb-business-development-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
+    "id": "abb-strategic-kam-eoem-multiple"
   },
   {
     "employer_name": "ABB",
@@ -102,13 +81,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Business Development Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Business Development Manager at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033730/Business-Development-Manager",
+    "id": "abb-business-development-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Business Process Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager - Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -209,16 +218,6 @@
     "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
     "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Test Engineer Intern (OptiLab)",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Test Engineer Intern (OptiLab) at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032480/Test-Engineer-Intern-OptiLab",
-    "id": "abb-test-engineer-intern-optilab-shanghai"
   },
   {
     "employer_name": "ABB",
@@ -373,22 +372,22 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027105/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
     "job_description": "Data Science job for the role Sales Specialist at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00022498/Sales-Specialist",
     "id": "abb-sales-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027105/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
   },
   {
     "employer_name": "ABB",
@@ -422,16 +421,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sr . R&D Engineer",
-    "job_city": "Not Specific",
-    "job_state": "Not Specific",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Sr . R&D Engineer at Not Specific",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020705/Sr-R-D-Engineer",
-    "id": "abb-sr-r-d-engineer-not-specific"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Cyber Security Technical Advisor",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -439,6 +428,16 @@
     "job_description": "Data Science job for the role Cyber Security Technical Advisor at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00024784/Cyber-Security-Technical-Advisor",
     "id": "abb-cyber-security-technical-advisor-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sr . R&D Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Sr . R&D Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020705/Sr-R-D-Engineer",
+    "id": "abb-sr-r-d-engineer-not-specific"
   },
   {
     "employer_name": "ABB",
