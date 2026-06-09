@@ -1,85 +1,94 @@
 [
   {
-    "job_title": "Business Intelligence Engineer II, SCOT-AIM MX",
+    "job_title": "Software Engineer II, Search Science Data Infra",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer II, SCOT-AIM MX at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10443966/business-intelligence-engineer-ii-scot-aim-mx",
-    "job_posted_at": "2026-06-09T19:02:00.323Z",
-    "job_posted_at_datetime_utc": "2026-06-09T19:02:00.323Z",
-    "id": "amazon-business-intelligence-engineer-ii-scot-aim-mx-bellevue"
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Software Engineer II, Search Science Data Infra at Palo Alto, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10403151/software-engineer-ii-search-science-data-infra",
+    "job_posted_at": "2026-06-03T21:55:33.845Z",
+    "job_posted_at_datetime_utc": "2026-06-03T21:55:33.846Z",
+    "id": "amazon-software-engineer-ii-search-science-data-infra-palo-alto"
   },
   {
-    "job_title": "Data Engineer, Ads Science Analysis & Tech (ASAT)",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Data Engineer, Ads Science Analysis & Tech (ASAT) at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10443872/data-engineer-ads-science-analysis-tech-asat",
-    "job_posted_at": "2026-06-09T17:02:00.322Z",
-    "job_posted_at_datetime_utc": "2026-06-09T17:02:00.322Z",
-    "id": "amazon-data-engineer-ads-science-analysis-tech-asat-new-york"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Strategic Regional Sales Manager – Financial Services & Cloud Infrastructure (New York City)",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "employer_name": "IBM",
+    "job_title": "Full-Stack Data Engineer (TS/SCI)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Strategic Regional Sales Manager – Financial Services & Cloud Infrastructure (New York City) at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/senior-strategic-regional-sales-manager-financial-services-and-cloud-infrastructure-new-york-city/33099/94742192720",
-    "id": "arm-strategic-regional-sales-manager-financial-services-cloud-infrastructure-new-york-city-waltham"
+    "job_description": "Data Science job for the role Full-Stack Data Engineer (TS/SCI) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119567&source=WEB_Search_NA",
+    "id": "ibm-full-stack-data-engineer-ts-sci-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Graphics Instrumentation Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "IBM",
+    "job_title": "Sr. Software Engineer (TS/SCI)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Graphics Instrumentation Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-graphics-instrumentation-engineer/33099/92692428272",
-    "id": "arm-graphics-instrumentation-engineer-cambridge"
+    "job_description": "Data Science job for the role Sr. Software Engineer (TS/SCI) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119566&source=WEB_Search_NA",
+    "id": "ibm-sr-software-engineer-ts-sci-multiple-cities"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Strategic Regional Sales Manager– Cloud AI & Datacenter",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Optics Engineer",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Strategic Regional Sales Manager– Cloud AI & Datacenter at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/senior-strategic-regional-sales-manager-cloud-ai-and-datacenter/33099/94488911584",
-    "id": "arm-strategic-regional-sales-manager-cloud-ai-datacenter-san-jose"
+    "job_description": "Data Science job for the role Optics Engineer at ProfessionalPOUGHKEEPSIE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118797&source=WEB_Search_NA",
+    "id": "ibm-optics-engineer-poughkeepsie"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-remote"
+    "employer_name": "IBM",
+    "job_title": "Package Specialist 2026- Workday HCM & Compensation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Specialist 2026- Workday HCM & Compensation at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=89820&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-2026-workday-hcm-compensation-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "employer_name": "IBM",
+    "job_title": "Content Manager Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Content Manager Support Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119821&source=WEB_Search_NA",
+    "id": "ibm-content-manager-support-engineer-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader, State of Maryland",
+    "job_city": "Bethesda",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader, State of Maryland at ProfessionalBethesda, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119719&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-state-of-maryland-bethesda"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Systems Service Representative",
+    "job_city": "Frederick",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Systems Service Representative at ProfessionalFrederick, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119434&source=WEB_Search_NA",
+    "id": "ibm-systems-service-representative-frederick"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mainframe Migration Consultant (COBOL to Java)",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Mainframe Migration Consultant (COBOL to Java) at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119033&source=WEB_Search_NA",
+    "id": "ibm-mainframe-migration-consultant-cobol-to-java-no-city"
   },
   {
     "employer_name": "ABB",
@@ -93,43 +102,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Account Manager Laboratory Automation",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Account Manager Laboratory Automation at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036539/Account-Manager-Laboratory-Automation",
-    "id": "abb-account-manager-laboratory-automation-remote"
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Metallurgy Area Sales Manager - North America",
+    "job_title": "Strategic Marketing Manager, Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Metallurgy Area Sales Manager - North America at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Area-Sales-Manager-North-America",
-    "id": "abb-metallurgy-area-sales-manager-north-america-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
+    "id": "abb-strategic-marketing-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
+    "job_title": "Vice President Sales, C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic KAM - eOEM",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
+    "id": "abb-strategic-kam-eoem-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager - Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Operations Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Sales Operations Specialist at Available in one of 22 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036767/Sales-Operations-Specialist",
+    "id": "abb-sales-operations-specialist-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
