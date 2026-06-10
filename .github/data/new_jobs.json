@@ -1,43 +1,54 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "39 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Engineer, Eye Tracking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72301810227782342-senior-software-engineer-eye-tracking?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-software-engineer-san-jose"
+    "job_title": "Data Engineer, Partner Experience",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, Partner Experience at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10444729/data-engineer-partner-experience",
+    "job_posted_at": "2026-06-10T14:21:38.090Z",
+    "job_posted_at_datetime_utc": "2026-06-10T14:21:38.090Z",
+    "id": "amazon-data-engineer-partner-experience-seattle"
   },
   {
     "employer_name": "Google",
-    "job_title": "Senior Security Engineer",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
+    "job_title": "Staff Product Data Scientist",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "62 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Security Engineer, AI/ML, National Security, Public Sector",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126388436465525446-senior-security-engineer-aiml-national-security-public-sector?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-senior-security-engineer-washington-d-c"
+    "job_description": "4 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Product Data Scientist, Workspace Collab",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100812421613920966-staff-product-data-scientist-workspace-collab?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-product-data-scientist-seattle"
   },
   {
     "employer_name": "Arm",
-    "job_title": "DevOps/Automation Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Analytics Engineer - 12 month FTC",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior DevOps/Automation Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/senior-devops-automation-engineer/33099/96199783792",
-    "id": "arm-devops-automation-engineer-bengaluru"
+    "job_description": "Data Science job for the role Analytics Engineer - 12 month FTC at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/analytics-engineer-12-month-ftc/33099/93494555328",
+    "id": "arm-analytics-engineer-12-month-ftc-cambridge"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Service Team Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Service Team Leader at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037068/Service-Team-Leader",
-    "id": "abb-service-team-leader-multiple"
+    "employer_name": "IBM",
+    "job_title": "Sales Development Representative",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118331&source=WEB_Search_NA",
+    "id": "ibm-sales-development-representative-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Consultant - Enterprise Strategy",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Consultant - Enterprise Strategy at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119545&source=WEB_Search_NA",
+    "id": "ibm-managing-consultant-enterprise-strategy-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -51,13 +62,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Team Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Service Team Leader at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037068/Service-Team-Leader",
+    "id": "abb-service-team-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "District Sales Manager Midwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role District Sales Manager Midwest at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036469/District-Sales-Manager-Midwest",
+    "id": "abb-district-sales-manager-midwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -91,13 +122,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "District Sales Manager Midwest",
+    "job_title": "Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role District Sales Manager Midwest at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036469/District-Sales-Manager-Midwest",
-    "id": "abb-district-sales-manager-midwest-multiple"
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
+    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -151,16 +182,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineer",
-    "job_city": "Nashik",
-    "job_state": "Mahārāshtra",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
-    "id": "abb-digital-solution-engineer-nashik"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Data Analyst Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -168,6 +189,16 @@
     "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
     "id": "abb-is-data-analyst-engineer-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineer",
+    "job_city": "Nashik",
+    "job_state": "Mahārāshtra",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
+    "id": "abb-digital-solution-engineer-nashik"
   },
   {
     "employer_name": "ABB",
@@ -311,6 +342,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Business Requirements, Testing & QA Lead – LMS/LXP Implementation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Business Requirements, Testing & QA Lead – LMS/LXP Implementation at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036994/Business-Requirements-Testing-QA-Lead-LMS-LXP-Implementation",
+    "id": "abb-business-requirements-testing-qa-lead-lms-lxp-implementation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Specialist",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
+    "id": "abb-warehouse-internal-logistics-specialist-beijing"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "firmware intern",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -328,16 +379,6 @@
     "job_description": "Data Science job for the role Category Specialist at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037359/Category-Specialist",
     "id": "abb-category-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Warehouse/Internal Logistics Specialist",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
-    "id": "abb-warehouse-internal-logistics-specialist-beijing"
   },
   {
     "employer_name": "ABB",
@@ -411,16 +452,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Salesforce Solution Architect for Marketing & Sales",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
-    "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -428,6 +459,16 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Salesforce Solution Architect for Marketing & Sales",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
+    "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
   },
   {
     "employer_name": "ABB",
@@ -458,6 +499,16 @@
     "job_description": "Data Science job for the role (Senior) Scientist (f/m/d) – Automation Technologies (80 – 100%) at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00019949/-Senior-Scientist-f-m-d-Automation-Technologies-80-100",
     "id": "abb-senior-scientist-f-m-d-automation-technologies-80-100-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Solution Architect – LMS/LXP Implementation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Project Solution Architect – LMS/LXP Implementation at Available in one of 6 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037150/Project-Solution-Architect-LMS-LXP-Implementation",
+    "id": "abb-project-solution-architect-lms-lxp-implementation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -528,15 +579,5 @@
     "job_description": "Data Science job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
     "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Advanced Cores Design Evaluation Engineering",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Staff Engineer, Advanced Cores Design Evaluation Engineering at 3 Locations",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--Advanced-Cores-Design-Evaluation-Engineering_R262371?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-advanced-cores-design-evaluation-engineering-3-locations"
   }
 ]
