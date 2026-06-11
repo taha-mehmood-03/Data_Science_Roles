@@ -1,23 +1,63 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Trust and Safety Intelligence Analyst",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
+    "employer_name": "IBM",
+    "job_title": "Software Engineer",
+    "job_city": "LOWELL",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Trust and Safety Intelligence Analyst, Fraud and System Abuse",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93034158531453638-trust-and-safety-intelligence-analyst-fraud-and-system-abuse?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-trust-and-safety-intelligence-analyst-washington-d-c"
+    "job_description": "Data Science job for the role Software Engineer at ProfessionalLOWELL, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119532&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-lowell"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Private Cloud Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "IBM",
+    "job_title": "Implementation Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Private Cloud Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/staff-private-cloud-engineer/33099/95052485056",
-    "id": "arm-private-cloud-engineer-austin"
+    "job_description": "Data Science job for the role Senior Implementation Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120304&source=WEB_Search_NA",
+    "id": "ibm-implementation-consultant-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Pricing and Win Strategy Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Pricing and Win Strategy Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120505&source=WEB_Search_NA",
+    "id": "ibm-federal-pricing-and-win-strategy-lead-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader for Ameriprise",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader for Ameriprise at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119993&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-for-ameriprise-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader for Federal Reserve",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader for Federal Reserve at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119994&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-for-federal-reserve-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "watsonx - Product SME - IBM Bob",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role watsonx - Product SME - IBM Bob at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119363&source=WEB_Search_NA",
+    "id": "ibm-watsonx-product-sme-ibm-bob-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -61,16 +101,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Marketing Manager, Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Strategic Marketing Manager, Data Centers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035226/Strategic-Marketing-Manager-Data-Centers",
-    "id": "abb-strategic-marketing-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Strategic KAM - eOEM",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -78,16 +108,6 @@
     "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
     "id": "abb-strategic-kam-eoem-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -101,13 +121,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "Market Development Manager - Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -118,6 +138,16 @@
     "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
@@ -421,16 +451,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Salesforce Solution Architect for Marketing & Sales",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -438,6 +458,16 @@
     "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
     "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-beijing"
   },
   {
     "employer_name": "ABB",
