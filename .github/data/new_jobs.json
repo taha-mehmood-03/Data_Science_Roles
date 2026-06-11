@@ -1,63 +1,56 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer at ProfessionalLOWELL, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119532&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-lowell"
+    "job_title": "Applied Scientist, NA Stores Expansion",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, NA Stores Expansion at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10446902/applied-scientist-na-stores-expansion",
+    "job_posted_at": "2026-06-11T20:57:42.636Z",
+    "job_posted_at_datetime_utc": "2026-06-11T20:57:42.636Z",
+    "id": "amazon-applied-scientist-na-stores-expansion-seattle"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Implementation Consultant",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Implementation Consultant at ProfessionalArmonk, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120304&source=WEB_Search_NA",
-    "id": "ibm-implementation-consultant-armonk"
+    "job_title": "Psychometrician, AWS Training & Certification",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Psychometrician, AWS Training & Certification at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10446827/psychometrician-aws-training-certification",
+    "job_posted_at": "2026-06-11T19:57:42.636Z",
+    "job_posted_at_datetime_utc": "2026-06-11T19:57:42.636Z",
+    "id": "amazon-psychometrician-aws-training-certification-arlington"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Pricing and Win Strategy Lead",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Federal Pricing and Win Strategy Lead at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120505&source=WEB_Search_NA",
-    "id": "ibm-federal-pricing-and-win-strategy-lead-multiple-cities"
+    "job_title": "Applied Scientist, AWS Central Economics and Science",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Applied Scientist, AWS Central Economics and Science at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10446837/applied-scientist-aws-central-economics-and-science",
+    "job_posted_at": "2026-06-11T19:57:42.636Z",
+    "job_posted_at_datetime_utc": "2026-06-11T19:57:42.636Z",
+    "id": "amazon-applied-scientist-aws-central-economics-and-science-new-york"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Account Technical Leader for Ameriprise",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Graduate Verification Engineer",
+    "job_city": "Sophia Antipolis",
+    "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Account Technical Leader for Ameriprise at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119993&source=WEB_Search_NA",
-    "id": "ibm-account-technical-leader-for-ameriprise-multiple-cities"
+    "job_description": "Data Science job for the role Graduate Verification Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/graduate-verification-engineer/33099/96308897456",
+    "id": "arm-graduate-verification-engineer-sophia-antipolis"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Account Technical Leader for Federal Reserve",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Account Technical Leader for Federal Reserve at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119994&source=WEB_Search_NA",
-    "id": "ibm-account-technical-leader-for-federal-reserve-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "watsonx - Product SME - IBM Bob",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role watsonx - Product SME - IBM Bob at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119363&source=WEB_Search_NA",
-    "id": "ibm-watsonx-product-sme-ibm-bob-multiple-cities"
+    "employer_name": "ABB",
+    "job_title": "Warehouse/Internal Logistics Operator",
+    "job_city": "Phoenix",
+    "job_state": "Arizona",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Warehouse/Internal Logistics Operator at Phoenix, Arizona, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00029590/Warehouse-Internal-Logistics-Operator",
+    "id": "abb-warehouse-internal-logistics-operator-phoenix"
   },
   {
     "employer_name": "ABB",
@@ -81,6 +74,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic KAM - eOEM",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
+    "id": "abb-strategic-kam-eoem-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -101,23 +104,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic KAM - eOEM",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Strategic KAM - eOEM at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035761/Strategic-KAM-eOEM",
-    "id": "abb-strategic-kam-eoem-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
-    "id": "abb-product-manager-multiple"
+    "job_title": "Senior Field Service Technician (US-AZ)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00024347/Senior-Field-Service-Technician-US-AZ",
+    "id": "abb-senior-field-service-technician-us-az-remote"
   },
   {
     "employer_name": "ABB",
@@ -131,23 +124,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Key Account Manager - Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Key Account Manager - Data Centers at Available in one of 12 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031397/Key-Account-Manager-Data-Centers",
+    "id": "abb-key-account-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_title": "Senior Data Center Project Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Senior Data Center Project Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030554/Senior-Data-Center-Project-Manager",
+    "id": "abb-senior-data-center-project-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer",
+    "job_city": "Pinetops",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role R&D Senior Engineer at Pinetops, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033397/R-D-Senior-Engineer",
+    "id": "abb-r-d-senior-engineer-pinetops"
   },
   {
     "employer_name": "ABB",
@@ -451,6 +454,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "R&D Software Engineer",
+    "job_city": "Beijing",
+    "job_state": "Beijing",
+    "job_posted_at": "4 months ago",
+    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
+    "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Salesforce Solution Architect for Marketing & Sales",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -461,13 +474,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Software Engineer",
-    "job_city": "Beijing",
-    "job_state": "Beijing",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
-    "id": "abb-r-d-software-engineer-beijing"
+    "job_title": "Quality Specialist",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Quality Specialist at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Quality-Specialist",
+    "id": "abb-quality-specialist-quebec"
   },
   {
     "employer_name": "ABB",
@@ -558,5 +571,15 @@
     "job_description": "Data Science job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
     "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "AWS Architect",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AWS Architect at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25010996/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-aws-architect-dallas"
   }
 ]
