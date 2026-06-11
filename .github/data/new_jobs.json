@@ -1,13 +1,33 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "Trust and Safety Intelligence Analyst",
+    "job_city": "Washington D.C.",
+    "job_state": "DC",
+    "job_posted_at": "Recently",
+    "job_description": "42 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Trust and Safety Intelligence Analyst, Fraud and System Abuse",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93034158531453638-trust-and-safety-intelligence-analyst-fraud-and-system-abuse?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-trust-and-safety-intelligence-analyst-washington-d-c"
+  },
+  {
     "employer_name": "Arm",
-    "job_title": "GPU Modeling & Compiler Engineer",
+    "job_title": "Private Cloud Engineer",
     "job_city": "Austin",
     "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior GPU Modeling & Compiler Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-gpu-modeling-and-compiler-engineer/33099/70199981248",
-    "id": "arm-gpu-modeling-compiler-engineer-austin"
+    "job_description": "Data Science job for the role Staff Private Cloud Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-private-cloud-engineer/33099/95052485056",
+    "id": "arm-private-cloud-engineer-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Manager, Digital Automation and Control",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
+    "id": "abb-service-manager-digital-automation-and-control-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +41,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Manager, Digital Automation and Control",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Service Manager, Digital Automation and Control at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025860/Service-Manager-Digital-Automation-and-Control",
-    "id": "abb-service-manager-digital-automation-and-control-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,13 +81,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Market Development Manager - Data Centers",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,32 +101,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Operations Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Sales Operations Specialist at Available in one of 22 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036767/Sales-Operations-Specialist",
-    "id": "abb-sales-operations-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -478,6 +488,16 @@
     "job_description": "Data Science job for the role 实习生-ATS 测试 at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036790/实习生-ATS-测试",
     "id": "abb-ats-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Year in Industry - Electronics/Embedded Software Assistant Engineer",
+    "job_city": "Saint Neots",
+    "job_state": "Cambridgeshire",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Year in Industry - Electronics/Embedded Software Assistant Engineer at Saint Neots, Cambridgeshire, United Kingdom",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036154/Year-in-Industry-Electronics-Embedded-Software-Assistant-Engineer",
+    "id": "abb-year-in-industry-electronics-embedded-software-assistant-engineer-saint-neots"
   },
   {
     "employer_name": "ABB",
