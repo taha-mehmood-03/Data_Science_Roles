@@ -11,6 +11,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -21,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
+    "job_title": "District Sales Manager Midwest",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
+    "job_description": "Data Science job for the role District Sales Manager Midwest at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036469/District-Sales-Manager-Midwest",
+    "id": "abb-district-sales-manager-midwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "District Sales Manager Midwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role District Sales Manager Midwest at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036469/District-Sales-Manager-Midwest",
-    "id": "abb-district-sales-manager-midwest-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Channel Director - KS, IA, NE, MO",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,16 +68,6 @@
     "job_description": "Data Science job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
     "id": "abb-channel-director-ks-ia-ne-mo-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Field Service Technician at Available in one of 56 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024988/Field-Service-Technician",
-    "id": "abb-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -121,16 +111,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineer",
-    "job_city": "Nashik",
-    "job_state": "Mahārāshtra",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
-    "id": "abb-digital-solution-engineer-nashik"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Data Analyst Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -138,6 +118,16 @@
     "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
     "id": "abb-is-data-analyst-engineer-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineer",
+    "job_city": "Nashik",
+    "job_state": "Mahārāshtra",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
+    "id": "abb-digital-solution-engineer-nashik"
   },
   {
     "employer_name": "ABB",
@@ -251,16 +241,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Senior Embedded Engineer",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role R&D Senior Embedded Engineer at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027147/R-D-Senior-Embedded-Engineer",
-    "id": "abb-r-d-senior-embedded-engineer-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Graduate R&D Software/Firmware Engineer",
     "job_city": "Napier",
     "job_state": "Hawke's Bay",
@@ -268,6 +248,16 @@
     "job_description": "Data Science job for the role Graduate R&D Software/Firmware Engineer at Napier, Hawke's Bay, New Zealand",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037350/Graduate-R-D-Software-Firmware-Engineer",
     "id": "abb-graduate-r-d-software-firmware-engineer-napier"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Embedded Engineer",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role R&D Senior Embedded Engineer at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027147/R-D-Senior-Embedded-Engineer",
+    "id": "abb-r-d-senior-embedded-engineer-krakow"
   },
   {
     "employer_name": "ABB",
@@ -381,16 +371,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Salesforce Solution Architect for Marketing & Sales",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
-    "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -398,6 +378,16 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Salesforce Solution Architect for Marketing & Sales",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Salesforce Solution Architect for Marketing & Sales at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/93008285/Salesforce-Solution-Architect-for-Marketing-Sales",
+    "id": "abb-salesforce-solution-architect-for-marketing-sales-multiple"
   },
   {
     "employer_name": "ABB",
