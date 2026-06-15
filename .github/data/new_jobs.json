@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Hardware Performance Specialist",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Hardware Performance Specialist at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-hardware-performance-specialist/33099/76037061504",
-    "id": "arm-hardware-performance-specialist-cambridge"
+    "job_description": "65 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager, Structuring Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129688629206229702-technical-program-manager-structuring-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-technical-program-manager-new-york"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Engineer, SoC PnP Architect",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "job_title": "Solution Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Engineer, SoC PnP Architect at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-engineer-soc-pnp-architect/33099/96455665696",
-    "id": "arm-engineer-soc-pnp-architect-bengaluru"
+    "job_description": "Data Science job for the role Principal Solution Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-solution-architect/33099/96469296816",
+    "id": "arm-solution-architect-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI/Data Solutions Engineer TS/SCI (FSP)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI/Data Solutions Engineer TS/SCI (FSP) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120555&source=WEB_Search_NA",
+    "id": "ibm-ai-data-solutions-engineer-ts-sci-fsp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Operational Data Scientist TS/SCI (FSP)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Operational Data Scientist TS/SCI (FSP) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120557&source=WEB_Search_NA",
+    "id": "ibm-operational-data-scientist-ts-sci-fsp-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Semiconductor Design Enablement - Testsite Coordinator",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Semiconductor Design Enablement - Testsite Coordinator at ProfessionalAlbany, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=119946&source=WEB_Search_NA",
+    "id": "ibm-semiconductor-design-enablement-testsite-coordinator-albany"
   }
 ]
