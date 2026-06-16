@@ -1,12 +1,32 @@
 [
   {
+    "employer_name": "Google",
+    "job_title": "Senior Staff Software Engineer",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "63 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Software Engineer, Cloud, Dataproc, Control-Plane",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135503059294790342-senior-staff-software-engineer-cloud-dataproc-controlplane?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
+    "id": "google-senior-staff-software-engineer-kirkland"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "Lab Technician (Apprentice Conversion)",
-    "job_city": "ROCHESTER",
+    "job_title": "CUDA/GPU Developer",
+    "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lab Technician (Apprentice Conversion) at ProfessionalROCHESTER, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=120686&source=WEB_Search_NA",
-    "id": "ibm-lab-technician-apprentice-conversion-rochester"
+    "job_description": "Data Science job for the role CUDA/GPU Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118132&source=WEB_Search_NA",
+    "id": "ibm-cuda-gpu-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Compiler Engineer, GPU Acceleration",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Compiler Engineer, GPU Acceleration at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118139&source=WEB_Search_NA",
+    "id": "ibm-compiler-engineer-gpu-acceleration-multiple-cities"
   }
 ]
