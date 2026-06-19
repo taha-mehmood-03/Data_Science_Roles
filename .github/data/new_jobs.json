@@ -1,14 +1,33 @@
 [
   {
-    "job_title": "Hardware Support Engineer, Robotics Technical Services",
-    "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role Hardware Support Engineer, Robotics Technical Services at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10453805/hardware-support-engineer-robotics-technical-services",
-    "job_posted_at": "2026-06-19T15:14:47.054Z",
-    "job_posted_at_datetime_utc": "2026-06-19T15:14:47.054Z",
-    "id": "amazon-hardware-support-engineer-robotics-technical-services-north-reading"
+    "employer_name": "Arm",
+    "job_title": "Performance Modelling Engineer - CPU",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Performance Modelling Engineer - CPU at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/performance-modelling-engineer-cpu/33099/78996735840",
+    "id": "arm-performance-modelling-engineer-cpu-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SAP BI Lead",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP BI Lead at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/sap-bi-lead/33099/96656334320",
+    "id": "arm-sap-bi-lead-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Verification Engineer - Media IP",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Verification Engineer - Media IP at Manchester, United Kingdom, Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/staff-verification-engineer-media-ip/33099/96655847936",
+    "id": "arm-verification-engineer-media-ip-manchester"
   },
   {
     "employer_name": "ABB",
@@ -32,16 +51,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Vice President Sales, C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
-    "id": "abb-vice-president-sales-c-i-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Strategic KAM - eOEM",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -59,6 +68,16 @@
     "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
     "id": "abb-oem-sales-director-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Vice President Sales, C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
   },
   {
     "employer_name": "ABB",
@@ -82,16 +101,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -99,6 +108,16 @@
     "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -579,5 +598,15 @@
     "job_description": "Data Science job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
     "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
+  },
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "SRAM Process Development Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SRAM Process Development Engineer at Dallas, TX, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25000416/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-sram-process-development-engineer-dallas"
   }
 ]
