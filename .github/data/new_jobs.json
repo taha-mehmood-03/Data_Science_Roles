@@ -1,25 +1,5 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Ecosystem Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Ecosystem Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/technical-ecosystem-engineer/33099/96158948400",
-    "id": "arm-technical-ecosystem-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer - Accelerator Tools-Engineering",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Software Engineer - Accelerator Tools-Engineering at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-software-engineer-accelerator-tools-engineering/33099/85244193712",
-    "id": "arm-software-engineer-accelerator-tools-engineering-cambridge"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Service Manager, Digital Automation and Control",
     "job_city": "Multiple",
@@ -618,15 +598,5 @@
     "job_description": "Data Science job for the role Technical Solutions Manager – Life Sciences at Remote, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00035590/Technical-Solutions-Manager-Life-Sciences",
     "id": "abb-technical-solutions-manager-life-sciences-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
