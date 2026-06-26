@@ -1,45 +1,5 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer – JVM Platform Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer – JVM Platform Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=121511&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-jvm-platform-engineering-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Agentic AI Engineer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Agentic AI Engineer at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=123452&source=WEB_Search_NA",
-    "id": "ibm-agentic-ai-engineer-san-francisco"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Global Mobility Vendor Manager",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Global Mobility Vendor Manager at ProfessionalRESEARCH TRIANGLE PARK, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=123458&source=WEB_Search_NA",
-    "id": "ibm-global-mobility-vendor-manager-research-triangle-park"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Technical Lead (Agentic AI Architect)",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Lead (Agentic AI Architect) at ProfessionalSan Francisco, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=123453&source=WEB_Search_NA",
-    "id": "ibm-technical-lead-agentic-ai-architect-san-francisco"
-  },
-  {
     "employer_name": "ABB",
     "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
@@ -71,6 +31,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Vice President Sales, C&I",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
+    "id": "abb-vice-president-sales-c-i-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -88,16 +58,6 @@
     "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
     "id": "abb-oem-sales-director-machinery-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Vice President Sales, C&I",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Vice President Sales, C&I at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033584/Vice-President-Sales-C-I",
-    "id": "abb-vice-president-sales-c-i-multiple"
   },
   {
     "employer_name": "ABB",
@@ -322,22 +282,22 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Jinghu District",
-    "job_state": "Anhui",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
-    "id": "abb-sales-specialist-jinghu-district"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Chengdu",
     "job_state": "Sichuan",
     "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Sales Specialist at Chengdu, Sichuan, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028017/Sales-Specialist",
     "id": "abb-sales-specialist-chengdu"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinghu District",
+    "job_state": "Anhui",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
+    "id": "abb-sales-specialist-jinghu-district"
   },
   {
     "employer_name": "ABB",
@@ -426,7 +386,7 @@
     "job_state": "Zhejiang",
     "job_posted_at": "5 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
   },
   {
