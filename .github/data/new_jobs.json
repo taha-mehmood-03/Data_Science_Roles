@@ -1,13 +1,33 @@
 [
   {
     "employer_name": "ABB",
-    "job_title": "Contractor Key Account Manager - West",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Contractor Key Account Manager - West at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038973/Contractor-Key-Account-Manager-West",
-    "id": "abb-contractor-key-account-manager-west-multiple"
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,33 +51,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Inventory Control Associate",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Inventory Control Associate at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034943/Inventory-Control-Associate",
-    "id": "abb-inventory-control-associate-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
   },
   {
     "employer_name": "ABB",
@@ -71,33 +71,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician (US-AZ)",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Field Service Technician (US-AZ) at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00024347/Senior-Field-Service-Technician-US-AZ",
-    "id": "abb-senior-field-service-technician-us-az-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Account Manager - C&I",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
+    "job_title": "OEM Sales Director-Machinery",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Account Manager - C&I at Phoenix, Arizona, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037801/Account-Manager-C-I",
-    "id": "abb-account-manager-c-i-phoenix"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Business Intelligence & Data Specialist",
-    "job_city": "Saint-Jean-sur-Richelieu",
-    "job_state": "Quebec",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Business Intelligence & Data Specialist at Saint-Jean-sur-Richelieu, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038528/Business-Intelligence-Data-Specialist",
-    "id": "abb-business-intelligence-data-specialist-saint-jean-sur-richelieu"
+    "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
   },
   {
     "employer_name": "ABB",
@@ -282,22 +262,22 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Jinghu District",
-    "job_state": "Anhui",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
-    "id": "abb-sales-specialist-jinghu-district"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Chengdu",
     "job_state": "Sichuan",
     "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Sales Specialist at Chengdu, Sichuan, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028017/Sales-Specialist",
     "id": "abb-sales-specialist-chengdu"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinghu District",
+    "job_state": "Anhui",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
+    "id": "abb-sales-specialist-jinghu-district"
   },
   {
     "employer_name": "ABB",
@@ -376,7 +356,7 @@
     "job_state": "Zhejiang",
     "job_posted_at": "5 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
   },
   {
