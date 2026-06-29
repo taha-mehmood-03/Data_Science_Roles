@@ -1,13 +1,43 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Business Intelligence Analyst",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "job_title": "Senior Product Data Scientist",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "35 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Intelligence Analyst, Payments Risk Management",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140984455471735494-business-intelligence-analyst-payments-risk-management?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-business-intelligence-analyst-austin"
+    "job_description": "17 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Data Scientist, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/75066147816252102-senior-product-data-scientist-google-ads?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-product-data-scientist-san-francisco"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Global Campus and Talent Events Specialist",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Global Campus and Talent Events Specialist at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/global-campus-and-talent-events-specialist/33099/96922824064",
+    "id": "arm-global-campus-and-talent-events-specialist-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Program Manager - Confluent (Remote)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Technical Program Manager - Confluent (Remote) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118449&source=WEB_Search_NA",
+    "id": "ibm-technical-program-manager-confluent-remote-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant, GDPS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Consultant, GDPS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=122812&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-gdps-multiple-cities"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +81,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Market Development Manager - Data Centers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
-    "id": "abb-market-development-manager-data-centers-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sr Product Marketing Specialist Indoor Products",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,6 +88,16 @@
     "job_description": "Data Science job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
     "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Market Development Manager - Data Centers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Market Development Manager - Data Centers at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035589/Market-Development-Manager-Data-Centers",
+    "id": "abb-market-development-manager-data-centers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -158,16 +188,6 @@
     "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Shenzhen, Guangdong, China",
     "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
     "id": "abb-digital-sales-specialist-pb-shenzhen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Material Planner",
-    "job_city": "La Louvière",
-    "job_state": "Hainaut",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Material Planner at La Louvière, Hainaut, Belgium",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00017690/Material-Planner",
-    "id": "abb-material-planner-la-louvi-re"
   },
   {
     "employer_name": "ABB",
@@ -282,22 +302,22 @@
   {
     "employer_name": "ABB",
     "job_title": "Sales Specialist",
-    "job_city": "Jinghu District",
-    "job_state": "Anhui",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
-    "id": "abb-sales-specialist-jinghu-district"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Specialist",
     "job_city": "Chengdu",
     "job_state": "Sichuan",
     "job_posted_at": "2 weeks ago",
     "job_description": "Data Science job for the role Sales Specialist at Chengdu, Sichuan, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00028017/Sales-Specialist",
     "id": "abb-sales-specialist-chengdu"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Jinghu District",
+    "job_state": "Anhui",
+    "job_posted_at": "2 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Jinghu District, Anhui, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027082/Sales-Specialist",
+    "id": "abb-sales-specialist-jinghu-district"
   },
   {
     "employer_name": "ABB",
@@ -376,7 +396,7 @@
     "job_state": "Zhejiang",
     "job_posted_at": "5 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
   },
   {
@@ -478,15 +498,5 @@
     "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
     "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Development Manager, Cloud and Regulated Software (MedTech)",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Development Manager, Cloud and Regulated Software (MedTech) at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Development-Manager--Cloud-Technologies---Regulated-Software--MedTech-_R261937?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-development-manager-cloud-and-regulated-software-medtech-us"
   }
 ]
