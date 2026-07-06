@@ -1,13 +1,53 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "RTL Design Engineer",
-    "job_city": "Bristol",
-    "job_state": "United Kingdom",
+    "job_title": "SoC RTL Performance Verification and Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior RTL Design Engineer at Bristol, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/bristol/senior-rtl-design-engineer/33099/97425198144",
-    "id": "arm-rtl-design-engineer-bristol"
+    "job_description": "Data Science job for the role Staff SoC RTL Performance Verification and Emulation Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-soc-rtl-performance-verification-and-emulation-engineer/33099/86766479840",
+    "id": "arm-soc-rtl-performance-verification-and-emulation-engineer-austin"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Operations Leader - North",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
+    "id": "abb-regional-sales-operations-leader-north-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -31,23 +71,33 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_title": "OEM Sales Director-Machinery",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
+    "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028705/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -61,53 +111,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sr Product Marketing Specialist Indoor Products",
+    "job_title": "ABB Robotics IS Data Platform Data Developer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
-    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role ABB Robotics IS Data Platform Data Developer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037910/ABB-Robotics-IS-Data-Platform-Data-Developer",
+    "id": "abb-abb-robotics-is-data-platform-data-developer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_title": "RARO IS Power BI Developer / Administrator & Business Analyst",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Regional Sales Operations Leader - West",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Regional Sales Operations Leader - West at Available in one of 18 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039801/Regional-Sales-Operations-Leader-West",
-    "id": "abb-regional-sales-operations-leader-west-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role RARO IS Power BI Developer / Administrator & Business Analyst at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034477/RARO-IS-Power-BI-Developer-Administrator-Business-Analyst",
+    "id": "abb-raro-is-power-bi-developer-administrator-business-analyst-multiple"
   },
   {
     "employer_name": "ABB",
@@ -131,16 +151,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI & Data Scientist  Intern - Fall",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role AI & Data Scientist  Intern - Fall 2026 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036225/AI-Data-Scientist-Intern-Fall-2026",
-    "id": "abb-ai-data-scientist-intern-fall-cary"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "ELDS Sales Master Data Analyst",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -148,16 +158,6 @@
     "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
     "id": "abb-elds-sales-master-data-analyst-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Finance Intern - Fall",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Finance Intern - Fall 2026 at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00026601/Finance-Intern-Fall-2026",
-    "id": "abb-finance-intern-fall-multiple"
   },
   {
     "employer_name": "ABB",
@@ -178,26 +178,6 @@
     "job_description": "Data Science job for the role Sen. Digital Solution Engineer. Special. at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030386/Sen-Digital-Solution-Engineer-Special",
     "id": "abb-sen-digital-solution-engineer-special-shanghai"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Head of Data and IS, Marine & Ports Division",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Head of Data and IS, Marine & Ports Division at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038626/Head-of-Data-and-IS-Marine-Ports-Division",
-    "id": "abb-head-of-data-and-is-marine-ports-division-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -386,7 +366,7 @@
     "job_state": "Zhejiang",
     "job_posted_at": "5 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
   },
   {
@@ -431,16 +411,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Solutions Manager – Life Sciences",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Technical Solutions Manager – Life Sciences at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035590/Technical-Solutions-Manager-Life-Sciences",
-    "id": "abb-technical-solutions-manager-life-sciences-remote"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Robotics AI & Embedded Software Engineer",
     "job_city": "Madrigalejo del Monte",
     "job_state": "Spain",
@@ -448,15 +418,5 @@
     "job_description": "Data Science job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
     "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
