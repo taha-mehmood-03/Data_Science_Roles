@@ -1,23 +1,33 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Design Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "Google",
+    "job_title": "Senior Product Manager",
+    "job_city": "San José",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Design Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-design-engineer/33099/96363844480",
-    "id": "arm-design-engineer-austin"
+    "job_description": "45 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, XR Audio",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90065886232093382-senior-product-manager-xr-audio?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-product-manager-san-jos"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "employer_name": "Arm",
+    "job_title": "Director Product Management,  Android/Linux Platform",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director Product Management,  Android/Linux Platform at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-product-management-android-linux-platform/33099/96551861152",
+    "id": "arm-director-product-management-android-linux-platform-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Formal Verification Engineer (CPU group)",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Formal Verification Engineer (CPU group) at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-formal-verification-engineer-cpu-group/33099/97608949632",
+    "id": "arm-formal-verification-engineer-cpu-group-cambridge"
   },
   {
     "employer_name": "ABB",
@@ -31,6 +41,46 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Regional Sales Operations Leader - North",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Regional Sales Operations Leader - North at Available in one of 18 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039802/Regional-Sales-Operations-Leader-North",
+    "id": "abb-regional-sales-operations-leader-north-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "OEM Sales Director-Machinery",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
+    "id": "abb-oem-sales-director-machinery-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -38,6 +88,16 @@
     "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
+    "id": "abb-product-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +111,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sr Product Marketing Specialist Indoor Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sr Product Marketing Specialist Indoor Products at Available in one of 184 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037824/Sr-Product-Marketing-Specialist-Indoor-Products",
-    "id": "abb-sr-product-marketing-specialist-indoor-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Strategic Segment Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -71,43 +121,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester-2",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
-    "id": "abb-manufacturing-quality-tester-2-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Manufacturing Quality Tester",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "4 months ago",
-    "job_description": "Data Science job for the role Manufacturing Quality Tester at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00006055/Manufacturing-Quality-Tester",
-    "id": "abb-manufacturing-quality-tester-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
-    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "ELDS Warehouse Internal Logistics Operator 2nd shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role ELDS Warehouse Internal Logistics Operator 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035104/ELDS-Warehouse-Internal-Logistics-Operator-2nd-shift",
-    "id": "abb-elds-warehouse-internal-logistics-operator-2nd-shift-mebane"
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
