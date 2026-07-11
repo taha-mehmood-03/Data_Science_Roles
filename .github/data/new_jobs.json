@@ -1,14 +1,14 @@
 [
   {
-    "job_title": "Data Scientist II, WW DSP Analytics",
+    "job_title": "Delivery Consultant - Data Architect, AWS Professional Services",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist II, WW DSP Analytics at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10470490/data-scientist-ii-ww-dsp-analytics",
-    "job_posted_at": "2026-07-10T17:55:49.537Z",
-    "job_posted_at_datetime_utc": "2026-07-10T17:55:49.537Z",
-    "id": "amazon-data-scientist-ii-ww-dsp-analytics-bellevue"
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Delivery Consultant - Data Architect, AWS Professional Services at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10471717/delivery-consultant-data-architect-aws-professional-services",
+    "job_posted_at": "2026-07-11T01:05:36.191Z",
+    "job_posted_at_datetime_utc": "2026-07-11T01:05:36.191Z",
+    "id": "amazon-delivery-consultant-data-architect-aws-professional-services-austin"
   },
   {
     "employer_name": "ABB",
@@ -22,16 +22,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -39,6 +29,16 @@
     "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
@@ -55,7 +55,7 @@
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 day ago",
+    "job_posted_at": "2 days ago",
     "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
@@ -72,16 +72,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Strategic Segment Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
-    "id": "abb-strategic-segment-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Sub-transmission Products",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -92,10 +82,20 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role Protection and Control Engineer at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
     "id": "abb-protection-and-control-engineer-multiple"
@@ -115,7 +115,7 @@
     "job_title": "ABB Robotics IS Data Platform Data Developer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role ABB Robotics IS Data Platform Data Developer at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00037910/ABB-Robotics-IS-Data-Platform-Data-Developer",
     "id": "abb-abb-robotics-is-data-platform-data-developer-multiple"
@@ -145,7 +145,7 @@
     "job_title": "Program Manager for Product Material Compliance",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "4 days ago",
+    "job_posted_at": "5 days ago",
     "job_description": "Data Science job for the role Program Manager for Product Material Compliance at Available in one of 3 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00038517/Program-Manager-for-Product-Material-Compliance",
     "id": "abb-program-manager-for-product-material-compliance-multiple"
@@ -165,7 +165,7 @@
     "job_title": "R&D Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
-    "job_posted_at": "Today",
+    "job_posted_at": "1 day ago",
     "job_description": "Data Science job for the role R&D Engineer at Shanghai, Shanghai, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039269/R-D-Engineer",
     "id": "abb-r-d-engineer-shanghai"
@@ -175,7 +175,7 @@
     "job_title": "A&M Analyst Intern",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role A&M Analyst Intern at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041105/A-M-Analyst-Intern",
     "id": "abb-a-m-analyst-intern-krakow"
@@ -185,7 +185,7 @@
     "job_title": "Senior R&D Engineer",
     "job_city": "Chongqing",
     "job_state": "Chongqing",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role Senior R&D Engineer at Chongqing, Chongqing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040476/Senior-R-D-Engineer",
     "id": "abb-senior-r-d-engineer-chongqing"
@@ -265,7 +265,7 @@
     "job_title": "CONFIGURATOR SOLUTION ARCHITECT - QUALITY",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role CONFIGURATOR SOLUTION ARCHITECT - QUALITY at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040457/CONFIGURATOR-SOLUTION-ARCHITECT-QUALITY",
     "id": "abb-configurator-solution-architect-quality-multiple"
@@ -375,7 +375,7 @@
     "job_title": "IS Department Manager for Application Performance Monitoring",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
+    "job_posted_at": "4 days ago",
     "job_description": "Data Science job for the role IS Department Manager for Application Performance Monitoring at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040817/IS-Department-Manager-for-Application-Performance-Monitoring",
     "id": "abb-is-department-manager-for-application-performance-monitoring-multiple"
@@ -405,7 +405,7 @@
     "job_title": "Robotics Visual SLAM Software Engineer",
     "job_city": "Sant Quirze del Valles",
     "job_state": "Barcelona",
-    "job_posted_at": "2 days ago",
+    "job_posted_at": "3 days ago",
     "job_description": "Data Science job for the role Robotics Visual SLAM Software Engineer at Sant Quirze del Valles, Barcelona, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-sant-quirze-del-valles"
