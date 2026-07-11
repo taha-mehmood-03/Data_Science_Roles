@@ -1,53 +1,23 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "TD CVD/DIFF/IMPLANT Process MDE Manager (Process Development Support)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role TD CVD/DIFF/IMPLANT Process MDE Manager (Process Development Support) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/43071631",
-    "id": "micron-td-cvd-diff-implant-process-mde-manager-process-development-support-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Program Manager - FE Materials",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 2 days ago",
-    "job_description": "Data Science job for the role Principal Program Manager - FE Materials at Boise, Idaho, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/43051471",
-    "id": "micron-program-manager-fe-materials-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Principal/MTS, IO Design Engineering",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 2 days ago",
-    "job_description": "Data Science job for the role Principal/MTS, IO Design Engineering at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42118515",
-    "id": "micron-principal-mts-io-design-engineering-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Principal/MTS, Analog Design Engineering",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 2 days ago",
-    "job_description": "Data Science job for the role Principal/MTS, Analog Design Engineering at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/42491891",
-    "id": "micron-principal-mts-analog-design-engineering-boise"
+    "employer_name": "ABB",
+    "job_title": "Robotics Business Development Manager, Consumer Industries Mid-West US",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Robotics Business Development Manager, Consumer Industries Mid-West US at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036880/Robotics-Business-Development-Manager-Consumer-Industries-Mid-West-US",
+    "id": "abb-robotics-business-development-manager-consumer-industries-mid-west-us-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_title": "Project Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Project Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040882/Project-Manager",
+    "id": "abb-project-manager-remote"
   },
   {
     "employer_name": "ABB",
@@ -71,6 +41,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Project Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -81,43 +71,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "OEM Sales Director-Machinery",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role OEM Sales Director-Machinery at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037761/OEM-Sales-Director-Machinery",
-    "id": "abb-oem-sales-director-machinery-multiple"
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Technical Sales Support - Mountain District",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Technical Sales Support - Mountain District at Available in one of 9 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039804/Technical-Sales-Support-Mountain-District",
-    "id": "abb-technical-sales-support-mountain-district-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_description": "Data Science job for the role Sales Manager at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Sales-Manager",
+    "id": "abb-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -356,7 +326,7 @@
     "job_state": "Zhejiang",
     "job_posted_at": "5 months ago",
     "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
     "id": "abb-sales-specialist-hangzhou"
   },
   {
