@@ -1,13 +1,23 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Hardware Security Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Hardware Security Engineer at Cambridge, United Kingdom, Munich, Germany",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-hardware-security-engineer/33099/95081028640",
+    "id": "arm-hardware-security-engineer-cambridge"
+  },
+  {
     "employer_name": "ABB",
-    "job_title": "Senior Project Engineer",
+    "job_title": "Senior Intellectual Property (IP) Attorney",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
-    "id": "abb-senior-project-engineer-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
+    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
   },
   {
     "employer_name": "ABB",
@@ -21,13 +31,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Intellectual Property (IP) Attorney",
+    "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Intellectual Property (IP) Attorney at Available in one of 33 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035325/Senior-Intellectual-Property-IP-Attorney",
-    "id": "abb-senior-intellectual-property-ip-attorney-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
+    "id": "abb-senior-project-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -51,16 +61,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Protection and Control Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Protection and Control Engineer at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
-    "id": "abb-protection-and-control-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Product Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -68,6 +68,16 @@
     "job_description": "Data Science job for the role Product Manager at Available in one of 23 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00027238/Product-Manager",
     "id": "abb-product-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -81,13 +91,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center COE Project Management Leader",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
+    "id": "abb-data-center-coe-project-management-leader-multiple"
   },
   {
     "employer_name": "ABB",
