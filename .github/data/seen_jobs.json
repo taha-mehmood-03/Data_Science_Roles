@@ -1,6 +1,4 @@
 [
-  "amazon-applied-scientist-aws-agentic-ai-science-santa-clara",
-  "amazon-applied-scientist-aws-agentic-ai-science-seattle",
   "amazon-applied-scientist-aws-applied-ai-solutions-core-services-mountain-view",
   "amazon-applied-scientist-aws-applied-ai-solutions-core-services-seattle",
   "amazon-applied-scientist-aws-automated-reasoning-austin",
@@ -475,6 +473,7 @@
   "amazon-data-scientist-generative-ai-innovation-center-arlington",
   "amazon-data-scientist-i-customer-delivery-excellence-science-bellevue",
   "amazon-data-scientist-i-demand-forecasting-bellevue",
+  "amazon-data-scientist-i-fma-seattle",
   "amazon-data-scientist-i-pxt-central-science-arlington",
   "amazon-data-scientist-i-samba-cambridge",
   "amazon-data-scientist-i-scot-inbound-planning-optimization-new-york",
@@ -2499,6 +2498,7 @@
   "arm-plm-integration-engineer-cambridge",
   "arm-pnr-engineer-bengaluru",
   "arm-portfolio-manager-cambridge",
+  "arm-post-silicon-debug-tools-engineer-bengaluru",
   "arm-power-analysis-engineer-cambridge",
   "arm-power-analysis-engineer-multiple",
   "arm-power-analysis-engineer-san-diego",
