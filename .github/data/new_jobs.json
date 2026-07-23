@@ -6,8 +6,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-20T22:01:47.684Z",
-    "job_posted_at_datetime_utc": "2026-07-20T22:01:47.684Z",
+    "job_posted_at": "2026-07-20T23:04:54.223Z",
+    "job_posted_at_datetime_utc": "2026-07-20T23:04:54.223Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-20T22:01:47.684Z",
-    "job_posted_at_datetime_utc": "2026-07-20T22:01:47.684Z",
+    "job_posted_at": "2026-07-20T23:04:54.223Z",
+    "job_posted_at_datetime_utc": "2026-07-20T23:04:54.223Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
@@ -90,16 +90,6 @@
     "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
     "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -373,16 +363,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "5 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -390,6 +370,16 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022396/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
   },
   {
     "employer_name": "ABB",
@@ -480,16 +470,6 @@
     "job_description": "Data Science job for the role Service Control Software Engineer for Traction Applications at Paterna, Valencia, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040313/Service-Control-Software-Engineer-for-Traction-Applications",
     "id": "abb-service-control-software-engineer-for-traction-applications-paterna"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics AI & Embedded Software Engineer",
-    "job_city": "Madrigalejo del Monte",
-    "job_state": "Spain",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Robotics AI & Embedded Software Engineer at Madrigalejo del Monte, Spain",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036056/Robotics-AI-Embedded-Software-Engineer",
-    "id": "abb-robotics-ai-embedded-software-engineer-madrigalejo-del-monte"
   },
   {
     "employer_name": "ABB",
