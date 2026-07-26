@@ -6,8 +6,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Identity at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10484023/applied-scientist-aws-identity",
-    "job_posted_at": "2026-07-25T19:10:16.440Z",
-    "job_posted_at_datetime_utc": "2026-07-25T19:10:16.440Z",
+    "job_posted_at": "2026-07-25T20:51:54.917Z",
+    "job_posted_at_datetime_utc": "2026-07-25T20:51:54.917Z",
     "id": "amazon-applied-scientist-aws-identity-arlington"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-07-23T19:10:16.440Z",
-    "job_posted_at_datetime_utc": "2026-07-23T19:10:16.440Z",
+    "job_posted_at": "2026-07-23T20:51:54.917Z",
+    "job_posted_at_datetime_utc": "2026-07-23T20:51:54.917Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
@@ -28,8 +28,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-23T19:10:16.440Z",
-    "job_posted_at_datetime_utc": "2026-07-23T19:10:16.440Z",
+    "job_posted_at": "2026-07-23T20:51:54.917Z",
+    "job_posted_at_datetime_utc": "2026-07-23T20:51:54.917Z",
     "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
@@ -39,8 +39,8 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-20T19:10:16.440Z",
-    "job_posted_at_datetime_utc": "2026-07-20T19:10:16.440Z",
+    "job_posted_at": "2026-07-20T20:51:54.917Z",
+    "job_posted_at_datetime_utc": "2026-07-20T20:51:54.917Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
@@ -50,59 +50,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Brand Protection Machine Learning at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10375257/applied-scientist-brand-protection-machine-learning",
-    "job_posted_at": "2026-07-20T19:10:16.440Z",
-    "job_posted_at_datetime_utc": "2026-07-20T19:10:16.440Z",
+    "job_posted_at": "2026-07-20T20:51:54.917Z",
+    "job_posted_at_datetime_utc": "2026-07-20T20:51:54.917Z",
     "id": "amazon-applied-scientist-brand-protection-machine-learning-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Field Service Technician",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Field Service Technician at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
-    "id": "abb-senior-field-service-technician-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Project Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Project Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040882/Project-Manager",
-    "id": "abb-project-manager-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Generator Sales Specialist",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Generator Sales Specialist at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
-    "id": "abb-generator-sales-specialist-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -116,13 +66,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Metallurgy Sales Manager",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Metallurgy Sales Manager at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager",
-    "id": "abb-metallurgy-sales-manager-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELSP Production Planning Technician",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELSP Production Planning Technician at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
+    "id": "abb-elsp-production-planning-technician-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Project Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Factory Project Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031246/Factory-Project-Manager",
+    "id": "abb-factory-project-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
+    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026193/ELDS-MV-SWGR-Production-Operator-2nd-shift",
+    "id": "abb-elds-mv-swgr-production-operator-2nd-shift-mebane"
   },
   {
     "employer_name": "ABB",
@@ -396,16 +426,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Department Manager for Application Performance Monitoring",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role IS Department Manager for Application Performance Monitoring at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040817/IS-Department-Manager-for-Application-Performance-Monitoring",
-    "id": "abb-is-department-manager-for-application-performance-monitoring-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Production Engineering Specialist",
     "job_city": "Xiamen",
     "job_state": "Fujian",
@@ -453,16 +473,6 @@
     "job_description": "Data Science job for the role SAP SD Functional Analyst at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036845/SAP-SD-Functional-Analyst",
     "id": "abb-sap-sd-functional-analyst-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior IS Solution Architect for IS Security",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior IS Solution Architect for IS Security at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035419/Senior-IS-Solution-Architect-for-IS-Security",
-    "id": "abb-senior-is-solution-architect-for-is-security-multiple"
   },
   {
     "employer_name": "ABB",
