@@ -6,8 +6,8 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T13:12:40.606Z",
-    "job_posted_at_datetime_utc": "2026-07-27T13:12:40.606Z",
+    "job_posted_at": "2026-07-27T13:21:45.111Z",
+    "job_posted_at_datetime_utc": "2026-07-27T13:21:45.111Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Identity at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10484023/applied-scientist-aws-identity",
-    "job_posted_at": "2026-07-24T16:12:40.606Z",
-    "job_posted_at_datetime_utc": "2026-07-24T16:12:40.606Z",
+    "job_posted_at": "2026-07-24T18:21:45.111Z",
+    "job_posted_at_datetime_utc": "2026-07-24T18:21:45.111Z",
     "id": "amazon-applied-scientist-aws-identity-arlington"
   },
   {
@@ -28,8 +28,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-07-23T16:12:40.606Z",
-    "job_posted_at_datetime_utc": "2026-07-23T16:12:40.606Z",
+    "job_posted_at": "2026-07-23T18:21:45.111Z",
+    "job_posted_at_datetime_utc": "2026-07-23T18:21:45.111Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
@@ -39,39 +39,39 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-23T16:12:40.606Z",
-    "job_posted_at_datetime_utc": "2026-07-23T16:12:40.606Z",
+    "job_posted_at": "2026-07-23T18:21:45.111Z",
+    "job_posted_at_datetime_utc": "2026-07-23T18:21:45.111Z",
     "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
     "employer_name": "Google",
-    "job_title": "Business &amp; Marketing Data Science Manager",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Principal Sales Consultant Specialist",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business &amp; Marketing Data Science Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/82257826814010054-business-amp-marketing-data-science-manager?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-business-amp-marketing-data-science-manager-seattle"
+    "job_description": "5 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Principal Sales Consultant Specialist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/75690718739210950-principal-sales-consultant-specialist?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-principal-sales-consultant-specialist-new-york"
   },
   {
     "employer_name": "Google",
-    "job_title": "Senior Product Manager",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
+    "job_title": "Lead Technical Program Manager",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "73 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Manager, Agentic AI and Insights Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107380396198372038-senior-product-manager-agentic-ai-and-insights-platform?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-senior-product-manager-pittsburgh"
+    "job_description": "32 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead Technical Program Manager, Network Delivery Operations",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78161596244730566-lead-technical-program-manager-network-delivery-operations?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-lead-technical-program-manager-atlanta"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Director, Strategic Sales - Financial Services & Cloud Infrastructure",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, Strategic Sales - Financial Services & Cloud Infrastructure at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/director-strategic-sales-financial-services-and-cloud-infrastructure/33099/94742192720",
-    "id": "arm-director-strategic-sales-financial-services-cloud-infrastructure-waltham"
+    "employer_name": "Micron",
+    "job_title": "Reticle Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Reticle Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/43350757",
+    "id": "micron-reticle-process-engineer-boise"
   },
   {
     "employer_name": "ABB",
@@ -115,16 +115,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center CoE Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -135,13 +125,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
-    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -152,6 +142,16 @@
     "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
     "id": "abb-data-center-coe-project-management-leader-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Grid Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Grid Automation at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation",
+    "id": "abb-senior-technical-business-developer-grid-automation-multiple"
   },
   {
     "employer_name": "ABB",
