@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Data Engineer, Associate Experience, Amazon Customer Service",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, Associate Experience, Amazon Customer Service at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10487503/data-engineer-associate-experience-amazon-customer-service",
-    "job_posted_at": "2026-07-29T18:05:30.653Z",
-    "job_posted_at_datetime_utc": "2026-07-29T18:05:30.653Z",
-    "id": "amazon-data-engineer-associate-experience-amazon-customer-service-seattle"
-  },
-  {
     "job_title": "Applied Scientist, AWS Automated Reasoning",
     "employer_name": "Amazon",
     "job_city": "Austin",
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-28T21:05:30.653Z",
-    "job_posted_at_datetime_utc": "2026-07-28T21:05:30.653Z",
+    "job_posted_at": "2026-07-28T21:48:04.762Z",
+    "job_posted_at_datetime_utc": "2026-07-28T21:48:04.762Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -28,20 +17,9 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T19:05:30.653Z",
-    "job_posted_at_datetime_utc": "2026-07-27T19:05:30.653Z",
+    "job_posted_at": "2026-07-27T20:48:04.762Z",
+    "job_posted_at_datetime_utc": "2026-07-27T20:48:04.762Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Insights & Optimization",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-23T19:05:30.654Z",
-    "job_posted_at_datetime_utc": "2026-07-23T19:05:30.654Z",
-    "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
     "job_title": "Applied Scientist, Amazon Connect Talent",
@@ -50,19 +28,30 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-07-23T19:05:30.653Z",
-    "job_posted_at_datetime_utc": "2026-07-23T19:05:30.653Z",
+    "job_posted_at": "2026-07-23T20:48:04.762Z",
+    "job_posted_at_datetime_utc": "2026-07-23T20:48:04.762Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_title": "Applied Scientist, AWS Insights & Optimization",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
+    "job_posted_at": "2026-07-23T20:48:04.762Z",
+    "job_posted_at_datetime_utc": "2026-07-23T20:48:04.762Z",
+    "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Verification Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Design Verification Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-design-verification-engineer/33099/95919495728",
+    "id": "arm-design-verification-engineer-austin"
   },
   {
     "employer_name": "ABB",
@@ -73,6 +62,16 @@
     "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -106,23 +105,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
