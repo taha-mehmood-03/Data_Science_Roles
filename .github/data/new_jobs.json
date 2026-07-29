@@ -6,31 +6,9 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T11:19:49.349Z",
-    "job_posted_at_datetime_utc": "2026-07-27T11:19:49.349Z",
+    "job_posted_at": "2026-07-27T13:55:53.142Z",
+    "job_posted_at_datetime_utc": "2026-07-27T13:55:53.142Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439401/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T11:19:49.348Z",
-    "job_posted_at_datetime_utc": "2026-07-27T11:19:49.348Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-seattle"
-  },
-  {
-    "job_title": "Applied Scientist, Amazon Connect Talent",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-07-24T11:19:49.349Z",
-    "job_posted_at_datetime_utc": "2026-07-24T11:19:49.349Z",
-    "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
     "job_title": "Applied Scientist, AWS Insights & Optimization",
@@ -39,19 +17,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-24T11:19:49.349Z",
-    "job_posted_at_datetime_utc": "2026-07-24T11:19:49.349Z",
+    "job_posted_at": "2026-07-24T13:55:53.142Z",
+    "job_posted_at_datetime_utc": "2026-07-24T13:55:53.142Z",
     "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior Product Data Scientist",
+    "job_title": "Applied Scientist, Amazon Connect Talent",
+    "employer_name": "Amazon",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "31 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Product Data Scientist, People Operations AI System",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141681289219449542-senior-product-data-scientist-people-operations-ai-system?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-product-data-scientist-new-york"
+    "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
+    "job_posted_at": "2026-07-23T13:55:53.142Z",
+    "job_posted_at_datetime_utc": "2026-07-23T13:55:53.142Z",
+    "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
     "employer_name": "ABB",
@@ -75,13 +54,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Sales Specialist",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
-    "id": "abb-service-sales-specialist-multiple"
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -95,13 +74,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Service Sales Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_description": "Data Science job for the role Service Sales Specialist at Available in one of 57 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041235/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-multiple"
   },
   {
     "employer_name": "ABB",
