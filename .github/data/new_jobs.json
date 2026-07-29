@@ -1,25 +1,36 @@
 [
   {
+    "job_title": "Data Engineer, Data Platform Management, World Wide Grocery Tech",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Engineer, Data Platform Management, World Wide Grocery Tech at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech",
+    "job_posted_at": "2026-07-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-07-29T00:00:00.000Z",
+    "id": "amazon-data-engineer-data-platform-management-world-wide-grocery-tech-austin"
+  },
+  {
+    "job_title": "Applied Scientist, AWS Automated Reasoning",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
+    "job_posted_at": "2026-07-28T21:10:01.159Z",
+    "job_posted_at_datetime_utc": "2026-07-28T21:10:01.159Z",
+    "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
+  },
+  {
     "job_title": "Applied Scientist, AWS Automated Reasoning",
     "employer_name": "Amazon",
     "job_city": "Boston",
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T15:48:16.628Z",
-    "job_posted_at_datetime_utc": "2026-07-27T15:48:16.628Z",
+    "job_posted_at": "2026-07-27T17:10:01.159Z",
+    "job_posted_at_datetime_utc": "2026-07-27T17:10:01.159Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439401/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T15:48:16.627Z",
-    "job_posted_at_datetime_utc": "2026-07-27T15:48:16.627Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-seattle"
   },
   {
     "job_title": "Applied Scientist, Amazon Connect Talent",
@@ -28,8 +39,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10440471/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-07-23T15:48:16.628Z",
-    "job_posted_at_datetime_utc": "2026-07-23T15:48:16.628Z",
+    "job_posted_at": "2026-07-23T17:10:01.159Z",
+    "job_posted_at_datetime_utc": "2026-07-23T17:10:01.159Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
@@ -39,19 +50,19 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-23T15:48:16.628Z",
-    "job_posted_at_datetime_utc": "2026-07-23T15:48:16.628Z",
+    "job_posted_at": "2026-07-23T17:10:01.159Z",
+    "job_posted_at_datetime_utc": "2026-07-23T17:10:01.159Z",
     "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "employer_name": "Google",
+    "job_title": "Senior Staff Data Science Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "1 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Staff Data Science Manager, Ads Metrics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128264017545175750-senior-staff-data-science-manager-ads-metrics?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-staff-data-science-manager-mountain-view"
   },
   {
     "employer_name": "ABB",
@@ -75,6 +86,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -85,63 +106,123 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Channel Director - Northern California",
+    "job_title": "ELSP Production Planning Technician",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELSP Production Planning Technician at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041330/ELSP-Production-Planning-Technician",
+    "id": "abb-elsp-production-planning-technician-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Factory Project Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Factory Project Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031246/Factory-Project-Manager",
+    "id": "abb-factory-project-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
+    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Manufacturing Quality Tester-2",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "5 months ago",
+    "job_description": "Data Science job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
+    "id": "abb-manufacturing-quality-tester-2-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS MV SWGR Production Operator 2nd shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role ELDS MV SWGR Production Operator 2nd shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00026193/ELDS-MV-SWGR-Production-Operator-2nd-shift",
+    "id": "abb-elds-mv-swgr-production-operator-2nd-shift-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Channel Director - Northern California at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030328/Channel-Director-Northern-California",
-    "id": "abb-channel-director-northern-california-multiple"
+    "job_description": "Data Science job for the role Project Manager at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039145/Project-Manager",
+    "id": "abb-project-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "HSE Specialist",
+    "job_title": "Head of Data and IS, Marine & Ports Division",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Head of Data and IS, Marine & Ports Division at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038626/Head-of-Data-and-IS-Marine-Ports-Division",
+    "id": "abb-head-of-data-and-is-marine-ports-division-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Spécialiste Qualité - Projets SDS (Spatial & Défense)",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
+    "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Software Developer",
+    "job_city": "Tlajomulco de Zuniga",
+    "job_state": "Mexico",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role IS Software Developer II at Tlajomulco de Zuniga, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041318/IS-Software-Developer-II",
+    "id": "abb-is-software-developer-tlajomulco-de-zuniga"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Science & AI Specialist",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Data Science & AI Specialist at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041118/Data-Science-AI-Specialist",
+    "id": "abb-data-science-ai-specialist-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship (m/f/d) - AI and domain-aware audio Processing",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role HSE Specialist at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027738/HSE-Specialist",
-    "id": "abb-hse-specialist-multiple"
+    "job_description": "Data Science job for the role Internship (m/f/d) - AI and domain-aware audio Processing at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040688/Internship-m-f-d-AI-and-domain-aware-audio-Processing",
+    "id": "abb-internship-m-f-d-ai-and-domain-aware-audio-processing-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
+    "job_title": "Data Scientist - People Analytics",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Robotics Territory Sales Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Robotics Territory Sales Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041190/Robotics-Territory-Sales-Manager",
-    "id": "abb-robotics-territory-sales-manager-remote"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Management Leader",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Data Center COE Project Management Leader at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033409/Data-Center-COE-Project-Management-Leader",
-    "id": "abb-data-center-coe-project-management-leader-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Data Scientist - People Analytics at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027125/Data-Scientist-People-Analytics",
+    "id": "abb-data-scientist-people-analytics-multiple"
   },
   {
     "employer_name": "ABB",
@@ -172,16 +253,6 @@
     "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
     "id": "abb-elds-sales-master-data-analyst-xiamen"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Operations Manager for Product and Material Master Data",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role IS Operations Manager for Product and Material Master Data at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041783/IS-Operations-Manager-for-Product-and-Material-Master-Data",
-    "id": "abb-is-operations-manager-for-product-and-material-master-data-multiple"
   },
   {
     "employer_name": "ABB",
@@ -225,16 +296,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Manager - AI Applications, ABB Robotics",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Manager - AI Applications, ABB Robotics at Auburn Hills, Michigan, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030657/Product-Manager-AI-Applications-ABB-Robotics",
-    "id": "abb-product-manager-ai-applications-abb-robotics-auburn-hills"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior R&D Engineer",
     "job_city": "Chongqing",
     "job_state": "Chongqing",
@@ -265,16 +326,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Head of Data and IS, Marine & Ports Division",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Head of Data and IS, Marine & Ports Division at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038626/Head-of-Data-and-IS-Marine-Ports-Division",
-    "id": "abb-head-of-data-and-is-marine-ports-division-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "客户支持专员",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -292,16 +343,6 @@
     "job_description": "Data Science job for the role IS Functional Analyst at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040989/IS-Functional-Analyst",
     "id": "abb-is-functional-analyst-krakow"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "R&D Electrical Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
-    "id": "abb-r-d-electrical-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -405,16 +446,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Category Specialist",
-    "job_city": "Shanghai",
-    "job_state": "Shanghai",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Category Specialist at Shanghai, Shanghai, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040158/Category-Specialist",
-    "id": "abb-category-specialist-shanghai"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineering Specialist",
     "job_city": "Ostrava",
     "job_state": "Moravskoslezský kraj",
@@ -422,16 +453,6 @@
     "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Ostrava, Moravskoslezský kraj, Czechia",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025097/Digital-Solution-Engineering-Specialist",
     "id": "abb-digital-solution-engineering-specialist-ostrava"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Spécialiste Qualité - Projets SDS (Spatial & Défense)",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
-    "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
   },
   {
     "employer_name": "ABB",
@@ -485,16 +506,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Training Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Commercial Training Manager at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040335/Commercial-Training-Manager",
-    "id": "abb-commercial-training-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Vision Develop Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -535,16 +546,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Process Manager",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Business Process Manager at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
-    "id": "abb-business-process-manager-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Robotics Visual SLAM Software Engineer",
     "job_city": "Sant Quirze del Valles",
     "job_state": "Barcelona",
@@ -552,15 +553,5 @@
     "job_description": "Data Science job for the role Robotics Visual SLAM Software Engineer at Sant Quirze del Valles, Barcelona, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040547/Robotics-Visual-SLAM-Software-Engineer",
     "id": "abb-robotics-visual-slam-software-engineer-sant-quirze-del-valles"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
-    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
