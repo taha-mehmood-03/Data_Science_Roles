@@ -1,13 +1,24 @@
 [
   {
+    "job_title": "Data Engineer , CXI/OIS Analytics , Ops Tech Solution Network Dev",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Engineer , CXI/OIS Analytics , Ops Tech Solution Network Dev at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488378/data-engineer-cxi-ois-analytics-ops-tech-solution-network-dev",
+    "job_posted_at": "2026-07-30T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-07-30T00:00:00.000Z",
+    "id": "amazon-data-engineer-cxi-ois-analytics-ops-tech-solution-network-dev-austin"
+  },
+  {
     "job_title": "Applied Scientist, AWS Automated Reasoning",
     "employer_name": "Amazon",
     "job_city": "Austin",
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-29T13:45:58.371Z",
-    "job_posted_at_datetime_utc": "2026-07-29T13:45:58.371Z",
+    "job_posted_at": "2026-07-28T15:48:28.519Z",
+    "job_posted_at_datetime_utc": "2026-07-28T15:48:28.519Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -17,30 +28,59 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T13:45:58.371Z",
-    "job_posted_at_datetime_utc": "2026-07-27T13:45:58.371Z",
+    "job_posted_at": "2026-07-27T15:48:28.519Z",
+    "job_posted_at_datetime_utc": "2026-07-27T15:48:28.519Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
-    "job_title": "Applied Scientist, AWS Insights & Optimization",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-07-24T13:45:58.371Z",
-    "job_posted_at_datetime_utc": "2026-07-24T13:45:58.371Z",
-    "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
+    "employer_name": "Arm",
+    "job_title": "Program Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Program Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-program-manager/47397/72800319216",
+    "id": "arm-program-manager-austin"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Applications Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Applications Engineer at Sophia Antipolis, France,  France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/staff-applications-engineer/33099/98510705696",
-    "id": "arm-applications-engineer-sophia-antipolis"
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031522/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Project Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040882/Project-Manager",
+    "id": "abb-project-manager-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -64,43 +104,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Channel Director - KS, IA, NE, MO",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Channel Director - KS, IA, NE, MO at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033216/Channel-Director-KS-IA-NE-MO",
-    "id": "abb-channel-director-ks-ia-ne-mo-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033769/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "job_title": "Generator Sales Specialist",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Generator Sales Specialist at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042026/Generator-Sales-Specialist",
+    "id": "abb-generator-sales-specialist-remote"
   },
   {
     "employer_name": "ABB",
@@ -344,16 +354,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Category Specialist",
-    "job_city": "Xiamen",
-    "job_state": "Fujian",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Category Specialist at Xiamen, Fujian, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037359/Category-Specialist",
-    "id": "abb-category-specialist-xiamen"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Warehouse/Internal Logistics Specialist",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -361,6 +361,16 @@
     "job_description": "Data Science job for the role Warehouse/Internal Logistics Specialist at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00020246/Warehouse-Internal-Logistics-Specialist",
     "id": "abb-warehouse-internal-logistics-specialist-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Category Specialist",
+    "job_city": "Xiamen",
+    "job_state": "Fujian",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Category Specialist at Xiamen, Fujian, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037359/Category-Specialist",
+    "id": "abb-category-specialist-xiamen"
   },
   {
     "employer_name": "ABB",
