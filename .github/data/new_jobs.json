@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Business Intelligence Engineer II, CDR Pillar 1 Strategy and DX",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Business Intelligence Engineer II, CDR Pillar 1 Strategy and DX at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489424/business-intelligence-engineer-ii-cdr-pillar-1-strategy-and-dx",
-    "job_posted_at": "2026-07-31T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-07-31T00:00:00.000Z",
-    "id": "amazon-business-intelligence-engineer-ii-cdr-pillar-1-strategy-and-dx-austin"
-  },
-  {
     "job_title": "Applied Scientist II, AWS Agentic AI",
     "employer_name": "Amazon",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T19:24:18.366Z",
-    "job_posted_at_datetime_utc": "2026-07-30T19:24:18.366Z",
+    "job_posted_at": "2026-07-30T19:16:28.451Z",
+    "job_posted_at_datetime_utc": "2026-07-30T19:16:28.451Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -28,8 +17,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-28T17:24:18.366Z",
-    "job_posted_at_datetime_utc": "2026-07-28T17:24:18.366Z",
+    "job_posted_at": "2026-07-28T19:16:28.451Z",
+    "job_posted_at_datetime_utc": "2026-07-28T19:16:28.451Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -39,29 +28,9 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T17:24:18.366Z",
-    "job_posted_at_datetime_utc": "2026-07-27T17:24:18.366Z",
+    "job_posted_at": "2026-07-27T19:16:28.451Z",
+    "job_posted_at_datetime_utc": "2026-07-27T19:16:28.451Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "AI Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role AI Engineer at Boise, Idaho, United States of America + 1 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/43350733",
-    "id": "micron-ai-engineer-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Boise US Expansion Yield Program Manager",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role Boise US Expansion Yield Program Manager at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/41977778",
-    "id": "micron-boise-us-expansion-yield-program-manager-boise"
   },
   {
     "employer_name": "ABB",
@@ -85,13 +54,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -105,13 +74,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -145,16 +114,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Industry & Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -162,6 +121,16 @@
     "job_description": "Data Science job for the role Industry & Account Manager at Available in one of 5 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
     "id": "abb-industry-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Director, Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
+    "id": "abb-senior-director-service-manager-multiple"
   },
   {
     "employer_name": "ABB",
@@ -485,6 +454,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Junior commissioning engineer",
+    "job_city": "Genova",
+    "job_state": "Genova",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Junior commissioning engineer at Genova, Genova, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042386/Junior-commissioning-engineer",
+    "id": "abb-junior-commissioning-engineer-genova"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Vision Develop Engineer",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -522,5 +501,15 @@
     "job_description": "Data Science job for the role Service Control Software Engineer for Traction Applications at Paterna, Valencia, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040313/Service-Control-Software-Engineer-for-Traction-Applications",
     "id": "abb-service-control-software-engineer-for-traction-applications-paterna"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "2nd Shift Process Engineering Technician",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role 2nd Shift Process Engineering Technician at US, MA, Chelmsford, Alpha",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-2nd-shift-process-engineering-technician-us"
   }
 ]
