@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Applied Scientist, Amazon Connect Talent",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489858/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-08-01T15:59:26.429Z",
-    "job_posted_at_datetime_utc": "2026-08-01T15:59:26.429Z",
-    "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
-  },
-  {
     "job_title": "Applied Scientist II, AWS Agentic AI",
     "employer_name": "Amazon",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T15:59:26.429Z",
-    "job_posted_at_datetime_utc": "2026-07-30T15:59:26.429Z",
+    "job_posted_at": "2026-07-30T17:00:50.495Z",
+    "job_posted_at_datetime_utc": "2026-07-30T17:00:50.495Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -28,8 +17,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-28T15:59:26.429Z",
-    "job_posted_at_datetime_utc": "2026-07-28T15:59:26.429Z",
+    "job_posted_at": "2026-07-28T17:00:50.495Z",
+    "job_posted_at_datetime_utc": "2026-07-28T17:00:50.495Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -39,8 +28,8 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T15:59:26.429Z",
-    "job_posted_at_datetime_utc": "2026-07-27T15:59:26.429Z",
+    "job_posted_at": "2026-07-27T17:00:50.495Z",
+    "job_posted_at_datetime_utc": "2026-07-27T17:00:50.495Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
@@ -85,6 +74,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Senior Director, Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
+    "id": "abb-senior-director-service-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Director of Sales PV and BESS Inverter",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
+    "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -105,46 +114,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Internship (m/f/d) - AI and domain-aware audio Processing",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Internship (m/f/d) - AI and domain-aware audio Processing at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040688/Internship-m-f-d-AI-and-domain-aware-audio-Processing",
-    "id": "abb-internship-m-f-d-ai-and-domain-aware-audio-processing-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Scientist - People Analytics",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Data Scientist - People Analytics at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00027125/Data-Scientist-People-Analytics",
-    "id": "abb-data-scientist-people-analytics-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Manager for Product Material Compliance",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Program Manager for Product Material Compliance at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00038517/Program-Manager-for-Product-Material-Compliance",
-    "id": "abb-program-manager-for-product-material-compliance-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Software Developer",
-    "job_city": "Tlajomulco de Zuniga",
-    "job_state": "Mexico",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role IS Software Developer II at Tlajomulco de Zuniga, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041318/IS-Software-Developer-II",
-    "id": "abb-is-software-developer-tlajomulco-de-zuniga"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Business Analyst for Product and Material Master Data",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -162,6 +131,16 @@
     "job_description": "Data Science job for the role ELDS Sales Master Data Analyst at Xiamen, Fujian, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00023518/ELDS-Sales-Master-Data-Analyst",
     "id": "abb-elds-sales-master-data-analyst-xiamen"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Operations Manager for Product and Material Master Data",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role IS Operations Manager for Product and Material Master Data at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041783/IS-Operations-Manager-for-Product-and-Material-Master-Data",
+    "id": "abb-is-operations-manager-for-product-and-material-master-data-multiple"
   },
   {
     "employer_name": "ABB",
@@ -205,6 +184,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Software Developer - Programmer Analyst",
+    "job_city": "Dorval",
+    "job_state": "Quebec",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Software Developer - Programmer Analyst at Dorval, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042808/Software-Developer-Programmer-Analyst",
+    "id": "abb-software-developer-programmer-analyst-dorval"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Sen. Digital Solution Engineer. Special.",
     "job_city": "Shanghai",
     "job_state": "Shanghai",
@@ -232,6 +221,16 @@
     "job_description": "Data Science job for the role IS Functional Analyst at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040989/IS-Functional-Analyst",
     "id": "abb-is-functional-analyst-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00025158/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-multiple"
   },
   {
     "employer_name": "ABB",
@@ -345,6 +344,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Spécialiste Qualité - Projets SDS (Spatial & Défense)",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
+    "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -425,6 +434,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Gas Insulated Switchgear Commissioning Engineer",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Gas Insulated Switchgear Commissioning Engineer at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033407/Gas-Insulated-Switchgear-Commissioning-Engineer",
+    "id": "abb-gas-insulated-switchgear-commissioning-engineer-remote"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior IS Solution Architect for IS Security",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -442,5 +461,25 @@
     "job_description": "Data Science job for the role Service Control Software Engineer for Traction Applications at Paterna, Valencia, Spain",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040313/Service-Control-Software-Engineer-for-Traction-Applications",
     "id": "abb-service-control-software-engineer-for-traction-applications-paterna"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Business Process Manager at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00027907/Business-Process-Manager",
+    "id": "abb-business-process-manager-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Functional Analyst - ERP Technical Integration and BTP",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role IS Functional Analyst - ERP Technical Integration and BTP at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030683/IS-Functional-Analyst-ERP-Technical-Integration-and-BTP",
+    "id": "abb-is-functional-analyst-erp-technical-integration-and-btp-multiple"
   }
 ]
