@@ -6,8 +6,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489858/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-08-01T14:58:16.045Z",
-    "job_posted_at_datetime_utc": "2026-08-01T14:58:16.045Z",
+    "job_posted_at": "2026-08-01T15:59:26.429Z",
+    "job_posted_at_datetime_utc": "2026-08-01T15:59:26.429Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
@@ -17,20 +17,20 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T14:58:16.045Z",
-    "job_posted_at_datetime_utc": "2026-07-30T14:58:16.045Z",
+    "job_posted_at": "2026-07-30T15:59:26.429Z",
+    "job_posted_at_datetime_utc": "2026-07-30T15:59:26.429Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
-    "job_title": "Applied Scientist, Data Processing Agents Science",
+    "job_title": "Applied Scientist, AWS Automated Reasoning",
     "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist, Data Processing Agents Science at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488733/applied-scientist-data-processing-agents-science",
-    "job_posted_at": "2026-07-30T14:58:16.044Z",
-    "job_posted_at_datetime_utc": "2026-07-30T14:58:16.044Z",
-    "id": "amazon-applied-scientist-data-processing-agents-science-santa-clara"
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
+    "job_posted_at": "2026-07-28T15:59:26.429Z",
+    "job_posted_at_datetime_utc": "2026-07-28T15:59:26.429Z",
+    "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
     "job_title": "Applied Scientist, AWS Automated Reasoning",
@@ -39,30 +39,9 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T14:58:16.045Z",
-    "job_posted_at_datetime_utc": "2026-07-27T14:58:16.045Z",
+    "job_posted_at": "2026-07-27T15:59:26.429Z",
+    "job_posted_at_datetime_utc": "2026-07-27T15:59:26.429Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
-  },
-  {
-    "job_title": "Applied Scientist, AWS Automated Reasoning",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439401/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T14:58:16.044Z",
-    "job_posted_at_datetime_utc": "2026-07-27T14:58:16.044Z",
-    "id": "amazon-applied-scientist-aws-automated-reasoning-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -86,6 +65,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -100,8 +89,8 @@
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
+    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
   },
   {
