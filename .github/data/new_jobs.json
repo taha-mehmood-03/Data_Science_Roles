@@ -6,8 +6,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T17:00:50.495Z",
-    "job_posted_at_datetime_utc": "2026-07-30T17:00:50.495Z",
+    "job_posted_at": "2026-07-30T18:03:26.961Z",
+    "job_posted_at_datetime_utc": "2026-07-30T18:03:26.961Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-28T17:00:50.495Z",
-    "job_posted_at_datetime_utc": "2026-07-28T17:00:50.495Z",
+    "job_posted_at": "2026-07-28T18:03:26.961Z",
+    "job_posted_at_datetime_utc": "2026-07-28T18:03:26.961Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
   },
   {
@@ -28,8 +28,8 @@
     "job_state": "MA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Boston, MA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10439462/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-27T17:00:50.495Z",
-    "job_posted_at_datetime_utc": "2026-07-27T17:00:50.495Z",
+    "job_posted_at": "2026-07-27T18:03:26.961Z",
+    "job_posted_at_datetime_utc": "2026-07-27T18:03:26.961Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-boston"
   },
   {
@@ -74,16 +74,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Director, Service Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
-    "id": "abb-senior-director-service-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Director of Sales PV and BESS Inverter",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -91,6 +81,16 @@
     "job_description": "Data Science job for the role Director of Sales PV and BESS Inverter at Available in one of 5 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00025188/Director-of-Sales-PV-and-BESS-Inverter",
     "id": "abb-director-of-sales-pv-and-bess-inverter-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Director, Service Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Director, Service Manager at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager",
+    "id": "abb-senior-director-service-manager-multiple"
   },
   {
     "employer_name": "ABB",
