@@ -6,8 +6,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Connect Talent at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489858/applied-scientist-amazon-connect-talent",
-    "job_posted_at": "2026-08-01T02:12:28.427Z",
-    "job_posted_at_datetime_utc": "2026-08-01T02:12:28.427Z",
+    "job_posted_at": "2026-08-01T06:15:43.862Z",
+    "job_posted_at_datetime_utc": "2026-08-01T06:15:43.862Z",
     "id": "amazon-applied-scientist-amazon-connect-talent-new-york"
   },
   {
@@ -17,8 +17,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-31T02:12:28.427Z",
-    "job_posted_at_datetime_utc": "2026-07-31T02:12:28.427Z",
+    "job_posted_at": "2026-07-31T06:15:43.862Z",
+    "job_posted_at_datetime_utc": "2026-07-31T06:15:43.862Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -28,19 +28,9 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Applied Scientist, AWS Automated Reasoning at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475958/applied-scientist-aws-automated-reasoning",
-    "job_posted_at": "2026-07-29T02:12:28.427Z",
-    "job_posted_at_datetime_utc": "2026-07-29T02:12:28.427Z",
+    "job_posted_at": "2026-07-29T06:15:43.862Z",
+    "job_posted_at_datetime_utc": "2026-07-29T06:15:43.862Z",
     "id": "amazon-applied-scientist-aws-automated-reasoning-austin"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -64,6 +54,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Protection and Control Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -74,16 +74,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Center CoE - Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -91,6 +81,26 @@
     "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Science & AI Specialist",
+    "job_city": "Frosinone",
+    "job_state": "Frosinone",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Data Science & AI Specialist at Frosinone, Frosinone, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041118/Data-Science-AI-Specialist",
+    "id": "abb-data-science-ai-specialist-frosinone"
   },
   {
     "employer_name": "ABB",
