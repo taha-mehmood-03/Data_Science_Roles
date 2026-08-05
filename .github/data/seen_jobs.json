@@ -1,6 +1,4 @@
 [
-  "amazon-applied-scientist-systems-modeling-aws-center-for-quantum-computing-pasadena",
-  "amazon-applied-scientist-translation-services-seattle",
   "amazon-applied-scientist-tsi-science-new-york",
   "amazon-applied-scientist-tsi-science-seattle",
   "amazon-applied-scientist-workplace-health-safety-bellevue",
@@ -1839,6 +1837,7 @@
   "arm-director-cost-accountant-san-jose",
   "arm-director-emulation-fpga-austin",
   "arm-director-emulation-fpga-bengaluru",
+  "arm-director-engineering-operations-project-enablement-austin",
   "arm-director-engineering-solution-architecture-cambridge",
   "arm-director-executive-communications-san-jose",
   "arm-director-gpu-hardware-engineering-trondheim",
@@ -2585,6 +2584,7 @@
   "arm-rtl-design-engineer-austin",
   "arm-rtl-design-engineer-bristol",
   "arm-rtl-design-engineer-cpu-team-cambridge",
+  "arm-rtl-design-engineer-pcie-subsystems-sheffield",
   "arm-rtl-engineer-austin",
   "arm-rtl-integration-engineer-austin",
   "arm-runtimes-automation-engineer-cambridge",

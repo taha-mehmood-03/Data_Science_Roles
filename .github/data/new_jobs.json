@@ -6,19 +6,29 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T08:27:23.871Z",
-    "job_posted_at_datetime_utc": "2026-07-30T08:27:23.871Z",
+    "job_posted_at": "2026-07-30T11:16:36.331Z",
+    "job_posted_at_datetime_utc": "2026-07-30T11:16:36.331Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Principal/Senior Principal Engineer – Arm Architecture Reference Manual (ARM)",
-    "job_city": "Cambridge",
+    "job_title": "Director, Engineering Operations – Project Enablement",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Engineering Operations – Project Enablement at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/director-engineering-operations-project-enablement/33099/97631172288",
+    "id": "arm-director-engineering-operations-project-enablement-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer – PCIe Subsystems",
+    "job_city": "Sheffield",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal/Senior Principal Engineer – Arm Architecture Reference Manual (ARM) at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-senior-principal-engineer-arm-architecture-reference-manual-arm/33099/93988215360",
-    "id": "arm-principal-senior-principal-engineer-arm-architecture-reference-manual-arm-cambridge"
+    "job_description": "Data Science job for the role Senior RTL Design Engineer – PCIe Subsystems at Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/sheffield/senior-rtl-design-engineer-pcie-subsystems/33099/98741677648",
+    "id": "arm-rtl-design-engineer-pcie-subsystems-sheffield"
   },
   {
     "employer_name": "ABB",
@@ -79,16 +89,6 @@
     "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Resident Field Service Technician (Gary, IN)",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Resident Field Service Technician (Gary, IN) at Available in one of 3 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00023576/Resident-Field-Service-Technician-Gary-IN",
-    "id": "abb-resident-field-service-technician-gary-in-multiple"
   },
   {
     "employer_name": "ABB",
@@ -449,6 +449,16 @@
     "job_description": "Data Science job for the role SAP SD Functional Analyst at Available in one of 2 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036845/SAP-SD-Functional-Analyst",
     "id": "abb-sap-sd-functional-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship - Industrial Plant Simulation",
+    "job_city": "Genova",
+    "job_state": "Genova",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Internship - Industrial Plant Simulation at Genova, Genova, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042874/Internship-Industrial-Plant-Simulation",
+    "id": "abb-internship-industrial-plant-simulation-genova"
   },
   {
     "employer_name": "ABB",
