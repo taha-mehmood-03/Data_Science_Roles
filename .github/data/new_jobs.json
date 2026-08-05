@@ -6,39 +6,19 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-07-30T19:22:11.739Z",
-    "job_posted_at_datetime_utc": "2026-07-30T19:22:11.739Z",
+    "job_posted_at": "2026-07-30T21:02:40.898Z",
+    "job_posted_at_datetime_utc": "2026-07-30T21:02:40.898Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Analytics Lead",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "62 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytics Lead, Partner Marketing, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110882035790160582-analytics-lead-partner-marketing-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-analytics-lead-new-york"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Automation Tools Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Automation Tools Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-automation-tools-engineer/33099/98803698976",
-    "id": "arm-automation-tools-engineer-cambridge"
-  },
-  {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Program Leader Critical Industries",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -52,13 +32,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -82,16 +62,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
-    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Manufacturing Quality Tester-2",
     "job_city": "Mebane",
     "job_state": "North Carolina",
@@ -99,6 +69,16 @@
     "job_description": "Data Science job for the role Manufacturing Quality Tester-2 at Mebane, North Carolina, United States of America",
     "job_apply_link": "https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2",
     "id": "abb-manufacturing-quality-tester-2-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "ELDS Special Processes Department- Production Operator 1st shift",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role ELDS Special Processes Department- Production Operator 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00020758/ELDS-Special-Processes-Department-Production-Operator-1st-shift",
+    "id": "abb-elds-special-processes-department-production-operator-1st-shift-mebane"
   },
   {
     "employer_name": "ABB",
@@ -122,13 +102,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "ELDS LV Trainer Wiring 2nd shift",
+    "job_title": "ELDS LV SWGR Production Operator 1st shift",
     "job_city": "Mebane",
     "job_state": "North Carolina",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role ELDS LV Trainer Wiring 2nd shift at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042262/ELDS-LV-Trainer-Wiring-2nd-shift",
-    "id": "abb-elds-lv-trainer-wiring-2nd-shift-mebane"
+    "job_description": "Data Science job for the role ELDS LV SWGR Production Operator 1st shift at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042100/ELDS-LV-SWGR-Production-Operator-1st-shift",
+    "id": "abb-elds-lv-swgr-production-operator-1st-shift-mebane"
   },
   {
     "employer_name": "ABB",
