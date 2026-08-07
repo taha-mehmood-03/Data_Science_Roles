@@ -6,19 +6,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Personalize, AWS at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10495027/applied-scientist-personalize-aws",
-    "job_posted_at": "2026-08-06T19:31:59.251Z",
-    "job_posted_at_datetime_utc": "2026-08-06T19:31:59.251Z",
+    "job_posted_at": "2026-08-06T20:06:06.991Z",
+    "job_posted_at_datetime_utc": "2026-08-06T20:06:06.991Z",
     "id": "amazon-applied-scientist-personalize-aws-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -39,6 +29,16 @@
     "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
     "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -172,16 +172,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "A&M Analyst Intern",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role A&M Analyst Intern at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041105/A-M-Analyst-Intern",
-    "id": "abb-a-m-analyst-intern-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Data Analyst Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -189,6 +179,16 @@
     "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
     "id": "abb-is-data-analyst-engineer-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "A&M Analyst Intern",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role A&M Analyst Intern at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041105/A-M-Analyst-Intern",
+    "id": "abb-a-m-analyst-intern-krakow"
   },
   {
     "employer_name": "ABB",
@@ -202,16 +202,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Software Developer - Programmer Analyst",
-    "job_city": "Dorval",
-    "job_state": "Quebec",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Software Developer - Programmer Analyst at Dorval, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042808/Software-Developer-Programmer-Analyst",
-    "id": "abb-software-developer-programmer-analyst-dorval"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Data Analytics & Business Applications Specialist - Temporary",
     "job_city": "Frosinone",
     "job_state": "Frosinone",
@@ -219,6 +209,16 @@
     "job_description": "Data Science job for the role Data Analytics & Business Applications Specialist - Temporary at Frosinone, Frosinone, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042002/Data-Analytics-Business-Applications-Specialist-Temporary",
     "id": "abb-data-analytics-business-applications-specialist-temporary-frosinone"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Developer - Programmer Analyst",
+    "job_city": "Dorval",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Software Developer - Programmer Analyst at Dorval, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042808/Software-Developer-Programmer-Analyst",
+    "id": "abb-software-developer-programmer-analyst-dorval"
   },
   {
     "employer_name": "ABB",
@@ -272,16 +272,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Electrical Design Engineer, Electrical Motors and generators",
-    "job_city": "Vaesteras",
-    "job_state": "Vastmanland County",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Electrical Design Engineer, Electrical Motors and generators at Vaesteras, Vastmanland County, Sweden",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032519/Senior-Electrical-Design-Engineer-Electrical-Motors-and-generators",
-    "id": "abb-senior-electrical-design-engineer-electrical-motors-and-generators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Sr. Semiconductor Sales",
     "job_city": "Taipei City",
     "job_state": "Taipei City",
@@ -289,6 +279,16 @@
     "job_description": "Data Science job for the role Sr. Semiconductor Sales at Taipei City, Taipei City, Taiwan",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040781/Sr-Semiconductor-Sales",
     "id": "abb-sr-semiconductor-sales-taipei-city"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Electrical Design Engineer, Electrical Motors and generators",
+    "job_city": "Vaesteras",
+    "job_state": "Vastmanland County",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Electrical Design Engineer, Electrical Motors and generators at Vaesteras, Vastmanland County, Sweden",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032519/Senior-Electrical-Design-Engineer-Electrical-Motors-and-generators",
+    "id": "abb-senior-electrical-design-engineer-electrical-motors-and-generators-vaesteras"
   },
   {
     "employer_name": "ABB",
@@ -372,16 +372,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
-    "job_city": "Hangzhou",
-    "job_state": "Zhejiang",
-    "job_posted_at": "6 months ago",
-    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
-    "id": "abb-sales-specialist-hangzhou"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "R&D Software Engineer",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -389,6 +379,16 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist",
+    "job_city": "Hangzhou",
+    "job_state": "Zhejiang",
+    "job_posted_at": "6 months ago",
+    "job_description": "Data Science job for the role Sales Specialist at Hangzhou, Zhejiang, China",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00022404/Sales-Specialist",
+    "id": "abb-sales-specialist-hangzhou"
   },
   {
     "employer_name": "ABB",
