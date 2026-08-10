@@ -6,8 +6,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Personalize, AWS at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10495027/applied-scientist-personalize-aws",
-    "job_posted_at": "2026-08-07T01:16:07.071Z",
-    "job_posted_at_datetime_utc": "2026-08-07T01:16:07.071Z",
+    "job_posted_at": "2026-08-07T03:48:40.772Z",
+    "job_posted_at_datetime_utc": "2026-08-07T03:48:40.772Z",
     "id": "amazon-applied-scientist-personalize-aws-seattle"
   },
   {
@@ -22,16 +22,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Business Development Manager - Southwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Business Development Manager - Southwest at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
-    "id": "abb-business-development-manager-southwest-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager HVACR - West",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -39,6 +29,16 @@
     "job_description": "Data Science job for the role Regional Sales Manager HVACR - West at Available in one of 10 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043089/Regional-Sales-Manager-HVACR-West",
     "id": "abb-regional-sales-manager-hvacr-west-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager - Southwest",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Business Development Manager - Southwest at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042997/Business-Development-Manager-Southwest",
+    "id": "abb-business-development-manager-southwest-multiple"
   },
   {
     "employer_name": "ABB",
@@ -62,16 +62,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Program Leader Critical Industries",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -79,6 +69,16 @@
     "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
     "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -102,13 +102,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_title": "Industry & Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
-    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Industry & Account Manager at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040894/Industry-Account-Manager",
+    "id": "abb-industry-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
