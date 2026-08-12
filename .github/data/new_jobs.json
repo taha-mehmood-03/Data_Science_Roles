@@ -1,14 +1,14 @@
 [
   {
-    "job_title": "Applied Scientist, Applied AI Solutions GTM",
+    "job_title": "Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
     "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Applied Scientist, Applied AI Solutions GTM at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499369/applied-scientist-applied-ai-solutions-gtm",
-    "job_posted_at": "2026-08-12T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-08-12T00:00:00.000Z",
-    "id": "amazon-applied-scientist-applied-ai-solutions-gtm-austin"
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
+    "job_posted_at": "2026-08-12T02:01:48.120Z",
+    "job_posted_at_datetime_utc": "2026-08-12T02:01:48.120Z",
+    "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
   },
   {
     "job_title": "Applied Scientist, Personalize, AWS",
@@ -17,29 +17,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Personalize, AWS at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10495027/applied-scientist-personalize-aws",
-    "job_posted_at": "2026-08-07T01:22:10.983Z",
-    "job_posted_at_datetime_utc": "2026-08-07T01:22:10.983Z",
+    "job_posted_at": "2026-08-07T04:01:48.120Z",
+    "job_posted_at_datetime_utc": "2026-08-07T04:01:48.120Z",
     "id": "amazon-applied-scientist-personalize-aws-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Operations Director of Programs",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Operations Director of Programs at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/operations-director-of-programs/33099/99090515984",
-    "id": "arm-operations-director-of-programs-san-jose"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Director of Program Delivery",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director of Program Delivery at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-program-delivery/33099/99090515952",
-    "id": "arm-director-of-program-delivery-san-jose"
   },
   {
     "employer_name": "ABB",
@@ -50,16 +30,6 @@
     "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
   },
   {
     "employer_name": "ABB",
@@ -93,6 +63,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Local Division Manager IEC Motors, North America",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -120,16 +100,6 @@
     "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 52 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042126/Data-Center-CoE-Field-Service-Technician",
     "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 53 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043721/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
   },
   {
     "employer_name": "ABB",
