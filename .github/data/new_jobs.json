@@ -1,25 +1,25 @@
 [
   {
-    "job_title": "Applied Scientist, Internal Audit",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-14T19:17:12.262Z",
-    "job_posted_at_datetime_utc": "2026-08-14T19:17:12.262Z",
-    "id": "amazon-applied-scientist-internal-audit-seattle"
-  },
-  {
     "job_title": "Applied Scientist, Leo Security",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-14T19:17:12.261Z",
-    "job_posted_at_datetime_utc": "2026-08-14T19:17:12.261Z",
+    "job_posted_at": "2026-08-14T19:17:04.988Z",
+    "job_posted_at_datetime_utc": "2026-08-14T19:17:04.988Z",
     "id": "amazon-applied-scientist-leo-security-seattle"
+  },
+  {
+    "job_title": "Applied Scientist, Internal Audit",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
+    "job_posted_at": "2026-08-14T19:17:04.988Z",
+    "job_posted_at_datetime_utc": "2026-08-14T19:17:04.988Z",
+    "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
     "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
@@ -28,9 +28,20 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-14T17:17:12.261Z",
-    "job_posted_at_datetime_utc": "2026-08-14T17:17:12.261Z",
+    "job_posted_at": "2026-08-14T17:17:04.988Z",
+    "job_posted_at_datetime_utc": "2026-08-14T17:17:04.988Z",
     "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
+  },
+  {
+    "job_title": "Applied Scientist II, AWS Agentic AI",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
+    "job_posted_at": "2026-08-13T23:17:04.988Z",
+    "job_posted_at_datetime_utc": "2026-08-13T23:17:04.988Z",
+    "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
     "job_title": "Applied Scientist, Data Processing Agents Science",
@@ -39,8 +50,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist, Data Processing Agents Science at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488733/applied-scientist-data-processing-agents-science",
-    "job_posted_at": "2026-08-13T22:17:12.261Z",
-    "job_posted_at_datetime_utc": "2026-08-13T22:17:12.261Z",
+    "job_posted_at": "2026-08-13T23:17:04.987Z",
+    "job_posted_at_datetime_utc": "2026-08-13T23:17:04.987Z",
     "id": "amazon-applied-scientist-data-processing-agents-science-santa-clara"
   },
   {
@@ -50,20 +61,9 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Redshift at East Palo Alto, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10454318/applied-scientist-amazon-redshift",
-    "job_posted_at": "2026-08-13T22:17:12.261Z",
-    "job_posted_at_datetime_utc": "2026-08-13T22:17:12.261Z",
+    "job_posted_at": "2026-08-13T23:17:04.987Z",
+    "job_posted_at_datetime_utc": "2026-08-13T23:17:04.987Z",
     "id": "amazon-applied-scientist-amazon-redshift-east-palo-alto"
-  },
-  {
-    "job_title": "Applied Scientist II, AWS Agentic AI",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-13T22:17:12.261Z",
-    "job_posted_at_datetime_utc": "2026-08-13T22:17:12.261Z",
-    "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
     "employer_name": "ABB",
@@ -77,13 +77,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
+    "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -97,6 +97,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Program Leader Critical Industries",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
+    "id": "abb-program-leader-critical-industries-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -107,16 +117,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -124,16 +124,6 @@
     "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
     "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Local Division Manager IEC Motors, North America",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
-    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
   },
   {
     "employer_name": "ABB",
@@ -157,12 +147,22 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Local Division Manager IEC Motors, North America",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
+    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
     "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
@@ -297,16 +297,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Digital Solution Engineer",
-    "job_city": "Nashik",
-    "job_state": "Mahārāshtra",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
-    "id": "abb-digital-solution-engineer-nashik"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "IS Data Analyst Engineer",
     "job_city": "Krakow",
     "job_state": "Lesser Poland",
@@ -314,6 +304,16 @@
     "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
     "id": "abb-is-data-analyst-engineer-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineer",
+    "job_city": "Nashik",
+    "job_state": "Mahārāshtra",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
+    "id": "abb-digital-solution-engineer-nashik"
   },
   {
     "employer_name": "ABB",
@@ -347,16 +347,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior IS Business Analyst",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Senior IS Business Analyst at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043595/Senior-IS-Business-Analyst",
-    "id": "abb-senior-is-business-analyst-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "客户支持专员",
     "job_city": "Beijing",
     "job_state": "Beijing",
@@ -364,6 +354,16 @@
     "job_description": "Data Science job for the role 客户支持专员 at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041948/客户支持专员",
     "id": "abb--beijing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior IS Business Analyst",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior IS Business Analyst at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043595/Senior-IS-Business-Analyst",
+    "id": "abb-senior-is-business-analyst-krakow"
   },
   {
     "employer_name": "ABB",
@@ -514,16 +514,6 @@
     "job_description": "Data Science job for the role R&D Software Engineer at Beijing, Beijing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00001483/R-D-Software-Engineer",
     "id": "abb-r-d-software-engineer-beijing"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Junior commissioning engineer",
-    "job_city": "Genova",
-    "job_state": "Genova",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Junior commissioning engineer at Genova, Genova, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042386/Junior-commissioning-engineer",
-    "id": "abb-junior-commissioning-engineer-genova"
   },
   {
     "employer_name": "ABB",
