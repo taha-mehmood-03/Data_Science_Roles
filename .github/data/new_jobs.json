@@ -1,25 +1,25 @@
 [
   {
-    "job_title": "Applied Scientist, Leo Security",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-14T19:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-14T19:20:21.947Z",
-    "id": "amazon-applied-scientist-leo-security-seattle"
-  },
-  {
     "job_title": "Applied Scientist, Internal Audit",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-14T19:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-14T19:20:21.947Z",
+    "job_posted_at": "2026-08-14T19:18:11.430Z",
+    "job_posted_at_datetime_utc": "2026-08-14T19:18:11.430Z",
     "id": "amazon-applied-scientist-internal-audit-seattle"
+  },
+  {
+    "job_title": "Applied Scientist, Leo Security",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
+    "job_posted_at": "2026-08-14T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-14T19:18:11.429Z",
+    "id": "amazon-applied-scientist-leo-security-seattle"
   },
   {
     "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
@@ -28,8 +28,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-14T18:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-14T18:20:21.947Z",
+    "job_posted_at": "2026-08-14T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-14T19:18:11.429Z",
     "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
   },
   {
@@ -39,8 +39,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-13T18:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-13T18:20:21.947Z",
+    "job_posted_at": "2026-08-13T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-13T19:18:11.429Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -50,8 +50,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
-    "job_posted_at": "2026-08-12T18:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-12T18:20:21.947Z",
+    "job_posted_at": "2026-08-12T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-12T19:18:11.429Z",
     "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
   },
   {
@@ -61,8 +61,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
-    "job_posted_at": "2026-08-11T18:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-11T18:20:21.947Z",
+    "job_posted_at": "2026-08-11T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-11T19:18:11.429Z",
     "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
   },
   {
@@ -72,9 +72,29 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Veritas, Security Tools Foundation at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
-    "job_posted_at": "2026-08-10T18:20:21.947Z",
-    "job_posted_at_datetime_utc": "2026-08-10T18:20:21.947Z",
+    "job_posted_at": "2026-08-10T19:18:11.429Z",
+    "job_posted_at_datetime_utc": "2026-08-10T19:18:11.429Z",
     "id": "amazon-data-engineer-i-veritas-security-tools-foundation-seattle"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Manager – Cloud AI Compute Subsystems",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager – Cloud AI Compute Subsystems at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/product-manager-cloud-ai-compute-subsystems/33099/99266684288",
+    "id": "arm-product-manager-cloud-ai-compute-subsystems-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Project Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Project Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/project-manager/33099/99266686192",
+    "id": "arm-project-manager-austin"
   },
   {
     "employer_name": "ABB",
@@ -85,16 +105,6 @@
     "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
     "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
@@ -125,6 +135,16 @@
     "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
