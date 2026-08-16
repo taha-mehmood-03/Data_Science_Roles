@@ -1,25 +1,36 @@
 [
   {
-    "job_title": "Applied Scientist, Internal Audit",
+    "job_title": "Applied Scientist, Leo Security",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-15T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-15T12:27:33.914Z",
-    "id": "amazon-applied-scientist-internal-audit-seattle"
+    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
+    "job_posted_at": "2026-08-14T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-14T13:26:40.302Z",
+    "id": "amazon-applied-scientist-leo-security-seattle"
   },
   {
-    "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
+    "job_title": "Applied Scientist, Data Processing Agents Science",
     "employer_name": "Amazon",
-    "job_city": "Hawthorne",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-14T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-14T12:27:33.914Z",
-    "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
+    "job_description": "Data Science job for the role Applied Scientist, Data Processing Agents Science at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488733/applied-scientist-data-processing-agents-science",
+    "job_posted_at": "2026-08-13T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-13T13:26:40.302Z",
+    "id": "amazon-applied-scientist-data-processing-agents-science-santa-clara"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Redshift",
+    "employer_name": "Amazon",
+    "job_city": "East Palo Alto",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist, Amazon Redshift at East Palo Alto, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10454318/applied-scientist-amazon-redshift",
+    "job_posted_at": "2026-08-13T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-13T13:26:40.302Z",
+    "id": "amazon-applied-scientist-amazon-redshift-east-palo-alto"
   },
   {
     "job_title": "Applied Scientist II, AWS Agentic AI",
@@ -28,8 +39,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-13T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-13T12:27:33.914Z",
+    "job_posted_at": "2026-08-13T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-13T13:26:40.302Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
@@ -39,20 +50,9 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
-    "job_posted_at": "2026-08-12T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-12T12:27:33.914Z",
+    "job_posted_at": "2026-08-12T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-12T13:26:40.302Z",
     "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
-  },
-  {
-    "job_title": "Data Engineer II, Canada Product & Tech",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
-    "job_posted_at": "2026-08-12T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-12T12:27:33.914Z",
-    "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
   },
   {
     "job_title": "Data Engineer I, Veritas, Security Tools Foundation",
@@ -61,149 +61,109 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Veritas, Security Tools Foundation at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
-    "job_posted_at": "2026-08-10T12:27:33.914Z",
-    "job_posted_at_datetime_utc": "2026-08-10T12:27:33.914Z",
+    "job_posted_at": "2026-08-10T13:26:40.302Z",
+    "job_posted_at_datetime_utc": "2026-08-10T13:26:40.303Z",
     "id": "amazon-data-engineer-i-veritas-security-tools-foundation-seattle"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Service Project Manager - Mining and Materials",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
-    "id": "abb-service-project-manager-mining-and-materials-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Service Site Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center COE Service Site Manager at Available in one of 53 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043721/Data-Center-COE-Service-Site-Manager",
-    "id": "abb-data-center-coe-service-site-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Program Leader Critical Industries",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Program Leader Critical Industries at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041500/Program-Leader-Critical-Industries",
-    "id": "abb-program-leader-critical-industries-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Project Planning & Control Specialist",
+    "job_city": "Merida",
+    "job_state": "Mexico",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center COE Project Manager at Available in one of 15 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037200/Data-Center-COE-Project-Manager",
-    "id": "abb-data-center-coe-project-manager-multiple"
+    "job_description": "Data Science job for the role Project Planning & Control Specialist at Merida, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042402/Project-Planning-Control-Specialist",
+    "id": "abb-project-planning-control-specialist-merida"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Service Sales Support Specialist",
+    "job_city": "Merida",
+    "job_state": "Mexico",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
+    "job_description": "Data Science job for the role Service Sales Support Specialist at Merida, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042633/Service-Sales-Support-Specialist",
+    "id": "abb-service-sales-support-specialist-merida"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
-    "job_city": "Multiple",
-    "job_state": "Various",
+    "job_title": "Local Business Line Manager – Process Industries",
+    "job_city": "Merida",
+    "job_state": "Mexico",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_description": "Data Science job for the role Local Business Line Manager – Process Industries at Merida, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037189/Local-Business-Line-Manager-Process-Industries",
+    "id": "abb-local-business-line-manager-process-industries-merida"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Local Division Manager IEC Motors, North America",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Local Division Manager IEC Motors, North America at Available in one of 49 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00040917/Local-Division-Manager-IEC-Motors-North-America",
-    "id": "abb-local-division-manager-iec-motors-north-america-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Product Data Analyst - 6 months",
-    "job_city": "Dorval",
-    "job_state": "Quebec",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Product Data Analyst - 6 months at Dorval, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043503/Product-Data-Analyst-6-months",
-    "id": "abb-product-data-analyst-6-months-dorval"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Software Developer - Programmer Analyst",
-    "job_city": "Dorval",
-    "job_state": "Quebec",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Software Developer - Programmer Analyst at Dorval, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042808/Software-Developer-Programmer-Analyst",
-    "id": "abb-software-developer-programmer-analyst-dorval"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Operation Digitalization and Quality Intern-Fall",
-    "job_city": "Saint-Laurent",
-    "job_state": "Quebec",
+    "job_title": "Field Service Engineer (Marine & Ports)",
+    "job_city": "Ciudad de Mexico",
+    "job_state": "Ciudad de Mexico",
     "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Operation Digitalization and Quality Intern-Fall 2026 at Saint-Laurent, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00032023/Operation-Digitalization-and-Quality-Intern-Fall-2026",
-    "id": "abb-operation-digitalization-and-quality-intern-fall-saint-laurent"
+    "job_description": "Data Science job for the role Field Service Engineer (Marine & Ports) at Ciudad de Mexico, Ciudad de Mexico, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00038186/Field-Service-Engineer-Marine-Ports",
+    "id": "abb-field-service-engineer-marine-ports-ciudad-de-mexico"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Spécialiste Qualité - Projets SDS (Spatial & Défense)",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
-    "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
+    "job_title": "Account Manager for ELECTRIFICATION",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Account Manager for ELECTRIFICATION at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043338/Account-Manager-for-ELECTRIFICATION",
+    "id": "abb-account-manager-for-electrification-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Security, Compliance and Controls Services Consultant",
+    "job_city": "Remote",
+    "job_state": "Mexico",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role IS Security, Compliance and Controls Services Consultant at Remote, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040018/IS-Security-Compliance-and-Controls-Services-Consultant",
+    "id": "abb-is-security-compliance-and-controls-services-consultant-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Service Specialist",
+    "job_city": "Remote",
+    "job_state": "Mexico",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Technical Service Specialist at Remote, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042297/Technical-Service-Specialist",
+    "id": "abb-technical-service-specialist-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior Engineer - Transformers Design",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role R&D Senior Engineer - Transformers Design at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043638/R-D-Senior-Engineer-Transformers-Design",
+    "id": "abb-r-d-senior-engineer-transformers-design-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "WAREHOUSE INTERNAL LOGISTICS OPERATOR-1",
+    "job_city": "San Luis Potosi",
+    "job_state": "San Luis Potosí",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role WAREHOUSE INTERNAL LOGISTICS OPERATOR-1 at San Luis Potosi, San Luis Potosí, Mexico",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00037478/WAREHOUSE-INTERNAL-LOGISTICS-OPERATOR-1",
+    "id": "abb-warehouse-internal-logistics-operator-1-san-luis-potosi"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Infrastructure Monitoring Specialist",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role IS Infrastructure Monitoring Specialist at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036663/IS-Infrastructure-Monitoring-Specialist",
+    "id": "abb-is-infrastructure-monitoring-specialist-multiple"
   },
   {
     "employer_name": "ABB",
@@ -277,6 +237,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Data Analyst - 6 months",
+    "job_city": "Dorval",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Product Data Analyst - 6 months at Dorval, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043503/Product-Data-Analyst-6-months",
+    "id": "abb-product-data-analyst-6-months-dorval"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Process Intelligence & Analytics Specialist",
     "job_city": "Madrid",
     "job_state": "Madrid",
@@ -327,6 +297,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Operation Digitalization and Quality Intern-Fall",
+    "job_city": "Saint-Laurent",
+    "job_state": "Quebec",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Operation Digitalization and Quality Intern-Fall 2026 at Saint-Laurent, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032023/Operation-Digitalization-and-Quality-Intern-Fall-2026",
+    "id": "abb-operation-digitalization-and-quality-intern-fall-saint-laurent"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Senior R&D Engineer",
     "job_city": "Chongqing",
     "job_state": "Chongqing",
@@ -334,6 +314,16 @@
     "job_description": "Data Science job for the role Senior R&D Engineer at Chongqing, Chongqing, China",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040476/Senior-R-D-Engineer",
     "id": "abb-senior-r-d-engineer-chongqing"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Developer - Programmer Analyst",
+    "job_city": "Dorval",
+    "job_state": "Quebec",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Software Developer - Programmer Analyst at Dorval, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042808/Software-Developer-Programmer-Analyst",
+    "id": "abb-software-developer-programmer-analyst-dorval"
   },
   {
     "employer_name": "ABB",
@@ -364,6 +354,16 @@
     "job_description": "Data Science job for the role Senior IS Business Analyst at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00043595/Senior-IS-Business-Analyst",
     "id": "abb-senior-is-business-analyst-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Spécialiste Qualité - Projets SDS (Spatial & Défense)",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
+    "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
   },
   {
     "employer_name": "ABB",
