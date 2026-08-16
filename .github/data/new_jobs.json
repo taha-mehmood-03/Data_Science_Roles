@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
-    "employer_name": "Amazon",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-15T08:22:12.280Z",
-    "job_posted_at_datetime_utc": "2026-08-15T08:22:12.280Z",
-    "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
-  },
-  {
     "job_title": "Applied Scientist, Internal Audit",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-15T08:22:12.280Z",
-    "job_posted_at_datetime_utc": "2026-08-15T08:22:12.280Z",
+    "job_posted_at": "2026-08-15T09:22:15.063Z",
+    "job_posted_at_datetime_utc": "2026-08-15T09:22:15.063Z",
     "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
@@ -28,20 +17,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-15T08:22:12.279Z",
-    "job_posted_at_datetime_utc": "2026-08-15T08:22:12.279Z",
+    "job_posted_at": "2026-08-15T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-15T09:22:15.062Z",
     "id": "amazon-applied-scientist-leo-security-seattle"
   },
   {
-    "job_title": "Data Engineer II, Canada Product & Tech",
+    "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
-    "job_posted_at": "2026-08-13T08:22:12.280Z",
-    "job_posted_at_datetime_utc": "2026-08-13T08:22:12.280Z",
-    "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
+    "job_posted_at": "2026-08-15T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-15T09:22:15.062Z",
+    "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
   },
   {
     "job_title": "Applied Scientist II, AWS Agentic AI",
@@ -50,9 +39,20 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-13T08:22:12.279Z",
-    "job_posted_at_datetime_utc": "2026-08-13T08:22:12.279Z",
+    "job_posted_at": "2026-08-13T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-13T09:22:15.062Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
+  },
+  {
+    "job_title": "Data Engineer II, Canada Product & Tech",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
+    "job_posted_at": "2026-08-12T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-12T09:22:15.063Z",
+    "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
   },
   {
     "job_title": "Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
@@ -61,8 +61,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
-    "job_posted_at": "2026-08-12T08:22:12.279Z",
-    "job_posted_at_datetime_utc": "2026-08-12T08:22:12.279Z",
+    "job_posted_at": "2026-08-12T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-12T09:22:15.062Z",
     "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
   },
   {
@@ -72,19 +72,29 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Veritas, Security Tools Foundation at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
-    "job_posted_at": "2026-08-10T08:22:12.279Z",
-    "job_posted_at_datetime_utc": "2026-08-10T08:22:12.279Z",
+    "job_posted_at": "2026-08-10T09:22:15.062Z",
+    "job_posted_at_datetime_utc": "2026-08-10T09:22:15.062Z",
     "id": "amazon-data-engineer-i-veritas-security-tools-foundation-seattle"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Associate Package Consultant - Microsoft",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Package Consultant - Microsoft 2027 at Entry LevelChicago, US",
-    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128776&source=WEB_Search_NA",
-    "id": "ibm-associate-package-consultant-microsoft-chicago"
+    "employer_name": "ABB",
+    "job_title": "Service Project Manager - Mining and Materials",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Service Project Manager - Mining and Materials at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00028016/Service-Project-Manager-Mining-and-Materials",
+    "id": "abb-service-project-manager-mining-and-materials-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Product Manager - Transformers",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
@@ -108,43 +118,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Sales Specialist",
+    "job_title": "Regional Sales Manager - Traction - Americas",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sales Specialist at Available in one of 31 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043092/Sales-Specialist",
-    "id": "abb-sales-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician II at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042700/Data-Center-CoE-Field-Service-Technician-II",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
+    "id": "abb-regional-sales-manager-traction-americas-multiple"
   },
   {
     "employer_name": "ABB",
@@ -158,16 +138,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -178,13 +148,43 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
+    "job_title": "Utility Sales Support",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Group Account Manager",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Product Data Analyst - 6 months",
+    "job_city": "Dorval",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Product Data Analyst - 6 months at Dorval, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043503/Product-Data-Analyst-6-months",
+    "id": "abb-product-data-analyst-6-months-dorval"
   },
   {
     "employer_name": "ABB",
@@ -215,16 +215,6 @@
     "job_description": "Data Science job for the role Spécialiste Qualité - Projets SDS (Spatial & Défense) at Quebec, Quebec, Canada",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Spécialiste-Qualité-Projets-SDS-Spatial-Défense",
     "id": "abb-sp-cialiste-qualit-projets-sds-spatial-d-fense-quebec"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "IS Software Developer",
-    "job_city": "Tlajomulco de Zuniga",
-    "job_state": "Mexico",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role IS Software Developer II at Tlajomulco de Zuniga, Mexico",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041318/IS-Software-Developer-II",
-    "id": "abb-is-software-developer-tlajomulco-de-zuniga"
   },
   {
     "employer_name": "ABB",
@@ -318,16 +308,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Data Analyst Engineer",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
-    "id": "abb-is-data-analyst-engineer-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Digital Solution Engineer",
     "job_city": "Nashik",
     "job_state": "Mahārāshtra",
@@ -335,6 +315,16 @@
     "job_description": "Data Science job for the role Digital Solution Engineer at Nashik, Mahārāshtra, India",
     "job_apply_link": "https://careers.abb/global/en/job/JR00031907/Digital-Solution-Engineer",
     "id": "abb-digital-solution-engineer-nashik"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Data Analyst Engineer",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IS Data Analyst Engineer at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00030594/IS-Data-Analyst-Engineer",
+    "id": "abb-is-data-analyst-engineer-krakow"
   },
   {
     "employer_name": "ABB",
