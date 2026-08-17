@@ -1,36 +1,25 @@
 [
   {
-    "job_title": "Applied Scientist, Internal Audit",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-15T04:36:11.209Z",
-    "job_posted_at_datetime_utc": "2026-08-15T04:36:11.209Z",
-    "id": "amazon-applied-scientist-internal-audit-seattle"
-  },
-  {
     "job_title": "Applied Scientist, Leo Security",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-15T04:36:11.208Z",
-    "job_posted_at_datetime_utc": "2026-08-15T04:36:11.208Z",
+    "job_posted_at": "2026-08-15T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-15T05:30:37.986Z",
     "id": "amazon-applied-scientist-leo-security-seattle"
   },
   {
-    "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
+    "job_title": "Applied Scientist, Internal Audit",
     "employer_name": "Amazon",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-15T04:36:11.208Z",
-    "job_posted_at_datetime_utc": "2026-08-15T04:36:11.208Z",
-    "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
+    "job_posted_at": "2026-08-15T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-15T05:30:37.986Z",
+    "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
     "job_title": "Applied Scientist II, AWS Agentic AI",
@@ -39,9 +28,20 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-14T04:36:11.208Z",
-    "job_posted_at_datetime_utc": "2026-08-14T04:36:11.208Z",
+    "job_posted_at": "2026-08-14T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-14T05:30:37.986Z",
     "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
+  },
+  {
+    "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
+    "job_posted_at": "2026-08-14T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-14T05:30:37.986Z",
+    "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
   },
   {
     "job_title": "Data Engineer II, Canada Product & Tech",
@@ -50,8 +50,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
-    "job_posted_at": "2026-08-13T04:36:11.209Z",
-    "job_posted_at_datetime_utc": "2026-08-13T04:36:11.209Z",
+    "job_posted_at": "2026-08-13T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-13T05:30:37.986Z",
     "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
   },
   {
@@ -61,20 +61,9 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
-    "job_posted_at": "2026-08-12T04:36:11.209Z",
-    "job_posted_at_datetime_utc": "2026-08-12T04:36:11.209Z",
+    "job_posted_at": "2026-08-12T05:30:37.986Z",
+    "job_posted_at_datetime_utc": "2026-08-12T05:30:37.986Z",
     "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
-  },
-  {
-    "job_title": "Data Engineer I, Veritas, Security Tools Foundation",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer I, Veritas, Security Tools Foundation at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10490830/data-engineer-i-veritas-security-tools-foundation",
-    "job_posted_at": "2026-08-11T04:36:11.209Z",
-    "job_posted_at_datetime_utc": "2026-08-11T04:36:11.209Z",
-    "id": "amazon-data-engineer-i-veritas-security-tools-foundation-seattle"
   },
   {
     "employer_name": "ABB",
