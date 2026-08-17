@@ -1,13 +1,24 @@
 [
   {
+    "job_title": "Applied Scientist, Leo Security",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
+    "job_posted_at": "2026-08-14T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-14T12:32:14.051Z",
+    "id": "amazon-applied-scientist-leo-security-seattle"
+  },
+  {
     "job_title": "AI Platform Data Engineer, Ring Agent Platform Org",
     "employer_name": "Amazon",
     "job_city": "Hawthorne",
     "job_state": "CA",
     "job_description": "Data Science job for the role AI Platform Data Engineer, Ring Agent Platform Org at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "job_posted_at": "2026-08-14T11:20:33.712Z",
-    "job_posted_at_datetime_utc": "2026-08-14T11:20:33.712Z",
+    "job_posted_at": "2026-08-14T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-14T12:32:14.051Z",
     "id": "amazon-ai-platform-data-engineer-ring-agent-platform-org-hawthorne"
   },
   {
@@ -17,20 +28,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-14T11:20:33.712Z",
-    "job_posted_at_datetime_utc": "2026-08-14T11:20:33.712Z",
+    "job_posted_at": "2026-08-14T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-14T12:32:14.051Z",
     "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
-    "job_title": "Applied Scientist, Leo Security",
+    "job_title": "Applied Scientist II, AWS Agentic AI",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-14T11:20:33.711Z",
-    "job_posted_at_datetime_utc": "2026-08-14T11:20:33.711Z",
-    "id": "amazon-applied-scientist-leo-security-seattle"
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
+    "job_posted_at": "2026-08-13T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-13T12:32:14.051Z",
+    "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
     "job_title": "Applied Scientist, Data Processing Agents Science",
@@ -39,8 +50,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist, Data Processing Agents Science at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488733/applied-scientist-data-processing-agents-science",
-    "job_posted_at": "2026-08-13T11:20:33.711Z",
-    "job_posted_at_datetime_utc": "2026-08-13T11:20:33.711Z",
+    "job_posted_at": "2026-08-13T12:32:14.050Z",
+    "job_posted_at_datetime_utc": "2026-08-13T12:32:14.050Z",
     "id": "amazon-applied-scientist-data-processing-agents-science-santa-clara"
   },
   {
@@ -50,20 +61,9 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Redshift at East Palo Alto, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10454318/applied-scientist-amazon-redshift",
-    "job_posted_at": "2026-08-13T11:20:33.711Z",
-    "job_posted_at_datetime_utc": "2026-08-13T11:20:33.711Z",
+    "job_posted_at": "2026-08-13T12:32:14.050Z",
+    "job_posted_at_datetime_utc": "2026-08-13T12:32:14.050Z",
     "id": "amazon-applied-scientist-amazon-redshift-east-palo-alto"
-  },
-  {
-    "job_title": "Applied Scientist II, AWS Agentic AI",
-    "employer_name": "Amazon",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Applied Scientist II, AWS Agentic AI at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10488658/applied-scientist-ii-aws-agentic-ai",
-    "job_posted_at": "2026-08-13T11:20:33.711Z",
-    "job_posted_at_datetime_utc": "2026-08-13T11:20:33.711Z",
-    "id": "amazon-applied-scientist-ii-aws-agentic-ai-santa-clara"
   },
   {
     "job_title": "Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
@@ -72,8 +72,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10499389/data-engineer-deal-tooling-and-insights-strategic-customer-engagements",
-    "job_posted_at": "2026-08-12T11:20:33.712Z",
-    "job_posted_at_datetime_utc": "2026-08-12T11:20:33.712Z",
+    "job_posted_at": "2026-08-12T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-12T12:32:14.051Z",
     "id": "amazon-data-engineer-deal-tooling-and-insights-strategic-customer-engagements-arlington"
   },
   {
@@ -83,19 +83,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer II, Canada Product & Tech at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10489174/data-engineer-ii-canada-product-tech",
-    "job_posted_at": "2026-08-12T11:20:33.712Z",
-    "job_posted_at_datetime_utc": "2026-08-12T11:20:33.712Z",
+    "job_posted_at": "2026-08-12T12:32:14.051Z",
+    "job_posted_at_datetime_utc": "2026-08-12T12:32:14.051Z",
     "id": "amazon-data-engineer-ii-canada-product-tech-seattle"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "FPGA Prototyping Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role FPGA Prototyping Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/fpga-prototyping-engineer/33099/98426130992",
-    "id": "arm-fpga-prototyping-engineer-bengaluru"
   },
   {
     "employer_name": "ABB",
@@ -119,16 +109,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Utility Sales Support",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
-    "id": "abb-utility-sales-support-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -136,6 +116,16 @@
     "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
     "id": "abb-group-account-manager-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Utility Sales Support",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Utility Sales Support at Available in one of 182 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043744/Utility-Sales-Support",
+    "id": "abb-utility-sales-support-multiple"
   },
   {
     "employer_name": "ABB",
@@ -229,16 +219,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "A&M Analyst Intern",
-    "job_city": "Krakow",
-    "job_state": "Lesser Poland",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role A&M Analyst Intern at Krakow, Lesser Poland, Poland",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041105/A-M-Analyst-Intern",
-    "id": "abb-a-m-analyst-intern-krakow"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Software Senior Engineer - Desktop",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -246,6 +226,16 @@
     "job_description": "Data Science job for the role Software Senior Engineer - Desktop at Available in one of 6 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00041646/Software-Senior-Engineer-Desktop",
     "id": "abb-software-senior-engineer-desktop-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "A&M Analyst Intern",
+    "job_city": "Krakow",
+    "job_state": "Lesser Poland",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role A&M Analyst Intern at Krakow, Lesser Poland, Poland",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041105/A-M-Analyst-Intern",
+    "id": "abb-a-m-analyst-intern-krakow"
   },
   {
     "employer_name": "ABB",
