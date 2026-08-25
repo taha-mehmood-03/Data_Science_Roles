@@ -6,8 +6,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Fire TV at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10513820/data-engineer-i-fire-tv",
-    "job_posted_at": "2026-08-25T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-08-25T00:00:00.000Z",
+    "job_posted_at": "2026-08-25T15:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-25T15:26:46.074Z",
     "id": "amazon-data-engineer-i-fire-tv-seattle"
   },
   {
@@ -17,20 +17,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Amazon Prime, Prime AI/ML Science at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393469/applied-scientist-amazon-prime-prime-ai-ml-science",
-    "job_posted_at": "2026-08-24T23:30:17.741Z",
-    "job_posted_at_datetime_utc": "2026-08-24T23:30:17.741Z",
+    "job_posted_at": "2026-08-24T23:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-24T23:26:46.074Z",
     "id": "amazon-applied-scientist-amazon-prime-prime-ai-ml-science-seattle"
-  },
-  {
-    "job_title": "Business Intelligence Engineer, Amazon Prime Video Product Analytics",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, Amazon Prime Video Product Analytics at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10512160/business-intelligence-engineer-amazon-prime-video-product-analytics",
-    "job_posted_at": "2026-08-24T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-24T16:30:17.742Z",
-    "id": "amazon-business-intelligence-engineer-amazon-prime-video-product-analytics-seattle"
   },
   {
     "job_title": "Data Engineer, Decision Intelligence Technology",
@@ -39,9 +28,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer, Decision Intelligence Technology at Bellevue, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10481445/data-engineer-decision-intelligence-technology",
-    "job_posted_at": "2026-08-24T16:30:17.741Z",
-    "job_posted_at_datetime_utc": "2026-08-24T16:30:17.741Z",
+    "job_posted_at": "2026-08-24T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-24T17:26:46.074Z",
     "id": "amazon-data-engineer-decision-intelligence-technology-bellevue"
+  },
+  {
+    "job_title": "Business Intelligence Engineer, Amazon Prime Video Product Analytics",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Amazon Prime Video Product Analytics at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10512160/business-intelligence-engineer-amazon-prime-video-product-analytics",
+    "job_posted_at": "2026-08-24T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-24T17:26:46.074Z",
+    "id": "amazon-business-intelligence-engineer-amazon-prime-video-product-analytics-seattle"
   },
   {
     "job_title": "Applied Scientist, AWS Quick",
@@ -49,10 +49,21 @@
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Quick at Santa Clara, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10428527/applied-scientist-aws-quick",
-    "job_posted_at": "2026-08-21T16:30:17.741Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10505803/applied-scientist-aws-quick",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-applied-scientist-aws-quick-santa-clara"
+  },
+  {
+    "job_title": "Data Scientist, LM Planning, LM Science & Analytics Automation",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, LM Planning, LM Science & Analytics Automation at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10510852/data-scientist-lm-planning-lm-science-analytics-automation",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
+    "id": "amazon-data-scientist-lm-planning-lm-science-analytics-automation-bellevue"
   },
   {
     "job_title": "Applied Scientist, AWS Quick",
@@ -61,8 +72,8 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist, AWS Quick at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10428523/applied-scientist-aws-quick",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-applied-scientist-aws-quick-new-york"
   },
   {
@@ -72,8 +83,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Data Engineer, Whole Foods Market, E-commerce Analytics at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10454941/data-engineer-whole-foods-market-e-commerce-analytics",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-data-engineer-whole-foods-market-e-commerce-analytics-austin"
   },
   {
@@ -83,8 +94,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Data Scientist II, Enterprise Security Products at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10412905/data-scientist-ii-enterprise-security-products",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-data-scientist-ii-enterprise-security-products-austin"
   },
   {
@@ -94,8 +105,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist, SPX AI Lab, SPX Science at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/3175174/data-scientist-spx-ai-lab-spx-science",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-data-scientist-spx-ai-lab-spx-science-seattle"
   },
   {
@@ -105,8 +116,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, TSI Science at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10461875/applied-scientist-tsi-science",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-applied-scientist-tsi-science-seattle"
   },
   {
@@ -116,8 +127,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, AWS Insights & Optimization at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10415438/applied-scientist-aws-insights-optimization",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-applied-scientist-aws-insights-optimization-seattle"
   },
   {
@@ -127,20 +138,20 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Associate Delivery Consultant – AIML, ProServe A2C Delivery , Proserve A2C at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10469289/associate-delivery-consultant-aiml-proserve-a2c-delivery-proserve-a2c",
-    "job_posted_at": "2026-08-21T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.742Z",
+    "job_posted_at": "2026-08-21T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-21T17:26:46.074Z",
     "id": "amazon-associate-delivery-consultant-aiml-proserve-a2c-delivery-proserve-a2c-arlington"
   },
   {
-    "job_title": "Data Scientist, LM Planning, LM Science & Analytics Automation",
+    "job_title": "Applied Scientist, Leo Security",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, LM Planning, LM Science & Analytics Automation at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10510852/data-scientist-lm-planning-lm-science-analytics-automation",
-    "job_posted_at": "2026-08-21T16:30:17.741Z",
-    "job_posted_at_datetime_utc": "2026-08-21T16:30:17.741Z",
-    "id": "amazon-data-scientist-lm-planning-lm-science-analytics-automation-bellevue"
+    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
+    "job_posted_at": "2026-08-20T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-20T17:26:46.074Z",
+    "id": "amazon-applied-scientist-leo-security-seattle"
   },
   {
     "job_title": "Data Engineer, Amazon Prime Video Product Analytics",
@@ -149,8 +160,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer, Amazon Prime Video Product Analytics at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10455291/data-engineer-amazon-prime-video-product-analytics",
-    "job_posted_at": "2026-08-20T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-20T16:30:17.742Z",
+    "job_posted_at": "2026-08-20T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-20T17:26:46.074Z",
     "id": "amazon-data-engineer-amazon-prime-video-product-analytics-seattle"
   },
   {
@@ -160,20 +171,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist, AWS Compliance & Security Assurance at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10443537/data-scientist-aws-compliance-security-assurance",
-    "job_posted_at": "2026-08-20T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-20T16:30:17.742Z",
+    "job_posted_at": "2026-08-20T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-20T17:26:46.074Z",
     "id": "amazon-data-scientist-aws-compliance-security-assurance-seattle"
   },
   {
-    "job_title": "Applied Scientist, Leo Security",
+    "job_title": "Data Engineer II, DBS BI",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Leo Security at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502686/applied-scientist-leo-security",
-    "job_posted_at": "2026-08-20T16:30:17.741Z",
-    "job_posted_at_datetime_utc": "2026-08-20T16:30:17.741Z",
-    "id": "amazon-applied-scientist-leo-security-seattle"
+    "job_description": "Data Science job for the role Data Engineer II, DBS BI at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10431072/data-engineer-ii-dbs-bi",
+    "job_posted_at": "2026-08-19T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-19T17:26:46.074Z",
+    "id": "amazon-data-engineer-ii-dbs-bi-bellevue"
   },
   {
     "job_title": "Data Engineer, Partner Experience",
@@ -182,29 +193,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer, Partner Experience at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10444729/data-engineer-partner-experience",
-    "job_posted_at": "2026-08-19T16:30:17.742Z",
-    "job_posted_at_datetime_utc": "2026-08-19T16:30:17.742Z",
+    "job_posted_at": "2026-08-19T17:26:46.074Z",
+    "job_posted_at_datetime_utc": "2026-08-19T17:26:46.074Z",
     "id": "amazon-data-engineer-partner-experience-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "SMB Performance and Sales Engines Lead",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "41 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: SMB Performance and Sales Engines Lead, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83968805956395718-smb-performance-and-sales-engines-lead-google-cloud?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-smb-performance-and-sales-engines-lead-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineering Manager",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "74 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineering Manager, GPU Reliability",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133693119810937542-software-engineering-manager-gpu-reliability?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=4",
-    "id": "google-software-engineering-manager-seattle"
   },
   {
     "employer_name": "ABB",
