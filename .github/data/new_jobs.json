@@ -6,9 +6,20 @@
     "job_state": "GA",
     "job_description": "Data Science job for the role Delivery Consultant - AI/ML, Professional Services - AWS Industries at Atlanta, GA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517579/delivery-consultant-ai-ml-professional-services-aws-industries",
-    "job_posted_at": "2026-08-29T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-29T09:40:58.030Z",
+    "job_posted_at": "2026-08-28T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-28T14:38:51.276Z",
     "id": "amazon-delivery-consultant-ai-ml-professional-services-aws-industries-atlanta"
+  },
+  {
+    "job_title": "Data Scientist, Fire TV",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, Fire TV at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517023/data-scientist-fire-tv",
+    "job_posted_at": "2026-08-27T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-27T14:38:51.276Z",
+    "id": "amazon-data-scientist-fire-tv-seattle"
   },
   {
     "job_title": "Applied Scientist II, Amazon Quick",
@@ -17,8 +28,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, Amazon Quick at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517624/applied-scientist-ii-amazon-quick",
-    "job_posted_at": "2026-08-28T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-28T09:40:58.030Z",
+    "job_posted_at": "2026-08-27T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-27T14:38:51.276Z",
     "id": "amazon-applied-scientist-ii-amazon-quick-santa-clara"
   },
   {
@@ -28,8 +39,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Scientist, Managed Operations - Managed Operations Intelligence (MOI) Team at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10501329/data-scientist-managed-operations-managed-operations-intelligence-moi-team",
-    "job_posted_at": "2026-08-28T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-28T09:40:58.030Z",
+    "job_posted_at": "2026-08-27T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-27T14:38:51.276Z",
     "id": "amazon-data-scientist-managed-operations-managed-operations-intelligence-moi-team-arlington"
   },
   {
@@ -39,20 +50,9 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Data Engineer, Ring Agent Platforms at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517664/data-engineer-ring-agent-platforms",
-    "job_posted_at": "2026-08-28T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-28T09:40:58.030Z",
+    "job_posted_at": "2026-08-27T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-27T14:38:51.276Z",
     "id": "amazon-data-engineer-ring-agent-platforms-hawthorne"
-  },
-  {
-    "job_title": "Data Scientist, Fire TV",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Fire TV at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517023/data-scientist-fire-tv",
-    "job_posted_at": "2026-08-27T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-27T09:40:58.030Z",
-    "id": "amazon-data-scientist-fire-tv-seattle"
   },
   {
     "job_title": "Data Scientist, Amazon Ads Marketing Decision Science",
@@ -61,20 +61,9 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Data Scientist, Amazon Ads Marketing Decision Science at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10516132/data-scientist-amazon-ads-marketing-decision-science",
-    "job_posted_at": "2026-08-26T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-26T09:40:58.030Z",
+    "job_posted_at": "2026-08-26T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-26T14:38:51.276Z",
     "id": "amazon-data-scientist-amazon-ads-marketing-decision-science-new-york"
-  },
-  {
-    "job_title": "Applied Scientist, Amazon Prime, Prime AI/ML Science",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Amazon Prime, Prime AI/ML Science at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393469/applied-scientist-amazon-prime-prime-ai-ml-science",
-    "job_posted_at": "2026-08-25T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-25T09:40:58.030Z",
-    "id": "amazon-applied-scientist-amazon-prime-prime-ai-ml-science-seattle"
   },
   {
     "job_title": "Data Engineer I, Fire TV",
@@ -83,8 +72,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Fire TV at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10513820/data-engineer-i-fire-tv",
-    "job_posted_at": "2026-08-25T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-25T09:40:58.030Z",
+    "job_posted_at": "2026-08-25T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-25T14:38:51.276Z",
     "id": "amazon-data-engineer-i-fire-tv-seattle"
   },
   {
@@ -94,8 +83,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist II, Traffic and Network Modeling at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10468331/applied-scientist-ii-traffic-and-network-modeling",
-    "job_posted_at": "2026-08-25T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-25T09:40:58.030Z",
+    "job_posted_at": "2026-08-25T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-25T14:38:51.276Z",
     "id": "amazon-applied-scientist-ii-traffic-and-network-modeling-seattle"
   },
   {
@@ -105,8 +94,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist, SPX AI Lab, SPX Science at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/3175174/data-scientist-spx-ai-lab-spx-science",
-    "job_posted_at": "2026-08-25T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-25T09:40:58.030Z",
+    "job_posted_at": "2026-08-25T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-25T14:38:51.276Z",
     "id": "amazon-data-scientist-spx-ai-lab-spx-science-seattle"
   },
   {
@@ -116,8 +105,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, SPX AI Lab at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab",
-    "job_posted_at": "2026-08-25T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-25T09:40:58.030Z",
+    "job_posted_at": "2026-08-25T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-25T14:38:51.276Z",
     "id": "amazon-applied-scientist-spx-ai-lab-seattle"
   },
   {
@@ -127,9 +116,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data engineer, Decision Intelligence Technology at Bellevue, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10469213/data-engineer-decision-intelligence-technology",
-    "job_posted_at": "2026-08-24T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-24T09:40:58.030Z",
+    "job_posted_at": "2026-08-24T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-24T14:38:51.276Z",
     "id": "amazon-data-engineer-decision-intelligence-technology-bellevue"
+  },
+  {
+    "job_title": "Applied Scientist, Amazon Prime, Prime AI/ML Science",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Amazon Prime, Prime AI/ML Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10393469/applied-scientist-amazon-prime-prime-ai-ml-science",
+    "job_posted_at": "2026-08-24T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-24T14:38:51.276Z",
+    "id": "amazon-applied-scientist-amazon-prime-prime-ai-ml-science-seattle"
   },
   {
     "job_title": "Business Intelligence Engineer, Amazon Prime Video Product Analytics",
@@ -138,19 +138,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Business Intelligence Engineer, Amazon Prime Video Product Analytics at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10512160/business-intelligence-engineer-amazon-prime-video-product-analytics",
-    "job_posted_at": "2026-08-24T09:40:58.030Z",
-    "job_posted_at_datetime_utc": "2026-08-24T09:40:58.030Z",
+    "job_posted_at": "2026-08-24T14:38:51.276Z",
+    "job_posted_at_datetime_utc": "2026-08-24T14:38:51.276Z",
     "id": "amazon-business-intelligence-engineer-amazon-prime-video-product-analytics-seattle"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "OEM Account Manager",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
-    "id": "abb-oem-account-manager-remote"
   },
   {
     "employer_name": "ABB",
@@ -164,16 +154,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Global Product Manager - Transformers",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-    "id": "abb-global-product-manager-transformers-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Senior Technical Business Developer – Grid Automation",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -184,53 +164,93 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE - Field Service Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 days ago",
-    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
-    "id": "abb-data-center-coe-field-service-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sr. Technical Trainer",
+    "job_title": "Global Product Manager - Transformers",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sr. Technical Trainer at Available in one of 33 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041801/Sr-Technical-Trainer",
-    "id": "abb-sr-technical-trainer-multiple"
+    "job_description": "Data Science job for the role Global Product Manager - Transformers at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+    "id": "abb-global-product-manager-transformers-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Data Center CoE Sr. Field Service Technician",
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 172 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Leader, U.S. Trade Compliance Program",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Data Center CoE Sr. Field Service Technician at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00035094/Data-Center-CoE-Sr-Field-Service-Technician",
-    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
+    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
+    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "North Region Channel Development Manager",
+    "job_title": "Group Account Manager",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role North Region Channel Development Manager at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041631/North-Region-Channel-Development-Manager",
-    "id": "abb-north-region-channel-development-manager-multiple"
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
+    "id": "abb-group-account-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Pricing Specialist",
-    "job_city": "Remote",
-    "job_state": "United States of America",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Pricing Specialist at Remote, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042981/Pricing-Specialist",
-    "id": "abb-pricing-specialist-remote"
+    "job_title": "Protection and Control Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Protection and Control Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032784/Protection-and-Control-Engineer",
+    "id": "abb-protection-and-control-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Associate Project Engineer",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Associate Project Engineer at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00040889/Associate-Project-Engineer",
+    "id": "abb-associate-project-engineer-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Revenue Management Data Scientist",
+    "job_city": "New Berlin",
+    "job_state": "Wisconsin",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Senior Revenue Management Data Scientist at New Berlin, Wisconsin, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041627/Senior-Revenue-Management-Data-Scientist",
+    "id": "abb-senior-revenue-management-data-scientist-new-berlin"
   },
   {
     "employer_name": "ABB",
