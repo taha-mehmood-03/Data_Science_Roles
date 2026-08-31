@@ -1,14 +1,36 @@
 [
   {
+    "job_title": "Data Engineer I, Fire TV",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer I, Fire TV at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10513820/data-engineer-i-fire-tv",
+    "job_posted_at": "2026-08-31T18:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-31T18:36:14.937Z",
+    "id": "amazon-data-engineer-i-fire-tv-seattle"
+  },
+  {
     "job_title": "Data Scientist I, Amazon Currency Convertor",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist I, Amazon Currency Convertor at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10521278/data-scientist-i-amazon-currency-convertor",
-    "job_posted_at": "2026-08-30T18:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-30T18:46:02.986Z",
+    "job_posted_at": "2026-08-31T15:36:14.938Z",
+    "job_posted_at_datetime_utc": "2026-08-31T15:36:14.938Z",
     "id": "amazon-data-scientist-i-amazon-currency-convertor-seattle"
+  },
+  {
+    "job_title": "Applied Scientist, Internal Audit",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
+    "job_posted_at": "2026-08-31T15:36:14.938Z",
+    "job_posted_at_datetime_utc": "2026-08-31T15:36:14.938Z",
+    "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
     "job_title": "Delivery Consultant - AI/ML, Professional Services - AWS Industries",
@@ -17,8 +39,8 @@
     "job_state": "GA",
     "job_description": "Data Science job for the role Delivery Consultant - AI/ML, Professional Services - AWS Industries at Atlanta, GA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517579/delivery-consultant-ai-ml-professional-services-aws-industries",
-    "job_posted_at": "2026-08-28T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-28T14:46:02.986Z",
+    "job_posted_at": "2026-08-28T20:36:14.938Z",
+    "job_posted_at_datetime_utc": "2026-08-28T20:36:14.938Z",
     "id": "amazon-delivery-consultant-ai-ml-professional-services-aws-industries-atlanta"
   },
   {
@@ -28,8 +50,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist, Fire TV at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517023/data-scientist-fire-tv",
-    "job_posted_at": "2026-08-27T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-27T14:46:02.986Z",
+    "job_posted_at": "2026-08-27T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-27T20:36:14.937Z",
     "id": "amazon-data-scientist-fire-tv-seattle"
   },
   {
@@ -39,8 +61,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, Amazon Quick at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517624/applied-scientist-ii-amazon-quick",
-    "job_posted_at": "2026-08-27T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-27T14:46:02.986Z",
+    "job_posted_at": "2026-08-27T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-27T20:36:14.937Z",
     "id": "amazon-applied-scientist-ii-amazon-quick-santa-clara"
   },
   {
@@ -50,8 +72,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Scientist, Managed Operations - Managed Operations Intelligence (MOI) Team at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10501329/data-scientist-managed-operations-managed-operations-intelligence-moi-team",
-    "job_posted_at": "2026-08-27T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-27T14:46:02.986Z",
+    "job_posted_at": "2026-08-27T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-27T20:36:14.937Z",
     "id": "amazon-data-scientist-managed-operations-managed-operations-intelligence-moi-team-arlington"
   },
   {
@@ -61,8 +83,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Data Engineer, Ring Agent Platforms at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517664/data-engineer-ring-agent-platforms",
-    "job_posted_at": "2026-08-27T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-27T14:46:02.986Z",
+    "job_posted_at": "2026-08-27T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-27T20:36:14.937Z",
     "id": "amazon-data-engineer-ring-agent-platforms-hawthorne"
   },
   {
@@ -72,20 +94,9 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Data Scientist, Amazon Ads Marketing Decision Science at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10516132/data-scientist-amazon-ads-marketing-decision-science",
-    "job_posted_at": "2026-08-26T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-26T14:46:02.986Z",
+    "job_posted_at": "2026-08-26T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-26T20:36:14.937Z",
     "id": "amazon-data-scientist-amazon-ads-marketing-decision-science-new-york"
-  },
-  {
-    "job_title": "Data Engineer, Marketplace",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Data Engineer, Marketplace at Austin, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10496061/data-engineer-marketplace",
-    "job_posted_at": "2026-08-26T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-26T14:46:02.986Z",
-    "id": "amazon-data-engineer-marketplace-austin"
   },
   {
     "job_title": "Data Engineer II, AWS Marketplace and Partner Services",
@@ -94,42 +105,9 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer II, AWS Marketplace and Partner Services at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10481199/data-engineer-ii-aws-marketplace-and-partner-services",
-    "job_posted_at": "2026-08-26T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-26T14:46:02.986Z",
+    "job_posted_at": "2026-08-25T20:36:14.938Z",
+    "job_posted_at_datetime_utc": "2026-08-25T20:36:14.938Z",
     "id": "amazon-data-engineer-ii-aws-marketplace-and-partner-services-seattle"
-  },
-  {
-    "job_title": "Data Engineer I, Fire TV",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer I, Fire TV at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10513820/data-engineer-i-fire-tv",
-    "job_posted_at": "2026-08-25T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-25T14:46:02.986Z",
-    "id": "amazon-data-engineer-i-fire-tv-seattle"
-  },
-  {
-    "job_title": "Data Scientist, SPX AI Lab, SPX Science",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, SPX AI Lab, SPX Science at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3175174/data-scientist-spx-ai-lab-spx-science",
-    "job_posted_at": "2026-08-25T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-25T14:46:02.986Z",
-    "id": "amazon-data-scientist-spx-ai-lab-spx-science-seattle"
-  },
-  {
-    "job_title": "Applied Scientist II, Traffic and Network Modeling",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist II, Traffic and Network Modeling at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10468331/applied-scientist-ii-traffic-and-network-modeling",
-    "job_posted_at": "2026-08-25T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-25T14:46:02.986Z",
-    "id": "amazon-applied-scientist-ii-traffic-and-network-modeling-seattle"
   },
   {
     "job_title": "Applied Scientist, SPX AI Lab",
@@ -138,58 +116,141 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, SPX AI Lab at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/3193573/applied-scientist-spx-ai-lab",
-    "job_posted_at": "2026-08-25T14:46:02.986Z",
-    "job_posted_at_datetime_utc": "2026-08-25T14:46:02.986Z",
+    "job_posted_at": "2026-08-25T20:36:14.938Z",
+    "job_posted_at_datetime_utc": "2026-08-25T20:36:14.938Z",
     "id": "amazon-applied-scientist-spx-ai-lab-seattle"
   },
   {
+    "job_title": "Data Engineer, Marketplace",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Data Science job for the role Data Engineer, Marketplace at Austin, TX, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10496061/data-engineer-marketplace",
+    "job_posted_at": "2026-08-25T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-25T20:36:14.937Z",
+    "id": "amazon-data-engineer-marketplace-austin"
+  },
+  {
+    "job_title": "Applied Scientist II, Traffic and Network Modeling",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Applied Scientist II, Traffic and Network Modeling at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10468331/applied-scientist-ii-traffic-and-network-modeling",
+    "job_posted_at": "2026-08-25T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-25T20:36:14.937Z",
+    "id": "amazon-applied-scientist-ii-traffic-and-network-modeling-seattle"
+  },
+  {
+    "job_title": "Data Scientist, SPX AI Lab, SPX Science",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, SPX AI Lab, SPX Science at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3175174/data-scientist-spx-ai-lab-spx-science",
+    "job_posted_at": "2026-08-25T20:36:14.937Z",
+    "job_posted_at_datetime_utc": "2026-08-25T20:36:14.937Z",
+    "id": "amazon-data-scientist-spx-ai-lab-spx-science-seattle"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Business Intelligence and Operations Lead",
-    "job_city": "San Francisco",
+    "job_title": "Business and Marketing Data Scientist",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "2 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business and Marketing Data Scientist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107207755156071110-business-and-marketing-data-scientist?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-business-and-marketing-data-scientist-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Analyst",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "17 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analyst, Trust and Safety",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84742533577351878-analyst-trust-and-safety?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-analyst-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Data Engineer",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "37 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Engineer, gTech Risk",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112890031248417478-senior-data-engineer-gtech-risk?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-senior-data-engineer-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Search Quality Analyst",
+    "job_city": "San Bruno",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "50 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Intelligence and Operations Lead, Top Partners, Global Partnerships",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97951379078685382-business-intelligence-and-operations-lead-top-partners-global-partnerships?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
-    "id": "google-business-intelligence-and-operations-lead-san-francisco"
+    "job_description": "39 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Search Quality Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89265924414022342-search-quality-analyst?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-search-quality-analyst-san-bruno"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "GPU Hardware Analysis and Automation Engineer",
-    "job_city": "Trondheim",
-    "job_state": "Norway",
+    "employer_name": "Google",
+    "job_title": "Senior Analytical Lead",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GPU Hardware Analysis and Automation Engineer at Trondheim, Norway, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/trondheim/gpu-hardware-analysis-and-automation-engineer/33099/94973985632",
-    "id": "arm-gpu-hardware-analysis-and-automation-engineer-trondheim"
+    "job_description": "41 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Analytical Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142713184640213702-senior-analytical-lead?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=3",
+    "id": "google-senior-analytical-lead-new-york"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer – CI/CD, Release & Automation",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer – CI/CD, Release & Automation at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/software-engineer-ci-cd-release-and-automation/33099/99971290032",
-    "id": "arm-software-engineer-ci-cd-release-automation-bengaluru"
+    "employer_name": "ABB",
+    "job_title": "OEM Account Manager",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role OEM Account Manager at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035427/OEM-Account-Manager",
+    "id": "abb-oem-account-manager-remote"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Workplace Technical Manager",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Workplace Technical Manager at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/workplace-technical-manager/33099/95301296432",
-    "id": "arm-workplace-technical-manager-sophia-antipolis"
+    "employer_name": "ABB",
+    "job_title": "Sr. Technical Trainer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Sr. Technical Trainer at Available in one of 33 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00041801/Sr-Technical-Trainer",
+    "id": "abb-sr-technical-trainer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Data Center CoE - Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042129/Data-Center-CoE-Field-Service-Technician",
+    "id": "abb-data-center-coe-field-service-technician-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Center CoE - Sr. Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Data Center CoE - Sr. Field Service Technician at Available in one of 51 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00034941/Data-Center-CoE-Sr-Field-Service-Technician",
+    "id": "abb-data-center-coe-sr-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
     "job_title": "Senior Project Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 16 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043315/Senior-Project-Engineer",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Senior Project Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00013702/Senior-Project-Engineer",
     "id": "abb-senior-project-engineer-multiple"
   },
   {
@@ -214,73 +275,23 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Regional Sales Manager - Traction - Americas",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Regional Sales Manager - Traction - Americas at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00034878/Regional-Sales-Manager-Traction-Americas",
-    "id": "abb-regional-sales-manager-traction-americas-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Leader, U.S. Trade Compliance Program",
+    "job_title": "Metallurgy Sales Manager",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Leader, U.S. Trade Compliance Program at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042635/Senior-Leader-U-S-Trade-Compliance-Program",
-    "id": "abb-senior-leader-u-s-trade-compliance-program-multiple"
+    "job_description": "Data Science job for the role Metallurgy Sales Manager at Available in one of 4 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager",
+    "id": "abb-metallurgy-sales-manager-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Commercial Proposal Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 172 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
-    "id": "abb-commercial-proposal-engineer-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "VFD Technical Support Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role VFD Technical Support Specialist at Available in one of 50 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043867/VFD-Technical-Support-Specialist",
-    "id": "abb-vfd-technical-support-specialist-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Group Account Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Group Account Manager at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00042347/Group-Account-Manager",
-    "id": "abb-group-account-manager-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
-    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Senior Revenue Management Data Scientist",
-    "job_city": "New Berlin",
-    "job_state": "Wisconsin",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Senior Revenue Management Data Scientist at New Berlin, Wisconsin, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00041627/Senior-Revenue-Management-Data-Scientist",
-    "id": "abb-senior-revenue-management-data-scientist-new-berlin"
+    "job_title": "Pricing Specialist",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "6 days ago",
+    "job_description": "Data Science job for the role Pricing Specialist at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042981/Pricing-Specialist",
+    "id": "abb-pricing-specialist-remote"
   },
   {
     "employer_name": "ABB",
@@ -541,16 +552,6 @@
     "job_description": "Data Science job for the role High Performance Computing System administrators at Vaesteras, Vastmanland County, Sweden",
     "job_apply_link": "https://careers.abb/global/en/job/JR00032635/High-Performance-Computing-System-administrators",
     "id": "abb-high-performance-computing-system-administrators-vaesteras"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Cyber Security Application Consultant",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Cyber Security Application Consultant at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043765/Cyber-Security-Application-Consultant",
-    "id": "abb-cyber-security-application-consultant-multiple"
   },
   {
     "employer_name": "ABB",
