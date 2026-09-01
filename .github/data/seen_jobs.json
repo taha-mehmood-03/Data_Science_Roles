@@ -1,6 +1,4 @@
 [
-  "amazon-engineering-operations-technician-dcc-communities-ashburn",
-  "amazon-engineering-operations-technician-dcc-communities-sterling",
   "amazon-engineering-ops-technician-dcc-communities-ms",
   "amazon-enterprise-contracts-negotiator-aws-sales-marketing-arlington",
   "amazon-event-program-manager-amazon-shipping-bellevue",
@@ -1144,6 +1142,7 @@
   "arm-ai-performance-engineer-san-jose",
   "arm-ai-platform-administrator-bengaluru",
   "arm-ai-platform-engineer-cambridge",
+  "arm-ai-research-scientist-physical-ai-raanana",
   "arm-ai-research-scientist-raanana",
   "arm-ai-senior-analyst-cambridge",
   "arm-ai-solutions-architect-cambridge",
@@ -2360,6 +2359,7 @@
   "arm-software-engineer-media-ip-modelling-manchester",
   "arm-software-engineer-media-video-driver-cambridge",
   "arm-software-engineer-ml-developer-tools-galway",
+  "arm-software-engineer-ml-inference-runtime-galway",
   "arm-software-engineer-munich",
   "arm-software-engineer-networking-for-ai-austin",
   "arm-software-engineer-networking-for-ai-bengaluru",
