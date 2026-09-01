@@ -1,36 +1,14 @@
 [
   {
-    "job_title": "Data Engineer, Decision Intelligence Technology",
+    "job_title": "Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT)",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, Decision Intelligence Technology at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10481445/data-engineer-decision-intelligence-technology",
-    "job_posted_at": "2026-09-01T17:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-09-01T17:10:06.958Z",
-    "id": "amazon-data-engineer-decision-intelligence-technology-bellevue"
-  },
-  {
-    "job_title": "Data Scientist , Amazon Transportation Services (NEST)",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist , Amazon Transportation Services (NEST) at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10523945/data-scientist-amazon-transportation-services-nest",
-    "job_posted_at": "2026-09-01T17:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-09-01T17:10:06.958Z",
-    "id": "amazon-data-scientist-amazon-transportation-services-nest-bellevue"
-  },
-  {
-    "job_title": "Data Engineer, WW Ops Finance S&A",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer, WW Ops Finance S&A at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10524256/data-engineer-ww-ops-finance-s-a",
-    "job_posted_at": "2026-09-01T17:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-09-01T17:10:06.958Z",
-    "id": "amazon-data-engineer-ww-ops-finance-s-a-bellevue"
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Associate Delivery Consultant – AIML, A2C ProServe Shared Delivery (SDT) at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10473722/associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt",
+    "job_posted_at": "2026-09-01T19:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-09-01T19:19:42.195Z",
+    "id": "amazon-associate-delivery-consultant-aiml-a2c-proserve-shared-delivery-sdt-arlington"
   },
   {
     "job_title": "Delivery Consultant - Data , Professional Services, AWS Industries",
@@ -39,20 +17,42 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Delivery Consultant - Data , Professional Services, AWS Industries at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10524341/delivery-consultant-data-professional-services-aws-industries",
-    "job_posted_at": "2026-09-01T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2026-09-01T00:00:00.000Z",
+    "job_posted_at": "2026-09-01T18:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-09-01T18:19:42.195Z",
     "id": "amazon-delivery-consultant-data-professional-services-aws-industries-arlington"
   },
   {
-    "job_title": "Data Scientist II, Device Economics",
+    "job_title": "Data engineer, Decision Intelligence Technology",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist II, Device Economics at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10461434/data-scientist-ii-device-economics",
-    "job_posted_at": "2026-08-31T21:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-31T21:10:06.958Z",
-    "id": "amazon-data-scientist-ii-device-economics-seattle"
+    "job_description": "Data Science job for the role Data engineer, Decision Intelligence Technology at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10469213/data-engineer-decision-intelligence-technology",
+    "job_posted_at": "2026-09-01T17:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-09-01T17:19:42.195Z",
+    "id": "amazon-data-engineer-decision-intelligence-technology-bellevue"
+  },
+  {
+    "job_title": "Data Engineer, WW Ops Finance S&A",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Engineer, WW Ops Finance S&A at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10524256/data-engineer-ww-ops-finance-s-a",
+    "job_posted_at": "2026-09-01T17:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-09-01T17:19:42.195Z",
+    "id": "amazon-data-engineer-ww-ops-finance-s-a-bellevue"
+  },
+  {
+    "job_title": "Data Scientist , Amazon Transportation Services (NEST)",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist , Amazon Transportation Services (NEST) at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10523945/data-scientist-amazon-transportation-services-nest",
+    "job_posted_at": "2026-09-01T16:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-09-01T16:19:42.195Z",
+    "id": "amazon-data-scientist-amazon-transportation-services-nest-bellevue"
   },
   {
     "job_title": "Data Engineer I, Fire TV",
@@ -61,9 +61,20 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Engineer I, Fire TV at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10513820/data-engineer-i-fire-tv",
-    "job_posted_at": "2026-08-31T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-31T19:10:06.958Z",
+    "job_posted_at": "2026-08-31T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-31T22:19:42.195Z",
     "id": "amazon-data-engineer-i-fire-tv-seattle"
+  },
+  {
+    "job_title": "Data Scientist II, Device Economics",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist II, Device Economics at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10461434/data-scientist-ii-device-economics",
+    "job_posted_at": "2026-08-31T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-31T22:19:42.195Z",
+    "id": "amazon-data-scientist-ii-device-economics-seattle"
   },
   {
     "job_title": "Data Scientist I, Amazon Currency Convertor",
@@ -72,8 +83,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Data Scientist I, Amazon Currency Convertor at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10521278/data-scientist-i-amazon-currency-convertor",
-    "job_posted_at": "2026-08-31T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-31T19:10:06.958Z",
+    "job_posted_at": "2026-08-31T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-31T22:19:42.195Z",
     "id": "amazon-data-scientist-i-amazon-currency-convertor-seattle"
   },
   {
@@ -83,8 +94,8 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, Internal Audit at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10502711/applied-scientist-internal-audit",
-    "job_posted_at": "2026-08-31T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-31T19:10:06.958Z",
+    "job_posted_at": "2026-08-31T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-31T22:19:42.195Z",
     "id": "amazon-applied-scientist-internal-audit-seattle"
   },
   {
@@ -94,20 +105,9 @@
     "job_state": "GA",
     "job_description": "Data Science job for the role Delivery Consultant - AI/ML, Professional Services - AWS Industries at Atlanta, GA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517579/delivery-consultant-ai-ml-professional-services-aws-industries",
-    "job_posted_at": "2026-08-28T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-28T19:10:06.958Z",
+    "job_posted_at": "2026-08-28T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-28T22:19:42.195Z",
     "id": "amazon-delivery-consultant-ai-ml-professional-services-aws-industries-atlanta"
-  },
-  {
-    "job_title": "Data Scientist, Fire TV",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Fire TV at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517023/data-scientist-fire-tv",
-    "job_posted_at": "2026-08-27T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-27T19:10:06.958Z",
-    "id": "amazon-data-scientist-fire-tv-seattle"
   },
   {
     "job_title": "Data Scientist, Managed Operations - Managed Operations Intelligence (MOI) Team",
@@ -116,8 +116,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Data Scientist, Managed Operations - Managed Operations Intelligence (MOI) Team at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10501329/data-scientist-managed-operations-managed-operations-intelligence-moi-team",
-    "job_posted_at": "2026-08-27T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-27T19:10:06.958Z",
+    "job_posted_at": "2026-08-27T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-27T22:19:42.195Z",
     "id": "amazon-data-scientist-managed-operations-managed-operations-intelligence-moi-team-arlington"
   },
   {
@@ -127,8 +127,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Data Engineer, Ring Agent Platforms at Hawthorne, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517664/data-engineer-ring-agent-platforms",
-    "job_posted_at": "2026-08-27T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-27T19:10:06.958Z",
+    "job_posted_at": "2026-08-27T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-27T22:19:42.195Z",
     "id": "amazon-data-engineer-ring-agent-platforms-hawthorne"
   },
   {
@@ -138,8 +138,8 @@
     "job_state": "CA",
     "job_description": "Data Science job for the role Applied Scientist II, Amazon Quick at Santa Clara, CA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10517624/applied-scientist-ii-amazon-quick",
-    "job_posted_at": "2026-08-27T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-27T19:10:06.958Z",
+    "job_posted_at": "2026-08-27T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-27T22:19:42.195Z",
     "id": "amazon-applied-scientist-ii-amazon-quick-santa-clara"
   },
   {
@@ -149,8 +149,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Delivery Consultant - Application Architecture, WWPS ProServe at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10478068/delivery-consultant-application-architecture-wwps-proserve",
-    "job_posted_at": "2026-08-27T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-27T19:10:06.958Z",
+    "job_posted_at": "2026-08-27T22:19:42.195Z",
+    "job_posted_at_datetime_utc": "2026-08-27T22:19:42.195Z",
     "id": "amazon-delivery-consultant-application-architecture-wwps-proserve-arlington"
   },
   {
@@ -160,29 +160,69 @@
     "job_state": "NY",
     "job_description": "Data Science job for the role Data Scientist, Amazon Ads Marketing Decision Science at New York, NY, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10516132/data-scientist-amazon-ads-marketing-decision-science",
-    "job_posted_at": "2026-08-26T19:10:06.958Z",
-    "job_posted_at_datetime_utc": "2026-08-26T19:10:06.958Z",
+    "job_posted_at": "2026-08-26T22:19:42.194Z",
+    "job_posted_at_datetime_utc": "2026-08-26T22:19:42.195Z",
     "id": "amazon-data-scientist-amazon-ads-marketing-decision-science-new-york"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer – ML Inference Runtime",
-    "job_city": "Galway",
-    "job_state": "Ireland",
+    "job_title": "Intern Program - Engineering Pathways",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Engineer – ML Inference Runtime at Galway, Ireland",
-    "job_apply_link": "https://careers.arm.com/job/galway/senior-software-engineer-ml-inference-runtime/33099/100035000640",
-    "id": "arm-software-engineer-ml-inference-runtime-galway"
+    "job_description": "Data Science job for the role Intern Program - Engineering Pathways at Austin, Texas, San Diego, California, San Jose, California, Chandler, Arizona, Raleigh, North Carolina, Boston, Massachusetts, Seattle, Washington, Toronto, Canada",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-program-engineering-pathways/33099/100011168720",
+    "id": "arm-intern-program-engineering-pathways-austin"
   },
   {
     "employer_name": "Arm",
-    "job_title": "AI Research Scientist - Physical AI",
-    "job_city": "Raanana",
-    "job_state": "Israel",
+    "job_title": "Graduate Program - Engineering Pathways",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff AI Research Scientist - Physical AI at Raanana, Israel",
-    "job_apply_link": "https://careers.arm.com/job/raanana/staff-ai-research-scientist-physical-ai/33099/99346417872",
-    "id": "arm-ai-research-scientist-physical-ai-raanana"
+    "job_description": "Data Science job for the role Graduate Program - Engineering Pathways at Austin, Texas, Chandler, Arizona, San Diego, California, San Jose, California, Boston, Massachusetts, Seattle, Washington, Raleigh, North Carolina, Toronto, Canada",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-program-engineering-pathways/33099/100011168736",
+    "id": "arm-graduate-program-engineering-pathways-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - EUV Lithography",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role Intern - EUV Lithography at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/43721128",
+    "id": "micron-intern-euv-lithography-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - RDA/Metrology-Process Shift Engineer, TD",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "Data Science job for the role Intern - RDA/Metrology-Process Shift Engineer, TD at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44247229",
+    "id": "micron-intern-rda-metrology-process-shift-engineer-td-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "RDA Applications Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "Data Science job for the role RDA Applications Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/44281036",
+    "id": "micron-rda-applications-engineer-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "New College Grad - Dry Etch Process Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "Data Science job for the role New College Grad - Dry Etch Process Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/43538351",
+    "id": "micron-new-college-grad-dry-etch-process-engineer-boise"
   },
   {
     "employer_name": "ABB",
@@ -236,16 +276,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
-    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Commercial Proposal Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -253,6 +283,16 @@
     "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 172 s",
     "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
     "id": "abb-commercial-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Inside Sales Specialist – EPC and Industrial",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Technical Inside Sales Specialist – EPC and Industrial at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045578/Technical-Inside-Sales-Specialist-EPC-and-Industrial",
+    "id": "abb-technical-inside-sales-specialist-epc-and-industrial-multiple"
   },
   {
     "employer_name": "ABB",
