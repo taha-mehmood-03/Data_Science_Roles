@@ -1,6 +1,4 @@
 [
-  "amgen-junior-software-engineer-thousand-oaks",
-  "analog-devices-1st-shift-process-engineering-technician-us",
   "analog-devices-2nd-shift-manufacturing-engineer-us",
   "analog-devices-2nd-shift-process-engineering-technician-us",
   "analog-devices-2nd-shift-process-sustaining-engineer-us",
@@ -662,6 +660,7 @@
   "arm-design-verification-engineer-cache-coherency-austin",
   "arm-design-verification-engineer-coherent-interconnect-austin",
   "arm-design-verification-engineer-interconnect-multiple",
+  "arm-design-verification-engineer-memory-controller-ip-austin",
   "arm-design-verification-engineer-network-coherent-interconnect-austin",
   "arm-deskside-support-engineer-cambridge",
   "arm-developer-cambridge",
@@ -1777,6 +1776,7 @@
   "arm-software-engineer-compilers-llvm-cambridge",
   "arm-software-engineer-cpu-verification-cambridge",
   "arm-software-engineer-cpython-runtime-cambridge",
+  "arm-software-engineer-developer-tools-java-c-manchester",
   "arm-software-engineer-device-drivers-cambridge",
   "arm-software-engineer-devops-austin",
   "arm-software-engineer-dft-bengaluru",
