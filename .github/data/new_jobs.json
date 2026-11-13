@@ -6,20 +6,31 @@
     "job_state": "WA",
     "job_description": "Data Science job for the role Applied Scientist, SP Support Science at Seattle, WA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10476413/applied-scientist-sp-support-science",
-    "job_posted_at": "2026-11-12T19:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-12T19:47:12.417Z",
+    "job_posted_at": "2026-11-13T17:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:14:57.207Z",
     "id": "amazon-applied-scientist-sp-support-science-seattle"
   },
   {
-    "job_title": "Data Scientist, Amazon Private Brands, PBI Selection Guidance",
+    "job_title": "Data Scientist II, POE",
     "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Data Scientist, Amazon Private Brands, PBI Selection Guidance at San Diego, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10602517/data-scientist-amazon-private-brands-pbi-selection-guidance",
-    "job_posted_at": "2026-11-12T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-12T12:47:12.417Z",
-    "id": "amazon-data-scientist-amazon-private-brands-pbi-selection-guidance-san-diego"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist II, POE at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10588963/data-scientist-ii-poe",
+    "job_posted_at": "2026-11-13T17:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-13T17:14:57.207Z",
+    "id": "amazon-data-scientist-ii-poe-seattle"
+  },
+  {
+    "job_title": "Data Scientist , Leo Customer Terminal",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist , Leo Customer Terminal at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10603911/data-scientist-leo-customer-terminal",
+    "job_posted_at": "2026-11-13T00:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-13T00:14:57.207Z",
+    "id": "amazon-data-scientist-leo-customer-terminal-redmond"
   },
   {
     "job_title": "Associate Delivery Consultant – AIML, ProServe A2C Delivery , Associate Delivery Consultant – ProServe A2C Delivery",
@@ -28,8 +39,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Associate Delivery Consultant – AIML, ProServe A2C Delivery , Associate Delivery Consultant – ProServe A2C Delivery at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10595224/associate-delivery-consultant-aiml-proserve-a2c-delivery-associate-delivery-consultant-proserve-a2c-delivery",
-    "job_posted_at": "2026-11-12T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-12T12:47:12.417Z",
+    "job_posted_at": "2026-11-11T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-11T20:14:57.207Z",
     "id": "amazon-associate-delivery-consultant-aiml-proserve-a2c-delivery-associate-delivery-consultant-proserve-a2c-delivery-arlington"
   },
   {
@@ -39,31 +50,20 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Associate Delivery Consultant – AIML, ProServe A2C - HCLS industry, Associate Delivery Consultant – ProServe A2C Delivery at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593955/associate-delivery-consultant-aiml-proserve-a2c-hcls-industry-associate-delivery-consultant-proserve-a2c-delivery",
-    "job_posted_at": "2026-11-12T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-12T12:47:12.417Z",
+    "job_posted_at": "2026-11-11T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-11T20:14:57.207Z",
     "id": "amazon-associate-delivery-consultant-aiml-proserve-a2c-hcls-industry-associate-delivery-consultant-proserve-a2c-delivery-arlington"
   },
   {
-    "job_title": "Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP)",
+    "job_title": "Data Scientist, Amazon Private Brands, PBI Selection Guidance",
     "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP) at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10601841/data-scientist-ii-amazon-identity-program-amazon-identity-program-aip",
-    "job_posted_at": "2026-11-10T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-10T12:47:12.417Z",
-    "id": "amazon-data-scientist-ii-amazon-identity-program-amazon-identity-program-aip-new-york"
-  },
-  {
-    "job_title": "Data Engineer II, Eva Trust Dev Team",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, Eva Trust Dev Team at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10597768/data-engineer-ii-eva-trust-dev-team",
-    "job_posted_at": "2026-11-10T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-10T12:47:12.417Z",
-    "id": "amazon-data-engineer-ii-eva-trust-dev-team-bellevue"
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Data Scientist, Amazon Private Brands, PBI Selection Guidance at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10602517/data-scientist-amazon-private-brands-pbi-selection-guidance",
+    "job_posted_at": "2026-11-11T20:14:57.206Z",
+    "job_posted_at_datetime_utc": "2026-11-11T20:14:57.206Z",
+    "id": "amazon-data-scientist-amazon-private-brands-pbi-selection-guidance-san-diego"
   },
   {
     "job_title": "Software Development Engineer – Embedded Systems 2026 (US)",
@@ -72,8 +72,8 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Software Development Engineer – Embedded Systems 2026 (US) at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
-    "job_posted_at": "2026-11-10T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-10T12:47:12.417Z",
+    "job_posted_at": "2026-11-10T20:14:57.212Z",
+    "job_posted_at_datetime_utc": "2026-11-10T20:14:57.212Z",
     "id": "amazon-software-development-engineer-embedded-systems-2026-us-austin"
   },
   {
@@ -83,53 +83,31 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC) at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
-    "job_posted_at": "2026-11-10T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-10T12:47:12.417Z",
+    "job_posted_at": "2026-11-10T20:14:57.212Z",
+    "job_posted_at_datetime_utc": "2026-11-10T20:14:57.212Z",
     "id": "amazon-software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc-arlington"
   },
   {
-    "job_title": "Data Scientist I, PXT Central Science",
+    "job_title": "Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP)",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Data Scientist I, PXT Central Science at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10579474/data-scientist-i-pxt-central-science",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
-    "id": "amazon-data-scientist-i-pxt-central-science-arlington"
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP) at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10601841/data-scientist-ii-amazon-identity-program-amazon-identity-program-aip",
+    "job_posted_at": "2026-11-10T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-10T20:14:57.207Z",
+    "id": "amazon-data-scientist-ii-amazon-identity-program-amazon-identity-program-aip-new-york"
   },
   {
-    "job_title": "Delivery Consultant - Data , Professional Services, AWS Industries - Retail & Consumer Package Goods",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role Delivery Consultant - Data , Professional Services, AWS Industries - Retail & Consumer Package Goods at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10599987/delivery-consultant-data-professional-services-aws-industries-retail-consumer-package-goods",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
-    "id": "amazon-delivery-consultant-data-professional-services-aws-industries-retail-consumer-package-goods-arlington"
-  },
-  {
-    "job_title": "Data Scientist, Phased Array Antenna System Validation",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist, Phased Array Antenna System Validation at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10598770/data-scientist-phased-array-antenna-system-validation",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
-    "id": "amazon-data-scientist-phased-array-antenna-system-validation-redmond"
-  },
-  {
-    "job_title": "Data Scientist I, NEST",
+    "job_title": "Data Engineer II, Eva Trust Dev Team",
     "employer_name": "Amazon",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Data Scientist I, NEST at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600616/data-scientist-i-nest",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
-    "id": "amazon-data-scientist-i-nest-bellevue"
+    "job_description": "Data Science job for the role Data Engineer II, Eva Trust Dev Team at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10597768/data-engineer-ii-eva-trust-dev-team",
+    "job_posted_at": "2026-11-10T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-10T20:14:57.207Z",
+    "id": "amazon-data-engineer-ii-eva-trust-dev-team-bellevue"
   },
   {
     "job_title": "Delivery Consultant – AI/ML , Professional Services - AWS Industries, Retail & Consumer Packaged Goods",
@@ -138,8 +116,8 @@
     "job_state": "VA",
     "job_description": "Data Science job for the role Delivery Consultant – AI/ML , Professional Services - AWS Industries, Retail & Consumer Packaged Goods at Arlington, VA, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600267/delivery-consultant-ai-ml-professional-services-aws-industries-retail-consumer-packaged-goods",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
+    "job_posted_at": "2026-11-09T20:14:57.212Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:14:57.212Z",
     "id": "amazon-delivery-consultant-ai-ml-professional-services-aws-industries-retail-consumer-packaged-goods-arlington"
   },
   {
@@ -149,9 +127,42 @@
     "job_state": "TX",
     "job_description": "Data Science job for the role Software Development Engineer Intern, AWS Database - 2027 (US) at Austin, TX, USA",
     "job_apply_link": "https://amazon.jobs/en-gb/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
-    "job_posted_at": "2026-11-09T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-09T12:47:12.417Z",
+    "job_posted_at": "2026-11-09T20:14:57.212Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:14:57.212Z",
     "id": "amazon-software-development-engineer-intern-aws-database-2027-us-austin"
+  },
+  {
+    "job_title": "Data Scientist I, NEST",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist I, NEST at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10600616/data-scientist-i-nest",
+    "job_posted_at": "2026-11-09T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:14:57.207Z",
+    "id": "amazon-data-scientist-i-nest-bellevue"
+  },
+  {
+    "job_title": "Delivery Consultant - Data , Professional Services, AWS Industries - Retail & Consumer Package Goods",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Delivery Consultant - Data , Professional Services, AWS Industries - Retail & Consumer Package Goods at Arlington, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10599987/delivery-consultant-data-professional-services-aws-industries-retail-consumer-package-goods",
+    "job_posted_at": "2026-11-09T20:14:57.206Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:14:57.206Z",
+    "id": "amazon-delivery-consultant-data-professional-services-aws-industries-retail-consumer-package-goods-arlington"
+  },
+  {
+    "job_title": "Data Scientist, Phased Array Antenna System Validation",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Data Scientist, Phased Array Antenna System Validation at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10598770/data-scientist-phased-array-antenna-system-validation",
+    "job_posted_at": "2026-11-09T20:14:57.206Z",
+    "job_posted_at_datetime_utc": "2026-11-09T20:14:57.206Z",
+    "id": "amazon-data-scientist-phased-array-antenna-system-validation-redmond"
   },
   {
     "job_title": "Applied Scientist II, AWS Quick",
@@ -159,90 +170,310 @@
     "job_city": "New York",
     "job_state": "NY",
     "job_description": "Data Science job for the role Applied Scientist II, AWS Quick at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593922/applied-scientist-ii-aws-quick",
-    "job_posted_at": "2026-11-08T12:47:12.417Z",
-    "job_posted_at_datetime_utc": "2026-11-08T12:47:12.417Z",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/10593923/applied-scientist-ii-aws-quick",
+    "job_posted_at": "2026-11-08T20:14:57.207Z",
+    "job_posted_at_datetime_utc": "2026-11-08T20:14:57.207Z",
     "id": "amazon-applied-scientist-ii-aws-quick-new-york"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior Scaled Abuse Analyst",
-    "job_city": "San Bruno",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Software Automation Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "30 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Scaled Abuse Analyst, YouTube Traffic Abuse",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/122063411109339846-senior-scaled-abuse-analyst-youtube-traffic-abuse?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-scaled-abuse-analyst-san-bruno"
+    "job_description": "Data Science job for the role Staff Software Automation Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-software-automation-engineer/33099/103261874576",
+    "id": "arm-software-automation-engineer-cambridge"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Partnership Specialist",
-    "job_city": "Shenzhen",
-    "job_state": "China",
+    "job_title": "SoC Functional Safety and Cybersecurity Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Partnership Specialist at Shenzhen, China",
-    "job_apply_link": "https://careers.arm.com/job/shenzhen/senior-partnership-specialist/33099/100749234624",
-    "id": "arm-partnership-specialist-shenzhen"
+    "job_description": "Data Science job for the role SoC Functional Safety and Cybersecurity Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/soc-functional-safety-and-cybersecurity-manager/33099/103261871472",
+    "id": "arm-soc-functional-safety-and-cybersecurity-manager-austin"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Field Service Operations Manager — Data Center Division",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Field Service Operations Manager — Data Center Division at Available in one of 54 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049611/Field-Service-Operations-Manager-—-Data-Center-Division",
-    "id": "abb-field-service-operations-manager-data-center-division-multiple"
+    "employer_name": "IBM",
+    "job_title": "Confluent - Growth Marketing Manager (B2B SaaS)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Confluent - Growth Marketing Manager (B2B SaaS) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138823&source=WEB_Search_NA",
+    "id": "ibm-confluent-growth-marketing-manager-b2b-saas-multiple-cities"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Gas Insulated Switchgear Commissioning Engineer",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Gas Insulated Switchgear Commissioning Engineer at Available in one of 52 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049613/Gas-Insulated-Switchgear-Commissioning-Engineer",
-    "id": "abb-gas-insulated-switchgear-commissioning-engineer-multiple"
+    "employer_name": "IBM",
+    "job_title": "Applied AI Research Intern - R&D Internship – 2027 - YORKTOWN HEIGHTS",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Applied AI Research Intern - R&D Internship – 2027 - YORKTOWN HEIGHTS at InternshipYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=143000&source=WEB_Search_NA",
+    "id": "ibm-applied-ai-research-intern-r-d-internship-2027-yorktown-heights-yorktown-heights"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Force Measurement Sales Specialist - Midwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Force Measurement Sales Specialist - Midwest at Available in one of 5 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049757/Force-Measurement-Sales-Specialist-Midwest",
-    "id": "abb-force-measurement-sales-specialist-midwest-multiple"
+    "employer_name": "IBM",
+    "job_title": "Backend Software Developer TS/SCI (FSP)",
+    "job_city": "Annapolis Junction",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Backend Software Developer TS/SCI (FSP) at ProfessionalAnnapolis Junction, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142306&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-ts-sci-fsp-annapolis-junction"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Project Manager",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Project Manager at Available in one of 10 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00052524/Project-Manager",
-    "id": "abb-project-manager-multiple"
+    "employer_name": "IBM",
+    "job_title": "Backend Software Engineer TS/SCI (FSP)",
+    "job_city": "Annapolis Junction",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Backend Software Engineer TS/SCI (FSP) at ProfessionalAnnapolis Junction, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142307&source=WEB_Search_NA",
+    "id": "ibm-backend-software-engineer-ts-sci-fsp-annapolis-junction"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Sales Development Leader - Midwest",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 days ago",
-    "job_description": "Data Science job for the role Sales Development Leader - Midwest at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050993/Sales-Development-Leader-Midwest",
-    "id": "abb-sales-development-leader-midwest-multiple"
+    "employer_name": "IBM",
+    "job_title": "Systems Engineer TS/SCI (FSP)",
+    "job_city": "Annapolis Junction",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Systems Engineer TS/SCI (FSP) at ProfessionalAnnapolis Junction, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142305&source=WEB_Search_NA",
+    "id": "ibm-systems-engineer-ts-sci-fsp-annapolis-junction"
   },
   {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Project Specialist",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Center COE Project Specialist at Available in one of 11 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049608/Data-Center-COE-Project-Specialist",
-    "id": "abb-data-center-coe-project-specialist-multiple"
+    "employer_name": "IBM",
+    "job_title": "Confluent - Staff Software Engineer - Stream Governance",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Confluent - Staff Software Engineer - Stream Governance at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141142&source=WEB_Search_NA",
+    "id": "ibm-confluent-staff-software-engineer-stream-governance-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Consultant-SAP Public Cloud HANA SCM SD",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Consultant-SAP Public Cloud HANA SCM SD at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138185&source=WEB_Search_NA",
+    "id": "ibm-package-consultant-sap-public-cloud-hana-scm-sd-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Cloud Developer - Network Services",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Cloud Developer - Network Services at Entry LevelAustin, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139663&source=WEB_Search_NA",
+    "id": "ibm-entry-level-cloud-developer-network-services-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Pharmaceutical Manufacturing & Enterprise Technology Lead",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Pharmaceutical Manufacturing & Enterprise Technology Lead at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139284&source=WEB_Search_NA",
+    "id": "ibm-digital-pharmaceutical-manufacturing-enterprise-technology-lead-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing Strategy Consultant – Risk & Compliance",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing Strategy Consultant – Risk & Compliance at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142573&source=WEB_Search_NA",
+    "id": "ibm-managing-strategy-consultant-risk-compliance-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Azure Purview Architect",
+    "job_city": "Bethesda",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Azure Purview Architect at ProfessionalBethesda, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142629&source=WEB_Search_NA",
+    "id": "ibm-azure-purview-architect-bethesda"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Managing SAP MDG Lead",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Managing SAP MDG Lead at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141717&source=WEB_Search_NA",
+    "id": "ibm-managing-sap-mdg-lead-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP HANA ABAP Consultant/Lead",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP HANA ABAP Consultant/Lead at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139274&source=WEB_Search_NA",
+    "id": "ibm-sap-hana-abap-consultant-lead-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Full Stack Developer - IBM Quantum",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Full Stack Developer - IBM Quantum at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139664&source=WEB_Search_NA",
+    "id": "ibm-full-stack-developer-ibm-quantum-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Model Maker / Machinist",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Model Maker / Machinist at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=143187&source=WEB_Search_NA",
+    "id": "ibm-model-maker-machinist-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineering Manager -  Confluent - LATAM",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Solutions Engineering Manager -  Confluent - LATAM at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142293&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineering-manager-confluent-latam-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Engineer - Confluent",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Solutions Engineer - Confluent at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142062&source=WEB_Search_NA",
+    "id": "ibm-solutions-engineer-confluent-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Executive -  Confluent - SLED",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Executive -  Confluent - SLED at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141105&source=WEB_Search_NA",
+    "id": "ibm-account-executive-confluent-sled-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Talent Management Professional",
+    "job_city": "Raleigh",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Talent Management Professional at Entry LevelRaleigh, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141999&source=WEB_Search_NA",
+    "id": "ibm-talent-management-professional-raleigh"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Oracle Specialist –",
+    "job_city": "BATON ROUGE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Oracle Specialist – 2027 at Entry LevelBATON ROUGE, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141129&source=WEB_Search_NA",
+    "id": "ibm-associate-oracle-specialist-baton-rouge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Sales & Delivery Leader - Salesforce",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Sales & Delivery Leader - Salesforce at ProfessionalNo City, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142290&source=WEB_Search_NA",
+    "id": "ibm-business-sales-delivery-leader-salesforce-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy and Transformation Sr Management Consultant - Insurance",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategy and Transformation Sr Management Consultant - Insurance at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133937&source=WEB_Search_NA",
+    "id": "ibm-strategy-and-transformation-sr-management-consultant-insurance-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer-Different locations",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Software Developer-Different locations at Entry LevelMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=130369&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-different-locations-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Designer - Terraform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Designer - Terraform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138784&source=WEB_Search_NA",
+    "id": "ibm-product-designer-terraform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Representative-Greater Richmond Area",
+    "job_city": "Herndon",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Service Representative-Greater Richmond Area at ProfessionalHerndon, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134109&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-greater-richmond-area-herndon"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP S4/HANA EWM Consultant (Public Cloud)",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP S4/HANA EWM Consultant (Public Cloud) at ProfessionalDallas, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137709&source=WEB_Search_NA",
+    "id": "ibm-sap-s4-hana-ewm-consultant-public-cloud-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "US Critical Site Manager",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role US Critical Site Manager at ProfessionalNew York, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142319&source=WEB_Search_NA",
+    "id": "ibm-us-critical-site-manager-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IT Lab Tech Apprentice - Thermal",
+    "job_city": "HOPEWELL JUNCTION",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IT Lab Tech Apprentice - Thermal at InternshipHOPEWELL JUNCTION, US",
+    "job_apply_link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=140400&source=WEB_Search_NA",
+    "id": "ibm-it-lab-tech-apprentice-thermal-hopewell-junction"
   },
   {
     "employer_name": "ABB",
@@ -256,26 +487,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Country Corporate Counsel - US",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Country Corporate Counsel - US at Available in one of 37 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US",
-    "id": "abb-country-corporate-counsel-us-multiple"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Data Center COE Senior PLC Technician",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Center COE Senior PLC Technician at Available in one of 24 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00049348/Data-Center-COE-Senior-PLC-Technician",
-    "id": "abb-data-center-coe-senior-plc-technician-multiple"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Order-to-Delivery Business Lead",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -286,83 +497,83 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "Health, Safety & Environment Specialist",
-    "job_city": "Mebane",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Health, Safety & Environment Specialist at Mebane, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00052190/Health-Safety-Environment-Specialist",
-    "id": "abb-health-safety-environment-specialist-mebane"
+    "job_title": "Commercial Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Commercial Proposal Engineer at Available in one of 172 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00033942/Commercial-Proposal-Engineer",
+    "id": "abb-commercial-proposal-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "AI Engineering, ERP Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Engineering, ERP Intern- Summer 2027 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048711/AI-Engineering-ERP-Intern-Summer-2027",
-    "id": "abb-ai-engineering-erp-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "AI Engineering, Business Systems Intern- Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Engineering, Business Systems Intern- Summer 2027 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00048714/AI-Engineering-Business-Systems-Intern-Summer-2027",
-    "id": "abb-ai-engineering-business-systems-intern-summer-cary"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Sales Excellence Data Analytics Intern - Summer",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
+    "job_title": "Pharmaceutical/Biotechnology Segment Leader",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Sales Excellence Data Analytics Intern - Summer 2027 at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050987/Sales-Excellence-Data-Analytics-Intern-Summer-2027",
-    "id": "abb-sales-excellence-data-analytics-intern-summer-cary"
+    "job_description": "Data Science job for the role Pharmaceutical/Biotechnology Segment Leader at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader",
+    "id": "abb-pharmaceutical-biotechnology-segment-leader-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "PIM Senior Admin",
+    "job_title": "Strategic Segment Proposal Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Strategic Segment Proposal Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035950/Strategic-Segment-Proposal-Engineer",
+    "id": "abb-strategic-segment-proposal-engineer-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Electrical Engineer",
     "job_city": "Multiple",
     "job_state": "Various",
     "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role PIM Senior Admin at Available in one of 7 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050946/PIM-Senior-Admin",
-    "id": "abb-pim-senior-admin-multiple"
+    "job_description": "Data Science job for the role Quality Electrical Engineer at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050046/Quality-Electrical-Engineer",
+    "id": "abb-quality-electrical-engineer-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "IS Applications Associate",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
+    "job_title": "Senior Technical Business Developer – Sub-transmission Products",
+    "job_city": "Multiple",
+    "job_state": "Various",
     "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role IS Applications Associate at Cary, North Carolina, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00050264/IS-Applications-Associate",
-    "id": "abb-is-applications-associate-cary"
+    "job_description": "Data Science job for the role Senior Technical Business Developer – Sub-transmission Products at Available in one of 183 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00039388/Senior-Technical-Business-Developer-Sub-transmission-Products",
+    "id": "abb-senior-technical-business-developer-sub-transmission-products-multiple"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Product Specialist",
-    "job_city": "Saint-Jean-sur-Richelieu",
-    "job_state": "Quebec",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Specialist at Saint-Jean-sur-Richelieu, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00053331/Product-Specialist",
-    "id": "abb-product-specialist-saint-jean-sur-richelieu"
+    "job_title": "Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Field Service Technician at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00046976/Field-Service-Technician",
+    "id": "abb-field-service-technician-remote"
   },
   {
     "employer_name": "ABB",
-    "job_title": "Quality Specialist - SDS (Space & Defense) Projects",
-    "job_city": "Quebec",
-    "job_state": "Quebec",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Quality Specialist - SDS (Space & Defense) Projects at Quebec, Quebec, Canada",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Quality-Specialist-SDS-Space-Defense-Projects",
-    "id": "abb-quality-specialist-sds-space-defense-projects-quebec"
+    "job_title": "Senior Field Service Technician (West Region)",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician (West Region) at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00045452/Senior-Field-Service-Technician-West-Region",
+    "id": "abb-senior-field-service-technician-west-region-remote"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Field Service Technician",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Senior Field Service Technician at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048313/Senior-Field-Service-Technician",
+    "id": "abb-senior-field-service-technician-multiple"
   },
   {
     "employer_name": "ABB",
@@ -393,6 +604,26 @@
     "job_description": "Data Science job for the role Senior Software Engineer – Agentic AI at Krakow, Lesser Poland, Poland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00046197/Senior-Software-Engineer-Agentic-AI",
     "id": "abb-senior-software-engineer-agentic-ai-krakow"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Engineering, ERP Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role AI Engineering, ERP Intern- Summer 2027 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048711/AI-Engineering-ERP-Intern-Summer-2027",
+    "id": "abb-ai-engineering-erp-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI Engineering, Business Systems Intern- Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role AI Engineering, Business Systems Intern- Summer 2027 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00048714/AI-Engineering-Business-Systems-Intern-Summer-2027",
+    "id": "abb-ai-engineering-business-systems-intern-summer-cary"
   },
   {
     "employer_name": "ABB",
@@ -446,6 +677,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Sales Excellence Data Analytics Intern - Summer",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Sales Excellence Data Analytics Intern - Summer 2027 at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050987/Sales-Excellence-Data-Analytics-Intern-Summer-2027",
+    "id": "abb-sales-excellence-data-analytics-intern-summer-cary"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Project manager for Engineering /Sustainability portfolio",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Project manager for Engineering /Sustainability portfolio at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052576/Project-manager-for-Engineering-Sustainability-portfolio",
+    "id": "abb-project-manager-for-engineering-sustainability-portfolio-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "(Senior) Scientist (m/f/d) – Industrial Perception AI (80 – 100%)",
     "job_city": "Mannheim",
     "job_state": "Baden-Wurttemberg",
@@ -453,6 +704,16 @@
     "job_description": "Data Science job for the role (Senior) Scientist (m/f/d) – Industrial Perception AI (80 – 100%) at Mannheim, Baden-Wurttemberg, Germany",
     "job_apply_link": "https://careers.abb/global/en/job/JR00051434/-Senior-Scientist-m-f-d-Industrial-Perception-AI-80-100",
     "id": "abb-senior-scientist-m-f-d-industrial-perception-ai-80-100-mannheim"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Specialist - SDS (Space & Defense) Projects",
+    "job_city": "Quebec",
+    "job_state": "Quebec",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Quality Specialist - SDS (Space & Defense) Projects at Quebec, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036079/Quality-Specialist-SDS-Space-Defense-Projects",
+    "id": "abb-quality-specialist-sds-space-defense-projects-quebec"
   },
   {
     "employer_name": "ABB",
@@ -486,13 +747,13 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking",
-    "job_city": "Mannheim",
-    "job_state": "Baden-Wurttemberg",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking at Mannheim, Baden-Wurttemberg, Germany",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00043251/MSc-or-BSc-Thesis-Internship-m-f-d-AI-for-Intent-Based-Networking",
-    "id": "abb-msc-or-bsc-thesis-internship-m-f-d-ai-for-intent-based-networking-mannheim"
+    "job_title": "PIM Senior Admin",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role PIM Senior Admin at Available in one of 7 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050946/PIM-Senior-Admin",
+    "id": "abb-pim-senior-admin-multiple"
   },
   {
     "employer_name": "ABB",
@@ -503,6 +764,16 @@
     "job_description": "Data Science job for the role LEAD DATA ENGINEERING, INTEGRATION & GOVERNANCE at Bergamo, Bergamo, Italy",
     "job_apply_link": "https://careers.abb/global/en/job/JR00040783/LEAD-DATA-ENGINEERING-INTEGRATION-GOVERNANCE",
     "id": "abb-lead-data-engineering-integration-governance-bergamo"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking",
+    "job_city": "Mannheim",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking at Mannheim, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00043251/MSc-or-BSc-Thesis-Internship-m-f-d-AI-for-Intent-Based-Networking",
+    "id": "abb-msc-or-bsc-thesis-internship-m-f-d-ai-for-intent-based-networking-mannheim"
   },
   {
     "employer_name": "ABB",
@@ -606,6 +877,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Product Specialist",
+    "job_city": "Saint-Jean-sur-Richelieu",
+    "job_state": "Quebec",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Product Specialist at Saint-Jean-sur-Richelieu, Quebec, Canada",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00053331/Product-Specialist",
+    "id": "abb-product-specialist-saint-jean-sur-richelieu"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Sales engineer（EU）",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -636,16 +917,6 @@
   },
   {
     "employer_name": "ABB",
-    "job_title": "R&D Testing & laboratory specialist",
-    "job_city": "Milano",
-    "job_state": "Milano",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role R&D Testing & laboratory specialist at Milano, Milano, Italy",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00052981/R-D-Testing-laboratory-specialist",
-    "id": "abb-r-d-testing-laboratory-specialist-milano"
-  },
-  {
-    "employer_name": "ABB",
     "job_title": "Modelling and Experimental scientist  80 - 100% (f/m/d)",
     "job_city": "Baden-Daettwil",
     "job_state": "Aargau",
@@ -653,6 +924,16 @@
     "job_description": "Data Science job for the role Modelling and Experimental scientist  80 - 100% (f/m/d) at Baden-Daettwil, Aargau, Switzerland",
     "job_apply_link": "https://careers.abb/global/en/job/JR00049886/Modelling-and-Experimental-scientist-80-100-f-m-d",
     "id": "abb-modelling-and-experimental-scientist-80-100-f-m-d-baden-daettwil"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Testing & laboratory specialist",
+    "job_city": "Milano",
+    "job_state": "Milano",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role R&D Testing & laboratory specialist at Milano, Milano, Italy",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052981/R-D-Testing-laboratory-specialist",
+    "id": "abb-r-d-testing-laboratory-specialist-milano"
   },
   {
     "employer_name": "ABB",
@@ -726,6 +1007,26 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "Global Product Manager – Physical AI Engineering & Simulation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Global Product Manager – Physical AI Engineering & Simulation at Available in one of 3 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052150/Global-Product-Manager-Physical-AI-Engineering-Simulation",
+    "id": "abb-global-product-manager-physical-ai-engineering-simulation-multiple"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Applications Associate",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IS Applications Associate at Cary, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00050264/IS-Applications-Associate",
+    "id": "abb-is-applications-associate-cary"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "IS Technology Specialist",
     "job_city": "Multiple",
     "job_state": "Various",
@@ -746,6 +1047,16 @@
   },
   {
     "employer_name": "ABB",
+    "job_title": "SAP SD Functional Analyst",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role SAP SD Functional Analyst at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00036845/SAP-SD-Functional-Analyst",
+    "id": "abb-sap-sd-functional-analyst-multiple"
+  },
+  {
+    "employer_name": "ABB",
     "job_title": "Manufacturing Systems Engineer – Applications Specialist",
     "job_city": "Stonehouse",
     "job_state": "Gloucestershire",
@@ -753,6 +1064,36 @@
     "job_description": "Data Science job for the role Manufacturing Systems Engineer – Applications Specialist at Stonehouse, Gloucestershire, United Kingdom",
     "job_apply_link": "https://careers.abb/global/en/job/JR00036050/Manufacturing-Systems-Engineer-Applications-Specialist",
     "id": "abb-manufacturing-systems-engineer-applications-specialist-stonehouse"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Business Process Manager - Ecommerce and Digitalization Tools",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Business Process Manager - Ecommerce and Digitalization Tools at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00042907/Business-Process-Manager-Ecommerce-and-Digitalization-Tools",
+    "id": "abb-business-process-manager-ecommerce-and-digitalization-tools-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Health, Safety & Environment Specialist",
+    "job_city": "Mebane",
+    "job_state": "North Carolina",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Health, Safety & Environment Specialist at Mebane, North Carolina, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00052190/Health-Safety-Environment-Specialist",
+    "id": "abb-health-safety-environment-specialist-mebane"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Solutions Manager – Life Sciences",
+    "job_city": "Remote",
+    "job_state": "United States of America",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Technical Solutions Manager – Life Sciences at Remote, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00035590/Technical-Solutions-Manager-Life-Sciences",
+    "id": "abb-technical-solutions-manager-life-sciences-remote"
   },
   {
     "employer_name": "ANALOG DEVICES",
@@ -985,23 +1326,13 @@
     "id": "analog-devices-cloud-security-engineer-healthcare-platform-us"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Engineer, ATE Test Engineering - Customer Engineering Solutions",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted 2 Days Ago",
-    "job_description": "Data Science job for the role Principal Engineer, ATE Test Engineering - Customer Engineering Solutions at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Principal-TE-Customer-Engineering-Solutions_2605312?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-engineer-ate-test-engineering-customer-engineering-solutions-2-locations"
-  },
-  {
-    "employer_name": "MARVELL",
-    "job_title": "Package Development, Signal Integrity and Power Integrity Engineer, Principal",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted 3 Days Ago",
-    "job_description": "Data Science job for the role Package Development, Signal Integrity and Power Integrity Engineer, Principal at 2 Locations",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Package-Development--Signal-Integrity-and-Power-Integrity-Engineer--Principal_2605038?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-package-development-signal-integrity-and-power-integrity-engineer-principal-2-locations"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "DevOps Co-Op",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role DevOps Co-Op at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/DevOps-Co-Op_R267690?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-devops-co-op-us"
   }
 ]
